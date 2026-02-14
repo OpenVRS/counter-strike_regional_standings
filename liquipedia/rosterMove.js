@@ -128,7 +128,7 @@ function run()
     let roster1 = sortCaseInsensitive( bestRankedTeam.players.map( el=> el.nick ) ).join(', ');
     let roster2 = sortCaseInsensitive( bestRankedTeam2.players.map( el=> el.nick ) ).join(', ');
 
-    console.log("VRS ForkMaster 4000 - Powered by Dennys");
+    console.log("VRS Fork Sim");
     console.log(`Team pre change: ${bestRankedTeam.name} - Rank: ${bestRankedTeam.globalRank} - Points: ${bestRankedTeam.rankValue.toFixed(1)} - Roster: ${roster1}`);
     console.log(`Team post change: ${bestRankedTeam2.name} - Rank: ${bestRankedTeam2.globalRank} - Points: ${bestRankedTeam2.rankValue.toFixed(1)} - Roster: ${roster2}`);
 
