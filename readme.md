@@ -1,43 +1,37 @@
-Teams play meaningful matches in third-party events throughout the year. To reduce the burden on Major participants and streamline the Major qualification process, we’re going to leverage those match results to identify teams that should be invited to later qualification stages. 
+## Purpose
 
-Our goals for the resulting Regional Standings are that they are accurate, not easily gamed, and have a transparent process.
+Valve's Regional Standings is an open source model available [here](https://github.com/ValveSoftware/counter-strike_regional_standings) which is used to rank teams based on played meaningful matches and these rankings are used for invitations to ranked events.
 
-## Regional Standings
+While the model is open sourced, it currently isn't possible to utilise the model. The supplied `data/matchdata_sample_20230829.json` no longer runs with the current model and will return an error. Additionally, there has been no updates to sample matchdata and there is no easy way to publicly obtain this data without breaching ToS. VRS uses HLTV as a data source and this data is not publicly accessible. This repository aims to to create an easy and accessible way to replicate the `data/matchdata.json` as close as possible to the true source (HLTV). The data is collected from the [LiquipediaDB](https://liquipedia.net/api) and modifications are made automatically & manually to align it with HLTV's event splitting format as well as modifcations to account for any discrepancies in data handling. Match data samples can be found in the [data folder](data/)
 
-We will use the Regional Standings to invite teams in future events, so the ideal model is one that predicts future match results. To that end, the current model incorporates the following factors:
-
-1.	Team’s
-    -	Prize money earned
-2.	Beaten opponent’s
-    -	Prize money earned
-    - 	Number of teams beaten
-3.	Head-to-head results
-
-We know you’re interested in more details. In the coming weeks, this repository will host the actual code used to generate the standings along with a sample dataset.
-
-## Invitations
-
-We will update the standings periodically up until the open qualifiers. These final standings will determine which teams get invited to the closed qualifiers. All other teams will need to compete in the open qualifiers to secure their spot.
-
-The current standings can be found here:
--   [Europe](standings_europe.md)
--   [Americas](standings_americas.md)
--   [Asia](standings_asia.md)
-
-## Evaluating the Model.
-
-The approach we’re taking to evaluate the accuracy of our model is to measure the relationship between the expected and observed win rates in matches.
-
-We run through each week of matches in our dataset and assign point values to the teams using the preceding week’s Regional Standings. Using the difference in point values, each match is then assigned an expected win rate. We break those win rates down into 5% bins, and then measure the actual win rates for matches that fall within each bin.
-
-Here’s how the expected vs. observed win rates look when we go through this process with the current model:
-
-<img src="modelfit.png"/>
+These rankings are **unofficial**. While they attempt to be as close as possible, official invite lists can be found in the official VRS repo [here](https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main/invitation)
  
-There’s a strong relationship between expected and observed win rates. The correlation between the two (Spearman’s rho in this case) is 0.98. But the slope is shallower than we’d like--in an ideal world, the slope of this line would be closer to 1. The current model tends to underestimate win rates at the low end and overestimate at the high end. 
+Any observed errors with the dataset, please submit a pull request to the most recent match data sample.
 
-We think this is a good starting point. 
+## How to run
 
-## Updating and Improving the Model
+### Requirements
 
-The model we’re shipping today is the one we will use through the next Major. We’re going to keep experimenting, and we think you should too. After we ship the code and data in this repository, feel free to tinker and make something new. As long as your model does well and fits our goals, we’d be happy to consider it.
+- [NodeJS](https://nodejs.org/en/about/previous-releases) (v22.19.0 was used in this project)
+
+- npm - Download NodeJS with npm above
+
+1. Register for a LiquipediaDB Free Plan API key [here](https://liquipedia.net/api)
+
+2. Add your API key to the `.env`
+
+3. `npm install`
+
+4. Rename the most recent matchdata_sample_*.json to matchdata.json 
+
+5. (Optional) `cd liquipedia` -> `node update.js` - This will update your matchdata.json to the most recent available data without waiting for a new sample.
+
+6. (Optional) If you have updated the matchdata, you can find a list of changed events within `data/updated_events.json`. Events must have the same splitting structure HLTV use, i.e Blast Bounty Stage 1 and Blast Bounty Finals. This tool should typically align to HLTV's structure but occassionally manual modification must be made, and then the old adjusted event added to the blocked list within `liquipedia/blocked.json`. Liquipedia also does not account for clubShare, so this must be added manually into the matchdata.json for Tier 1 events.
+
+7. `cd model` -> `node main.js` - This will generate the rankings using the Liquipedia supplied matchdata. You can adjust the output directory within `model/report.js`
+
+
+Further functions to follow.
+
+
+Contact: mischief@nuselo.uk / mischiefcs on discord

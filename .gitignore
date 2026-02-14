@@ -4,3 +4,8 @@
 /data/*
 !/data/matchdata_sample*
 /tools
+.env
+node_modules/
+!liquipedia/blocked.json
+!package.json
+!package-lock.json

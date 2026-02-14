@@ -26,19 +26,7 @@ function generateOutput( teams, regions = [0,1,2], strDate ){
 
     let fileDate = strDate.replaceAll('-','_');
     let year = fileDate.slice(0,4);
-    let dayOfMonth = Number( strDate.slice(-2) );
-    let invitationFolder = `../invitation/${year}/`;  
-    let liveFolder= `../live/${year}/`
-
-    if ( dayOfMonth < 8 ) {                  
-        if ( !fs.existsSync( invitationFolder + `${ summaryFolder }${ fileDate }/` ) )
-            fs.mkdirSync( ( invitationFolder + `${ summaryFolder }${ fileDate }/`), { recursive: true } );
-        
-        fs.writeFileSync( `${invitationFolder}standings_global_${ fileDate }${ format }`, displayRankings( teams, [0,1,2], strDate ) );
-        fs.writeFileSync( `${invitationFolder}standings_europe_${ fileDate }${ format }`, displayRankings( teams, [0], strDate ) );
-        fs.writeFileSync( `${invitationFolder}standings_americas_${ fileDate }${ format }`, displayRankings( teams, [1], strDate ) );
-        fs.writeFileSync( `${invitationFolder}standings_asia_${ fileDate }${ format }`, displayRankings( teams, [2], strDate ) );
-    }
+    let liveFolder= `../liquipedia/live/${year}/`; //change liquipedia to wherever you want to output the data too.
 
     if ( !fs.existsSync( liveFolder + `${ summaryFolder }${ fileDate }/` ) )
         fs.mkdirSync( (liveFolder + `${ summaryFolder }${ fileDate }/`), { recursive: true } );
@@ -55,10 +43,6 @@ function generateOutput( teams, regions = [0,1,2], strDate ){
             t.filename =  `${ summaryFolder }${ fileDate }/${ paddedRank }--${ sanitize( t.name ) }--${ sanitizeRoster( t.activeRoster ) }${ format }`;
             
             fs.writeFileSync( `${ liveFolder }${ t.filename }`, displayTeamRankingSummary( t, teams, strDate ) );
-
-            if ( dayOfMonth < 8 ) {
-                fs.writeFileSync( `${ invitationFolder }${ t.filename }`, displayTeamRankingSummary( t, teams, strDate ) );
-            }
         }
     });    
 }
