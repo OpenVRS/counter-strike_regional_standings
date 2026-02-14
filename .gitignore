@@ -9,3 +9,4 @@ node_modules/
 !liquipedia/blocked.json
 !package.json
 !package-lock.json
+deprecated/

@@ -22,6 +22,28 @@ function formatLine( line, newline = false ){
     return output;
 };
 
+function teamsGen( teams ) {
+    const teamData = teams
+        .map(team => ({
+            name: team.name,
+            team_id: team.teamId,
+            globalRank: team.globalRank,
+
+            players: (team.players || []).map((player, index) => ({
+                id: index + 1,
+                player_id: player.playerId,
+                nick: player.nick,
+                country: player.countryIso
+            }))
+        }))
+        .sort((a, b) => a.globalRank - b.globalRank);
+
+    fs.writeFileSync(
+        `../liquipedia/teams.json`,
+        JSON.stringify(teamData, null, 2)
+    );
+}
+
 function generateOutput( teams, regions = [0,1,2], strDate ){
 
     let fileDate = strDate.replaceAll('-','_');
@@ -35,6 +57,8 @@ function generateOutput( teams, regions = [0,1,2], strDate ){
     fs.writeFileSync( `${ liveFolder }standings_europe_${ fileDate }${ format }`, displayRankings( teams, [0], strDate ) );
     fs.writeFileSync( `${ liveFolder }standings_americas_${ fileDate }${ format }`, displayRankings( teams, [1], strDate ) );
     fs.writeFileSync( `${ liveFolder }standings_asia_${ fileDate }${ format }`, displayRankings( teams, [2], strDate ) );
+
+    teamsGen( teams );
 
     teams.forEach( t => {
         if (t.globalRank > 0 ){

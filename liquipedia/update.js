@@ -21,6 +21,7 @@ const HEADERS = {
 const API_MATCH = "https://api.liquipedia.net/api/v3/match";
 const API_PLACEMENT = "https://api.liquipedia.net/api/v3/placement";
 const API_TOURNAMENT = "https://api.liquipedia.net/api/v3/tournament";
+const DEFAULT_IMAGE = "https://liquipedia.net/commons/images/thumb/d/da/Counter-Strike_2_default_darkmode.png/373px-Counter-Strike_2_default_darkmode.png";
 
 const today = new Date();
 const lastYear = new Date(today);
@@ -87,8 +88,10 @@ function formatMatch(match) {
       Math.floor(new Date(match.date).getTime() / 1000),
     team1Id: team1?.template,
     team1Name: team1?.name,
+    team1Image: team1?.teamtemplate?.imagedarkurl || DEFAULT_IMAGE,
     team2Id: team2?.template,
     team2Name: team2?.name,
+    team2Image: team2?.teamtemplate?.imagedarkurl || DEFAULT_IMAGE,
     team1Players: formatPlayers(team1?.match2players || []),
     team2Players: formatPlayers(team2?.match2players || []),
     eventId: match.pageid,

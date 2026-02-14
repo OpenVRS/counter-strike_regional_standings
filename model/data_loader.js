@@ -109,7 +109,7 @@ class Event {
 function initTeams( matches, events, rankingContext ) {
     let teams = [];
 
-    function insertTeam( name, players, isForfeitMatch ) {
+    function insertTeam( name, players, isForfeitMatch, teamId, teamImage ) {
 
         let team = teams.find( team => team.sharesRoster(players) );
         if( team !== undefined ){
@@ -117,13 +117,15 @@ function initTeams( matches, events, rankingContext ) {
                 team.name = name;
                 team.players = players;
                 team.isPendingUpdate = isForfeitMatch;
+                team.teamId = teamId;
+                team.teamImage = teamImage;
             }
             
             return team;            
         }
 
         let rosterId = teams.length;
-        team = new Team( rosterId, name, players, isForfeitMatch );
+        team = new Team( rosterId, name, players, isForfeitMatch, teamId, teamImage );
         teams.push( team );
         return team;
     }
@@ -131,8 +133,8 @@ function initTeams( matches, events, rankingContext ) {
     matches.forEach( (match, idx) => {
         match.umid = idx;
 
-        match.team1 = insertTeam( match.team1Name, match.team1Players, match.forfeited );
-        match.team2 = insertTeam( match.team2Name, match.team2Players, match.forfeited );
+        match.team1 = insertTeam( match.team1Name, match.team1Players, match.forfeited, match.team1Id, match.team1Image );
+        match.team2 = insertTeam( match.team2Name, match.team2Players, match.forfeited, match.team2Id, match.team2Image );
 
         match.team1.accumulateMatch( match );
         match.team2.accumulateMatch( match );
