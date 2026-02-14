@@ -1,0 +1,25 @@
+{
+    "eventId": "testEvent",
+    "eventPage": "testEvent",
+    "parent": "testEvent",
+    "eventName": "testEvent",
+    "prizePool": "$1",
+    "lan": false,
+    "location": "",
+    "valveRanked": true,
+    "finished": true,
+    "fmt": 0,
+    "lmt": 0,
+    "prizeDistribution": [
+    {
+        "placement": "2",
+        "teamId": "epiclan",
+        "prize": 0,
+        "clubShare": 0,
+        "shared": true,
+        "progress": false,
+        "qualifiedEvents": []
+    }
+    ],
+    "tier": "Tier 2"
+}

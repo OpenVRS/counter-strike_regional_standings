@@ -1,0 +1,67 @@
+{
+    "matchStartTime": -1,
+    "team1Id": "epiclan",
+    "team1Name": "EPICLAN",
+    "team1Players": [
+        {
+            "playerId": "DuckMoriarty",
+            "nick": "wfn",
+            "country": "United Kingdom",
+            "countryIso": "GB",
+            "steamIds": []
+        },
+        {
+            "playerId": "TomFatal",
+            "nick": "moz",
+            "country": "United Kingdom",
+            "countryIso": "GB",
+            "steamIds": []
+        },
+        {
+            "playerId": "PeriGumpster",
+            "nick": "Wolfie",
+            "country": "United Kingdom",
+            "countryIso": "GB",
+            "steamIds": []
+        },
+        {
+            "playerId": "Geo",
+            "nick": "Dutchy",
+            "country": "United Kingdom",
+            "countryIso": "GB",
+            "steamIds": []
+        },
+        {
+            "playerId": "Elix",
+            "nick": "Cher1on",
+            "country": "United Kingdom",
+            "countryIso": "GB",
+            "steamIds": []
+        }
+    ],
+    "eventId": "testEvent",
+    "pagename": "testEvent",
+    "matchId": "testEvent_1",
+    "parentEventPage": "testEvent",
+    "maps": [
+    {
+        "mapName": "overpass",
+        "team1Score": 13,
+        "team2Score": 7
+    },
+    {
+        "mapName": "mirage",
+        "team1Score": 7,
+        "team2Score": 13
+    },
+    {
+        "mapName": "train",
+        "team1Score": 16,
+        "team2Score": 14
+    }
+    ],
+    "winningTeam": 2,
+    "forfeited": false,
+    "valveRanked": true,
+    "lan": false
+}

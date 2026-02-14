@@ -1,0 +1,16 @@
+{
+    "team2Players": [
+        {
+            "playerIndex": 1,
+            "playerId": "replacedBy",
+            "nick": "player nick",
+            "countryIso": "replacingCountry"
+        },
+        {
+            "playerIndex": 2,
+            "playerId": "replacedBy2",
+            "nick": "player nick",
+            "countryIso": "replacingCountry2"
+        }
+    ]
+}

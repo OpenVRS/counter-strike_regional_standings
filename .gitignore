@@ -10,3 +10,5 @@ node_modules/
 !package.json
 !package-lock.json
 deprecated/
+!/liquipedia/tools/*
+!/liquipedia/tools/json/*
