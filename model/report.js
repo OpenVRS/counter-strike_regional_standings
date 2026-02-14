@@ -65,7 +65,9 @@ function generateOutput( teams, regions = [0,1,2], strDate, simOn ){
     fs.writeFileSync( `${ liveFolder }standings_americas_${ fileDate }${ format }`, displayRankings( teams, [1], strDate ) );
     fs.writeFileSync( `${ liveFolder }standings_asia_${ fileDate }${ format }`, displayRankings( teams, [2], strDate ) );
 
-    teamsGen( teams );
+    if(!simOn) {
+        teamsGen( teams );
+    }
 
     teams.forEach( t => {
         if (t.globalRank > 0 ){

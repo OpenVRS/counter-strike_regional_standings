@@ -20,6 +20,79 @@ function sortCaseInsensitive( list ){
     });
 }
 
+function serializeTeam(team) {
+    return {
+        name: team.name,
+        teamId: team.teamId,
+        teamImage: team.teamImage,
+
+        globalRank: team.globalRank,
+        regionalRank: team.regionalRank,
+        region: team.region,
+
+        rankValue: team.rankValue,
+        rankValueSeed: team.rankValueSeed,
+        seedValue: team.seedValue,
+
+        matchesPlayed: team.matchesPlayed,
+        scaledWinnings: team.scaledWinnings,
+
+        modifiers: {
+            bountyOffered: team.modifiers?.bountyOffered,
+            bountyCollected: team.modifiers?.bountyCollected,
+            opponentNetwork: team.modifiers?.opponentNetwork,
+            lanFactor: team.modifiers?.lanFactor
+        },
+
+        players: (team.players || []).map((p, i) => ({
+            playerIndex: i + 1,
+            playerId: p.playerId,
+            nick: p.nick,
+            countryIso: p.countryIso,
+            totalMatches: p.totalMatches
+        })),
+
+        winnings: (team.winnings || []).map(w => ({
+            eventTime: w.eventTime,
+            ageWeight: w.age,
+            base: w.base,
+            val: w.val
+        })),
+
+        bounties: (team.bounties || []).map(b => ({
+            id: b.id,
+            base: b.base,
+            val: b.val,
+            eventWeight: b.context
+        })),
+
+        network: (team.network || []).map(n => ({
+            id: n.id,
+            base: n.base,
+            val: n.val,
+            eventWeight: n.context
+        })),
+
+        lanWins: (team.lanWins || []).map(l => ({
+            id: l.id,
+            base: l.base,
+            val: l.val
+        })),
+
+        recentMatches: (team.teamMatches || []).map(tm => ({
+            matchId: tm.match?.umid,
+            opponent: tm.opponent?.name,
+            isWinner: tm.isWinner,
+            matchStartTime: tm.match?.matchStartTime,
+            informationContent: tm.match?.informationContent,
+            h2hDelta:
+                tm.isWinner
+                    ? tm.match?.winnerDeltaRankValue
+                    : tm.match?.loserDeltaRankValue
+        }))
+    };
+}
+
 async function run(insertedTeamId = null, options = {}) {
     const rosterMode = process.env.MODE || options.mode || "default";
     const teamId = insertedTeamId || chosenTeamId;
@@ -61,7 +134,15 @@ async function run(insertedTeamId = null, options = {}) {
     // load sim data
     const testEvent = JSON.parse(fs.readFileSync(path.resolve(__dirname, "./tools/json/testEvent.json")));
     const testMatch = JSON.parse(fs.readFileSync(path.resolve(__dirname, "./tools/json/testMatch.json")));
-    const replacements = JSON.parse(fs.readFileSync(path.resolve(__dirname, "./tools/replaceTeam.json")));
+
+    let replacements = { team2Players: [] };
+
+    if (rosterMode === "return" && Array.isArray(options.players)) {
+        replacements.team2Players = options.players;
+    } else {
+        // fallback or local run
+        replacements = JSON.parse(fs.readFileSync(path.resolve(__dirname, "./tools/replaceTeam.json")));
+    }
 
     testEvent.prizeDistribution.push({
         placement: "1",
@@ -158,9 +239,8 @@ async function run(insertedTeamId = null, options = {}) {
         Report.generateOutput( teams2, regions, strDate, true );
     } else {
         return {
-            status: "success",
-            preChange: bestRankedTeam,
-            postChange: bestRankedTeam2
+            preChange: serializeTeam(bestRankedTeam),
+            postChange: serializeTeam(bestRankedTeam2)
         };
     }
 }
