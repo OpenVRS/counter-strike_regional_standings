@@ -37,7 +37,7 @@ class Team {
     static TeamMatch = TeamMatch;
     static TeamEvent = TeamEvent;
 
-    constructor( rosterId, name, players, isPendingUpdate, teamId ) {
+    constructor( rosterId, name, players, isPendingUpdate, teamId, teamImage ) {
         this.rosterId = rosterId;
         this.name = name;
         this.teamId = teamId;
