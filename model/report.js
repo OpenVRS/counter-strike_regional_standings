@@ -27,6 +27,7 @@ function teamsGen( teams ) {
         .map(team => ({
             name: team.name,
             team_id: team.teamId,
+            team_image: team.teamImage,
             globalRank: team.globalRank,
 
             players: (team.players || []).map((player, index) => ({
@@ -44,11 +45,17 @@ function teamsGen( teams ) {
     );
 }
 
-function generateOutput( teams, regions = [0,1,2], strDate ){
+function generateOutput( teams, regions = [0,1,2], strDate, simOn ){
 
     let fileDate = strDate.replaceAll('-','_');
     let year = fileDate.slice(0,4);
-    let liveFolder= `../liquipedia/live/${year}/`; //change liquipedia to wherever you want to output the data too.
+    let liveFolder;
+    if(simOn) {
+        const timestamp = Math.floor(Date.now() / 1000);
+        liveFolder= `../liquipedia/sims/${timestamp}/`; 
+    } else {
+        liveFolder= `../liquipedia/live/${year}/`; //change liquipedia to wherever you want to output the data too.
+    }
 
     if ( !fs.existsSync( liveFolder + `${ summaryFolder }${ fileDate }/` ) )
         fs.mkdirSync( (liveFolder + `${ summaryFolder }${ fileDate }/`), { recursive: true } );

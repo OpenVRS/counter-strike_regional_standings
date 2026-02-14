@@ -12,3 +12,4 @@ node_modules/
 deprecated/
 !/liquipedia/tools/*
 !/liquipedia/tools/json/*
+test*
