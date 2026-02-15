@@ -21,6 +21,17 @@ function sortCaseInsensitive( list ){
 }
 
 function serializeTeam(team) {
+    const bountyMap = Object.fromEntries(
+        (team.bounties || []).map(b => [b.id, b])
+    );
+
+    const networkMap = Object.fromEntries(
+        (team.network || []).map(n => [n.id, n])
+    );
+
+    const lanWinMap = Object.fromEntries(
+        (team.lanWins || []).map(l => [l.id, l])
+    );
     return {
         name: team.name,
         teamId: team.teamId,
@@ -79,17 +90,47 @@ function serializeTeam(team) {
             val: l.val
         })),
 
-        recentMatches: (team.teamMatches || []).map(tm => ({
-            matchId: tm.match?.umid,
-            opponent: tm.opponent?.name,
-            isWinner: tm.isWinner,
-            matchStartTime: tm.match?.matchStartTime,
-            informationContent: tm.match?.informationContent,
-            h2hDelta:
-                tm.isWinner
+        matches: (team.teamMatches || []).map(tm => {
+            const umid = tm.match?.umid;
+
+            const bountyEl = bountyMap[umid];
+            const netEl = networkMap[umid];
+            const lanWinEl = lanWinMap[umid];
+
+            return {
+                matchId: umid,
+                opponent: tm.opponent?.name,
+                isWinner: tm.isWinner,
+                matchStartTime: tm.match?.matchStartTime,
+                informationContent: tm.match?.informationContent,
+
+                h2hDelta: tm.isWinner
                     ? tm.match?.winnerDeltaRankValue
-                    : tm.match?.loserDeltaRankValue
-        }))
+                    : tm.match?.loserDeltaRankValue,
+
+                glickoAdjustment: (
+                    tm.isWinner
+                        ? tm.match?.winnerDeltaRankValue
+                        : tm.match?.loserDeltaRankValue
+                )?.toFixed(3),
+
+                bounty: bountyEl
+                    ? `${bountyEl.base.toFixed(3)} (${bountyEl.val.toFixed(3)})`
+                    : null,
+
+                network: netEl
+                    ? `${netEl.base.toFixed(3)} (${netEl.val.toFixed(3)})`
+                    : null,
+
+                lanWin: lanWinEl
+                    ? `${lanWinEl.base} (${lanWinEl.val.toFixed(3)})`
+                    : null,
+
+                eventWeight: bountyEl?.context?.toFixed(3)
+                    || netEl?.context?.toFixed(3)
+                    || null
+            };
+        })
     };
 }
 
