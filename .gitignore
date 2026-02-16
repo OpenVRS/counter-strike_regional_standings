@@ -13,3 +13,4 @@ deprecated/
 !/liquipedia/tools/*
 !/liquipedia/tools/json/*
 test*
+liquipedia/checkR.js
