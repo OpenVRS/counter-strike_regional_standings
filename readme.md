@@ -4,6 +4,8 @@ Valve's Regional Standings is an open source model available [here](https://gith
 
 While the model is open sourced, it currently isn't possible to utilise the model. The supplied `data/matchdata_sample_20230829.json` no longer runs with the current model and will return an error. Additionally, there has been no updates to sample matchdata and there is no easy way to publicly obtain this data without breaching ToS. VRS uses HLTV as a data source and this data is not publicly accessible. This repository aims to to create an easy and accessible way to replicate the `data/matchdata.json` as close as possible to the true source (HLTV). The data is collected from the [LiquipediaDB](https://liquipedia.net/api) and modifications are made automatically & manually to align it with HLTV's event splitting format as well as modifcations to account for any discrepancies in data handling. Match data samples can be found in the [data folder](data/)
 
+Data is uploaded and displayed on [Liquipedia](https://liquipedia.net/counterstrike/Valve_Regional_Standings)
+
 These rankings are **unofficial**. While they attempt to be as close as possible, official invite lists can be found in the official VRS repo [here](https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main/invitation)
  
 Any observed errors with the dataset, please submit a pull request to the most recent match data sample.
