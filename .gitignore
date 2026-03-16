@@ -3,6 +3,8 @@
 *.json
 /data/*
 !/data/matchdata_sample*
+!/data/old_samples/ 
+!/data/old_samples/matchdata_sample*
 /tools
 .env
 node_modules/
@@ -14,3 +16,4 @@ deprecated/
 !/liquipedia/tools/json/*
 test*
 liquipedia/checkR.js
+*.wiki

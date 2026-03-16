@@ -1,11 +1,5 @@
 "use strict";
 
-module.exports = {
-    getCountryRegion : getCountryRegion
-    ,getRegionPriority : getRegionPriority
-    ,getRegionIdxFromPriority : getRegionIdxFromPriority
-}
-
 //--------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------
 // Region Map
@@ -290,4 +284,11 @@ function getRegionPriority( region ){
 
 function getRegionIdxFromPriority( priority ){
     return regionPriority.findIndex( el => {return el === priority } );
+}
+
+module.exports = {
+    getCountryRegion : getCountryRegion,
+    getRegionPriority : getRegionPriority,
+    getRegionIdxFromPriority : getRegionIdxFromPriority,
+    regionMap: regionMap
 }

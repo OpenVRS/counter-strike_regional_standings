@@ -9,10 +9,24 @@ const path = require('path');
 const Table = require('./table');
 const Ranking = require('./ranking');
 const nthHighest = require('./util/nth_highest');
+const Region = require('./util/region');
 const RegionList = ['Europe', 'Americas', 'Asia'];
 
 const summaryFolder = 'details/';
 const format = '.md';
+const wikiFormat = '.wiki';
+
+function getRegionCode(regionArr) {
+    if (regionArr[0] === 1) return "EU";
+    if (regionArr[1] === 1) return "AM";
+    if (regionArr[2] === 1) return "AS";
+    return "";
+}
+
+function getSubregion(countryCode) {
+    const entry = Region.regionMap.find(r => r.countrycode.toLowerCase() === countryCode.toLowerCase());
+    return entry ? entry.region : '';
+}
 
 
 function formatLine( line, newline = false ){ 
@@ -68,6 +82,16 @@ function generateOutput( teams, regions = [0,1,2], strDate, simOn ){
     if(!simOn) {
         teamsGen( teams );
     }
+
+    if(!simOn) {
+        const wikiGlobal   = displayRankingsWiki(teams, [0,1,2], strDate);
+
+        fs.writeFileSync(
+            `${liveFolder}standings_${fileDate}${wikiFormat}`,
+            wikiGlobal
+        );
+    }
+    
 
     teams.forEach( t => {
         if (t.globalRank > 0 ){
@@ -147,6 +171,60 @@ function displayRankings( teams, regions = [0,1,2], strDate ) {
     return output;
 }
 
+function displayRankingsWiki(teams, regions = [0,1,2], strDate) {
+    let output = '';
+
+    // Sort teams by rank for stable output
+    teams = [...teams].sort((a, b) => a.globalRank - b.globalRank);
+
+    // Header line with invoke and updated date
+    output += `{{#invoke:Lua|invoke|module=Widget/Factory|fn=fromTemplate|widget=VRSStandings|updated=${strDate}\n`;
+
+    teams.forEach(t => {
+        if (t.globalRank > 0 && regions.some(r => t.region[r] === 1)) {
+            // Sort roster alphabetically for consistency
+            let roster = [...t.activeRoster].sort((a, b) =>
+                a.nick.localeCompare(b.nick)
+            );
+
+            let playerParts = roster.map((p, i) => {
+                let num = i + 1;
+                return `p${num}=${p.nick}|p${num}flag=${p.countryIso.toLowerCase()}`;
+            }).join('|');
+
+            let points = t.rankValue.toFixed(1);
+            let region = getRegionCode(t.region);
+
+            // Grab roster subregion
+            let subregionCounts = {};
+            roster.forEach(p => {
+                let sub = getSubregion(p.countryIso);
+                if (sub) subregionCounts[sub] = (subregionCounts[sub] || 0) + 1;
+            });
+            let maxSubregion = '';
+            let maxCount = 0;
+            for (const [sub, count] of Object.entries(subregionCounts)) {
+                if (count > maxCount) {
+                    maxSubregion = sub;
+                    maxCount = count;
+                }
+            }
+
+            let subregionField = '';
+            if (maxCount > 2) {
+                subregionField = `|subregion=${maxSubregion}`;
+            }
+
+            output += `|{{Opponent|${t.teamId}|${playerParts}|points=${points}|region=${region}${subregionField}}}\n`;
+        }
+    });
+
+    output += `}}\n`;
+
+    return output;
+}
+
+
 
 
 function displayTeamRankingSummary( team, teams, strDate ){
@@ -199,6 +277,9 @@ function displayTeamRankingSummary( team, teams, strDate ){
     output += formatLine( `- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.`, true);
     output += formatLine( `- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)`, true);
     output += formatLine( `- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight`, true);
+    output += formatLine( '', true );
+    output += formatLine( `- A team offers ownNetwork for other teams to collect for their network`, true );
+    output += formatLine( `- Own Network: ${ team.modifiers.ownNetwork.toFixed(3) }`, true);
     output += formatLine( '<span id="table1"></span>' );
 
     var table = new Table();
@@ -315,7 +396,7 @@ function displayTeamRankingSummary( team, teams, strDate ){
     output += formatLine( `<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_` );
     output += formatLine( '', true );
     output += formatLine( '---', true );
-    output += formatLine( '_Event data for Regional Standings provided by HLTV.org_' );
+    output += formatLine( '_Event data for Regional Standings provided by Liquipedia.net_' );
 
     return output;
 }
