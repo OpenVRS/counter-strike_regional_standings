@@ -40,7 +40,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           48 |      660 | 2026-02-15 | JiJieHao                                  | L   | 1.000      | -            | -                | -                | -         |   -12.16 | Banjo, FinigaN, paz, Shield, soulfly   |
+|           48 |      660 | 2026-02-15 | JiJieHao                                  | L   | 1.000      | -            | -                | -                | -         |   -12.16 | Banjo, FinigaN, paz, shield, soulfly   |
 |           47 |      768 | 2026-02-13 | TNT                                       | L   | 1.000      | -            | -                | -                | -         |   -24.62 | Banjo, duggy, FinigaN, paz, soulfly    |
 |           46 |     1960 | 2025-12-18 | Oramond                                   | L   | 0.705      | -            | -                | -                | -         |    -5.34 | Banjo, FinigaN, paz, shield, soulfly   |
 |           45 |     1966 | 2025-12-17 | CYBERSHOKE Esports                        | W   | 0.700      | 0.384        | 0.038 (0.010)    | 0.703 (0.189)    | 0 (0.000) |    18.08 | Banjo, FinigaN, paz, shield, soulfly   |

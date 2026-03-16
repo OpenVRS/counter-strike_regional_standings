@@ -51,9 +51,9 @@ Note:<br />
 |           36 |      870 | 2026-02-10 | Fisher College        | L   | 1.000      | -            | -                | -                | -         |   -27.59 | Cryptic, junior, laxiee, MarKE, Walco  |
 |           35 |      898 | 2026-02-09 | Life's A Game         | W   | 1.000      | 0.333        | 0.036 (0.012)    | 0.703 (0.234)    | 0 (0.000) |    10.96 | Cryptic, junior, laxiee, MarKE, Walco  |
 |           34 |      919 | 2026-02-08 | Regain                | W   | 1.000      | 0.333        | -                | 0.318 (0.106)    | 0 (0.000) |     8.50 | Cryptic, junior, laxiee, MarKE, Walco  |
-|           33 |     1759 | 2026-01-10 | Team Voca             | L   | 0.862      | -            | -                | -                | -         |    -9.47 | Cryptic, junior, laxiee, MarkE, Pluto  |
-|           32 |     1762 | 2026-01-10 | Outfit 49             | W   | 0.861      | 0.396        | 0.010 (0.003)    | 0.426 (0.145)    | 1 (0.861) |     6.50 | Cryptic, junior, laxiee, MarkE, Pluto  |
-|           31 |     1768 | 2026-01-09 | Team Voca             | L   | 0.856      | -            | -                | -                | -         |    -9.75 | Cryptic, junior, laxiee, MarkE, Pluto  |
+|           33 |     1759 | 2026-01-10 | Team Voca             | L   | 0.862      | -            | -                | -                | -         |    -9.47 | Cryptic, junior, laxiee, MarKE, Pluto  |
+|           32 |     1762 | 2026-01-10 | Outfit 49             | W   | 0.861      | 0.396        | 0.010 (0.003)    | 0.426 (0.145)    | 1 (0.861) |     6.50 | Cryptic, junior, laxiee, MarKE, Pluto  |
+|           31 |     1768 | 2026-01-09 | Team Voca             | L   | 0.856      | -            | -                | -                | -         |    -9.75 | Cryptic, junior, laxiee, MarKE, Pluto  |
 |           30 |     1945 | 2025-12-18 | Team Voca             | L   | 0.709      | -            | -                | -                | -         |    -8.82 | Cryptic, junior, laxiee, MarKE, Walco  |
 |           29 |     1996 | 2025-12-14 | Pulse (American team) | W   | 0.683      | -            | -                | -                | 0 (0.000) |     2.60 | Cryptic, junior, laxiee, MarKE, Walco  |
 |           28 |     2048 | 2025-12-10 | InControl             | W   | 0.656      | -            | -                | -                | 0 (0.000) |     4.32 | Cryptic, junior, laxiee, MarKE, Walco  |

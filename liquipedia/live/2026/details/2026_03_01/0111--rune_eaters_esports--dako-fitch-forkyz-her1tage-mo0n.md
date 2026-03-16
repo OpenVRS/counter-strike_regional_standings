@@ -1,6 +1,6 @@
 ### Roster Details<br />
 Team Name: Rune Eaters Esports<br />
-Roster: dako, fitch, forkyz, her1tage, mo0n<br />
+Roster: dako, fitch, forkyz, her1tage, mo0N<br />
 Global Rank: [111](../../standings_global_2026_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2026_03_01.md)<br />
@@ -41,16 +41,16 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |      131 | 2026-02-26 | NOVAQ          | L   | 1.000      | -            | -                | -                | -         |   -14.47 | dako, fitch, forkyz, her1tage, mo0N |
-|           10 |      320 | 2026-02-21 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -4.63 | dako, fitch, forkyz, her1tage, mo0n |
+|           10 |      320 | 2026-02-21 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -4.63 | dako, fitch, forkyz, her1tage, mo0N |
 |            9 |      532 | 2026-02-17 | FOKUS          | L   | 1.000      | -            | -                | -                | -         |   -27.25 | dako, fitch, forkyz, her1tage, mo0N |
 |            8 |      545 | 2026-02-17 | Nemiga Gaming  | W   | 1.000      | 0.143        | 0.092 (0.013)    | 0.769 (0.110)    | 0 (0.000) |    26.78 | dako, fitch, forkyz, her1tage, mo0N |
 |            7 |      647 | 2026-02-15 | Tricked Esport | L   | 1.000      | -            | -                | -                | -         |    -9.26 | dako, fitch, forkyz, her1tage, mo0N |
-|            6 |     1139 | 2026-02-01 | DEPO           | W   | 1.000      | 0.277        | 0.004 (0.001)    | 0.110 (0.030)    | 1 (1.000) |    10.03 | dako, fitch, forkyz, her1tage, mo0n |
-|            5 |     1267 | 2026-01-28 | ALLINNERS      | L   | 0.978      | -            | -                | -                | -         |   -18.91 | dako, fitch, forkyz, her1tage, mo0n |
-|            4 |     1274 | 2026-01-27 | NOVAQ          | W   | 0.973      | 0.310        | 0.033 (0.010)    | 0.597 (0.180)    | 1 (0.973) |    14.75 | dako, fitch, forkyz, her1tage, mo0n |
-|            3 |     1282 | 2026-01-27 | HOTU           | L   | 0.972      | -            | -                | -                | -         |    -1.77 | dako, fitch, forkyz, her1tage, mo0n |
-|            2 |     1288 | 2026-01-27 | NOVAQ          | W   | 0.971      | 0.310        | 0.033 (0.010)    | 0.597 (0.180)    | 1 (0.971) |    15.90 | dako, fitch, forkyz, her1tage, mo0n |
-|            1 |     1867 | 2025-12-27 | OMEGA          | W   | 0.766      | 0.293        | 0.034 (0.008)    | 0.650 (0.146)    | 1 (0.766) |    19.28 | dako, fitch, forkyz, her1tage, mo0n |
+|            6 |     1139 | 2026-02-01 | DEPO           | W   | 1.000      | 0.277        | 0.004 (0.001)    | 0.110 (0.030)    | 1 (1.000) |    10.03 | dako, fitch, forkyz, her1tage, mo0N |
+|            5 |     1267 | 2026-01-28 | ALLINNERS      | L   | 0.978      | -            | -                | -                | -         |   -18.91 | dako, fitch, forkyz, her1tage, mo0N |
+|            4 |     1274 | 2026-01-27 | NOVAQ          | W   | 0.973      | 0.310        | 0.033 (0.010)    | 0.597 (0.180)    | 1 (0.973) |    14.75 | dako, fitch, forkyz, her1tage, mo0N |
+|            3 |     1282 | 2026-01-27 | HOTU           | L   | 0.972      | -            | -                | -                | -         |    -1.77 | dako, fitch, forkyz, her1tage, mo0N |
+|            2 |     1288 | 2026-01-27 | NOVAQ          | W   | 0.971      | 0.310        | 0.033 (0.010)    | 0.597 (0.180)    | 1 (0.971) |    15.90 | dako, fitch, forkyz, her1tage, mo0N |
+|            1 |     1867 | 2025-12-27 | OMEGA          | W   | 0.766      | 0.293        | 0.034 (0.008)    | 0.650 (0.146)    | 1 (0.766) |    19.28 | dako, fitch, forkyz, her1tage, mo0N |
 
 <br />
 <span id="table2"></span><br />

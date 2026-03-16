@@ -44,7 +44,7 @@ Note:<br />
 |           41 |       59 | 2026-02-27 | ODDIK                        | W   | 1.000      | 0.435        | 0.051 (0.022)    | 0.529 (0.230)    | 1 (1.000) |    19.38 | exit, kye, Lucaozy, mlhzin, zevy  |
 |           40 |      106 | 2026-02-26 | RED Canids                   | L   | 1.000      | -            | -                | -                | -         |    -9.51 | exit, kye, Lucaozy, mlhzin, zevy  |
 |           39 |      171 | 2026-02-25 | Marsborne                    | W   | 1.000      | 0.435        | 0.050 (0.022)    | 0.556 (0.242)    | 1 (1.000) |    16.19 | exit, kye, Lucaozy, mlhzin, zevy  |
-|           38 |      771 | 2026-02-13 | Game Hunters                 | L   | 1.000      | -            | -                | -                | -         |   -26.26 | Decenty, exit, kye, Lucaozy, zevy |
+|           38 |      771 | 2026-02-13 | Game Hunters                 | L   | 1.000      | -            | -                | -                | -         |   -26.26 | decenty, exit, kye, Lucaozy, zevy |
 |           37 |     1171 | 2026-01-31 | RED Canids                   | L   | 0.999      | -            | -                | -                | -         |    -9.16 | decenty, exit, kye, Lucaozy, zevy |
 |           36 |     1214 | 2026-01-29 | ShindeN                      | L   | 0.989      | -            | -                | -                | -         |   -13.20 | decenty, exit, kye, Lucaozy, zevy |
 |           35 |     1217 | 2026-01-29 | OUTPLAYED (Argentinian team) | W   | 0.988      | -            | -                | -                | 1 (0.988) |     1.19 | decenty, exit, kye, Lucaozy, zevy |

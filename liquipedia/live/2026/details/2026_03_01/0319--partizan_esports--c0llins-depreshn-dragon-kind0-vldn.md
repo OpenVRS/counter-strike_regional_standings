@@ -40,8 +40,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |     2614 | 2025-11-16 | ARCRED                                    | L   | 0.495      | -            | -                | -                | -         |    -0.95 | C0llins, DEPRESHN, Dragon, Kind0, VLDN |
-|            6 |     2711 | 2025-11-12 | Copenhagen Wolves (American organization) | L   | 0.468      | -            | -                | -                | -         |    -2.52 | C0llins, DEPRESHN, Dragon, Kind0, VLDN |
+|            7 |     2614 | 2025-11-16 | ARCRED                                    | L   | 0.495      | -            | -                | -                | -         |    -0.95 | c0llins, DEPRESHN, Dragon, Kind0, VLDN |
+|            6 |     2711 | 2025-11-12 | Copenhagen Wolves (American organization) | L   | 0.468      | -            | -                | -                | -         |    -2.52 | c0llins, DEPRESHN, Dragon, Kind0, VLDN |
 |            5 |     4987 | 2025-09-11 | Copenhagen Wolves (American organization) | W   | 0.052      | 0.435        | 0.001 (0.000)    | 0.335 (0.008)    | 0 (0.000) |     1.34 | c0llins, DEPRESHN, Dragon, Kind0, VLDN |
 |            4 |     5024 | 2025-09-10 | Magic (Russian team)                      | L   | 0.047      | -            | -                | -                | -         |    -0.04 | c0llins, DEPRESHN, Dragon, Kind0, VLDN |
 |            3 |     5066 | 2025-09-09 | Eternal Fire                              | L   | 0.040      | -            | -                | -                | -         |    -0.25 | c0llins, DEPRESHN, Dragon, Kind0, VLDN |

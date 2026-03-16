@@ -53,7 +53,7 @@ Note:<br />
 |            4 |     2828 | 2025-11-08 | Chicken Coop Esports | W   | 0.443      | 0.333        | 0.000 (0.000)    | 0.137 (0.020)    | 1 (0.443) |     5.30 | bones, cmrn, Kermi, neight, Signal |
 |            3 |     2833 | 2025-11-08 | Marsborne            | L   | 0.442      | -            | -                | -                | -         |    -0.55 | bones, cmrn, Kermi, neight, Signal |
 |            2 |     2839 | 2025-11-08 | Chicken Coop Esports | W   | 0.441      | 0.333        | 0.000 (0.000)    | 0.137 (0.020)    | 1 (0.441) |     5.38 | bones, cmrn, Kermi, neight, Signal |
-|            1 |     5178 | 2025-09-06 | ODDIK                | L   | 0.021      | -            | -                | -                | -         |    -0.03 | Bones, ditt, Kermi, neight, vin3   |
+|            1 |     5178 | 2025-09-06 | ODDIK                | L   | 0.021      | -            | -                | -                | -         |    -0.03 | bones, ditt, Kermi, neight, vin3   |
 
 <br />
 <span id="table2"></span><br />

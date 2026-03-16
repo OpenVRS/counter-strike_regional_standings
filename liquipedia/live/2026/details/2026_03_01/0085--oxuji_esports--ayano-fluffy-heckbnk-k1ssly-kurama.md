@@ -51,8 +51,8 @@ Note:<br />
 |           15 |      697 | 2026-02-14 | Team Nemesis    | W   | 1.000      | 0.371        | 0.037 (0.014)    | 0.784 (0.290)    | 1 (1.000) |    24.32 | ayano, fluffy, HeCkBNk, k1ssly, Kurama  |
 |           14 |      720 | 2026-02-14 | WhiteBird       | W   | 1.000      | 0.371        | 0.093 (0.034)    | 0.725 (0.269)    | 1 (1.000) |    24.38 | ayano, fluffy, HeCkBNk, k1ssly, Kurama  |
 |           13 |      732 | 2026-02-14 | 1w Team         | L   | 1.000      | -            | -                | -                | -         |    -7.13 | ayano, fluffy, HeCkBNk, k1ssly, Kurama  |
-|           12 |      814 | 2026-02-12 | Atreides        | L   | 1.000      | -            | -                | -                | -         |   -25.34 | ayano, fluffy, HeCkBNk, k1ssly, zealot  |
-|           11 |      835 | 2026-02-11 | CSDIILIT        | L   | 1.000      | -            | -                | -                | -         |   -24.74 | ayano, fluffy, HeCkBNk, k1ssly, zealot  |
+|           12 |      814 | 2026-02-12 | Atreides        | L   | 1.000      | -            | -                | -                | -         |   -25.34 | ayano, fluffy, HeCkBNk, k1ssly, Kurama  |
+|           11 |      835 | 2026-02-11 | CSDIILIT        | L   | 1.000      | -            | -                | -                | -         |   -24.74 | ayano, fluffy, HeCkBNk, k1ssly, Kurama  |
 |           10 |     1124 | 2026-02-01 | Team Nemesis    | L   | 1.000      | -            | -                | -                | -         |    -6.14 | ayano, HeCkBNk, k1ssly, Kurama, Mikejio |
 |            9 |     1129 | 2026-02-01 | MUERTA TEAM     | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.21 | ayano, HeCkBNk, k1ssly, Kurama, Mikejio |
 |            8 |     1142 | 2026-02-01 | Nemiga Gaming   | L   | 1.000      | -            | -                | -                | -         |    -5.40 | ayano, HeCkBNk, k1ssly, Kurama, Mikejio |

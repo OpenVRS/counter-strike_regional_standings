@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |      108 | 2026-02-26 | 100 Thieves             | L   | 1.000      | -            | -                | -                | -         |   -11.18 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           28 |      124 | 2026-02-26 | Nexus Gaming            | W   | 1.000      | 0.354        | 0.001 (0.001)    | 0.685 (0.243)    | 1 (1.000) |     7.11 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           27 |      170 | 2026-02-25 | Infinite Gaming         | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.32 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           26 |      182 | 2026-02-25 | ASTRAL Esports          | L   | 1.000      | -            | -                | -                | -         |   -25.28 | demho, Dr3nquu, eskyy, hades, Prism  |
+|           29 |      108 | 2026-02-26 | 100 Thieves             | L   | 1.000      | -            | -                | -                | -         |   -11.18 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           28 |      124 | 2026-02-26 | Nexus Gaming            | W   | 1.000      | 0.354        | 0.001 (0.001)    | 0.685 (0.243)    | 1 (1.000) |     7.11 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           27 |      170 | 2026-02-25 | Infinite Gaming         | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.32 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           26 |      182 | 2026-02-25 | ASTRAL Esports          | L   | 1.000      | -            | -                | -                | -         |   -25.28 | Demho, Dr3nquu, eskyy, hades, Prism  |
 |           25 |      334 | 2026-02-21 | HOTU                    | L   | 1.000      | -            | -                | -                | -         |    -7.80 | Demho, Dr3nquu, eskyy, hades, Prism  |
 |           24 |      432 | 2026-02-19 | EYEBALLERS              | W   | 1.000      | 0.341        | 0.182 (0.062)    | 0.707 (0.241)    | 1 (1.000) |    17.64 | Demho, Dr3nquu, eskyy, hades, Prism  |
 |           23 |      441 | 2026-02-19 | FC Famalicão Esports    | W   | 1.000      | 0.341        | 0.004 (0.001)    | 0.193 (0.066)    | 1 (1.000) |     5.09 | Demho, Dr3nquu, eskyy, hades, Prism  |
@@ -54,12 +54,12 @@ Note:<br />
 |           18 |     1263 | 2026-01-28 | UNiTY esports           | L   | 0.978      | -            | -                | -                | -         |   -24.27 | Demho, Dr3nquu, eskyy, hades, Prism  |
 |           17 |     1296 | 2026-01-26 | GenOne                  | W   | 0.966      | 0.435        | 0.030 (0.013)    | 0.692 (0.291)    | -         |     9.02 | Demho, Dr3nquu, eskyy, hades, Prism  |
 |           16 |     1381 | 2026-01-23 | Ex-Fingers Crossed      | W   | 0.947      | 0.435        | 0.048 (0.020)    | 0.535 (0.220)    | -         |     7.12 | Demho, Dr3nquu, eskyy, hades, Prism  |
-|           15 |     1537 | 2026-01-18 | BIG                     | L   | 0.914      | -            | -                | -                | -         |    -8.44 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           14 |     1552 | 2026-01-18 | MOUZ NXT                | W   | 0.912      | 0.341        | 0.034 (0.011)    | 1.000 (0.311)    | 1 (0.912) |    14.41 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           13 |     1594 | 2026-01-17 | MINLATE (European team) | W   | 0.906      | 0.341        | 0.003 (0.001)    | 0.462 (0.143)    | 1 (0.906) |     7.04 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           12 |     1674 | 2026-01-15 | LA MASIA                | W   | 0.895      | -            | -                | -                | 1 (0.895) |     0.48 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           11 |     1677 | 2026-01-15 | BASEMENT BOYS           | L   | 0.894      | -            | -                | -                | -         |   -26.44 | demho, Dr3nquu, eskyy, hades, Prism  |
-|           10 |     1682 | 2026-01-15 | TEAM ASCEND             | W   | 0.894      | -            | -                | -                | 1 (0.894) |     0.32 | demho, Dr3nquu, eskyy, hades, Prism  |
+|           15 |     1537 | 2026-01-18 | BIG                     | L   | 0.914      | -            | -                | -                | -         |    -8.44 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           14 |     1552 | 2026-01-18 | MOUZ NXT                | W   | 0.912      | 0.341        | 0.034 (0.011)    | 1.000 (0.311)    | 1 (0.912) |    14.41 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           13 |     1594 | 2026-01-17 | MINLATE (European team) | W   | 0.906      | 0.341        | 0.003 (0.001)    | 0.462 (0.143)    | 1 (0.906) |     7.04 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           12 |     1674 | 2026-01-15 | LA MASIA                | W   | 0.895      | -            | -                | -                | 1 (0.895) |     0.48 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           11 |     1677 | 2026-01-15 | BASEMENT BOYS           | L   | 0.894      | -            | -                | -                | -         |   -26.44 | Demho, Dr3nquu, eskyy, hades, Prism  |
+|           10 |     1682 | 2026-01-15 | TEAM ASCEND             | W   | 0.894      | -            | -                | -                | 1 (0.894) |     0.32 | Demho, Dr3nquu, eskyy, hades, Prism  |
 |            9 |     2520 | 2025-11-21 | Inner Circle Esports    | L   | 0.525      | -            | -                | -                | -         |   -10.31 | Demho, Dr3nquu, dycha, Melavi, Prism |
 |            8 |     2525 | 2025-11-21 | Tricked Esport          | L   | 0.525      | -            | -                | -                | -         |   -10.91 | Demho, Dr3nquu, dycha, Melavi, Prism |
 |            7 |     2759 | 2025-11-11 | FORZE Reload            | L   | 0.460      | -            | -                | -                | -         |   -12.87 | Demho, Dr3nquu, dycha, Melavi, Prism |

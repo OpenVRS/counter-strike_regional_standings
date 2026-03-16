@@ -55,8 +55,8 @@ Note:<br />
 |           25 |     2758 | 2025-11-11 | LargadosyPelados         | L   | 0.460      | -            | -                | -                | -         |    -3.32 | antonini, Machado, nikz, rainny, Reix   |
 |           24 |     2796 | 2025-11-09 | PaiN Gaming Academy      | W   | 0.448      | 0.371        | 0.000 (0.000)    | 0.085 (0.014)    | 0 (0.000) |     6.34 | antonini, Machado, nikz, rainny, Reix   |
 |           23 |     2865 | 2025-11-08 | Bad Luck                 | L   | 0.439      | -            | -                | -                | -         |    -6.46 | antonini, Machado, nikz, rainny, Reix   |
-|           22 |     2992 | 2025-11-06 | Dusty Roots              | L   | 0.427      | -            | -                | -                | -         |    -3.36 | antonini, Machado, nikz, Rainny, Reix   |
-|           21 |     3051 | 2025-11-04 | FURIA Female             | W   | 0.414      | 0.371        | 0.010 (0.002)    | 0.143 (0.022)    | 0 (0.000) |    10.15 | antonini, Machado, nikz, Rainny, Reix   |
+|           22 |     2992 | 2025-11-06 | Dusty Roots              | L   | 0.427      | -            | -                | -                | -         |    -3.36 | antonini, Machado, nikz, rainny, Reix   |
+|           21 |     3051 | 2025-11-04 | FURIA Female             | W   | 0.414      | 0.371        | 0.010 (0.002)    | 0.143 (0.022)    | 0 (0.000) |    10.15 | antonini, Machado, nikz, rainny, Reix   |
 |           20 |     3368 | 2025-10-25 | Procyon Team             | L   | 0.348      | -            | -                | -                | -         |    -1.44 | antonini, Machado, nikz, Reix, Straafer |
 |           19 |     3482 | 2025-10-23 | KRÜ Esports              | L   | 0.335      | -            | -                | -                | -         |    -3.52 | antonini, Machado, nikz, Reix, Straafer |
 |           18 |     3689 | 2025-10-15 | Keyd Stars               | L   | 0.279      | -            | -                | -                | -         |    -1.47 | antonini, Machado, nikz, Reix, Straafer |

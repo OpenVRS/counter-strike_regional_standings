@@ -43,11 +43,11 @@ Note:<br />
 |           11 |     1364 | 2026-01-23 | WOPA Esport             | L   | 0.949      | -            | -                | -                | -         |    -3.02 | Geni, J0nneW, KapiV, Lene, Samppa   |
 |           10 |     1367 | 2026-01-23 | Alliance                | L   | 0.948      | -            | -                | -                | -         |    -0.51 | Geni, J0nneW, KapiV, Lene, Samppa   |
 |            9 |     1369 | 2026-01-23 | Sidequest               | W   | 0.948      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.948) |     8.31 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|            8 |     1810 | 2026-01-04 | Fingers Crossed         | L   | 0.819      | -            | -                | -                | -         |   -15.85 | Genii, J0nneW, kapiV, Lene, nibzeri |
-|            7 |     1815 | 2026-01-04 | AaB esport              | L   | 0.819      | -            | -                | -                | -         |    -3.75 | Genii, J0nneW, kapiV, Lene, nibzeri |
-|            6 |     1819 | 2026-01-04 | Friendly Campers        | L   | 0.818      | -            | -                | -                | -         |    -0.85 | Genii, J0nneW, kapiV, Lene, nibzeri |
-|            5 |     1820 | 2026-01-04 | ASTRAL Esports          | L   | 0.818      | -            | -                | -                | -         |    -2.02 | Genii, J0nneW, kapiV, Lene, nibzeri |
-|            4 |     1823 | 2026-01-04 | MINLATE (European team) | L   | 0.818      | -            | -                | -                | -         |    -2.19 | Genii, J0nneW, kapiV, Lene, nibzeri |
+|            8 |     1810 | 2026-01-04 | Fingers Crossed         | L   | 0.819      | -            | -                | -                | -         |   -15.85 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            7 |     1815 | 2026-01-04 | AaB esport              | L   | 0.819      | -            | -                | -                | -         |    -3.75 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            6 |     1819 | 2026-01-04 | Friendly Campers        | L   | 0.818      | -            | -                | -                | -         |    -0.85 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            5 |     1820 | 2026-01-04 | ASTRAL Esports          | L   | 0.818      | -            | -                | -                | -         |    -2.02 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            4 |     1823 | 2026-01-04 | MINLATE (European team) | L   | 0.818      | -            | -                | -                | -         |    -2.19 | Genii, J0nneW, KapiV, Lene, nibzeri |
 |            3 |     1970 | 2025-12-17 | Nexus Gaming            | L   | 0.700      | -            | -                | -                | -         |    -2.76 | Geni, J0nneW, KapiV, Lene, Samppa   |
 |            2 |     1974 | 2025-12-17 | Lazer Cats              | L   | 0.699      | -            | -                | -                | -         |    -3.03 | Geni, J0nneW, KapiV, Lene, Samppa   |
 |            1 |     1979 | 2025-12-17 | Nexus Gaming            | W   | 0.699      | 0.339        | 0.001 (0.000)    | 0.685 (0.162)    | 1 (0.699) |    19.50 | Geni, J0nneW, KapiV, Lene, Samppa   |

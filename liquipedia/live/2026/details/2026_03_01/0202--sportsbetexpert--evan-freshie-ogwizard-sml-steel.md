@@ -38,34 +38,34 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                              |
+| Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |      460 | 2026-02-18 | Outfit 49                 | L   | 1.000      | -            | -                | -                | -         |   -15.76 | Evan, freshie, ogwizard, sml, Steel_(Joshua_Nissan) |
-|           25 |      518 | 2026-02-17 | BOSS                      | L   | 1.000      | -            | -                | -                | -         |   -10.92 | Evan, freshie, ogwizard, sml, Steel_(Joshua_Nissan) |
-|           24 |      643 | 2026-02-15 | Blitzkrieg (Mexican team) | L   | 1.000      | -            | -                | -                | -         |   -22.39 | Evan, freshie, ogwizard, sml, steel                 |
-|           23 |      785 | 2026-02-12 | Life's A Game             | L   | 1.000      | -            | -                | -                | -         |   -13.67 | Evan, freshie, ogwizard, sml, steel                 |
-|           22 |      833 | 2026-02-11 | Team Voca                 | L   | 1.000      | -            | -                | -                | -         |    -6.07 | Evan, freshie, ogwizard, sml, steel                 |
-|           21 |      857 | 2026-02-10 | Passion UA                | L   | 1.000      | -            | -                | -                | -         |    -1.44 | Evan, freshie, ogwizard, sml, steel                 |
-|           20 |      871 | 2026-02-10 | BOSS                      | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.455 (0.065)    | 0 (0.000) |    19.11 | Evan, freshie, ogwizard, sml, steel                 |
-|           19 |      897 | 2026-02-09 | Reign Above               | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.086 (0.029)    | 0 (0.000) |    10.38 | Evan, freshie, ogwizard, sml, steel                 |
-|           18 |      900 | 2026-02-09 | Marsborne                 | L   | 1.000      | -            | -                | -                | -         |    -3.67 | Evan, freshie, ogwizard, sml, steel                 |
-|           17 |      914 | 2026-02-08 | FlyQuest RED              | W   | 1.000      | 0.333        | 0.015 (0.005)    | 0.172 (0.057)    | 0 (0.000) |    13.39 | Evan, freshie, ogwizard, sml, steel                 |
-|           16 |      917 | 2026-02-08 | Omen Esports              | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     4.46 | Evan, freshie, ogwizard, sml, steel                 |
-|           15 |      980 | 2026-02-06 | Zomblers                  | L   | 1.000      | -            | -                | -                | -         |   -15.97 | Evan, freshie, ogwizard, sml, steel                 |
-|           14 |     1037 | 2026-02-04 | Regain                    | W   | 1.000      | 0.333        | 0.007 (0.002)    | 0.318 (0.106)    | 0 (0.000) |    14.58 | Evan, freshie, ogwizard, sml, steel                 |
-|           13 |     1087 | 2026-02-02 | Chicken Coop Esports      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.137 (0.046)    | 0 (0.000) |     6.87 | Evan, freshie, ogwizard, sml, steel                 |
-|           12 |     1091 | 2026-02-02 | Mythic                    | W   | 1.000      | 0.333        | 0.001 (0.000)    | 0.112 (0.037)    | 0 (0.000) |    14.37 | Evan, freshie, ogwizard, sml, steel                 |
-|           11 |     2793 | 2025-11-09 | Team Voca                 | L   | 0.449      | -            | -                | -                | -         |    -5.79 | Evan, freshie, ogwizard, reck, TR0JN                |
-|           10 |     2888 | 2025-11-07 | Outfit 49                 | W   | 0.436      | 0.278        | 0.010 (0.001)    | 0.426 (0.052)    | 0 (0.000) |     6.96 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            9 |     3049 | 2025-11-04 | Team Voca                 | L   | 0.416      | -            | -                | -                | -         |    -5.45 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            8 |     3121 | 2025-11-01 | Chicken Coop Esports      | W   | 0.396      | 0.333        | -                | 0.137 (0.018)    | 0 (0.000) |     3.33 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            7 |     3126 | 2025-11-01 | Imperial Esports          | L   | 0.394      | -            | -                | -                | -         |    -0.55 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            6 |     3412 | 2025-10-24 | Chicken Coop Esports      | W   | 0.342      | -            | -                | -                | 0 (0.000) |     2.95 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            5 |     3516 | 2025-10-22 | Regain                    | W   | 0.329      | 0.333        | 0.007 (0.001)    | 0.318 (0.035)    | -         |     5.26 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            4 |     3602 | 2025-10-17 | InControl                 | W   | 0.295      | 0.333        | 0.000 (0.000)    | 0.219 (0.022)    | -         |     4.13 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            3 |     3740 | 2025-10-13 | Marsborne                 | L   | 0.269      | -            | -                | -                | -         |    -0.49 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            2 |     4595 | 2025-09-21 | Life's A Game             | L   | 0.122      | -            | -                | -                | -         |    -1.44 | Evan, freshie, ogwizard, reck, TR0JN                |
-|            1 |     4651 | 2025-09-19 | Antigrind                 | W   | 0.109      | -            | -                | -                | -         |     0.57 | Evan, freshie, ogwizard, reck, TR0JN                |
+|           26 |      460 | 2026-02-18 | Outfit 49                 | L   | 1.000      | -            | -                | -                | -         |   -15.76 | Evan, freshie, ogwizard, sml, steel  |
+|           25 |      518 | 2026-02-17 | BOSS                      | L   | 1.000      | -            | -                | -                | -         |   -10.92 | Evan, freshie, ogwizard, sml, steel  |
+|           24 |      643 | 2026-02-15 | Blitzkrieg (Mexican team) | L   | 1.000      | -            | -                | -                | -         |   -22.39 | Evan, freshie, ogwizard, sml, steel  |
+|           23 |      785 | 2026-02-12 | Life's A Game             | L   | 1.000      | -            | -                | -                | -         |   -13.67 | Evan, freshie, ogwizard, sml, steel  |
+|           22 |      833 | 2026-02-11 | Team Voca                 | L   | 1.000      | -            | -                | -                | -         |    -6.07 | Evan, freshie, ogwizard, sml, steel  |
+|           21 |      857 | 2026-02-10 | Passion UA                | L   | 1.000      | -            | -                | -                | -         |    -1.44 | Evan, freshie, ogwizard, sml, steel  |
+|           20 |      871 | 2026-02-10 | BOSS                      | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.455 (0.065)    | 0 (0.000) |    19.11 | Evan, freshie, ogwizard, sml, steel  |
+|           19 |      897 | 2026-02-09 | Reign Above               | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.086 (0.029)    | 0 (0.000) |    10.38 | Evan, freshie, ogwizard, sml, steel  |
+|           18 |      900 | 2026-02-09 | Marsborne                 | L   | 1.000      | -            | -                | -                | -         |    -3.67 | Evan, freshie, ogwizard, sml, steel  |
+|           17 |      914 | 2026-02-08 | FlyQuest RED              | W   | 1.000      | 0.333        | 0.015 (0.005)    | 0.172 (0.057)    | 0 (0.000) |    13.39 | Evan, freshie, ogwizard, sml, steel  |
+|           16 |      917 | 2026-02-08 | Omen Esports              | W   | 1.000      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     4.46 | Evan, freshie, ogwizard, sml, steel  |
+|           15 |      980 | 2026-02-06 | Zomblers                  | L   | 1.000      | -            | -                | -                | -         |   -15.97 | Evan, freshie, ogwizard, sml, steel  |
+|           14 |     1037 | 2026-02-04 | Regain                    | W   | 1.000      | 0.333        | 0.007 (0.002)    | 0.318 (0.106)    | 0 (0.000) |    14.58 | Evan, freshie, ogwizard, sml, steel  |
+|           13 |     1087 | 2026-02-02 | Chicken Coop Esports      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.137 (0.046)    | 0 (0.000) |     6.87 | Evan, freshie, ogwizard, sml, steel  |
+|           12 |     1091 | 2026-02-02 | Mythic                    | W   | 1.000      | 0.333        | 0.001 (0.000)    | 0.112 (0.037)    | 0 (0.000) |    14.37 | Evan, freshie, ogwizard, sml, steel  |
+|           11 |     2793 | 2025-11-09 | Team Voca                 | L   | 0.449      | -            | -                | -                | -         |    -5.79 | Evan, freshie, ogwizard, reck, TR0JN |
+|           10 |     2888 | 2025-11-07 | Outfit 49                 | W   | 0.436      | 0.278        | 0.010 (0.001)    | 0.426 (0.052)    | 0 (0.000) |     6.96 | Evan, freshie, ogwizard, reck, TR0JN |
+|            9 |     3049 | 2025-11-04 | Team Voca                 | L   | 0.416      | -            | -                | -                | -         |    -5.45 | Evan, freshie, ogwizard, reck, TR0JN |
+|            8 |     3121 | 2025-11-01 | Chicken Coop Esports      | W   | 0.396      | 0.333        | -                | 0.137 (0.018)    | 0 (0.000) |     3.33 | Evan, freshie, ogwizard, reck, TR0JN |
+|            7 |     3126 | 2025-11-01 | Imperial Esports          | L   | 0.394      | -            | -                | -                | -         |    -0.55 | Evan, freshie, ogwizard, reck, TR0JN |
+|            6 |     3412 | 2025-10-24 | Chicken Coop Esports      | W   | 0.342      | -            | -                | -                | 0 (0.000) |     2.95 | Evan, freshie, ogwizard, reck, TR0JN |
+|            5 |     3516 | 2025-10-22 | Regain                    | W   | 0.329      | 0.333        | 0.007 (0.001)    | 0.318 (0.035)    | -         |     5.26 | Evan, freshie, ogwizard, reck, TR0JN |
+|            4 |     3602 | 2025-10-17 | InControl                 | W   | 0.295      | 0.333        | 0.000 (0.000)    | 0.219 (0.022)    | -         |     4.13 | Evan, freshie, ogwizard, reck, TR0JN |
+|            3 |     3740 | 2025-10-13 | Marsborne                 | L   | 0.269      | -            | -                | -                | -         |    -0.49 | Evan, freshie, ogwizard, reck, TR0JN |
+|            2 |     4595 | 2025-09-21 | Life's A Game             | L   | 0.122      | -            | -                | -                | -         |    -1.44 | Evan, freshie, ogwizard, reck, TR0JN |
+|            1 |     4651 | 2025-09-19 | Antigrind                 | W   | 0.109      | -            | -                | -                | -         |     0.57 | Evan, freshie, ogwizard, reck, TR0JN |
 
 <br />
 <span id="table2"></span><br />

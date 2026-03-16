@@ -54,7 +54,7 @@ Note:<br />
 |           38 |      781 | 2026-02-13 | Lazer Cats       | L   | 1.000      | -            | -                | -                | -         |    -8.85 | aVN, brutmonster, Cjoffo, KiMaRR, skizzyee |
 |           37 |      851 | 2026-02-11 | Acend            | L   | 1.000      | -            | -                | -                | -         |    -6.58 | aVN, brutmonster, Cjoffo, KiMaRR, skizzyee |
 |           36 |      925 | 2026-02-08 | ASTRAL Esports   | W   | 1.000      | 0.435        | -                | 0.498 (0.216)    | 0 (0.000) |    25.10 | aVN, brutmonster, Cjoffo, KiMaRR, skizzyee |
-|           35 |     1994 | 2025-12-15 | Oramond          | L   | 0.686      | -            | -                | -                | -         |    -2.57 | aVN, brutmonster, Cjoffo, Maden, nEMANHA   |
+|           35 |     1994 | 2025-12-15 | Oramond          | L   | 0.686      | -            | -                | -                | -         |    -2.57 | aVN, brutmonster, Cjoffo, maden, nEMANHA   |
 |           34 |     2550 | 2025-11-20 | Nuclear TigeRES  | L   | 0.520      | -            | -                | -                | -         |    -0.79 | aVN, brutmonster, Cjoffo, nEMANHA, simke   |
 |           33 |     2571 | 2025-11-20 | Ex-RUBY          | L   | 0.518      | -            | -                | -                | -         |    -4.56 | aVN, brutmonster, Cjoffo, nEMANHA, simke   |
 |           32 |     3002 | 2025-11-06 | Oramond          | L   | 0.427      | -            | -                | -                | -         |    -3.53 | aVN, brutmonster, Cjoffo, maden, nEMANHA   |

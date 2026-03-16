@@ -62,12 +62,12 @@ Note:<br />
 |           29 |     1021 | 2026-02-05 | Bushido Wildcats        | W   | 1.000      | 0.384        | 0.002 (0.001)    | 0.294 (0.113)    | 0 (0.000) |    11.97 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           28 |     1049 | 2026-02-04 | Home                    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.62 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           27 |     1213 | 2026-01-30 | Sashi Esport            | L   | 0.991      | -            | -                | -                | -         |    -5.57 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
-|           26 |     1301 | 2026-01-26 | Acend                   | W   | 0.965      | 0.371        | 0.023 (0.008)    | 0.529 (0.189)    | -         |    21.33 | Avou, Botman, Bukhavez, Krallej, Noruyp  |
+|           26 |     1301 | 2026-01-26 | Acend                   | W   | 0.965      | 0.371        | 0.023 (0.008)    | 0.529 (0.189)    | -         |    21.33 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           25 |     1447 | 2026-01-22 | MINLATE (European team) | L   | 0.939      | -            | -                | -                | -         |   -10.62 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
-|           24 |     1451 | 2026-01-22 | Eternal Fire            | L   | 0.939      | -            | -                | -                | -         |    -7.22 | Avou, Botman, Bukhavez, Krallej, Noruyp  |
+|           24 |     1451 | 2026-01-22 | Eternal Fire            | L   | 0.939      | -            | -                | -                | -         |    -7.22 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           23 |     1481 | 2026-01-21 | FORZE Reload            | L   | 0.933      | -            | -                | -                | -         |   -12.20 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           22 |     1501 | 2026-01-20 | BRUTE                   | L   | 0.927      | -            | -                | -                | -         |   -18.06 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
-|           21 |     1557 | 2026-01-18 | FORZE Reload            | W   | 0.911      | 0.371        | 0.002 (0.001)    | 0.799 (0.270)    | -         |    16.93 | Avou, Botman, Bukhavez, Krallej, Noruyp  |
+|           21 |     1557 | 2026-01-18 | FORZE Reload            | W   | 0.911      | 0.371        | 0.002 (0.001)    | 0.799 (0.270)    | -         |    16.93 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           20 |     1659 | 2026-01-16 | Los kogutos             | L   | 0.899      | -            | -                | -                | -         |    -9.44 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           19 |     1698 | 2026-01-15 | HYPERSPIRIT             | W   | 0.892      | -            | -                | -                | -         |     9.79 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |
 |           18 |     1720 | 2026-01-14 | CSDIILIT                | W   | 0.886      | 0.384        | -                | 0.397 (0.135)    | -         |     7.95 | Avou, Botman, Bukhavez, KralleJ, Noruyp  |

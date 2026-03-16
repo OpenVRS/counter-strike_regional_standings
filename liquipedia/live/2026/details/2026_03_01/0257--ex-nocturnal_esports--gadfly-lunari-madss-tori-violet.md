@@ -49,14 +49,14 @@ Note:<br />
 |           11 |     3669 | 2025-10-15 | FlyQuest RED        | L   | 0.282      | -            | -                | -                | -         |    -3.07 | gadfly, lunari, madss, tori, violet          |
 |           10 |     3834 | 2025-10-09 | Sakura Esports      | L   | 0.242      | -            | -                | -                | -         |    -1.96 | gadfly, lunari, madss, tori, violet          |
 |            9 |     3934 | 2025-10-07 | Zomblers            | L   | 0.229      | -            | -                | -                | -         |    -2.63 | gadfly, lunari, madss, tori, violet          |
-|            8 |     4052 | 2025-10-05 | NuTorious           | L   | 0.216      | -            | -                | -                | -         |    -4.47 | gadfly, lunari, madss, Tori, violet          |
-|            7 |     4229 | 2025-10-01 | Lotus               | W   | 0.189      | 0.520        | 0.001 (0.000)    | 0.027 (0.003)    | 0 (0.000) |     2.94 | gadfly, lunari, madss, Tori, violet          |
-|            6 |     4493 | 2025-09-25 | Black mold          | W   | 0.149      | 0.520        | 0.001 (0.000)    | 0.024 (0.002)    | 0 (0.000) |     2.30 | gadfly, lunari, madss, Tori, violet          |
-|            5 |     4721 | 2025-09-17 | Wwaves              | W   | 0.095      | 0.520        | 0.001 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.47 | gadfly, lunari, madss, Tori, violet          |
-|            4 |     4942 | 2025-09-11 | The Little Bocks    | W   | 0.056      | 0.520        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.66 | gadfly, lunari, madss, Tori, violet          |
-|            3 |     4996 | 2025-09-10 | InControl           | L   | 0.049      | -            | -                | -                | -         |    -0.66 | gadfly, lunari, madss, Tori, violet          |
-|            2 |     5053 | 2025-09-09 | Wildcard            | L   | 0.043      | -            | -                | -                | -         |    -0.49 | gadfly, lunari, madss, Tori, violet          |
-|            1 |     5107 | 2025-09-08 | Ghost Gaming        | W   | 0.036      | 0.363        | 0.002 (0.000)    | 0.072 (0.001)    | 0 (0.000) |     0.58 | gadfly, lunari, madss, Tori, violet          |
+|            8 |     4052 | 2025-10-05 | NuTorious           | L   | 0.216      | -            | -                | -                | -         |    -4.47 | gadfly, lunari, madss, tori, violet          |
+|            7 |     4229 | 2025-10-01 | Lotus               | W   | 0.189      | 0.520        | 0.001 (0.000)    | 0.027 (0.003)    | 0 (0.000) |     2.94 | gadfly, lunari, madss, tori, violet          |
+|            6 |     4493 | 2025-09-25 | Black mold          | W   | 0.149      | 0.520        | 0.001 (0.000)    | 0.024 (0.002)    | 0 (0.000) |     2.30 | gadfly, lunari, madss, tori, violet          |
+|            5 |     4721 | 2025-09-17 | Wwaves              | W   | 0.095      | 0.520        | 0.001 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.47 | gadfly, lunari, madss, tori, violet          |
+|            4 |     4942 | 2025-09-11 | The Little Bocks    | W   | 0.056      | 0.520        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.66 | gadfly, lunari, madss, tori, violet          |
+|            3 |     4996 | 2025-09-10 | InControl           | L   | 0.049      | -            | -                | -                | -         |    -0.66 | gadfly, lunari, madss, tori, violet          |
+|            2 |     5053 | 2025-09-09 | Wildcard            | L   | 0.043      | -            | -                | -                | -         |    -0.49 | gadfly, lunari, madss, tori, violet          |
+|            1 |     5107 | 2025-09-08 | Ghost Gaming        | W   | 0.036      | 0.363        | 0.002 (0.000)    | 0.072 (0.001)    | 0 (0.000) |     0.58 | gadfly, lunari, madss, tori, violet          |
 
 <br />
 <span id="table2"></span><br />

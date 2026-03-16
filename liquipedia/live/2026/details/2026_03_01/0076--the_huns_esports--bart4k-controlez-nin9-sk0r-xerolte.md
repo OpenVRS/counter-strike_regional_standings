@@ -62,10 +62,10 @@ Note:<br />
 |           31 |     1964 | 2025-12-17 | HYPERSPIRIT                | W   | 0.701      | 0.339        | -                | 0.317 (0.075)    | 1 (0.701) |     3.13 | Bart4k, cobrazera, nin9, sk0R, xerolte |
 |           30 |     1973 | 2025-12-17 | HEROIC Academy             | L   | 0.700      | -            | -                | -                | -         |   -19.50 | Bart4k, cobrazera, nin9, sk0R, xerolte |
 |           29 |     1981 | 2025-12-17 | Rottweilers                | W   | 0.698      | -            | -                | -                | 1 (0.698) |     0.85 | Bart4k, cobrazera, nin9, sk0R, xerolte |
-|           28 |     2357 | 2025-11-26 | Imperial Esports           | L   | 0.561      | -            | -                | -                | -         |    -6.39 | Bart4k, cobra, nin9, sk0R, xerolte     |
-|           27 |     2374 | 2025-11-25 | Lynn Vision Gaming         | W   | 0.554      | 0.624        | 0.089 (0.031)    | 0.268 (0.093)    | 1 (0.554) |     6.94 | Bart4k, cobra, nin9, sk0R, xerolte     |
-|           26 |     2404 | 2025-11-24 | B8                         | L   | 0.548      | -            | -                | -                | -         |    -3.42 | Bart4k, cobra, nin9, sk0R, xerolte     |
-|           25 |     2421 | 2025-11-24 | PARIVISION                 | L   | 0.546      | -            | -                | -                | -         |    -0.17 | Bart4k, cobra, nin9, sk0R, xerolte     |
+|           28 |     2357 | 2025-11-26 | Imperial Esports           | L   | 0.561      | -            | -                | -                | -         |    -6.39 | Bart4k, cobrazera, nin9, sk0R, xerolte |
+|           27 |     2374 | 2025-11-25 | Lynn Vision Gaming         | W   | 0.554      | 0.624        | 0.089 (0.031)    | 0.268 (0.093)    | 1 (0.554) |     6.94 | Bart4k, cobrazera, nin9, sk0R, xerolte |
+|           26 |     2404 | 2025-11-24 | B8                         | L   | 0.548      | -            | -                | -                | -         |    -3.42 | Bart4k, cobrazera, nin9, sk0R, xerolte |
+|           25 |     2421 | 2025-11-24 | PARIVISION                 | L   | 0.546      | -            | -                | -                | -         |    -0.17 | Bart4k, cobrazera, nin9, sk0R, xerolte |
 |           24 |     3619 | 2025-10-17 | Rare Atom                  | L   | 0.292      | -            | -                | -                | -         |    -6.49 | Bart4k, cobrazera, nin9, sk0R, xerolte |
 |           23 |     3690 | 2025-10-15 | Rare Atom                  | W   | 0.279      | 0.333        | 0.049 (0.005)    | -                | -         |     2.60 | Bart4k, cobrazera, nin9, sk0R, xerolte |
 |           22 |     3724 | 2025-10-14 | Virtus.pro                 | L   | 0.272      | -            | -                | -                | -         |    -6.67 | Bart4k, cobrazera, nin9, sk0R, xerolte |

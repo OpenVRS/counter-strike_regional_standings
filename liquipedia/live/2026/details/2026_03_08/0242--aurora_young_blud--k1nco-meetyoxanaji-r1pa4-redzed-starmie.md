@@ -1,0 +1,64 @@
+### Roster Details<br />
+Team Name: Aurora Young Blud<br />
+Roster: k1nco, meetyoxanaji, r1pa4, redzed, starmie<br />
+Global Rank: [242](../../standings_global_2026_03_08.md)<br />
+<br />
+Region: [Europe]( ../../standings_europe_2026_03_08.md)<br />
+Regional Rank: [156]( ../../standings_europe_2026_03_08.md)<br />
+<br />
+Final Rank Value:  626.3<br />
+<br />
+Final Rank Value (626.3) = Starting Rank Value (530.2) + Head To Head Adjustments (96.0)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.000[<sup>1</sup>](#table2)
+- Bounty Collected: 0.239[<sup>2</sup>](#table1)
+- Opponent Network: 0.032[<sup>2</sup>](#table1)
+- LAN Wins: 0.000[<sup>2</sup>](#table1)
+
+The average of these factors is 0.068<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 530.2
+- 400 + ( ( 0.068 - 0.000 ) / ( 0.833 - 0.000 ) ) * 1600 = 530.2
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+
+- A team offers ownNetwork for other teams to collect for their network
+- Own Network: 0.185
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|            9 |      187 | 2026-02-28 | Yngods        | L   | 1.000      | -            | -                | -                | -         |   -19.99 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            8 |      200 | 2026-02-28 | HAVU          | L   | 1.000      | -            | -                | -                | -         |    -3.76 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            7 |      240 | 2026-02-27 | G2 Ares       | W   | 1.000      | 0.278        | 0.003 (0.001)    | 0.117 (0.033)    | 0 (0.000) |    24.21 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            6 |      284 | 2026-02-26 | Atreides      | L   | 1.000      | -            | -                | -                | -         |   -12.88 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            5 |      302 | 2026-02-26 | MASONIC       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.558 (0.080)    | 0 (0.000) |    26.24 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            4 |      371 | 2026-02-25 | ENCE Academy  | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.400 (0.057)    | 0 (0.000) |    26.09 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            3 |     1133 | 2026-02-07 | Los kogutos   | L   | 1.000      | -            | -                | -                | -         |    -2.59 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            2 |     1248 | 2026-02-03 | Rebels Gaming | W   | 0.978      | 0.143        | 0.018 (0.002)    | 0.338 (0.047)    | 0 (0.000) |    29.07 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            1 |     1293 | 2026-02-02 | WW Team       | W   | 0.970      | 0.143        | 0.021 (0.003)    | 0.748 (0.104)    | 0 (0.000) |    29.63 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($0.00)
+- Divide that value by the 5th highest value among all rosters ($309,028.95)
+- The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by Liquipedia.net_<br />

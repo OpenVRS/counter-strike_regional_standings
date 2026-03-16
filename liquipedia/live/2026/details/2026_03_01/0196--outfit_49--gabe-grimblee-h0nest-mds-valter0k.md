@@ -57,8 +57,8 @@ Note:<br />
 |           22 |     1034 | 2026-02-04 | Life's A Game             | L   | 1.000      | -            | -                | -                | -         |   -10.84 | Gabe, Grimblee, H0NeST, mds, Valter0k  |
 |           21 |     1056 | 2026-02-03 | OverKnight                | W   | 1.000      | 0.333        | -                | 0.133 (0.044)    | 0 (0.000) |    15.00 | Gabe, Grimblee, H0NeST, mds, Valter0k  |
 |           20 |     1090 | 2026-02-02 | Team Aether               | L   | 1.000      | -            | -                | -                | -         |   -18.90 | Gabe, Grimblee, H0NeST, mds, Valter0k  |
-|           19 |     1762 | 2026-01-10 | SkinRave Esports          | L   | 0.861      | -            | -                | -                | -         |    -6.50 | Gabe, H0NEST, jchancE, mds, Valter0k   |
-|           18 |     1769 | 2026-01-09 | NRG                       | L   | 0.856      | -            | -                | -                | -         |    -0.51 | Gabe, H0NEST, jchancE, mds, Valter0k   |
+|           19 |     1762 | 2026-01-10 | SkinRave Esports          | L   | 0.861      | -            | -                | -                | -         |    -6.50 | Gabe, H0NeST, jchancE, mds, Valter0k   |
+|           18 |     1769 | 2026-01-09 | NRG                       | L   | 0.856      | -            | -                | -                | -         |    -0.51 | Gabe, H0NeST, jchancE, mds, Valter0k   |
 |           17 |     1991 | 2025-12-15 | Regain                    | L   | 0.689      | -            | -                | -                | -         |   -10.91 | Gabe, H0NeST, jchancE, mds, Redman     |
 |           16 |     2057 | 2025-12-09 | Take Flyte                | W   | 0.649      | -            | -                | -                | 0 (0.000) |     5.63 | Gabe, H0NeST, jchancE, mds, Redman     |
 |           15 |     2076 | 2025-12-08 | Wanted Goons              | W   | 0.643      | -            | -                | -                | -         |     5.04 | Gabe, H0NeST, jchancE, mds, Redman     |

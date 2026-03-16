@@ -41,9 +41,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           66 |      547 | 2026-02-17 | FOKUS                     | L   | 1.000      | -            | -                | -                | -         |   -27.95 | 0SAMAS, bibu, juanflatroo, m1N1, sinnopsyy |
-|           65 |      600 | 2026-02-16 | UNiTY esports             | L   | 1.000      | -            | -                | -                | -         |   -15.53 | 0SAMAS, bibu, juanflatroo, m1N1, Sinnopsyy |
-|           64 |      660 | 2026-02-15 | Fire Flux Esports         | W   | 1.000      | 0.384        | 0.014 (0.006)    | 0.440 (0.169)    | 0 (0.000) |    12.16 | 0SAMAS, bibu, juanflatroo, m1N1, Sinnopsyy |
-|           63 |      689 | 2026-02-14 | Ex-Flame Sharks           | L   | 1.000      | -            | -                | -                | -         |   -25.39 | 0SAMAS, bibu, juanflatroo, m1N1, Sinnopsyy |
+|           65 |      600 | 2026-02-16 | UNiTY esports             | L   | 1.000      | -            | -                | -                | -         |   -15.53 | 0SAMAS, bibu, juanflatroo, m1N1, sinnopsyy |
+|           64 |      660 | 2026-02-15 | Fire Flux Esports         | W   | 1.000      | 0.384        | 0.014 (0.006)    | 0.440 (0.169)    | 0 (0.000) |    12.16 | 0SAMAS, bibu, juanflatroo, m1N1, sinnopsyy |
+|           63 |      689 | 2026-02-14 | Ex-Flame Sharks           | L   | 1.000      | -            | -                | -                | -         |   -25.39 | 0SAMAS, bibu, juanflatroo, m1N1, sinnopsyy |
 |           62 |      757 | 2026-02-13 | 9INE                      | L   | 1.000      | -            | -                | -                | -         |    -5.45 | 0SAMAS, bibu, juanflatroo, m1N1, sinnopsyy |
 |           61 |      796 | 2026-02-12 | Eternal Fire              | W   | 1.000      | 0.384        | -                | 0.405 (0.156)    | 1 (1.000) |    15.61 | 0SAMAS, bibu, juanflatroo, m1N1, sinnopsyy |
 |           60 |     1324 | 2026-01-25 | FlyQuest                  | L   | 0.958      | -            | -                | -                | -         |    -4.16 | 0SAMAS, bibu, BOROS, m1N1, sinnopsyy       |

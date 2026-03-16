@@ -56,7 +56,7 @@ Note:<br />
 |           54 |     1167 | 2026-01-31 | Ex-RUBY                 | L   | 1.000      | -            | -                | -                | -         |   -22.43 | b1elany, Flayy, innocent, Qlocuu, Sobol |
 |           53 |     1199 | 2026-01-30 | MINLATE (European team) | W   | 0.993      | 0.435        | -                | 0.462 (0.200)    | -         |     8.45 | b1elany, Flayy, innocent, Qlocuu, Sobol |
 |           52 |     1262 | 2026-01-28 | Ex-RUBY                 | W   | 0.978      | 0.435        | 0.029 (0.012)    | 1.000 (0.425)    | -         |     9.48 | b1elany, Flayy, innocent, Qlocuu, Sobol |
-|           51 |     1277 | 2026-01-27 | Eternal Fire            | W   | 0.972      | -            | -                | -                | -         |     9.11 | B1elany, Flayy, innocent, Qlocuu, Sobol |
+|           51 |     1277 | 2026-01-27 | Eternal Fire            | W   | 0.972      | -            | -                | -                | -         |     9.11 | b1elany, Flayy, innocent, Qlocuu, Sobol |
 |           50 |     1295 | 2026-01-26 | Los kogutos             | W   | 0.967      | 0.435        | 0.037 (0.015)    | 1.000 (0.420)    | -         |     9.04 | b1elany, Flayy, innocent, Qlocuu, Sobol |
 |           49 |     1445 | 2026-01-22 | Nuclear TigeRES         | L   | 0.939      | -            | -                | -                | -         |   -11.70 | b1elany, Flayy, innocent, Qlocuu, Sobol |
 |           48 |     1468 | 2026-01-21 | BetBoom Team            | L   | 0.934      | -            | -                | -                | -         |    -6.38 | b1elany, Flayy, innocent, Qlocuu, Sobol |

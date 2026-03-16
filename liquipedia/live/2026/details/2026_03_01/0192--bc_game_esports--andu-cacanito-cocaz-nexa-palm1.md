@@ -40,9 +40,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           37 |      331 | 2026-02-21 | Bushido Wildcats        | L   | 1.000      | -            | -                | -                | -         |   -14.11 | ANdu, CacaNito, Cocaz, nexa, PALM1       |
-|           36 |      475 | 2026-02-18 | Team Pigeons            | L   | 1.000      | -            | -                | -                | -         |   -12.78 | ANdu, CacaNito, Cocaz, nexa, PALM1       |
-|           35 |      577 | 2026-02-16 | CSDIILIT                | L   | 1.000      | -            | -                | -                | -         |   -17.01 | ANdu, CacaNito, Cocaz, nexa, PALM1       |
+|           37 |      331 | 2026-02-21 | Bushido Wildcats        | L   | 1.000      | -            | -                | -                | -         |   -14.11 | aNdu, CacaNito, Cocaz, nexa, PALM1       |
+|           36 |      475 | 2026-02-18 | Team Pigeons            | L   | 1.000      | -            | -                | -                | -         |   -12.78 | aNdu, CacaNito, Cocaz, nexa, PALM1       |
+|           35 |      577 | 2026-02-16 | CSDIILIT                | L   | 1.000      | -            | -                | -                | -         |   -17.01 | aNdu, CacaNito, Cocaz, nexa, PALM1       |
 |           34 |     1398 | 2026-01-23 | UNiTY esports           | L   | 0.946      | -            | -                | -                | -         |    -9.84 | aNdu, CacaNito, Cocaz, nexa, PALM1       |
 |           33 |     1531 | 2026-01-19 | Zajezdzacze             | L   | 0.918      | -            | -                | -                | -         |   -21.01 | aNdu, CacaNito, Cocaz, nexa, PALM1       |
 |           32 |     2046 | 2025-12-11 | CYBERSHOKE Esports      | L   | 0.658      | -            | -                | -                | -         |    -1.97 | aNdu, CacaNito, electroNic, nexa, s1mple |
@@ -67,7 +67,7 @@ Note:<br />
 |           13 |     3778 | 2025-10-11 | Eternal Fire            | L   | 0.253      | -            | -                | -                | -         |    -4.54 | aNdu, CacaNito, emi, FL4MUS, nexa        |
 |           12 |     3855 | 2025-10-09 | Partizan Esports        | L   | 0.240      | -            | -                | -                | -         |    -4.72 | aNdu, CacaNito, emi, nexa, s1mple        |
 |           11 |     3959 | 2025-10-07 | Nexus Gaming            | W   | 0.227      | 0.384        | -                | 0.685 (0.060)    | 0 (0.000) |     5.78 | aNdu, CacaNito, emi, nexa, s1mple        |
-|           10 |     4073 | 2025-10-05 | RUBY                    | L   | 0.214      | -            | -                | -                | -         |    -3.39 | aNdu, CacaNito, nexa, Pr1metapz, s1mple  |
+|           10 |     4073 | 2025-10-05 | RUBY                    | L   | 0.214      | -            | -                | -                | -         |    -3.39 | aNdu, CacaNito, nexa, pr1metapz, s1mple  |
 |            9 |     4562 | 2025-09-23 | Alliance                | W   | 0.134      | 0.384        | 0.124 (0.006)    | 0.943 (0.048)    | 0 (0.000) |     4.00 | aNdu, CacaNito, nexa, pr1metapz, s1mple  |
 |            8 |     4577 | 2025-09-22 | Friendly Campers        | W   | 0.127      | 0.384        | 0.070 (0.003)    | 0.408 (0.020)    | 0 (0.000) |     3.54 | aNdu, CacaNito, nexa, pr1metapz, s1mple  |
 |            7 |     4589 | 2025-09-22 | RUBY                    | L   | 0.125      | -            | -                | -                | -         |    -2.06 | aNdu, CacaNito, nexa, pr1metapz, s1mple  |

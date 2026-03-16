@@ -53,8 +53,8 @@ Note:<br />
 |            5 |     3746 | 2025-10-13 | Bounty Hunters Esports | W   | 0.266      | 0.371        | 0.016 (0.002)    | 0.425 (0.042)    | 0 (0.000) |     6.53 | Lich, MITHPUTTINI, prisma, spinnie, xns   |
 |            4 |     3777 | 2025-10-11 | Crashers               | W   | 0.253      | 0.371        | 0.000 (0.000)    | 0.225 (0.021)    | 0 (0.000) |     2.91 | Lich, MITHPUTTINI, prisma, spinnie, xns   |
 |            3 |     3864 | 2025-10-09 | Fuego eSports          | L   | 0.239      | -            | -                | -                | -         |    -5.15 | Lich, MITHPUTTINI, prisma, spinnie, xns   |
-|            2 |     3942 | 2025-10-07 | Fuego eSports          | L   | 0.228      | -            | -                | -                | -         |    -4.99 | Lich, MITHPUTTINI, Prisma, Spinnie, xns   |
-|            1 |     4007 | 2025-10-06 | R2 Esports Club        | W   | 0.221      | 0.371        | 0.000 (0.000)    | 0.009 (0.001)    | 0 (0.000) |     2.31 | Lich, MITHPUTTINI, Prisma, Spinnie, xns   |
+|            2 |     3942 | 2025-10-07 | Fuego eSports          | L   | 0.228      | -            | -                | -                | -         |    -4.99 | Lich, MITHPUTTINI, prisma, spinnie, xns   |
+|            1 |     4007 | 2025-10-06 | R2 Esports Club        | W   | 0.221      | 0.371        | 0.000 (0.000)    | 0.009 (0.001)    | 0 (0.000) |     2.31 | Lich, MITHPUTTINI, prisma, spinnie, xns   |
 
 <br />
 <span id="table2"></span><br />

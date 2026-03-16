@@ -41,11 +41,11 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           14 |      359 | 2026-02-21 | BBBMBCBS                         | L   | 1.000      | -            | -                | -                | -         |   -14.13 | camille, ElephanT, harbor, Kezza, lawlkay |
-|           13 |      403 | 2026-02-20 | Arcade Esports (Australian team) | L   | 1.000      | -            | -                | -                | -         |    -7.85 | camille, ElephanT, Harbor, Kezza, lawlkay |
-|           12 |      447 | 2026-02-19 | Exsto Gaming                     | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.36 | camille, ElephanT, Harbor, Kezza, lawlkay |
+|           13 |      403 | 2026-02-20 | Arcade Esports (Australian team) | L   | 1.000      | -            | -                | -                | -         |    -7.85 | camille, ElephanT, harbor, Kezza, lawlkay |
+|           12 |      447 | 2026-02-19 | Exsto Gaming                     | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.36 | camille, ElephanT, harbor, Kezza, lawlkay |
 |           11 |      453 | 2026-02-19 | Arcade Esports (Australian team) | L   | 1.000      | -            | -                | -                | -         |    -8.00 | camille, ElephanT, harbor, Kezza, lawlkay |
-|           10 |      504 | 2026-02-18 | Mindfreak (Australian team)      | L   | 1.000      | -            | -                | -                | -         |    -3.82 | camille, ElephanT, Harbor, Kezza, lawlkay |
-|            9 |      567 | 2026-02-17 | FURY                             | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.053 (0.015)    | 0 (0.000) |    16.27 | camille, ElephanT, Harbor, Kezza, lawlkay |
+|           10 |      504 | 2026-02-18 | Mindfreak (Australian team)      | L   | 1.000      | -            | -                | -                | -         |    -3.82 | camille, ElephanT, harbor, Kezza, lawlkay |
+|            9 |      567 | 2026-02-17 | FURY                             | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.053 (0.015)    | 0 (0.000) |    16.27 | camille, ElephanT, harbor, Kezza, lawlkay |
 |            8 |      572 | 2026-02-17 | BBBMBCBS                         | W   | 1.000      | 0.318        | 0.000 (0.000)    | 0.181 (0.057)    | 0 (0.000) |    16.61 | camille, ElephanT, harbor, Kezza, lawlkay |
 |            7 |     2274 | 2025-11-29 | Mindfreak (Australian team)      | L   | 0.582      | -            | -                | -                | -         |    -1.86 | camille, ElephanT, harbor, Kezza, lawlkay |
 |            6 |     2275 | 2025-11-29 | Rooster                          | L   | 0.582      | -            | -                | -                | -         |    -2.57 | camille, ElephanT, harbor, Kezza, lawlkay |

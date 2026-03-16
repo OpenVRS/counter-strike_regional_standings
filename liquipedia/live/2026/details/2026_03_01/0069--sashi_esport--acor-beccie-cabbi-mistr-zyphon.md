@@ -52,7 +52,7 @@ Note:<br />
 |           58 |      301 | 2026-02-22 | BOSS                   | W   | 1.000      | 0.341        | 0.017 (0.006)    | 0.455 (0.155)    | 1 (1.000) |     4.82 | acoR, Beccie, Cabbi, MistR, Zyphon    |
 |           57 |      812 | 2026-02-12 | ECSTATIC               | L   | 1.000      | -            | -                | -                | -         |    -8.37 | acoR, Beccie, Cabbi, MistR, Zyphon    |
 |           56 |      819 | 2026-02-12 | KOLESIE                | L   | 1.000      | -            | -                | -                | -         |   -11.64 | acoR, Beccie, Cabbi, MistR, Zyphon    |
-|           55 |     1068 | 2026-02-03 | AM Gaming              | L   | 1.000      | -            | -                | -                | -         |   -20.29 | Beccie, Cabbi, MistR, N1Xen, Zyphon   |
+|           55 |     1068 | 2026-02-03 | AM Gaming              | L   | 1.000      | -            | -                | -                | -         |   -20.29 | Beccie, Cabbi, MistR, n1Xen, Zyphon   |
 |           54 |     1140 | 2026-02-01 | Oramond                | L   | 1.000      | -            | -                | -                | -         |   -14.73 | acoR, Beccie, Cabbi, MistR, Zyphon    |
 |           53 |     1213 | 2026-01-30 | MASONIC                | W   | 0.991      | 0.371        | -                | 0.517 (0.190)    | -         |     5.57 | acoR, Beccie, Cabbi, MistR, Zyphon    |
 |           52 |     1608 | 2026-01-17 | Johnny Speeds          | L   | 0.905      | -            | -                | -                | -         |   -15.16 | acoR, Beccie, Cabbi, MistR, Zyphon    |

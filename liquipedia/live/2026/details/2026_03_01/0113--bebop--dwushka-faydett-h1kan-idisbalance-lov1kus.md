@@ -76,9 +76,9 @@ Note:<br />
 |            6 |     3809 | 2025-10-10 | Team Nemesis     | L   | 0.247      | -            | -                | -                | -         |    -0.45 | dwushka, faydett, h1kaN, mag1k3Y, sugaR         |
 |            5 |     3852 | 2025-10-09 | The Glecs        | W   | 0.240      | -            | -                | -                | -         |     1.30 | dwushka, faydett, h1kaN, mag1k3Y, sugaR         |
 |            4 |     3909 | 2025-10-08 | SINNERS Esports  | L   | 0.234      | -            | -                | -                | -         |    -0.32 | dwushka, faydett, h1kaN, mag1k3Y, sugaR         |
-|            3 |     4080 | 2025-10-05 | Nemiga Gaming    | W   | 0.214      | 0.384        | 0.092 (0.008)    | -                | -         |     6.36 | dwushka, faydett, H1kaN, mag1k3Y, sugaR         |
+|            3 |     4080 | 2025-10-05 | Nemiga Gaming    | W   | 0.214      | 0.384        | 0.092 (0.008)    | -                | -         |     6.36 | dwushka, faydett, h1kaN, mag1k3Y, sugaR         |
 |            2 |     4886 | 2025-09-13 | RUSTEC           | L   | 0.066      | -            | -                | -                | -         |    -1.77 | dwushka, faydett, h1kaN, mag1k3Y, sugaR         |
-|            1 |     5124 | 2025-09-08 | Fnatic           | L   | 0.034      | -            | -                | -                | -         |    -0.06 | dwushka, faydett, H1kaN, mag1k3Y, sugaR         |
+|            1 |     5124 | 2025-09-08 | Fnatic           | L   | 0.034      | -            | -                | -                | -         |    -0.06 | dwushka, faydett, h1kaN, mag1k3Y, sugaR         |
 
 <br />
 <span id="table2"></span><br />

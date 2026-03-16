@@ -70,7 +70,7 @@ Note:<br />
 |            8 |     2611 | 2025-11-17 | HAVU                 | L   | 0.498      | -            | -                | -                | -         |    -3.99 | ADRON, Ciocardau, d1maje, ragga, starplajerz |
 |            7 |     2816 | 2025-11-09 | Nuclear TigeRES      | L   | 0.446      | -            | -                | -                | -         |    -0.91 | ADRON, Ciocardau, d1maje, ragga, starplajerz |
 |            6 |     2996 | 2025-11-06 | K27                  | L   | 0.427      | -            | -                | -                | -         |    -0.48 | ADRON, Ciocardau, d1maje, ragga, starplajerz |
-|            5 |     3030 | 2025-11-05 | Nuclear TigeRES      | W   | 0.420      | 0.384        | 0.082 (0.013)    | 1.000 (0.161)    | -         |    12.45 | ADRON, Ciocardau, d1maje, ragga, Starplajerz |
+|            5 |     3030 | 2025-11-05 | Nuclear TigeRES      | W   | 0.420      | 0.384        | 0.082 (0.013)    | 1.000 (0.161)    | -         |    12.45 | ADRON, Ciocardau, d1maje, ragga, starplajerz |
 |            4 |     3343 | 2025-10-26 | HubaBuba             | L   | 0.352      | -            | -                | -                | -         |    -9.49 | ADRON, Ciocardau, d1maje, ragga, smekk       |
 |            3 |     3397 | 2025-10-25 | SPARTA Esports       | L   | 0.345      | -            | -                | -                | -         |    -5.09 | ADRON, Ciocardau, d1maje, ragga, smekk       |
 |            2 |     4507 | 2025-09-25 | BIG Academy          | L   | 0.147      | -            | -                | -                | -         |    -4.19 | ADRON, Ciocardau, d1maje, kritik, ragga      |

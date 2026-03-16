@@ -128,16 +128,16 @@ Note:<br />
 |           13 |     4695 | 2025-09-18 | Team Nemesis                              | L   | 0.100      | -            | -                | -                | -         |    -0.76 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |           12 |     4770 | 2025-09-16 | Team Spirit Academy                       | L   | 0.085      | -            | -                | -                | -         |    -2.37 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |           11 |     4825 | 2025-09-14 | JiJieHao                                  | W   | 0.073      | -            | -                | -                | -         |     0.72 | h1te, MaSvAl, synyx, tENZY, Vert     |
-|           10 |     4850 | 2025-09-14 | SINNERS Esports                           | L   | 0.071      | -            | -                | -                | -         |    -0.36 | H1te, MaSvAl, synyx, tENZY, Vert     |
+|           10 |     4850 | 2025-09-14 | SINNERS Esports                           | L   | 0.071      | -            | -                | -                | -         |    -0.36 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            9 |     4881 | 2025-09-13 | Partizan Esports                          | W   | 0.066      | -            | -                | -                | -         |     0.21 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            8 |     4920 | 2025-09-12 | 33                                        | L   | 0.060      | -            | -                | -                | -         |    -1.05 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            7 |     4930 | 2025-09-12 | ARCRED                                    | W   | 0.059      | -            | -                | -                | -         |     0.83 | h1te, MaSvAl, synyx, tENZY, Vert     |
-|            6 |     4937 | 2025-09-12 | FORZE Reload                              | L   | 0.058      | -            | -                | -                | -         |    -1.47 | H1te, MaSvAl, synyx, tENZY, Vert     |
+|            6 |     4937 | 2025-09-12 | FORZE Reload                              | L   | 0.058      | -            | -                | -                | -         |    -1.47 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            5 |     4977 | 2025-09-11 | SPARTA Esports                            | L   | 0.053      | -            | -                | -                | -         |    -1.38 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            4 |     5024 | 2025-09-10 | Partizan Esports                          | W   | 0.047      | -            | -                | -                | -         |     0.04 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            3 |     5065 | 2025-09-09 | Run&Kill                                  | W   | 0.040      | -            | -                | -                | -         |     0.02 | h1te, MaSvAl, synyx, tENZY, Vert     |
 |            2 |     5117 | 2025-09-08 | FUT Esports                               | L   | 0.034      | -            | -                | -                | -         |    -0.08 | h1te, MaSvAl, synyx, tENZY, Vert     |
-|            1 |     5142 | 2025-09-08 | FC Famalicão Esports                      | W   | 0.031      | -            | -                | -                | -         |     0.02 | H1te, MaSvAl, synyx, tENZY, Vert     |
+|            1 |     5142 | 2025-09-08 | FC Famalicão Esports                      | W   | 0.031      | -            | -                | -                | -         |     0.02 | h1te, MaSvAl, synyx, tENZY, Vert     |
 
 <br />
 <span id="table2"></span><br />

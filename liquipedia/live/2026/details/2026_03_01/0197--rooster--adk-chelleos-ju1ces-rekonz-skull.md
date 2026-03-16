@@ -1,6 +1,6 @@
 ### Roster Details<br />
 Team Name: Rooster<br />
-Roster: ADK, chelleos, Ju1ces, rekonz, SkulL<br />
+Roster: ADK, chelleos, ju1ces, rekonz, SkulL<br />
 Global Rank: [197](../../standings_global_2026_03_01.md)<br />
 <br />
 Region: [Asia]( ../../standings_asia_2026_03_01.md)<br />
@@ -40,11 +40,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |      219 | 2026-02-24 | Skele                            | L   | 1.000      | -            | -                | -                | -         |   -18.17 | ADK, chelleos, Ju1ces, rekonz, SkulL      |
-|           27 |      315 | 2026-02-22 | Team Abyssal                     | L   | 1.000      | -            | -                | -                | -         |   -18.63 | ADK, chelleos, Ju1ces, rekonz, SkulL      |
-|           26 |      353 | 2026-02-21 | Skele                            | L   | 1.000      | -            | -                | -                | -         |   -20.32 | ADK, chelleos, Ju1ces, rekonz, SkulL      |
-|           25 |      404 | 2026-02-20 | BBBMBCBS                         | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.181 (0.050)    | 0 (0.000) |     6.17 | ADK, chelleos, Ju1ces, rekonz, SkulL      |
-|           24 |      502 | 2026-02-18 | Skele                            | L   | 1.000      | -            | -                | -                | -         |   -20.84 | ADK, chelleos, Ju1ces, rekonz, SkulL      |
+|           28 |      219 | 2026-02-24 | Skele                            | L   | 1.000      | -            | -                | -                | -         |   -18.17 | ADK, chelleos, ju1ces, rekonz, SkulL      |
+|           27 |      315 | 2026-02-22 | Team Abyssal                     | L   | 1.000      | -            | -                | -                | -         |   -18.63 | ADK, chelleos, ju1ces, rekonz, SkulL      |
+|           26 |      353 | 2026-02-21 | Skele                            | L   | 1.000      | -            | -                | -                | -         |   -20.32 | ADK, chelleos, ju1ces, rekonz, SkulL      |
+|           25 |      404 | 2026-02-20 | BBBMBCBS                         | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.181 (0.050)    | 0 (0.000) |     6.17 | ADK, chelleos, ju1ces, rekonz, SkulL      |
+|           24 |      502 | 2026-02-18 | Skele                            | L   | 1.000      | -            | -                | -                | -         |   -20.84 | ADK, chelleos, ju1ces, rekonz, SkulL      |
 |           23 |      946 | 2026-02-08 | THUNDERdOWNUNDER                 | L   | 1.000      | -            | -                | -                | -         |   -11.92 | chelleos, ju1ces, rekonz, SkulL, viridian |
 |           22 |      947 | 2026-02-07 | Mindfreak (Australian team)      | W   | 1.000      | 0.305        | 0.021 (0.006)    | 0.428 (0.131)    | 0 (0.000) |    18.77 | chelleos, ju1ces, rekonz, SkulL, viridian |
 |           21 |      970 | 2026-02-06 | Arcade Esports (Australian team) | W   | 1.000      | 0.305        | 0.002 (0.000)    | 0.217 (0.066)    | 0 (0.000) |    12.23 | chelleos, ju1ces, rekonz, SkulL, viridian |
@@ -64,9 +64,9 @@ Note:<br />
 |            7 |     2322 | 2025-11-28 | BBBMBCBS                         | W   | 0.578      | 0.279        | -                | 0.181 (0.029)    | 1 (0.578) |     3.11 | ADK, chelleos, ju1ces, Terryyy, viridian  |
 |            6 |     2324 | 2025-11-28 | Arcade Esports (Australian team) | W   | 0.577      | 0.279        | 0.002 (0.000)    | 0.217 (0.035)    | 1 (0.577) |     7.00 | ADK, chelleos, ju1ces, Terryyy, viridian  |
 |            5 |     2458 | 2025-11-23 | FURY                             | L   | 0.538      | -            | -                | -                | -         |   -14.14 | ADK, chelleos, ju1ces, Terryyy, viridian  |
-|            4 |     2534 | 2025-11-21 | Ground Zero Gaming               | L   | 0.524      | -            | -                | -                | -         |    -9.72 | ADK, chelleos, Ju1ces, Terryyy, viridian  |
-|            3 |     2565 | 2025-11-20 | BO0STERS                         | W   | 0.518      | -            | -                | -                | -         |     1.64 | ADK, chelleos, Ju1ces, Terryyy, viridian  |
-|            2 |     2599 | 2025-11-18 | Mindfreak (Australian team)      | L   | 0.505      | -            | -                | -                | -         |    -6.47 | ADK, chelleos, Ju1ces, Terryyy, viridian  |
+|            4 |     2534 | 2025-11-21 | Ground Zero Gaming               | L   | 0.524      | -            | -                | -                | -         |    -9.72 | ADK, chelleos, ju1ces, Terryyy, viridian  |
+|            3 |     2565 | 2025-11-20 | BO0STERS                         | W   | 0.518      | -            | -                | -                | -         |     1.64 | ADK, chelleos, ju1ces, Terryyy, viridian  |
+|            2 |     2599 | 2025-11-18 | Mindfreak (Australian team)      | L   | 0.505      | -            | -                | -                | -         |    -6.47 | ADK, chelleos, ju1ces, Terryyy, viridian  |
 |            1 |     2612 | 2025-11-17 | BO0STERS                         | W   | 0.498      | -            | -                | -                | -         |     1.49 | ADK, chelleos, ju1ces, Terryyy, viridian  |
 
 <br />

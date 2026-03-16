@@ -53,7 +53,7 @@ Note:<br />
 |            5 |     3628 | 2025-10-17 | Copenhagen Wolves (American organization) | L   | 0.291      | -            | -                | -                | -         |    -1.90 | crickeyyy, hAw, hodix, jackast, L1seYoung |
 |            4 |     3852 | 2025-10-09 | Bebop                                     | L   | 0.240      | -            | -                | -                | -         |    -1.30 | crickeyyy, hAw, hodix, jackast, Yats1k    |
 |            3 |     3955 | 2025-10-07 | HOTU                                      | W   | 0.227      | 0.384        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.48 | crickeyyy, hAw, hodix, jackast, Yats1k    |
-|            2 |     4012 | 2025-10-06 | Monte                                     | L   | 0.220      | -            | -                | -                | -         |    -0.06 | crickeyyy, HAw, hodix, jackast, Mad1nho   |
+|            2 |     4012 | 2025-10-06 | Monte                                     | L   | 0.220      | -            | -                | -                | -         |    -0.06 | crickeyyy, hAw, hodix, jackast, mad1nho   |
 |            1 |     4291 | 2025-09-30 | K27                                       | L   | 0.179      | -            | -                | -                | -         |    -0.04 | crickeyyy, hAw, hodix, jackast, mad1nho   |
 
 <br />

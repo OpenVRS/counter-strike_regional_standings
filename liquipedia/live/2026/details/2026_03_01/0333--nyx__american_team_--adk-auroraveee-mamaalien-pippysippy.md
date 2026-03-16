@@ -40,8 +40,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     3354 | 2025-10-25 | OverKnight              | L   | 0.349      | -            | -                | -                | -         |    -2.15 | ADK, AuroraVeee, jaydee, MamaAlien, PippySippy |
-|            4 |     3469 | 2025-10-23 | Ex-Nocturnal Esports    | L   | 0.336      | -            | -                | -                | -         |    -2.61 | ADK, AuroraVeee, jaydee, MamaAlien, PippySippy |
+|            5 |     3354 | 2025-10-25 | OverKnight              | L   | 0.349      | -            | -                | -                | -         |    -2.15 | ADK, AuroraVeee, Jaydee, MamaAlien, PippySippy |
+|            4 |     3469 | 2025-10-23 | Ex-Nocturnal Esports    | L   | 0.336      | -            | -                | -                | -         |    -2.61 | ADK, AuroraVeee, Jaydee, MamaAlien, PippySippy |
 |            3 |     4949 | 2025-09-11 | Anything else           | L   | 0.056      | -            | -                | -                | -         |    -0.68 | ADK, AuroraVeee, Kimmy, MamaAlien, PippySippy  |
 |            2 |     5000 | 2025-09-10 | Phoenix (American team) | W   | 0.049      | 0.363        | 0.000 (0.000)    | 0.018 (0.000)    | 0 (0.000) |     1.00 | ADK, AuroraVeee, Kimmy, MamaAlien, PippySippy  |
 |            1 |     5105 | 2025-09-08 | OverKnight              | L   | 0.036      | -            | -                | -                | -         |    -0.24 | ADK, AuroraVeee, Kimmy, MamaAlien, PippySippy  |

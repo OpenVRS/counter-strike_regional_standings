@@ -59,9 +59,9 @@ Note:<br />
 |            6 |     3506 | 2025-10-23 | DQZS                       | W   | 0.333      | -            | -                | -                | -         |     0.88 | cool4st, efire, ROUX, Tikuak, yAmi    |
 |            5 |     3922 | 2025-10-08 | Just Swing (Chinese team)  | L   | 0.233      | -            | -                | -                | -         |    -5.08 | controlez, cool4st, efire, ROUX, yAmi |
 |            4 |     3975 | 2025-10-07 | Team GATERON               | W   | 0.226      | 0.333        | 0.000 (0.000)    | 0.027 (0.002)    | -         |     1.60 | controlez, cool4st, efire, ROUX, yAmi |
-|            3 |     4213 | 2025-10-02 | The Huns Esports           | L   | 0.193      | -            | -                | -                | -         |    -0.96 | ariucle, cool4st, Efire, ROUX, yAmi   |
-|            2 |     4221 | 2025-10-02 | Nomads (Mongolian team)    | W   | 0.192      | 0.333        | 0.002 (0.000)    | 0.048 (0.003)    | 1 (0.192) |     1.44 | ariucle, cool4st, Efire, ROUX, yAmi   |
-|            1 |     4227 | 2025-10-01 | The QUBE Esports           | W   | 0.190      | 0.333        | 0.004 (0.000)    | 0.147 (0.009)    | 1 (0.190) |     1.67 | ariucle, cool4st, Efire, ROUX, yAmi   |
+|            3 |     4213 | 2025-10-02 | The Huns Esports           | L   | 0.193      | -            | -                | -                | -         |    -0.96 | ariucle, cool4st, efire, ROUX, yAmi   |
+|            2 |     4221 | 2025-10-02 | Nomads (Mongolian team)    | W   | 0.192      | 0.333        | 0.002 (0.000)    | 0.048 (0.003)    | 1 (0.192) |     1.44 | ariucle, cool4st, efire, ROUX, yAmi   |
+|            1 |     4227 | 2025-10-01 | The QUBE Esports           | W   | 0.190      | 0.333        | 0.004 (0.000)    | 0.147 (0.009)    | 1 (0.190) |     1.67 | ariucle, cool4st, efire, ROUX, yAmi   |
 
 <br />
 <span id="table2"></span><br />

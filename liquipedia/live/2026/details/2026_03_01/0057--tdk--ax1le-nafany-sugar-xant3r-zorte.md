@@ -61,7 +61,7 @@ Note:<br />
 |           19 |      797 | 2026-02-12 | CSDIILIT                                  | W   | 1.000      | -            | -                | -                | -         |     8.11 | Ax1Le, nafany, sugaR, Xant3r, zorte  |
 |           18 |      824 | 2026-02-12 | FC Famalicão Esports                      | W   | 1.000      | -            | -                | -                | -         |    13.67 | Ax1Le, nafany, sugaR, Xant3r, zorte  |
 |           17 |      843 | 2026-02-11 | Atreides                                  | W   | 1.000      | -            | -                | -                | -         |     6.76 | Ax1Le, nafany, sugaR, Xant3r, zorte  |
-|           16 |     2061 | 2025-12-09 | BASEMENT BOYS                             | L   | 0.647      | -            | -                | -                | -         |   -15.71 | Ax1Le, FL4MUS, shalfey, SugaR, zorte |
+|           16 |     2061 | 2025-12-09 | BASEMENT BOYS                             | L   | 0.647      | -            | -                | -                | -         |   -15.71 | Ax1Le, FL4MUS, shalfey, sugaR, zorte |
 |           15 |     2179 | 2025-12-04 | Fire Flux Esports                         | L   | 0.614      | -            | -                | -                | -         |   -10.63 | Ax1Le, FL4MUS, shalfey, sugaR, zorte |
 |           14 |     2214 | 2025-12-02 | FORZE Reload                              | L   | 0.601      | -            | -                | -                | -         |   -10.00 | Ax1Le, FL4MUS, shalfey, sugaR, zorte |
 |           13 |     2318 | 2025-11-29 | AMKAL ESPORTS                             | L   | 0.578      | -            | -                | -                | -         |   -13.79 | Ax1Le, FL4MUS, shalfey, sugaR, zorte |

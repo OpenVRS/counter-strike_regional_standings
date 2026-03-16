@@ -43,7 +43,7 @@ Note:<br />
 |            7 |     3706 | 2025-10-14 | BOSS                 | L   | 0.276      | -            | -                | -                | -         |    -1.46 | Gabe, jchancE, mds, Redman, REKMEISTER |
 |            6 |     3830 | 2025-10-09 | Chicken Coop Esports | W   | 0.242      | 0.363        | 0.000 (0.000)    | 0.137 (0.012)    | 0 (0.000) |     3.90 | Gabe, jchancE, mds, Redman, REKMEISTER |
 |            5 |     3875 | 2025-10-08 | Wildcard             | L   | 0.236      | -            | -                | -                | -         |    -1.76 | Gabe, jchancE, mds, Redman, REKMEISTER |
-|            4 |     3989 | 2025-10-06 | Sakura Esports       | W   | 0.223      | 0.363        | 0.047 (0.004)    | 0.094 (0.008)    | 0 (0.000) |     5.92 | Gabe, jchancE, JchancE, mds, Redman    |
+|            4 |     3989 | 2025-10-06 | Sakura Esports       | W   | 0.223      | 0.363        | 0.047 (0.004)    | 0.094 (0.008)    | 0 (0.000) |     5.92 | Gabe, jchancE, jchancE, mds, Redman    |
 |            3 |     5000 | 2025-09-10 | NYX (American team)  | L   | 0.049      | -            | -                | -                | -         |    -1.00 | cbass, Gabe, jchancE, mds, REKMEISTER  |
 |            2 |     5048 | 2025-09-09 | Outfit 49            | L   | 0.043      | -            | -                | -                | -         |    -0.75 | cbass, Gabe, jchancE, mds, REKMEISTER  |
 |            1 |     5177 | 2025-09-06 | Marsborne            | L   | 0.021      | -            | -                | -                | -         |    -0.01 | cbass, Gabe, jchancE, mds, REKMEISTER  |

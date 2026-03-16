@@ -96,7 +96,7 @@ Note:<br />
 |           14 |     3907 | 2025-10-08 | NOVAQ                  | W   | 0.234      | -            | -                | -                | -         |     4.43 | bluewh1te, executor, kinqie, KIRO, z1Nny |
 |           13 |     3981 | 2025-10-07 | EYEBALLERS             | L   | 0.225      | -            | -                | -                | -         |    -2.01 | bluewh1te, executor, kinqie, KIRO, z1Nny |
 |           12 |     4023 | 2025-10-06 | Tricked Esport         | W   | 0.220      | -            | -                | -                | -         |     3.87 | bluewh1te, executor, kinqie, KIRO, z1Nny |
-|           11 |     4075 | 2025-10-05 | Oramond                | W   | 0.214      | -            | -                | -                | -         |     2.43 | Bluewh1te, executor, kinqie, KIRO, z1Nny |
+|           11 |     4075 | 2025-10-05 | Oramond                | W   | 0.214      | -            | -                | -                | -         |     2.43 | bluewh1te, executor, kinqie, KIRO, z1Nny |
 |           10 |     4173 | 2025-10-03 | Sangal Esports         | L   | 0.199      | -            | -                | -                | -         |    -3.85 | bluewh1te, executor, kinqie, KIRO, z1Nny |
 |            9 |     4251 | 2025-10-01 | JiJieHao               | W   | 0.186      | -            | -                | -                | -         |     2.04 | bluewh1te, executor, kinqie, KIRO, z1Nny |
 |            8 |     4416 | 2025-09-27 | PARIVISION             | L   | 0.160      | -            | -                | -                | -         |    -0.04 | bluewh1te, executor, kinqie, KIRO, z1Nny |

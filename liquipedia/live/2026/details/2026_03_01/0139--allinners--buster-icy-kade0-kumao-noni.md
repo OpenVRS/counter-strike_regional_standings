@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |      657 | 2026-02-15 | ALGO Esports         | L   | 1.000      | -            | -                | -                | -         |   -10.81 | Buster, Demente, kade0, kumao, noni    |
+|           28 |      657 | 2026-02-15 | ALGO Esports         | L   | 1.000      | -            | -                | -                | -         |   -10.81 | buster, demente, kade0, kumao, noni    |
 |           27 |      736 | 2026-02-14 | HAVU                 | L   | 1.000      | -            | -                | -                | -         |    -9.88 | D1sastrouS, kade0, kumao, noni, seyl0n |
 |           26 |      746 | 2026-02-13 | FC Famalicão Esports | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.193 (0.028)    | 0 (0.000) |    16.24 | D1sastrouS, kade0, kumao, noni, seyl0n |
-|           25 |      765 | 2026-02-13 | FC Famalicão Esports | L   | 1.000      | -            | -                | -                | -         |   -15.21 | Buster, Demente, kade0, kumao, noni    |
+|           25 |      765 | 2026-02-13 | FC Famalicão Esports | L   | 1.000      | -            | -                | -                | -         |   -15.21 | buster, demente, kade0, kumao, noni    |
 |           24 |      799 | 2026-02-12 | HAVU                 | L   | 1.000      | -            | -                | -                | -         |    -9.89 | D1sastrouS, kade0, kumao, noni, seyl0n |
 |           23 |     1258 | 2026-01-28 | HOTU                 | L   | 0.979      | -            | -                | -                | -         |    -1.33 | buster, ICY, kade0, kumao, noni        |
 |           22 |     1267 | 2026-01-28 | Rune Eaters Esports  | W   | 0.978      | 0.310        | 0.010 (0.003)    | 0.143 (0.043)    | 1 (0.978) |    18.91 | buster, ICY, kade0, kumao, noni        |

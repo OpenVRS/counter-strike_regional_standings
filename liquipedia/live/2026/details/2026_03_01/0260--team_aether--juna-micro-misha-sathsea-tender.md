@@ -43,7 +43,7 @@ Note:<br />
 |           10 |     2097 | 2025-12-07 | Life's A Game | L   | 0.636      | -            | -                | -                | -         |    -5.89 | micro, misha, Sathsea, Seb, Umar      |
 |            9 |     2166 | 2025-12-04 | Wanted Goons  | L   | 0.617      | -            | -                | -                | -         |   -12.75 | micro, misha, Sathsea, Seb, Umar      |
 |            8 |     2210 | 2025-12-02 | Take Flyte    | L   | 0.603      | -            | -                | -                | -         |   -12.30 | micro, misha, Sathsea, Seb, Umar      |
-|            7 |     3407 | 2025-10-24 | Regain        | W   | 0.343      | 0.363        | 0.007 (0.001)    | 0.318 (0.039)    | 0 (0.000) |     6.71 | Arcade, micro, Misha, Sathsea, Tender |
+|            7 |     3407 | 2025-10-24 | Regain        | W   | 0.343      | 0.363        | 0.007 (0.001)    | 0.318 (0.039)    | 0 (0.000) |     6.71 | Arcade, micro, misha, Sathsea, Tender |
 |            6 |     4683 | 2025-09-18 | Wildcard      | L   | 0.102      | -            | -                | -                | -         |    -1.18 | juna, micro, misha, Sathsea, Tender   |
 |            5 |     4719 | 2025-09-17 | BOSS          | W   | 0.096      | 0.363        | 0.017 (0.001)    | 0.455 (0.016)    | 0 (0.000) |     2.25 | juna, micro, misha, Sathsea, Tender   |
 |            4 |     4903 | 2025-09-12 | Outfit 49     | W   | 0.063      | 0.363        | 0.000 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     0.61 | juna, micro, misha, Sathsea, Tender   |

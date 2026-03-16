@@ -44,9 +44,9 @@ Note:<br />
 |           14 |     2076 | 2025-12-08 | Outfit 49            | L   | 0.643      | -            | -                | -                | -         |    -5.04 | febreeze, Jbreezy, Johan, killerPandas, Magic |
 |           13 |     2166 | 2025-12-04 | Team Aether          | W   | 0.617      | 0.333        | 0.000 (0.000)    | 0.023 (0.005)    | 0 (0.000) |    12.75 | febreeze, Jbreezy, Johan, killerPandas, Magic |
 |           12 |     2209 | 2025-12-02 | Regain               | L   | 0.603      | -            | -                | -                | -         |    -4.66 | febreeze, Jbreezy, Johan, killerPandas, Magic |
-|           11 |     3355 | 2025-10-25 | Ghost Gaming         | L   | 0.349      | -            | -                | -                | -         |    -3.52 | Cutedog, febreeze, Johan, killerPandas, Magic |
-|           10 |     3409 | 2025-10-24 | Life's A Game        | L   | 0.343      | -            | -                | -                | -         |    -1.75 | Cutedog, febreeze, Johan, killerPandas, Magic |
-|            9 |     3473 | 2025-10-23 | Anything else        | W   | 0.336      | 0.363        | 0.000 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     4.97 | Cutedog, febreeze, Johan, killerPandas, Magic |
+|           11 |     3355 | 2025-10-25 | Ghost Gaming         | L   | 0.349      | -            | -                | -                | -         |    -3.52 | cutedog, febreeze, Johan, killerPandas, Magic |
+|           10 |     3409 | 2025-10-24 | Life's A Game        | L   | 0.343      | -            | -                | -                | -         |    -1.75 | cutedog, febreeze, Johan, killerPandas, Magic |
+|            9 |     3473 | 2025-10-23 | Anything else        | W   | 0.336      | 0.363        | 0.000 (0.000)    | 0.004 (0.000)    | 0 (0.000) |     4.97 | cutedog, febreeze, Johan, killerPandas, Magic |
 |            8 |     3937 | 2025-10-07 | Mythic               | L   | 0.229      | -            | -                | -                | -         |    -2.00 | febreeze, JDubs, Johan, killerPandas, Magic   |
 |            7 |     4055 | 2025-10-05 | Chicken Coop Esports | L   | 0.216      | -            | -                | -                | -         |    -3.24 | febreeze, JDubs, Johan, killerPandas, Magic   |
 |            6 |     4716 | 2025-09-17 | Life's A Game        | L   | 0.096      | -            | -                | -                | -         |    -0.50 | cutedog, febreeze, Johan, killerPandas, Magic |

@@ -84,7 +84,7 @@ Note:<br />
 |            6 |     4396 | 2025-09-27 | Imperial Esports        | L   | 0.161      | -            | -                | -                | -         |    -0.31 | Alisson, divine, happ, Leomonster, zmb   |
 |            5 |     4807 | 2025-09-14 | BESTIA                  | L   | 0.075      | -            | -                | -                | -         |    -0.17 | Alisson, divine, happ, Leomonster, zmb   |
 |            4 |     5054 | 2025-09-09 | Galorys                 | W   | 0.042      | -            | -                | -                | -         |     0.79 | Alisson, divine, happ, Leomonster, zmb   |
-|            3 |     5061 | 2025-09-09 | Keyd Stars              | L   | 0.041      | -            | -                | -                | -         |    -0.56 | Alisson, bacc, divine, pepe, Zmb         |
+|            3 |     5061 | 2025-09-09 | Keyd Stars              | L   | 0.041      | -            | -                | -                | -         |    -0.56 | Alisson, bacc, divine, pepe, zmb         |
 |            2 |     5157 | 2025-09-07 | Bounty Hunters Esports  | W   | 0.026      | -            | -                | -                | -         |     0.53 | Alisson, divine, happ, Leomonster, zmb   |
 |            1 |     5202 | 2025-09-05 | Crashers                | W   | 0.014      | -            | -                | -                | -         |     0.10 | Alisson, divine, happ, Leomonster, zmb   |
 

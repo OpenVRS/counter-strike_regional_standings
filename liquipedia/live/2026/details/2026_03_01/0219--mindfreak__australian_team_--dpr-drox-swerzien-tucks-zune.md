@@ -40,8 +40,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |     2006 | 2025-12-13 | Rooster            | W   | 0.677      | 0.303        | 0.007 (0.001)    | 0.306 (0.063)    | 0 (0.000) |    14.35 | Jay, Kiyo, SwerzieN, tucks, zune        |
-|           20 |     2018 | 2025-12-12 | THUNDERdOWNUNDER   | L   | 0.670      | -            | -                | -                | -         |    -6.25 | Dpr, Kiyo, swerzieN, tucks, zune        |
+|           21 |     2006 | 2025-12-13 | Rooster            | W   | 0.677      | 0.303        | 0.007 (0.001)    | 0.306 (0.063)    | 0 (0.000) |    14.35 | Jay, Kiyo, swerzieN, tucks, zune        |
+|           20 |     2018 | 2025-12-12 | THUNDERdOWNUNDER   | L   | 0.670      | -            | -                | -                | -         |    -6.25 | dpr, Kiyo, swerzieN, tucks, zune        |
 |           19 |     2141 | 2025-12-05 | LITE Esports       | W   | 0.624      | 0.303        | 0.001 (0.000)    | 0.104 (0.020)    | 0 (0.000) |     8.86 | Jay, swerzieN, Texta, tucks, zune       |
 |           18 |     3400 | 2025-10-25 | Animus Victoria    | W   | 0.345      | 0.278        | 0.000 (0.000)    | 0.040 (0.004)    | 0 (0.000) |     3.30 | dpr, Drox, swerzieN, tucks, zune        |
 |           17 |     3463 | 2025-10-24 | Ground Zero Gaming | L   | 0.338      | -            | -                | -                | -         |    -3.93 | dpr, Drox, swerzieN, tucks, zune        |

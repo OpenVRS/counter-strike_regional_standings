@@ -55,9 +55,9 @@ Note:<br />
 |            7 |     1798 | 2026-01-04 | CSDIILIT         | L   | 0.820      | -            | -                | -                | -         |   -19.75 | ChipaaN, discplex, Frip, HexoQ, yaankz |
 |            6 |     1799 | 2026-01-04 | ALGO Esports     | L   | 0.820      | -            | -                | -                | -         |   -10.13 | ChipaaN, discplex, Frip, HexoQ, yaankz |
 |            5 |     1802 | 2026-01-04 | MOUZ NXT         | L   | 0.820      | -            | -                | -                | -         |    -4.57 | ChipaaN, discplex, Frip, HexoQ, yaankz |
-|            4 |     2390 | 2025-11-25 | Nemiga Gaming    | L   | 0.552      | -            | -                | -                | -         |    -1.92 | ChipaaN, discplex, Frip, Hexoq, yaankz |
-|            3 |     2396 | 2025-11-25 | Eternal Fire     | W   | 0.551      | 0.371        | 0.002 (0.000)    | 0.274 (0.056)    | 1 (0.551) |     5.74 | ChipaaN, discplex, Frip, Hexoq, yaankz |
-|            2 |     2432 | 2025-11-24 | Nemiga Gaming    | L   | 0.545      | -            | -                | -                | -         |    -1.81 | ChipaaN, discplex, Frip, Hexoq, yaankz |
+|            4 |     2390 | 2025-11-25 | Nemiga Gaming    | L   | 0.552      | -            | -                | -                | -         |    -1.92 | ChipaaN, discplex, Frip, HexoQ, yaankz |
+|            3 |     2396 | 2025-11-25 | Eternal Fire     | W   | 0.551      | 0.371        | 0.002 (0.000)    | 0.274 (0.056)    | 1 (0.551) |     5.74 | ChipaaN, discplex, Frip, HexoQ, yaankz |
+|            2 |     2432 | 2025-11-24 | Nemiga Gaming    | L   | 0.545      | -            | -                | -                | -         |    -1.81 | ChipaaN, discplex, Frip, HexoQ, yaankz |
 |            1 |     3317 | 2025-10-26 | Team RAID        | L   | 0.354      | -            | -                | -                | -         |    -8.94 | ChipaaN, discplex, Frip, HexoQ, yaankz |
 
 <br />

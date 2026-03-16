@@ -1,6 +1,6 @@
 ### Roster Details<br />
 Team Name: SENZA Esports<br />
-Roster: bogemtdarf, drowranger, Snow, SP1NT, whsup<br />
+Roster: bogemtdarf, drowranger, snow, SP1NT, whsup<br />
 Global Rank: [316](../../standings_global_2026_03_01.md)<br />
 <br />
 Region: [Europe]( ../../standings_europe_2026_03_01.md)<br />
@@ -40,11 +40,11 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |     4143 | 2025-10-04 | Dziuseppe                                 | L   | 0.205      | -            | -                | -                | -         |    -1.50 | bogemtdarf, drowranger, Snow, SP1NT, whsup     |
-|           18 |     4219 | 2025-10-02 | Mousquetaires                             | L   | 0.192      | -            | -                | -                | -         |    -0.98 | bogemtdarf, drowranger, Snow, SP1NT, whsup     |
-|           17 |     4255 | 2025-10-01 | JiJieHao                                  | L   | 0.185      | -            | -                | -                | -         |    -0.39 | bogemtdarf, drowranger, Snow, SP1NT, whsup     |
-|           16 |     4292 | 2025-09-30 | Magic (Russian team)                      | L   | 0.179      | -            | -                | -                | -         |    -0.18 | bogemtdarf, drowranger, Snow, SP1NT, whsup     |
-|           15 |     4293 | 2025-09-30 | Ex-Inner Circle Esports                   | L   | 0.179      | -            | -                | -                | -         |    -3.47 | bogemtdarf, drowranger, Snow, SP1NT, whsup     |
+|           19 |     4143 | 2025-10-04 | Dziuseppe                                 | L   | 0.205      | -            | -                | -                | -         |    -1.50 | bogemtdarf, drowranger, snow, SP1NT, whsup     |
+|           18 |     4219 | 2025-10-02 | Mousquetaires                             | L   | 0.192      | -            | -                | -                | -         |    -0.98 | bogemtdarf, drowranger, snow, SP1NT, whsup     |
+|           17 |     4255 | 2025-10-01 | JiJieHao                                  | L   | 0.185      | -            | -                | -                | -         |    -0.39 | bogemtdarf, drowranger, snow, SP1NT, whsup     |
+|           16 |     4292 | 2025-09-30 | Magic (Russian team)                      | L   | 0.179      | -            | -                | -                | -         |    -0.18 | bogemtdarf, drowranger, snow, SP1NT, whsup     |
+|           15 |     4293 | 2025-09-30 | Ex-Inner Circle Esports                   | L   | 0.179      | -            | -                | -                | -         |    -3.47 | bogemtdarf, drowranger, snow, SP1NT, whsup     |
 |           14 |     4502 | 2025-09-25 | SINNERS Esports                           | L   | 0.147      | -            | -                | -                | -         |    -0.03 | bogemtdarf, drowranger, sn0w-dll, SP1NT, whsup |
 |           13 |     4563 | 2025-09-23 | AMKAL ESPORTS                             | L   | 0.133      | -            | -                | -                | -         |    -0.92 | bogemtdarf, drowranger, sn0w-dll, SP1NT, whsup |
 |           12 |     4618 | 2025-09-21 | SPARTA Esports                            | W   | 0.118      | 0.435        | 0.005 (0.000)    | 0.563 (0.029)    | 0 (0.000) |     3.23 | bogemtdarf, drowranger, sn0w-dll, SP1NT, whsup |

@@ -52,9 +52,9 @@ Note:<br />
 |           16 |     3984 | 2025-10-07 | Ground Zero Gaming          | W   | 0.225      | 0.278        | 0.013 (0.001)    | 0.196 (0.012)    | 0 (0.000) |     4.30 | asap, chelleos, sliimey, Terryyy, TjP   |
 |           15 |     4045 | 2025-10-06 | KZG                         | W   | 0.218      | -            | -                | -                | 0 (0.000) |     1.75 | asap, chelleos, sliimey, Terryyy, TjP   |
 |           14 |     4102 | 2025-10-05 | Animus Victoria             | L   | 0.211      | -            | -                | -                | -         |    -4.86 | asap, chelleos, sliimey, Terryyy, TjP   |
-|           13 |     4301 | 2025-09-30 | M80                         | L   | 0.178      | -            | -                | -                | -         |    -0.15 | asap, chelleos, Sliimey, Terryyy, TjP   |
-|           12 |     4336 | 2025-09-29 | 3DMAX                       | L   | 0.171      | -            | -                | -                | -         |    -0.07 | asap, chelleos, Sliimey, Terryyy, TjP   |
-|           11 |     4375 | 2025-09-28 | G2 Esports                  | L   | 0.165      | -            | -                | -                | -         |    -0.03 | asap, chelleos, Sliimey, Terryyy, TjP   |
+|           13 |     4301 | 2025-09-30 | M80                         | L   | 0.178      | -            | -                | -                | -         |    -0.15 | asap, chelleos, sliimey, Terryyy, TjP   |
+|           12 |     4336 | 2025-09-29 | 3DMAX                       | L   | 0.171      | -            | -                | -                | -         |    -0.07 | asap, chelleos, sliimey, Terryyy, TjP   |
+|           11 |     4375 | 2025-09-28 | G2 Esports                  | L   | 0.165      | -            | -                | -                | -         |    -0.03 | asap, chelleos, sliimey, Terryyy, TjP   |
 |           10 |     4646 | 2025-09-20 | SemperFi Esports            | L   | 0.111      | -            | -                | -                | -         |    -0.61 | asap, chelleos, sliimey, Terryyy, TjP   |
 |            9 |     4750 | 2025-09-17 | SemperFi Esports            | W   | 0.091      | 0.278        | 0.006 (0.000)    | 0.305 (0.008)    | 0 (0.000) |     2.38 | asap, chelleos, sliimey, Terryyy, TjP   |
 |            8 |     4941 | 2025-09-11 | SemperFi Esports            | L   | 0.057      | -            | -                | -                | -         |    -0.31 | asap, chelleos, sliimey, Terryyy, TjP   |

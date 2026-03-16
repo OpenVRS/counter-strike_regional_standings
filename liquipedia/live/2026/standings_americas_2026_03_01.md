@@ -49,7 +49,7 @@
 | 44       |    708 | Outfit 49                 | Gabe, Grimblee, H0NeST, mds, Valter0k              | [details](details/2026_03_01/0196--outfit_49--gabe-grimblee-h0nest-mds-valter0k.md)                  |
 | 45       |    691 | KRÜ Esports               | buda, Misfit, reversive, righi, trindade           | [details](details/2026_03_01/0201--kr__esports--buda-misfit-reversive-righi-trindade.md)             |
 | 46       |    691 | SportsBetExpert           | Evan, freshie, ogwizard, sml, steel                | [details](details/2026_03_01/0202--sportsbetexpert--evan-freshie-ogwizard-sml-steel.md)              |
-| 47       |    677 | MIBR                      | brnz4n, exit, insani                               | [details](details/2026_03_01/0209--mibr--brnz4n-exit-insani.md)                                      |
+| 47       |    677 | MIBR                      | brn$, brnz4n, exit, insani                         | [details](details/2026_03_01/0209--mibr--brn_-brnz4n-exit-insani.md)                                 |
 | 48       |    665 | Regain                    | dvrk, marekiew, rayxts, sasha, Zucar               | [details](details/2026_03_01/0213--regain--dvrk-marekiew-rayxts-sasha-zucar.md)                      |
 | 49       |    664 | Despedidos                | 1962, chshekin, reversive, righi, rzk              | [details](details/2026_03_01/0214--despedidos--1962-chshekin-reversive-righi-rzk.md)                 |
 | 50       |    659 | InControl                 | aelor, ayaneuu, jsfeltner, Scorchyy, TyRa          | [details](details/2026_03_01/0218--incontrol--aelor-ayaneuu-jsfeltner-scorchyy-tyra.md)              |
@@ -82,7 +82,7 @@
 | 77       |    523 | Prison Breakers           | card, MaLLby, pepe, r3kt, stAx                     | [details](details/2026_03_01/0287--prison_breakers--card-mallby-pepe-r3kt-stax.md)                   |
 | 78       |    517 | Game Hunters              | abr, diozera, mello, prt, RICIOLI                  | [details](details/2026_03_01/0292--game_hunters--abr-diozera-mello-prt-ricioli.md)                   |
 | 79       |    513 | Phoenix (American team)   | Gabe, jchancE, mds, REKMEISTER                     | [details](details/2026_03_01/0293--phoenix__american_team_--gabe-jchance-mds-rekmeister.md)          |
-| 80       |    511 | Chicken Coop Esports      | Crisp, Drop, jared, Panic, REKMEISTER              | [details](details/2026_03_01/0294--chicken_coop_esports--crisp-drop-jared-panic-rekmeister.md)       |
+| 80       |    511 | Chicken Coop Esports      | Crisp, Drop, Jared, Panic, REKMEISTER              | [details](details/2026_03_01/0294--chicken_coop_esports--crisp-drop-jared-panic-rekmeister.md)       |
 | 81       |    511 | Fuego eSports             | ALENNNCAR, ghostT1, Lukita, Thuister, vzn          | [details](details/2026_03_01/0295--fuego_esports--alennncar-ghostt1-lukita-thuister-vzn.md)          |
 | 82       |    510 | Outfit 49                 | bezymecc, LUKE4k, s3rum, sava9e, zeep              | [details](details/2026_03_01/0296--outfit_49--bezymecc-luke4k-s3rum-sava9e-zeep.md)                  |
 | 83       |    510 | R2 Esports Club           | ABM, JonY BoY, maaxg, nbl, tutehen                 | [details](details/2026_03_01/0297--r2_esports_club--abm-jony_boy-maaxg-nbl-tutehen.md)               |
@@ -92,7 +92,7 @@
 | 87       |    483 | Players (Brazilian team)  | dok, flash, honda, MITHPUTTINI, xns                | [details](details/2026_03_01/0313--players__brazilian_team_--dok-flash-honda-mithputtini-xns.md)     |
 | 88       |    482 | Wanted Goons              | febreeze, Johan, killerPandas, Magic               | [details](details/2026_03_01/0314--wanted_goons--febreeze-johan-killerpandas-magic.md)               |
 | 89       |    480 | PaiN Gaming Academy       | futoi, Markz, pazini, Tatu, tsug                   | [details](details/2026_03_01/0315--pain_gaming_academy--futoi-markz-pazini-tatu-tsug.md)             |
-| 90       |    460 | Anything else             | cypress, FAME, K4mr0, mcniff, Slash                | [details](details/2026_03_01/0322--anything_else--cypress-fame-k4mr0-mcniff-slash.md)                |
+| 90       |    460 | Anything else             | corim, cypress, FAME, mcniff, Slash                | [details](details/2026_03_01/0322--anything_else--corim-cypress-fame-mcniff-slash.md)                |
 | 91       |    429 | Bad Luck                  | KLR, Lacerda, Sakamoto, Thuister, vzn              | [details](details/2026_03_01/0327--bad_luck--klr-lacerda-sakamoto-thuister-vzn.md)                   |
 | 92       |    416 | Memeories                 | AEROj, fatguy, Slugy                               | [details](details/2026_03_01/0328--memeories--aeroj-fatguy-slugy.md)                                 |
 | 93       |    401 | HereWeGoAgain             | flush, fraga, Ltm, nordin, trindade                | [details](details/2026_03_01/0331--herewegoagain--flush-fraga-ltm-nordin-trindade.md)                |

@@ -40,8 +40,8 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |     2600 | 2025-11-18 | CSDIILIT                | L   | 0.505      | -            | -                | -                | -         |    -8.98 | Elem, keis, Markoś, virtuoso, Xydoo  |
-|           27 |     2605 | 2025-11-17 | MOUZ NXT                | L   | 0.500      | -            | -                | -                | -         |    -0.59 | Elem, keis, Markoś, virtuoso, Xydoo  |
+|           28 |     2600 | 2025-11-18 | CSDIILIT                | L   | 0.505      | -            | -                | -                | -         |    -8.98 | elem, keis, Markoś, virtuoso, Xydoo  |
+|           27 |     2605 | 2025-11-17 | MOUZ NXT                | L   | 0.500      | -            | -                | -                | -         |    -0.59 | elem, keis, Markoś, virtuoso, Xydoo  |
 |           26 |     3105 | 2025-11-02 | Young Ninjas            | L   | 0.401      | -            | -                | -                | -         |    -8.29 | d9zz, FOKUSSS, keis, virtuoso, Xydoo |
 |           25 |     3166 | 2025-10-31 | Ex-Fingers Crossed      | L   | 0.386      | -            | -                | -                | -         |    -2.09 | d9zz, FOKUSSS, keis, virtuoso, Xydoo |
 |           24 |     3270 | 2025-10-27 | Nexus Gaming            | L   | 0.361      | -            | -                | -                | -         |    -1.47 | Fugor, keis, Masi, virtuoso, Xydoo   |

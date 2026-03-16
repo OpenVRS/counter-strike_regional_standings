@@ -40,7 +40,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |     3056 | 2025-11-04 | Four Magic             | W   | 0.413      | 0.371        | 0.000 (0.000)    | 0.183 (0.028)    | 0 (0.000) |     4.01 | Buda, Misfit, reversive, righi, trindade |
+|           17 |     3056 | 2025-11-04 | Four Magic             | W   | 0.413      | 0.371        | 0.000 (0.000)    | 0.183 (0.028)    | 0 (0.000) |     4.01 | buda, Misfit, reversive, righi, trindade |
 |           16 |     3306 | 2025-10-26 | Dusty Roots            | W   | 0.355      | 0.363        | 0.005 (0.001)    | 0.126 (0.016)    | 0 (0.000) |     6.68 | buda, Misfit, reversive, righi, trindade |
 |           15 |     3427 | 2025-10-24 | ODDIK                  | W   | 0.341      | 0.363        | 0.051 (0.006)    | 0.529 (0.066)    | 0 (0.000) |     9.82 | buda, Misfit, reversive, righi, trindade |
 |           14 |     3482 | 2025-10-23 | Crashers               | W   | 0.335      | 0.363        | 0.000 (0.000)    | 0.225 (0.027)    | 0 (0.000) |     3.52 | buda, Misfit, reversive, righi, trindade |

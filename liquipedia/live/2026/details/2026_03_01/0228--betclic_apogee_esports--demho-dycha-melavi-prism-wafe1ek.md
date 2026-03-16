@@ -58,7 +58,7 @@ Note:<br />
 |            5 |     4460 | 2025-09-26 | Tricked Esport   | W   | 0.153      | 0.378        | 0.015 (0.001)    | 0.390 (0.023)    | 1 (0.153) |     4.50 | AdrieN, Demho, dycha, Melavi, Prism  |
 |            4 |     4480 | 2025-09-26 | Team Nemesis     | L   | 0.152      | -            | -                | -                | -         |    -1.41 | AdrieN, Demho, dycha, Melavi, Prism  |
 |            3 |     4614 | 2025-09-21 | Sashi Esport     | L   | 0.118      | -            | -                | -                | -         |    -0.14 | AdrieN, Demho, dycha, Melavi, Prism  |
-|            2 |     4675 | 2025-09-19 | Partizan Esports | L   | 0.105      | -            | -                | -                | -         |    -1.36 | Demho, Dycha, Prism, wizz, Xydoo     |
+|            2 |     4675 | 2025-09-19 | Partizan Esports | L   | 0.105      | -            | -                | -                | -         |    -1.36 | Demho, dycha, Prism, wizz, Xydoo     |
 |            1 |     4707 | 2025-09-18 | Eternal Fire     | W   | 0.099      | 0.371        | 0.002 (0.000)    | 0.274 (0.010)    | 0 (0.000) |     1.91 | AdrieN, Demho, dycha, Melavi, Prism  |
 
 <br />

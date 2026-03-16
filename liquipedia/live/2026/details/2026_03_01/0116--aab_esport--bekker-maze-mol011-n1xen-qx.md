@@ -44,8 +44,8 @@ Note:<br />
 |           23 |      626 | 2026-02-15 | Tricked Esport          | L   | 1.000      | -            | -                | -                | -         |    -8.34 | bekker, Maze, n1Xen, qx, sSen    |
 |           22 |      645 | 2026-02-15 | Lilmix                  | W   | 1.000      | 0.143        | 0.001 (0.000)    | -                | 0 (0.000) |    10.18 | bekker, Maze, n1Xen, qx, sSen    |
 |           21 |      794 | 2026-02-12 | MANA eSports            | L   | 1.000      | -            | -                | -                | -         |   -18.09 | bekker, Maze, n1Xen, qx, sSen    |
-|           20 |     1176 | 2026-01-31 | GenOne                  | L   | 0.999      | -            | -                | -                | -         |   -11.43 | bekker, Maze, Mol011, N1Xen, qx  |
-|           19 |     1212 | 2026-01-30 | Illwill                 | L   | 0.991      | -            | -                | -                | -         |    -2.98 | bekker, Maze, Mol011, N1Xen, qx  |
+|           20 |     1176 | 2026-01-31 | GenOne                  | L   | 0.999      | -            | -                | -                | -         |   -11.43 | bekker, Maze, Mol011, n1Xen, qx  |
+|           19 |     1212 | 2026-01-30 | Illwill                 | L   | 0.991      | -            | -                | -                | -         |    -2.98 | bekker, Maze, Mol011, n1Xen, qx  |
 |           18 |     1279 | 2026-01-27 | Ex-Fingers Crossed      | W   | 0.972      | 0.435        | 0.048 (0.020)    | 0.535 (0.226)    | 0 (0.000) |    18.01 | bekker, Maze, Mol011, n1Xen, qx  |
 |           17 |     1325 | 2026-01-25 | KONO.ECF                | W   | 0.958      | 0.435        | 0.001 (0.000)    | 0.420 (0.175)    | 0 (0.000) |    10.50 | bekker, Maze, Mol011, n1Xen, qx  |
 |           16 |     1412 | 2026-01-23 | MOUZ NXT                | L   | 0.945      | -            | -                | -                | -         |    -6.12 | bekker, Maze, Mol011, n1Xen, qx  |

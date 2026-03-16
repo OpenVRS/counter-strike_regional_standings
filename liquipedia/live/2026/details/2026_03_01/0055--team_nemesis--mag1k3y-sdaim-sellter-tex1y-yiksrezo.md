@@ -98,7 +98,7 @@ Note:<br />
 |           30 |     3849 | 2025-10-09 | JiJieHao             | W   | 0.240      | -            | -                | -                | -         |     0.97 | fineshine, Sdaim, SELLTER, tex1y, yiksrezo   |
 |           29 |     3954 | 2025-10-07 | OG                   | W   | 0.227      | -            | -                | -                | -         |     0.85 | gr1ks, Sdaim, SELLTER, tex1y, yiksrezo       |
 |           28 |     3956 | 2025-10-07 | VP.Prodigy           | W   | 0.227      | -            | -                | -                | -         |     0.29 | fineshine, Sdaim, SELLTER, tex1y, yiksrezo   |
-|           27 |     4015 | 2025-10-06 | EYEBALLERS           | L   | 0.220      | -            | -                | -                | -         |    -4.16 | Fineshine, Sdaim, SELLTER, tex1y, yiksrezo   |
+|           27 |     4015 | 2025-10-06 | EYEBALLERS           | L   | 0.220      | -            | -                | -                | -         |    -4.16 | fineshine, Sdaim, SELLTER, tex1y, yiksrezo   |
 |           26 |     4097 | 2025-10-05 | SINNERS Esports      | W   | 0.212      | 0.435        | 0.248 (0.023)    | -                | -         |     3.92 | mag1k3Y, Sdaim, SELLTER, tex1y, yiksrezo     |
 |           25 |     4172 | 2025-10-03 | ARCRED               | L   | 0.200      | -            | -                | -                | -         |    -5.08 | mag1k3Y, Sdaim, SELLTER, tex1y, yiksrezo     |
 |           24 |     4184 | 2025-10-03 | Johnny Speeds        | W   | 0.198      | -            | -                | -                | -         |     2.53 | mag1k3Y, Sdaim, SELLTER, tex1y, yiksrezo     |

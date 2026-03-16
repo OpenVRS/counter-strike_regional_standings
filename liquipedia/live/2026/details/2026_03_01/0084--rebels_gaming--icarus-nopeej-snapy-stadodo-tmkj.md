@@ -68,7 +68,7 @@ Note:<br />
 |            4 |     1919 | 2025-12-20 | FUZOS                | W   | 0.718      | 0.309        | 0.008 (0.002)    | 0.480 (0.107)    | 1 (0.718) |     5.60 | Icarus, nesto, NOPEEj, snapy, stadodo |
 |            3 |     3760 | 2025-10-12 | FC Famalicão Esports | W   | 0.259      | -            | -                | -                | 1 (0.259) |     1.61 | Icarus, NOPEEj, rmn, snapy, stadodo   |
 |            2 |     3776 | 2025-10-11 | FUZOS                | W   | 0.254      | 0.317        | 0.008 (0.001)    | 0.480 (0.039)    | 1 (0.254) |     2.08 | Icarus, NOPEEj, rmn, snapy, stadodo   |
-|            1 |     4844 | 2025-09-14 | Gentle Mates         | L   | 0.071      | -            | -                | -                | -         |    -0.28 | Icarus, NOPEEJ, snapy, stadodo, TMKj  |
+|            1 |     4844 | 2025-09-14 | Gentle Mates         | L   | 0.071      | -            | -                | -                | -         |    -0.28 | Icarus, NOPEEj, snapy, stadodo, TMKj  |
 
 <br />
 <span id="table2"></span><br />

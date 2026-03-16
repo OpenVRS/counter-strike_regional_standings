@@ -38,20 +38,20 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
+| Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      398 | 2026-02-20 | Ding Cuts                        | L   | 1.000      | -            | -                | -                | -         |   -19.85 | blood, ELFMELK, maxed, Winnieeeee, yeet  |
-|           11 |      499 | 2026-02-18 | Team Abyssal                     | L   | 1.000      | -            | -                | -                | -         |   -14.02 | blood, ELFMELK, maxed, Winnieeeee, yeet  |
-|           10 |     2141 | 2025-12-05 | Mindfreak (Australian team)      | L   | 0.624      | -            | -                | -                | -         |    -8.86 | blood, ELFMELK, maxed, Val, yeet         |
-|            9 |     2142 | 2025-12-05 | Underground Esports Club         | W   | 0.623      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.58 | blood, ELFMELK, maxed, Val, yeet         |
-|            8 |     2146 | 2025-12-05 | Mindfreak (Australian team)      | L   | 0.623      | -            | -                | -                | -         |    -3.81 | blood, ELFMELK, maxed, Val, yeet         |
-|            7 |     2372 | 2025-11-25 | Ground Zero Gaming               | L   | 0.558      | -            | -                | -                | -         |    -5.77 | blood, ELFMELK, gump, Val, Winnieeeee    |
-|            6 |     2397 | 2025-11-25 | FURY                             | W   | 0.551      | 0.312        | 0.000 (0.000)    | 0.053 (0.009)    | 0 (0.000) |     6.12 | blood, ELFMELK, gump, Val, Winnieeeee    |
-|            5 |     2429 | 2025-11-24 | THUNDERdOWNUNDER                 | L   | 0.545      | -            | -                | -                | -         |    -5.03 | blood, ELFMELK, gump, Val, Winnieeeee    |
-|            4 |     2491 | 2025-11-22 | Arcade Esports (Australian team) | W   | 0.531      | 0.312        | 0.002 (0.000)    | 0.217 (0.036)    | 0 (0.000) |    10.65 | blood, ELFMELK, gump, Val, Winnieeeee    |
-|            3 |     2577 | 2025-11-20 | Animus Victoria                  | W   | 0.518      | 0.312        | 0.000 (0.000)    | 0.040 (0.006)    | 0 (0.000) |     5.72 | ELFMELK, gump, Horriz0n, Val, Winnieeeee |
-|            2 |     2589 | 2025-11-19 | Time Waves                       | W   | 0.511      | 0.312        | 0.000 (0.000)    | 0.136 (0.022)    | 0 (0.000) |     4.94 | Blood, ELFMELK, gump, Val, Winnieeeee    |
-|            1 |     2625 | 2025-11-16 | THUNDERdOWNUNDER                 | L   | 0.492      | -            | -                | -                | -         |    -4.41 | blood, ELFMELK, gump, Horriz0n, Val      |
+|           12 |      398 | 2026-02-20 | Ding Cuts                        | L   | 1.000      | -            | -                | -                | -         |   -19.85 | blood, ELFMELK, maxed, Winnieeeee, yeet |
+|           11 |      499 | 2026-02-18 | Team Abyssal                     | L   | 1.000      | -            | -                | -                | -         |   -14.02 | blood, ELFMELK, maxed, Winnieeeee, yeet |
+|           10 |     2141 | 2025-12-05 | Mindfreak (Australian team)      | L   | 0.624      | -            | -                | -                | -         |    -8.86 | blood, ELFMELK, maxed, Val, yeet        |
+|            9 |     2142 | 2025-12-05 | Underground Esports Club         | W   | 0.623      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.58 | blood, ELFMELK, maxed, Val, yeet        |
+|            8 |     2146 | 2025-12-05 | Mindfreak (Australian team)      | L   | 0.623      | -            | -                | -                | -         |    -3.81 | blood, ELFMELK, maxed, Val, yeet        |
+|            7 |     2372 | 2025-11-25 | Ground Zero Gaming               | L   | 0.558      | -            | -                | -                | -         |    -5.77 | blood, ELFMELK, gump, Val, Winnieeeee   |
+|            6 |     2397 | 2025-11-25 | FURY                             | W   | 0.551      | 0.312        | 0.000 (0.000)    | 0.053 (0.009)    | 0 (0.000) |     6.12 | blood, ELFMELK, gump, Val, Winnieeeee   |
+|            5 |     2429 | 2025-11-24 | THUNDERdOWNUNDER                 | L   | 0.545      | -            | -                | -                | -         |    -5.03 | blood, ELFMELK, gump, Val, Winnieeeee   |
+|            4 |     2491 | 2025-11-22 | Arcade Esports (Australian team) | W   | 0.531      | 0.312        | 0.002 (0.000)    | 0.217 (0.036)    | 0 (0.000) |    10.65 | blood, ELFMELK, gump, Val, Winnieeeee   |
+|            3 |     2577 | 2025-11-20 | Animus Victoria                  | W   | 0.518      | 0.312        | 0.000 (0.000)    | 0.040 (0.006)    | 0 (0.000) |     5.72 | blood, ELFMELK, gump, Horriz0n, Val     |
+|            2 |     2589 | 2025-11-19 | Time Waves                       | W   | 0.511      | 0.312        | 0.000 (0.000)    | 0.136 (0.022)    | 0 (0.000) |     4.94 | blood, ELFMELK, gump, Val, Winnieeeee   |
+|            1 |     2625 | 2025-11-16 | THUNDERdOWNUNDER                 | L   | 0.492      | -            | -                | -                | -         |    -4.41 | blood, ELFMELK, gump, Horriz0n, Val     |
 
 <br />
 <span id="table2"></span><br />

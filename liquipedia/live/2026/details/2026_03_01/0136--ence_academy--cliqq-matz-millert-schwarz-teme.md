@@ -85,13 +85,13 @@ Note:<br />
 |           10 |     3595 | 2025-10-18 | TOOMUCHVIDEOGAMES  | W   | 0.298      | -            | -                | -                | 1 (0.298) |     2.35 | blick, Cliqq, millert, Schwarz, teme |
 |            9 |     3611 | 2025-10-17 | Universe           | W   | 0.293      | -            | -                | -                | 1 (0.293) |     3.18 | blick, Cliqq, millert, Schwarz, teme |
 |            8 |     3624 | 2025-10-17 | CSDIILIT           | W   | 0.292      | -            | -                | -                | 1 (0.292) |     2.69 | blick, Cliqq, millert, Schwarz, teme |
-|            7 |     4357 | 2025-09-28 | Dziuseppe          | L   | 0.166      | -            | -                | -                | -         |    -3.42 | Blick, Cliqq, millert, Schwarz, teme |
-|            6 |     4438 | 2025-09-27 | FORZE Reload       | L   | 0.158      | -            | -                | -                | -         |    -2.09 | Blick, Cliqq, millert, Schwarz, teme |
-|            5 |     4489 | 2025-09-26 | QMISTRY            | W   | 0.151      | -            | -                | -                | -         |     0.83 | Blick, Cliqq, millert, Schwarz, teme |
-|            4 |     4609 | 2025-09-21 | HAVU               | L   | 0.119      | -            | -                | -                | -         |    -0.83 | Blick, Cliqq, millert, Schwarz, teme |
-|            3 |     4617 | 2025-09-21 | CSDIILIT           | W   | 0.118      | -            | -                | -                | -         |     1.08 | Blick, Cliqq, millert, Schwarz, teme |
-|            2 |     4638 | 2025-09-20 | HAVU               | L   | 0.112      | -            | -                | -                | -         |    -0.79 | Blick, Cliqq, millert, Schwarz, teme |
-|            1 |     4657 | 2025-09-19 | Team spargo-       | W   | 0.107      | -            | -                | -                | -         |     0.53 | Blick, Cliqq, millert, Schwarz, teme |
+|            7 |     4357 | 2025-09-28 | Dziuseppe          | L   | 0.166      | -            | -                | -                | -         |    -3.42 | blick, Cliqq, millert, Schwarz, teme |
+|            6 |     4438 | 2025-09-27 | FORZE Reload       | L   | 0.158      | -            | -                | -                | -         |    -2.09 | blick, Cliqq, millert, Schwarz, teme |
+|            5 |     4489 | 2025-09-26 | QMISTRY            | W   | 0.151      | -            | -                | -                | -         |     0.83 | blick, Cliqq, millert, Schwarz, teme |
+|            4 |     4609 | 2025-09-21 | HAVU               | L   | 0.119      | -            | -                | -                | -         |    -0.83 | blick, Cliqq, millert, Schwarz, teme |
+|            3 |     4617 | 2025-09-21 | CSDIILIT           | W   | 0.118      | -            | -                | -                | -         |     1.08 | blick, Cliqq, millert, Schwarz, teme |
+|            2 |     4638 | 2025-09-20 | HAVU               | L   | 0.112      | -            | -                | -                | -         |    -0.79 | blick, Cliqq, millert, Schwarz, teme |
+|            1 |     4657 | 2025-09-19 | Team spargo-       | W   | 0.107      | -            | -                | -                | -         |     0.53 | blick, Cliqq, millert, Schwarz, teme |
 
 <br />
 <span id="table2"></span><br />

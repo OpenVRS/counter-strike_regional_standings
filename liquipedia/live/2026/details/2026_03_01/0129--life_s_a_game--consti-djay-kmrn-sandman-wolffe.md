@@ -75,12 +75,12 @@ Note:<br />
 |           20 |     2769 | 2025-11-10 | SkinRave Esports      | L   | 0.456      | -            | -                | -                | -         |    -5.51 | consti, djay, kmrn, mason, Sandman   |
 |           19 |     3199 | 2025-10-29 | BOSS                  | L   | 0.376      | -            | -                | -                | -         |    -5.94 | consti, djay, kmrn, mason, Sandman   |
 |           18 |     3295 | 2025-10-26 | Mythic                | W   | 0.356      | -            | -                | -                | -         |     3.84 | consti, djay, kmrn, mason, Sandman   |
-|           17 |     3353 | 2025-10-25 | OverKnight            | W   | 0.350      | -            | -                | -                | -         |     3.52 | consti, djay, Kmrn, mason, Sandman   |
+|           17 |     3353 | 2025-10-25 | OverKnight            | W   | 0.350      | -            | -                | -                | -         |     3.52 | consti, djay, kmrn, mason, Sandman   |
 |           16 |     3361 | 2025-10-25 | Marsborne             | L   | 0.348      | -            | -                | -                | -         |    -1.15 | consti, djay, kmrn, mason, Sandman   |
-|           15 |     3409 | 2025-10-24 | Wanted Goons          | W   | 0.343      | -            | -                | -                | -         |     1.75 | consti, djay, Kmrn, mason, Sandman   |
-|           14 |     3536 | 2025-10-21 | Marsborne             | L   | 0.322      | -            | -                | -                | -         |    -1.06 | consti, djay, Kmrn, mason, Sandman   |
-|           13 |     3631 | 2025-10-16 | Outfit 49             | W   | 0.289      | -            | -                | -                | -         |     3.80 | consti, djay, Kmrn, mason, Sandman   |
-|           12 |     3742 | 2025-10-13 | Outfit 49             | W   | 0.268      | -            | -                | -                | -         |     1.54 | consti, djay, Kmrn, mason, Sandman   |
+|           15 |     3409 | 2025-10-24 | Wanted Goons          | W   | 0.343      | -            | -                | -                | -         |     1.75 | consti, djay, kmrn, mason, Sandman   |
+|           14 |     3536 | 2025-10-21 | Marsborne             | L   | 0.322      | -            | -                | -                | -         |    -1.06 | consti, djay, kmrn, mason, Sandman   |
+|           13 |     3631 | 2025-10-16 | Outfit 49             | W   | 0.289      | -            | -                | -                | -         |     3.80 | consti, djay, kmrn, mason, Sandman   |
+|           12 |     3742 | 2025-10-13 | Outfit 49             | W   | 0.268      | -            | -                | -                | -         |     1.54 | consti, djay, kmrn, mason, Sandman   |
 |           11 |     3831 | 2025-10-09 | BOSS                  | L   | 0.242      | -            | -                | -                | -         |    -3.71 | consti, djay, mason, Sandman, Wolffe |
 |           10 |     3876 | 2025-10-08 | Marsborne             | L   | 0.236      | -            | -                | -                | -         |    -0.72 | consti, djay, mason, Sandman, Wolffe |
 |            9 |     3990 | 2025-10-06 | FlyQuest RED          | W   | 0.223      | -            | -                | -                | -         |     2.97 | consti, djay, mason, Sandman, Wolffe |

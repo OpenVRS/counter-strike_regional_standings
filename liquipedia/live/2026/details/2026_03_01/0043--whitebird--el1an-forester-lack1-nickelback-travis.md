@@ -72,9 +72,9 @@ Note:<br />
 |            6 |     1178 | 2026-01-31 | FORZE Reload         | W   | 0.998      | 0.333        | -                | 0.799 (0.266)    | 1 (0.998) |     7.46 | El1an, Forester, Lack1, NickelBack, TRAVIS |
 |            5 |     1888 | 2025-12-21 | K27                  | L   | 0.726      | -            | -                | -                | -         |    -5.41 | El1an, Forester, Lack1, NickelBack, sugaR  |
 |            4 |     1896 | 2025-12-21 | Oxuji Esports        | W   | 0.725      | -            | -                | -                | 1 (0.725) |     5.59 | El1an, Forester, Lack1, NickelBack, sugaR  |
-|            3 |     2063 | 2025-12-09 | K27                  | L   | 0.647      | -            | -                | -                | -         |    -4.93 | El1an, Forester, Lack1, NickelBack, SugaR  |
-|            2 |     2072 | 2025-12-09 | ALLINNERS            | W   | 0.645      | -            | -                | -                | -         |     4.13 | El1an, Forester, Lack1, NickelBack, SugaR  |
-|            1 |     2094 | 2025-12-08 | Nemiga Gaming        | W   | 0.639      | 0.447        | 0.092 (0.026)    | -                | -         |    11.33 | El1an, Forester, Lack1, NickelBack, SugaR  |
+|            3 |     2063 | 2025-12-09 | K27                  | L   | 0.647      | -            | -                | -                | -         |    -4.93 | El1an, Forester, Lack1, NickelBack, sugaR  |
+|            2 |     2072 | 2025-12-09 | ALLINNERS            | W   | 0.645      | -            | -                | -                | -         |     4.13 | El1an, Forester, Lack1, NickelBack, sugaR  |
+|            1 |     2094 | 2025-12-08 | Nemiga Gaming        | W   | 0.639      | 0.447        | 0.092 (0.026)    | -                | -         |    11.33 | El1an, Forester, Lack1, NickelBack, sugaR  |
 
 <br />
 <span id="table2"></span><br />
