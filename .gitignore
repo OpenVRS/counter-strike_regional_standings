@@ -17,3 +17,7 @@ deprecated/
 test*
 liquipedia/checkR.js
 *.wiki
+dota2/
+liquipedia/dota.js
+liquipedia4/
+liquipedia5/
