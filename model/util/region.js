@@ -263,6 +263,9 @@ var regionPriority = [ 3, 2, 1 ]; // [ Europe, Americas, Asia ] // Priority shou
 function getCountryRegion( playerCountry ){
 
     let record = regionMap.filter( el => el.countrycode.toLowerCase() === playerCountry.toLowerCase() )[0];
+    // if(!record) {
+    //     return 2;
+    // }
     let region = record.region;
 
     if ( region === 'EU' || region === 'MENA' ){
