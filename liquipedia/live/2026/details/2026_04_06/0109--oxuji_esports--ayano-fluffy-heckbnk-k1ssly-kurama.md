@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Oxuji Esports<br />
 Roster: ayano, fluffy, HeCkBNk, k1ssly, Kurama<br />
-Global Rank: [109](../../standings_global_2026_04_05.md)<br />
+Global Rank: [109](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [74]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [74]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1020.3<br />
 <br />

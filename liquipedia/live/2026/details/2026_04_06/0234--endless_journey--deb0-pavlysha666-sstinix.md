@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Endless Journey<br />
 Roster: deb0, pavlysha666, sstiNiX<br />
-Global Rank: [234](../../standings_global_2026_04_05.md)<br />
+Global Rank: [234](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [149]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [149]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  671.4<br />
 <br />

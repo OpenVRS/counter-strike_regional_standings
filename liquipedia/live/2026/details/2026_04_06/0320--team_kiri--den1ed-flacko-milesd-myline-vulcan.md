@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Kiri<br />
 Roster: den1ed, flacko, milesd, myline, VulcaN<br />
-Global Rank: [320](../../standings_global_2026_04_05.md)<br />
+Global Rank: [320](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [91]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [91]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  501.3<br />
 <br />

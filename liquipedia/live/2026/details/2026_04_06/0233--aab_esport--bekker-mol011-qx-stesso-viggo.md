@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: AaB esport<br />
 Roster: bekker, Mol011, qx, stesso, Viggo<br />
-Global Rank: [233](../../standings_global_2026_04_05.md)<br />
+Global Rank: [233](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [148]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [148]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  673.5<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 9z Team<br />
 Roster: dgt, HUASOPEEK, luchov, max, meyern<br />
-Global Rank: [13](../../standings_global_2026_04_05.md)<br />
+Global Rank: [13](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [2]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [2]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1604.1<br />
 <br />

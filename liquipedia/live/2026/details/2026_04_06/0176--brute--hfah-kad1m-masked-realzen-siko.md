@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BRUTE<br />
 Roster: hfah, KAD1M, mASKED, realzen, SiKO<br />
-Global Rank: [176](../../standings_global_2026_04_05.md)<br />
+Global Rank: [176](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [120]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [120]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  792.4<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FengDa Gaming<br />
 Roster: 3gl, afufu, Marek, p5p, Trash<br />
-Global Rank: [156](../../standings_global_2026_04_05.md)<br />
+Global Rank: [156](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [19]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [19]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  843.9<br />
 <br />

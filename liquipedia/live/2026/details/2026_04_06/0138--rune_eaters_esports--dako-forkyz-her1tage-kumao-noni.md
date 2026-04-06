@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Rune Eaters Esports<br />
 Roster: dako, forkyz, her1tage, kumao, noni<br />
-Global Rank: [138](../../standings_global_2026_04_05.md)<br />
+Global Rank: [138](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [96]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [96]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  915.7<br />
 <br />

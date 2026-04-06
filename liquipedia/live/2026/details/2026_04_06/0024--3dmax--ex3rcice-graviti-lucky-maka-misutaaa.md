@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 3DMAX<br />
 Roster: Ex3rcice, Graviti, Lucky, Maka, misutaaa<br />
-Global Rank: [24](../../standings_global_2026_04_05.md)<br />
+Global Rank: [24](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [19]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [19]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1456.2<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: AMKAL ESPORTS<br />
 Roster: KaiR0N-, KENSi, mo0N, nafany, TRAVIS<br />
-Global Rank: [248](../../standings_global_2026_04_05.md)<br />
+Global Rank: [248](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [159]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [159]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  650.8<br />
 <br />

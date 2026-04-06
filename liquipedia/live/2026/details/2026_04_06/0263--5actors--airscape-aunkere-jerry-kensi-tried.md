@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 5Actors<br />
 Roster: airscape, Aunkere, Jerry, KENSi, tried<br />
-Global Rank: [263](../../standings_global_2026_04_05.md)<br />
+Global Rank: [263](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [166]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [166]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  625.2<br />
 <br />

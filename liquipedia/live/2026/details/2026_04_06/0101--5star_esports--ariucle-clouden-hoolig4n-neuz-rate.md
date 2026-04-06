@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 5star eSports<br />
 Roster: ariucle, clouden, hoolig4n, NEUZ, rate<br />
-Global Rank: [101](../../standings_global_2026_04_05.md)<br />
+Global Rank: [101](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [11]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [11]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  1083.0<br />
 <br />

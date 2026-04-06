@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FC Famalicão Esports<br />
 Roster: h0t, M1KA, P3R3IIRA, seabraez, Sprayy<br />
-Global Rank: [133](../../standings_global_2026_04_05.md)<br />
+Global Rank: [133](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [93]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [93]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  932.3<br />
 <br />

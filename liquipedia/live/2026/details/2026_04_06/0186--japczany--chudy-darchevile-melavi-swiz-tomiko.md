@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Japczany<br />
 Roster: chudy, darchevile, Melavi, swiz, tomiko<br />
-Global Rank: [186](../../standings_global_2026_04_05.md)<br />
+Global Rank: [186](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [125]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [125]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  760.9<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Aurora Gaming<br />
 Roster: MAJ3R, soulfly, Wicadia, woxic, XANTARES<br />
-Global Rank: [5](../../standings_global_2026_04_05.md)<br />
+Global Rank: [5](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [4]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [4]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1777.3<br />
 <br />

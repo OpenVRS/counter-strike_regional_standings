@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: RUSTEC<br />
 Roster: anttzz, Brilliance, jakekeS, supra, youka<br />
-Global Rank: [208](../../standings_global_2026_04_05.md)<br />
+Global Rank: [208](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [134]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [134]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  728.5<br />
 <br />

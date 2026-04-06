@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: RUBY<br />
 Roster: fozil, H4SAN4TOR, Kaide, maQuein, TruNiQ<br />
-Global Rank: [247](../../standings_global_2026_04_05.md)<br />
+Global Rank: [247](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [158]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [158]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  650.8<br />
 <br />

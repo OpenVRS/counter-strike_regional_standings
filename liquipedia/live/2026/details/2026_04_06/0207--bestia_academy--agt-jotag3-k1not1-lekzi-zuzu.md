@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BESTIA Academy<br />
 Roster: agt, Jotag3, k1not1, Lekzi, zuzu<br />
-Global Rank: [207](../../standings_global_2026_04_05.md)<br />
+Global Rank: [207](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [50]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [50]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  731.7<br />
 <br />

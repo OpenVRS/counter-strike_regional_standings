@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: HOTU<br />
 Roster: dukefissura, gokushima, kAlash, mizu, n0rb3r7<br />
-Global Rank: [46](../../standings_global_2026_04_05.md)<br />
+Global Rank: [46](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [31]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [31]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1318.0<br />
 <br />

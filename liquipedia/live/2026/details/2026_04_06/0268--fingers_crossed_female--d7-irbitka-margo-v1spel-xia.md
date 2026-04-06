@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Fingers Crossed Female<br />
 Roster: D7, IRBITka, Margo, v1spel, xia<br />
-Global Rank: [268](../../standings_global_2026_04_05.md)<br />
+Global Rank: [268](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [169]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [169]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  619.2<br />
 <br />

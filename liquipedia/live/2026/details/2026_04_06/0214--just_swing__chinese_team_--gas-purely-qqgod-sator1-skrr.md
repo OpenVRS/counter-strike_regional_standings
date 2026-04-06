@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Just Swing (Chinese team)<br />
 Roster: gas, Purely, qqGOD, sATOR1, skrr<br />
-Global Rank: [214](../../standings_global_2026_04_05.md)<br />
+Global Rank: [214](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [25]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [25]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  720.6<br />
 <br />

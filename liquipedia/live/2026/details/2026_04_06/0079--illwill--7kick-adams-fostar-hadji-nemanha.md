@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Illwill<br />
 Roster: 7kick, adamS, fostar, hAdji, nEMANHA<br />
-Global Rank: [79](../../standings_global_2026_04_05.md)<br />
+Global Rank: [79](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [54]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [54]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1185.0<br />
 <br />

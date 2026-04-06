@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: NIP Impact<br />
 Roster: aiM, Nayomy, Qiyarah, vilga, Zana<br />
-Global Rank: [192](../../standings_global_2026_04_05.md)<br />
+Global Rank: [192](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [129]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [129]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  748.9<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Arise<br />
 Roster: Anasasis, Bhavi, borosto, clouda, EmbeR<br />
-Global Rank: [238](../../standings_global_2026_04_05.md)<br />
+Global Rank: [238](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [29]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [29]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  665.6<br />
 <br />

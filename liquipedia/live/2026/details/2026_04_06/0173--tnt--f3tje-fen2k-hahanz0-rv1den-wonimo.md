@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: TNT<br />
 Roster: f3tje, fen2k, hahanz0, rv1den, wonimo<br />
-Global Rank: [173](../../standings_global_2026_04_05.md)<br />
+Global Rank: [173](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [117]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [117]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  802.7<br />
 <br />

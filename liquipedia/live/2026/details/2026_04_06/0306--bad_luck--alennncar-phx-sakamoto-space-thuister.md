@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Bad Luck<br />
 Roster: ALENNNCAR, phx, Sakamoto, space, Thuister<br />
-Global Rank: [306](../../standings_global_2026_04_05.md)<br />
+Global Rank: [306](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [83]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [83]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  530.8<br />
 <br />

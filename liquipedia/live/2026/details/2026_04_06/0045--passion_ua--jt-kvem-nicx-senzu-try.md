@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Passion UA<br />
 Roster: JT, Kvem, nicx, Senzu, try<br />
-Global Rank: [45](../../standings_global_2026_04_05.md)<br />
+Global Rank: [45](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [12]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [12]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1318.5<br />
 <br />

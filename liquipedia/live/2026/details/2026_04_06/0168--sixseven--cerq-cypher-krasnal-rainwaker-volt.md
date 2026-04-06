@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: SIXSEVEN<br />
 Roster: CeRq, CYPHER, kRaSnaL, Rainwaker, volt<br />
-Global Rank: [168](../../standings_global_2026_04_05.md)<br />
+Global Rank: [168](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [113]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [113]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  818.5<br />
 <br />

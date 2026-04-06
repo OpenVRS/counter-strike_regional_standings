@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Matrix (Ukrainian team)<br />
 Roster: EgorMercedes, frakenzor, joly, kyoto666<br />
-Global Rank: [298](../../standings_global_2026_04_05.md)<br />
+Global Rank: [298](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [185]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [185]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  552.4<br />
 <br />

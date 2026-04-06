@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: SINQU Esports<br />
 Roster: Geni, J0nneW, KapiV, Lene, Samppa<br />
-Global Rank: [287](../../standings_global_2026_04_05.md)<br />
+Global Rank: [287](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [181]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [181]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  583.9<br />
 <br />

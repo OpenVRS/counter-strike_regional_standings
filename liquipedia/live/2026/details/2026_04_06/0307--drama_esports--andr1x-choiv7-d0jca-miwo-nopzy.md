@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Drama Esports<br />
 Roster: andr1x, choiv7, d0jca, miwo, nopzy<br />
-Global Rank: [307](../../standings_global_2026_04_05.md)<br />
+Global Rank: [307](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [188]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [188]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  529.3<br />
 <br />

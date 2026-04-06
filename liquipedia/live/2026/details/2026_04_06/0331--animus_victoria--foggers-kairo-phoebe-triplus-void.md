@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Animus Victoria<br />
 Roster: foggers, kairo, phoebe, TRIPLUS, void<br />
-Global Rank: [331](../../standings_global_2026_04_05.md)<br />
+Global Rank: [331](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [42]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [42]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  478.9<br />
 <br />

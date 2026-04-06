@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Home<br />
 Roster: BehinDx, keb1k, sacred, stesso, Viggo<br />
-Global Rank: [264](../../standings_global_2026_04_05.md)<br />
+Global Rank: [264](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [167]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [167]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  624.0<br />
 <br />

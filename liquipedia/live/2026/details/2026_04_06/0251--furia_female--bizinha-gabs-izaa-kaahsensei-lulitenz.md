@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FURIA Female<br />
 Roster: bizinha, gabs, izaa, kaahSENSEI, lulitenz<br />
-Global Rank: [251](../../standings_global_2026_04_05.md)<br />
+Global Rank: [251](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [62]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [62]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  647.4<br />
 <br />

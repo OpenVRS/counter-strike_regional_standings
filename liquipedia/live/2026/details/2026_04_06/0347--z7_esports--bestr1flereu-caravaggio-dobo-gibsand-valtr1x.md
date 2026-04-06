@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Z7 Esports<br />
 Roster: BestR1flerEu, caravaggio, Dobo, Gibsand, Valtr1x<br />
-Global Rank: [347](../../standings_global_2026_04_05.md)<br />
+Global Rank: [347](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [202]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [202]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  444.8<br />
 <br />

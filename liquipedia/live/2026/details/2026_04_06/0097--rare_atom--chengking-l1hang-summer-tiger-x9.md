@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Rare Atom<br />
 Roster: chengking, L1haNg, Summer, TiGeR, x9<br />
-Global Rank: [97](../../standings_global_2026_04_05.md)<br />
+Global Rank: [97](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [10]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [10]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  1108.3<br />
 <br />

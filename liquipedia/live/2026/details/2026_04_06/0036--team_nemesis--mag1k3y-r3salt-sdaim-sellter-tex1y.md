@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Nemesis<br />
 Roster: mag1k3Y, r3salt, Sdaim, SELLTER, tex1y<br />
-Global Rank: [36](../../standings_global_2026_04_05.md)<br />
+Global Rank: [36](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [25]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [25]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1364.7<br />
 <br />

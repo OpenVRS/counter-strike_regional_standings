@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Sashi Esport<br />
 Roster: acoR, Beccie, Cabbi, Fessor, MistR<br />
-Global Rank: [69](../../standings_global_2026_04_05.md)<br />
+Global Rank: [69](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [47]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [47]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1221.8<br />
 <br />

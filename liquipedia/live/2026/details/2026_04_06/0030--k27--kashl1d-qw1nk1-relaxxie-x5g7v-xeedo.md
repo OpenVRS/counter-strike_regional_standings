@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: K27<br />
 Roster: kashl1d, qw1nk1, relaxxie, X5G7V, xeedo<br />
-Global Rank: [30](../../standings_global_2026_04_05.md)<br />
+Global Rank: [30](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [22]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [22]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1409.7<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Dusty Roots<br />
 Roster: FraGuTy, meyern, nex7, rzk, tom1jed<br />
-Global Rank: [260](../../standings_global_2026_04_05.md)<br />
+Global Rank: [260](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [65]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [65]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  630.5<br />
 <br />

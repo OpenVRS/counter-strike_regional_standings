@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 500<br />
 Roster: CeRq, Rainwaker, REDSTAR, volt<br />
-Global Rank: [277](../../standings_global_2026_04_05.md)<br />
+Global Rank: [277](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [176]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [176]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  599.7<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 33<br />
 Roster: bluewh1te, executor, kinqie, KIRO, z1Nny<br />
-Global Rank: [48](../../standings_global_2026_04_05.md)<br />
+Global Rank: [48](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [33]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [33]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1313.2<br />
 <br />

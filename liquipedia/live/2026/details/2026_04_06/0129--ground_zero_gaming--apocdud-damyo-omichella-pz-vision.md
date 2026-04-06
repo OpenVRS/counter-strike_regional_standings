@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Ground Zero Gaming<br />
 Roster: apocdud, damyo, Omichella, pz, vision<br />
-Global Rank: [129](../../standings_global_2026_04_05.md)<br />
+Global Rank: [129](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [14]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [14]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  949.4<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Metanoia<br />
 Roster: coxinha, GdA, palenscki, terran<br />
-Global Rank: [284](../../standings_global_2026_04_05.md)<br />
+Global Rank: [284](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [74]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [74]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  595.4<br />
 <br />

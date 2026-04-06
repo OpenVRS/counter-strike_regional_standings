@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: ALLINNERS<br />
 Roster: buster, demente, kumao, noni, weaveR<br />
-Global Rank: [241](../../standings_global_2026_04_05.md)<br />
+Global Rank: [241](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [153]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [153]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  659.3<br />
 <br />

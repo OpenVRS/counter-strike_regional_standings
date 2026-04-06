@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Deep Cross Gaming<br />
 Roster: clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu<br />
-Global Rank: [276](../../standings_global_2026_04_05.md)<br />
+Global Rank: [276](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [32]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [32]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  600.0<br />
 <br />

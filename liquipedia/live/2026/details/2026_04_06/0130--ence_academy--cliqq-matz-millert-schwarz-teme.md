@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: ENCE Academy<br />
 Roster: Cliqq, Matz, millert, Schwarz, teme<br />
-Global Rank: [130](../../standings_global_2026_04_05.md)<br />
+Global Rank: [130](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [92]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [92]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  938.3<br />
 <br />

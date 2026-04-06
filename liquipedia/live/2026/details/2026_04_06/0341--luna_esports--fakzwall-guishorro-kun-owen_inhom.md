@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: LUNA Esports<br />
 Roster: fakzwall, guishorro, KUN, Owen$inhoM<br />
-Global Rank: [341](../../standings_global_2026_04_05.md)<br />
+Global Rank: [341](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [97]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [97]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  460.0<br />
 <br />

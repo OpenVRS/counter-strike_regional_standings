@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: SAW<br />
 Roster: blaze, Jayy2s, jERK0z, m0retz, tuxa<br />
-Global Rank: [141](../../standings_global_2026_04_05.md)<br />
+Global Rank: [141](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [98]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [98]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  901.2<br />
 <br />

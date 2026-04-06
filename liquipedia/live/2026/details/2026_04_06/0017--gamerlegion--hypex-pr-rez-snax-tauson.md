@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: GamerLegion<br />
 Roster: hypex, PR, REZ, Snax, Tauson<br />
-Global Rank: [17](../../standings_global_2026_04_05.md)<br />
+Global Rank: [17](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [12]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [12]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1528.7<br />
 <br />

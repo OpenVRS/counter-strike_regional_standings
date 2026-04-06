@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Virtus.pro<br />
 Roster: b1st, fame, FL1T, Perfecto, tO0RO<br />
-Global Rank: [189](../../standings_global_2026_04_05.md)<br />
+Global Rank: [189](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [126]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [126]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  752.8<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Back to Back<br />
 Roster: edv, fokiu, perez, protado, zede<br />
-Global Rank: [179](../../standings_global_2026_04_05.md)<br />
+Global Rank: [179](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [36]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [36]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  783.9<br />
 <br />

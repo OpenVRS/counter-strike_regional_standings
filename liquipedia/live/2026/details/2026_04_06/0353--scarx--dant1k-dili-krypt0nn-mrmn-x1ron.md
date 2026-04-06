@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: ScarX<br />
 Roster: Dant1k, Dili, KryPt0NN, mRmN, x1ron<br />
-Global Rank: [353](../../standings_global_2026_04_05.md)<br />
+Global Rank: [353](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [49]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [49]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  417.2<br />
 <br />

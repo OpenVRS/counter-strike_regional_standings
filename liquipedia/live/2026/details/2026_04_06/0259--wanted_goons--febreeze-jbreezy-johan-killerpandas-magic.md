@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Wanted Goons<br />
 Roster: febreeze, JBreezy, Johan, killerPandas, Magic<br />
-Global Rank: [259](../../standings_global_2026_04_05.md)<br />
+Global Rank: [259](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [64]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [64]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  631.8<br />
 <br />

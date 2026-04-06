@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Vexa E-Sports<br />
 Roster: hug1, nolkz, ryuzen<br />
-Global Rank: [294](../../standings_global_2026_04_05.md)<br />
+Global Rank: [294](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [79]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [79]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  565.3<br />
 <br />

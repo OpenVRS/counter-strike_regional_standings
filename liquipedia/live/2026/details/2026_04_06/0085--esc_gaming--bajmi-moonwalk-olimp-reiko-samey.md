@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: ESC Gaming<br />
 Roster: bajmi, moonwalk, olimp, reiko, SaMey<br />
-Global Rank: [85](../../standings_global_2026_04_05.md)<br />
+Global Rank: [85](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [60]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [60]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1161.0<br />
 <br />

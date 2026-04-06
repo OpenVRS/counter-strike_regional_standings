@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: WW Team<br />
 Roster: ct0m, d1Ledez, deko, kelieN, StRoGo<br />
-Global Rank: [58](../../standings_global_2026_04_05.md)<br />
+Global Rank: [58](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [37]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [37]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1272.9<br />
 <br />

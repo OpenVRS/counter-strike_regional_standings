@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Copenhagen Wolves (American organization)<br />
 Roster: b1elany, Jorko, Matheos, n1Xen, Tapewaare<br />
-Global Rank: [249](../../standings_global_2026_04_05.md)<br />
+Global Rank: [249](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [160]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [160]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  650.6<br />
 <br />

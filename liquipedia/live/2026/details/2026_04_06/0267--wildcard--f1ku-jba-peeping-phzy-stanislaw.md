@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Wildcard<br />
 Roster: F1KU, JBa, Peeping, phzy, stanislaw<br />
-Global Rank: [267](../../standings_global_2026_04_05.md)<br />
+Global Rank: [267](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [68]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [68]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  619.6<br />
 <br />

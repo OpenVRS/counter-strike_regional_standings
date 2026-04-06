@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Outfit 49<br />
 Roster: Gabe, H0NeST, mds, Valter0k, Zoker<br />
-Global Rank: [216](../../standings_global_2026_04_05.md)<br />
+Global Rank: [216](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [52]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [52]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  716.7<br />
 <br />

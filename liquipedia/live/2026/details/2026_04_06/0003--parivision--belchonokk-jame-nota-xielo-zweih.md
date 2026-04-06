@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: PARIVISION<br />
 Roster: BELCHONOKK, Jame, nota, xiELO, zweih<br />
-Global Rank: [3](../../standings_global_2026_04_05.md)<br />
+Global Rank: [3](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [3]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [3]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1798.4<br />
 <br />

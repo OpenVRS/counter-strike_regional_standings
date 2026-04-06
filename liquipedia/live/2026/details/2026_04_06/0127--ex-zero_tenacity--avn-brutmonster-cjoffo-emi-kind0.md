@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Ex-Zero Tenacity<br />
 Roster: aVN, brutmonster, Cjoffo, emi, Kind0<br />
-Global Rank: [127](../../standings_global_2026_04_05.md)<br />
+Global Rank: [127](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [90]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [90]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  951.9<br />
 <br />

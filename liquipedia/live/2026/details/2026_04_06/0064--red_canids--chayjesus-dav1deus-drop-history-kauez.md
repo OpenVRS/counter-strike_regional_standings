@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: RED Canids<br />
 Roster: chayJESUS, dav1deuS, drop, history, kauez<br />
-Global Rank: [64](../../standings_global_2026_04_05.md)<br />
+Global Rank: [64](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [17]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [17]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1242.5<br />
 <br />

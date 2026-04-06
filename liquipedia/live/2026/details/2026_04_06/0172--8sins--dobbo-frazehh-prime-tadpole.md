@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 8Sins<br />
 Roster: dobbo, frazehh, Prime, Tadpole<br />
-Global Rank: [172](../../standings_global_2026_04_05.md)<br />
+Global Rank: [172](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [116]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [116]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  803.5<br />
 <br />

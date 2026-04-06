@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Players (Brazilian team)<br />
 Roster: Lich, MITHPUTTINI, Rkzinho, souz4h, xns<br />
-Global Rank: [239](../../standings_global_2026_04_05.md)<br />
+Global Rank: [239](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [58]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [58]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  665.6<br />
 <br />

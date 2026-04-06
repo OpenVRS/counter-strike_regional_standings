@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: GenOne<br />
 Roster: bL4SEZ, Brooxsy, Chuckyy, Djoko, Keoz<br />
-Global Rank: [116](../../standings_global_2026_04_05.md)<br />
+Global Rank: [116](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [79]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [79]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1002.5<br />
 <br />

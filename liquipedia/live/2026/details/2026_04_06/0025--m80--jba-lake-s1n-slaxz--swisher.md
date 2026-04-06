@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: M80<br />
 Roster: JBa, Lake, s1n, slaxz-, Swisher<br />
-Global Rank: [25](../../standings_global_2026_04_05.md)<br />
+Global Rank: [25](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [5]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [5]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1455.0<br />
 <br />

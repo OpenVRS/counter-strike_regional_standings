@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: The QUBE Esports<br />
 Roster: Cozen, grizzly, Kamui, Paranormal, soloooS<br />
-Global Rank: [144](../../standings_global_2026_04_05.md)<br />
+Global Rank: [144](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [16]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [16]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  892.4<br />
 <br />

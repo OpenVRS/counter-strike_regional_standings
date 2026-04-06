@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: PaiN Gaming<br />
 Roster: biguzera, nqz, piriajr, snow, v$m<br />
-Global Rank: [14](../../standings_global_2026_04_05.md)<br />
+Global Rank: [14](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [3]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [3]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1590.6<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Zomblers<br />
 Roster: CAJUN, CoolComs, grape, Pol0, Pose1doNN<br />
-Global Rank: [221](../../standings_global_2026_04_05.md)<br />
+Global Rank: [221](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [54]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [54]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  706.6<br />
 <br />

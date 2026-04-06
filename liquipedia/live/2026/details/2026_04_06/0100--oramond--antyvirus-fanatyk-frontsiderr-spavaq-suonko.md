@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Oramond<br />
 Roster: AntyVirus, fanatyk, Frontsiderr, SpavaQ, suonko<br />
-Global Rank: [100](../../standings_global_2026_04_05.md)<br />
+Global Rank: [100](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [69]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [69]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1086.2<br />
 <br />

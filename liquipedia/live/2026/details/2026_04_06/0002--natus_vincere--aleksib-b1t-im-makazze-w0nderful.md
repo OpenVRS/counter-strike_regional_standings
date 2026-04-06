@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Natus Vincere<br />
 Roster: Aleksib, b1t, iM, makazze, w0nderful<br />
-Global Rank: [2](../../standings_global_2026_04_05.md)<br />
+Global Rank: [2](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [2]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [2]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1902.8<br />
 <br />

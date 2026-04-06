@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 1w Team<br />
 Roster: cronuss, lattykk, nbl, oz1k, reyoz<br />
-Global Rank: [38](../../standings_global_2026_04_05.md)<br />
+Global Rank: [38](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [27]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [27]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1363.4<br />
 <br />

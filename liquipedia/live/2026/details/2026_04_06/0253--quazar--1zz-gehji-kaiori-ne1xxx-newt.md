@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: QUAZAR<br />
 Roster: 1zz, gehji, kaiori, Ne1XXX, newt<br />
-Global Rank: [253](../../standings_global_2026_04_05.md)<br />
+Global Rank: [253](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [161]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [161]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  643.8<br />
 <br />

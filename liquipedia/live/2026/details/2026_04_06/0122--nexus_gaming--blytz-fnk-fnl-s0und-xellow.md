@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Nexus Gaming<br />
 Roster: Blytz, fNk, fnl, s0und, XELLOW<br />
-Global Rank: [122](../../standings_global_2026_04_05.md)<br />
+Global Rank: [122](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [85]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [85]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  972.6<br />
 <br />

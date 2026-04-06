@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Hindsight<br />
 Roster: Ann4, Kaoday, Madam, mikeri, pullox<br />
-Global Rank: [283](../../standings_global_2026_04_05.md)<br />
+Global Rank: [283](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [178]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [178]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  595.7<br />
 <br />

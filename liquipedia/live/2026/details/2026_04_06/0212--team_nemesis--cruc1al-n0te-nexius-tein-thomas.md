@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Nemesis<br />
 Roster: CRUC1AL, n0te, Nexius, tein, Thomas<br />
-Global Rank: [212](../../standings_global_2026_04_05.md)<br />
+Global Rank: [212](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [137]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [137]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  722.8<br />
 <br />

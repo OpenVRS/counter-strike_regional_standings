@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: EC BANGA<br />
 Roster: blazekinho, cgk, Labreenc, makaroffz, sqreet<br />
-Global Rank: [275](../../standings_global_2026_04_05.md)<br />
+Global Rank: [275](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [175]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [175]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  600.7<br />
 <br />

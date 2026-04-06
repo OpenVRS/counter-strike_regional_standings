@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Alliance<br />
 Roster: avid, eraa, MaiL09, twist, upE<br />
-Global Rank: [23](../../standings_global_2026_04_05.md)<br />
+Global Rank: [23](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [18]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [18]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1469.3<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Atrix Esports<br />
 Roster: bokor, eleveN, LyttleZ, REGIANE, sofiaxyz<br />
-Global Rank: [198](../../standings_global_2026_04_05.md)<br />
+Global Rank: [198](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [43]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [43]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  742.1<br />
 <br />

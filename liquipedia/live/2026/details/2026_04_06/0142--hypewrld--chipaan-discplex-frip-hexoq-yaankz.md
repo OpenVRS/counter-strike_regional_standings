@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Hypewrld<br />
 Roster: ChipaaN, discplex, Frip, HexoQ, yaankz<br />
-Global Rank: [142](../../standings_global_2026_04_05.md)<br />
+Global Rank: [142](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [99]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [99]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  896.8<br />
 <br />

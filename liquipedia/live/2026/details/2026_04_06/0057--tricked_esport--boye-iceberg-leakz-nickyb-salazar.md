@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Tricked Esport<br />
 Roster: Boye, IceBerg, Leakz, NickyB, salazar<br />
-Global Rank: [57](../../standings_global_2026_04_05.md)<br />
+Global Rank: [57](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [36]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [36]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1275.9<br />
 <br />

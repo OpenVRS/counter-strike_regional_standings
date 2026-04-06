@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Zealous<br />
 Roster: borb, JAKEY, terrk1s, Yaboduulio<br />
-Global Rank: [355](../../standings_global_2026_04_05.md)<br />
+Global Rank: [355](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [101]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [101]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  402.9<br />
 <br />

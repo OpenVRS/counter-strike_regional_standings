@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Inner Circle Academy<br />
 Roster: 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz<br />
-Global Rank: [270](../../standings_global_2026_04_05.md)<br />
+Global Rank: [270](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [171]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [171]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  614.5<br />
 <br />

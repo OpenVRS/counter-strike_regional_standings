@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Mousquetaires<br />
 Roster: AsI0K, devoduvek, SIXER, SLIE9000, Tarkky<br />
-Global Rank: [171](../../standings_global_2026_04_05.md)<br />
+Global Rank: [171](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [115]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [115]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  804.8<br />
 <br />

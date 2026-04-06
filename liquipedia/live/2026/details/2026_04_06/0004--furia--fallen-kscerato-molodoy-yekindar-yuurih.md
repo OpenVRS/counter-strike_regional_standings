@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FURIA<br />
 Roster: FalleN, KSCERATO, molodoy, YEKINDAR, yuurih<br />
-Global Rank: [4](../../standings_global_2026_04_05.md)<br />
+Global Rank: [4](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [1]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [1]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1780.6<br />
 <br />

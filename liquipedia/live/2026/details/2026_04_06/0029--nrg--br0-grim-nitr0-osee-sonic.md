@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: NRG<br />
 Roster: br0, Grim, nitr0, oSee, Sonic<br />
-Global Rank: [29](../../standings_global_2026_04_05.md)<br />
+Global Rank: [29](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [6]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [6]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1409.9<br />
 <br />

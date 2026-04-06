@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: HYPERSPIRIT<br />
 Roster: ADRON, Ciocardau, d1maje, ragga, starplajerz<br />
-Global Rank: [118](../../standings_global_2026_04_05.md)<br />
+Global Rank: [118](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [81]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [81]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  994.6<br />
 <br />

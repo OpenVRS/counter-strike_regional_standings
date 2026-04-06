@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FaZe Clan<br />
 Roster: broky, frozen, jcobbb, karrigan, Twistzz<br />
-Global Rank: [26](../../standings_global_2026_04_05.md)<br />
+Global Rank: [26](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [20]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [20]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1453.6<br />
 <br />

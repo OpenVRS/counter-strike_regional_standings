@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Galorys<br />
 Roster: destiny, drg, gbb, nython, tomate<br />
-Global Rank: [99](../../standings_global_2026_04_05.md)<br />
+Global Rank: [99](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [21]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [21]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1093.1<br />
 <br />

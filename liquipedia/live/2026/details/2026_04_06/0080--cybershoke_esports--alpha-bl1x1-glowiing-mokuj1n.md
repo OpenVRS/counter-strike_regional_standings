@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: CYBERSHOKE Esports<br />
 Roster: alpha, bl1x1, glowiing, Mokuj1n<br />
-Global Rank: [80](../../standings_global_2026_04_05.md)<br />
+Global Rank: [80](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [55]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [55]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1178.7<br />
 <br />

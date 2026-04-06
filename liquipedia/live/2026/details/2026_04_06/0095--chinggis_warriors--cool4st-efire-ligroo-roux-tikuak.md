@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Chinggis Warriors<br />
 Roster: cool4st, efire, ligroo, ROUX, Tikuak<br />
-Global Rank: [95](../../standings_global_2026_04_05.md)<br />
+Global Rank: [95](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [9]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [9]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  1116.7<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Eternal premium<br />
 Roster: dazzy, fynchoja, P1kaN0, skept1K, Sm1th<br />
-Global Rank: [345](../../standings_global_2026_04_05.md)<br />
+Global Rank: [345](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [201]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [201]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  448.8<br />
 <br />

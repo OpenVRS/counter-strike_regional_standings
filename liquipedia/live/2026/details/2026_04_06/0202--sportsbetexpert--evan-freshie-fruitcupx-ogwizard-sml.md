@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: SportsBetExpert<br />
 Roster: Evan, freshie, Fruitcupx, ogwizard, sml<br />
-Global Rank: [202](../../standings_global_2026_04_05.md)<br />
+Global Rank: [202](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [47]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [47]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  735.7<br />
 <br />

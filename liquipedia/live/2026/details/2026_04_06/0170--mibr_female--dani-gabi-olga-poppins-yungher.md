@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: MIBR Female<br />
 Roster: dani, GaBi, olga, poppins, yungher<br />
-Global Rank: [170](../../standings_global_2026_04_05.md)<br />
+Global Rank: [170](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [35]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [35]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  811.6<br />
 <br />

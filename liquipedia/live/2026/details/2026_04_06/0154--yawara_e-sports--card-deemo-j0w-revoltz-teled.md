@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Yawara E-Sports<br />
 Roster: card, deemO, j0w, revoltz, teleD<br />
-Global Rank: [154](../../standings_global_2026_04_05.md)<br />
+Global Rank: [154](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [31]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [31]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  858.3<br />
 <br />

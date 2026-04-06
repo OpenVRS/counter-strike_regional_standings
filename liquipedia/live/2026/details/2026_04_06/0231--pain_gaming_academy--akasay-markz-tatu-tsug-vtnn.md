@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: PaiN Gaming Academy<br />
 Roster: akasay, Markz, Tatu, tsug, vtnn<br />
-Global Rank: [231](../../standings_global_2026_04_05.md)<br />
+Global Rank: [231](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [57]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [57]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  682.7<br />
 <br />

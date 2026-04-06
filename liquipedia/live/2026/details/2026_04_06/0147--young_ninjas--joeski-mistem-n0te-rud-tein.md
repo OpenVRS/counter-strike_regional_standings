@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Young Ninjas<br />
 Roster: joeski, MisteM, n0te, rud, tein<br />
-Global Rank: [147](../../standings_global_2026_04_05.md)<br />
+Global Rank: [147](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [102]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [102]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  878.6<br />
 <br />

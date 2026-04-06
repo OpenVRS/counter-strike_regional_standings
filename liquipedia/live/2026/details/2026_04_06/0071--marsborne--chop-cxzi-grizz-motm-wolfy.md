@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Marsborne<br />
 Roster: chop, Cxzi, Grizz, motm, WolfY<br />
-Global Rank: [71](../../standings_global_2026_04_05.md)<br />
+Global Rank: [71](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [19]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [19]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  1209.0<br />
 <br />

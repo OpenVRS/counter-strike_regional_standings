@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Universe<br />
 Roster: allu, HENU, jelo<br />
-Global Rank: [279](../../standings_global_2026_04_05.md)<br />
+Global Rank: [279](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [177]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [177]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  598.5<br />
 <br />

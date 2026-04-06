@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: ALGO Esports<br />
 Roster: anber, aNdu, nukkye, rendysky, szejn<br />
-Global Rank: [103](../../standings_global_2026_04_05.md)<br />
+Global Rank: [103](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [70]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [70]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1060.0<br />
 <br />

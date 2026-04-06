@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: MOUZ NXT<br />
 Roster: ay0k, Joey, Nikodeon, opdust, xelex<br />
-Global Rank: [76](../../standings_global_2026_04_05.md)<br />
+Global Rank: [76](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [52]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [52]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1190.3<br />
 <br />

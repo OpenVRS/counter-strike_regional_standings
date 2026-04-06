@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Aimclub (Romanian team)<br />
 Roster: adeX, Ed1m, ERSIN, RoberttMP, zewts<br />
-Global Rank: [148](../../standings_global_2026_04_05.md)<br />
+Global Rank: [148](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [103]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [103]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  877.8<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Leo Team<br />
 Roster: amster, kL1o, leri511, marat2k, OneUn1que<br />
-Global Rank: [115](../../standings_global_2026_04_05.md)<br />
+Global Rank: [115](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [78]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [78]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1005.0<br />
 <br />

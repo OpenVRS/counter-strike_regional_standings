@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Inner Circle Esports<br />
 Roster: cptkurtka023, Dawy, headtr1ck, onic, zeRRoFIX<br />
-Global Rank: [75](../../standings_global_2026_04_05.md)<br />
+Global Rank: [75](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [51]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [51]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1195.8<br />
 <br />

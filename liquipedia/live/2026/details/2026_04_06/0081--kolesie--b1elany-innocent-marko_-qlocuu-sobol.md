@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: KOLESIE<br />
 Roster: b1elany, innocent, Markoś, Qlocuu, Sobol<br />
-Global Rank: [81](../../standings_global_2026_04_05.md)<br />
+Global Rank: [81](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [56]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [56]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1170.4<br />
 <br />

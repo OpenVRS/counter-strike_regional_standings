@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Spirit Academy<br />
 Roster: Kiryasoo, kurosse, Mokuj1n, robo, SYPH0<br />
-Global Rank: [236](../../standings_global_2026_04_05.md)<br />
+Global Rank: [236](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [151]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [151]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  669.0<br />
 <br />

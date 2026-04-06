@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Legion (Pakistani team)<br />
 Roster: Bloody, BulleT, hf, HZI, pavast4r<br />
-Global Rank: [218](../../standings_global_2026_04_05.md)<br />
+Global Rank: [218](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [27]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [27]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  712.9<br />
 <br />

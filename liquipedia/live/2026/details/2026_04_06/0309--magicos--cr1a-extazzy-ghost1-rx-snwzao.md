@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: MAGICOS<br />
 Roster: Cr1a, extazzy, ghosT1, rx, snwzao<br />
-Global Rank: [309](../../standings_global_2026_04_05.md)<br />
+Global Rank: [309](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [84]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [84]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  525.8<br />
 <br />

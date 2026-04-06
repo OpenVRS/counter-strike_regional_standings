@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: UNO MILLE<br />
 Roster: brokeN, cLd, CloN7, Ltz, rem1x<br />
-Global Rank: [151](../../standings_global_2026_04_05.md)<br />
+Global Rank: [151](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [30]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [30]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  868.1<br />
 <br />

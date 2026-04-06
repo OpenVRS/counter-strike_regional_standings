@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Prison Breakers<br />
 Roster: card, MaLLby, pepe, r3kt, stAx<br />
-Global Rank: [313](../../standings_global_2026_04_05.md)<br />
+Global Rank: [313](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [87]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [87]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  517.4<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FengDa Gaming<br />
 Roster: 3gl, Biuckmt, salmon, Trash, сhengking<br />
-Global Rank: [255](../../standings_global_2026_04_05.md)<br />
+Global Rank: [255](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [30]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [30]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  642.8<br />
 <br />

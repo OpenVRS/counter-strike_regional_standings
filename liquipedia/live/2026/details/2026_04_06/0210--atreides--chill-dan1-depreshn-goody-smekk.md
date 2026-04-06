@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Atreides<br />
 Roster: Chill, dan1, DEPRESHN, Goody, smekk<br />
-Global Rank: [210](../../standings_global_2026_04_05.md)<br />
+Global Rank: [210](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [136]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [136]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  723.6<br />
 <br />

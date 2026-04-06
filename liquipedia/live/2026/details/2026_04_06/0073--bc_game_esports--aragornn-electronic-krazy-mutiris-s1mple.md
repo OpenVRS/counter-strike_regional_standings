@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BC.Game Esports<br />
 Roster: aragornN, electroNic, krazy, MUTiRiS, s1mple<br />
-Global Rank: [73](../../standings_global_2026_04_05.md)<br />
+Global Rank: [73](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [49]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [49]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1198.3<br />
 <br />

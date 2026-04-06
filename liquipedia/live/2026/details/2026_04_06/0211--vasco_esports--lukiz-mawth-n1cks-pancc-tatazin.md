@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Vasco eSports<br />
 Roster: lukiz, mawth, n1cks, pancc, tatazin<br />
-Global Rank: [211](../../standings_global_2026_04_05.md)<br />
+Global Rank: [211](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [51]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [51]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  723.3<br />
 <br />

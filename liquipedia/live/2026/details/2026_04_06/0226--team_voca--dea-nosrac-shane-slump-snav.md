@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Voca<br />
 Roster: dea, nosraC, shane, slump, snav<br />
-Global Rank: [226](../../standings_global_2026_04_05.md)<br />
+Global Rank: [226](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [55]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [55]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  695.9<br />
 <br />

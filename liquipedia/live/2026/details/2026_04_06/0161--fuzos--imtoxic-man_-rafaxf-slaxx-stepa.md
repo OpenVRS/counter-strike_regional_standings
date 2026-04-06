@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FUZOS<br />
 Roster: imTOXIC, Mané, rafaxF, Slaxx, StepA<br />
-Global Rank: [161](../../standings_global_2026_04_05.md)<br />
+Global Rank: [161](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [107]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [107]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  839.4<br />
 <br />

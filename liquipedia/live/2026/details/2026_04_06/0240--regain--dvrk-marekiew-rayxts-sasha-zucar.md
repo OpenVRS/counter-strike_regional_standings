@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Regain<br />
 Roster: dvrk, marekiew, rayxts, sasha, Zucar<br />
-Global Rank: [240](../../standings_global_2026_04_05.md)<br />
+Global Rank: [240](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [59]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [59]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  661.1<br />
 <br />

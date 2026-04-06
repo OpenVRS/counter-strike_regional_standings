@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Fire Flux Esports<br />
 Roster: Banjo, FinigaN, paz, shield, soulfly<br />
-Global Rank: [167](../../standings_global_2026_04_05.md)<br />
+Global Rank: [167](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [112]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [112]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  818.9<br />
 <br />

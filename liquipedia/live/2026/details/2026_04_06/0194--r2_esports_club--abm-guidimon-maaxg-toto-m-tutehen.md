@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: R2 Esports Club<br />
 Roster: ABM, guidimon, maaxg, toto-m, tutehen<br />
-Global Rank: [194](../../standings_global_2026_04_05.md)<br />
+Global Rank: [194](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [41]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [41]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  747.3<br />
 <br />

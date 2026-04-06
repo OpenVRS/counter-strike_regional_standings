@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Brazylijski luz<br />
 Roster: aimy, Brain, elem, next1me, Pelle<br />
-Global Rank: [237](../../standings_global_2026_04_05.md)<br />
+Global Rank: [237](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [152]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [152]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  666.6<br />
 <br />

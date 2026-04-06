@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: ALLINNERS<br />
 Roster: buster, ICY, kade0, kumao, noni<br />
-Global Rank: [165](../../standings_global_2026_04_05.md)<br />
+Global Rank: [165](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [110]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [110]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  828.9<br />
 <br />

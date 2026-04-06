@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Blitzkrieg (Mexican team)<br />
 Roster: Jardani, otEB, points, TORITO, vanilla<br />
-Global Rank: [296](../../standings_global_2026_04_05.md)<br />
+Global Rank: [296](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [80]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [80]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  562.0<br />
 <br />

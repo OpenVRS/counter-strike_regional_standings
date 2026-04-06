@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: HAVU<br />
 Roster: Alxc, ottob, p3kko, puuha, uli<br />
-Global Rank: [117](../../standings_global_2026_04_05.md)<br />
+Global Rank: [117](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [80]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [80]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  998.7<br />
 <br />

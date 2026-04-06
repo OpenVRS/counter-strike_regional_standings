@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: M1X<br />
 Roster: juanflatroo, nawwk, SENER1, sinnopsyy, zeRRoFIX<br />
-Global Rank: [289](../../standings_global_2026_04_05.md)<br />
+Global Rank: [289](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [182]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [182]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  578.6<br />
 <br />

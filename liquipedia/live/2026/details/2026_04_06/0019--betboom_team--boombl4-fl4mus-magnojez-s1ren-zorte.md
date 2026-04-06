@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BetBoom Team<br />
 Roster: Boombl4, FL4MUS, Magnojez, s1ren, zorte<br />
-Global Rank: [19](../../standings_global_2026_04_05.md)<br />
+Global Rank: [19](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [14]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [14]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1525.4<br />
 <br />

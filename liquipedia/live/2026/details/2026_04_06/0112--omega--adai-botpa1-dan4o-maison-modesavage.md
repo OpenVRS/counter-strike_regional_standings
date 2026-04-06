@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: OMEGA<br />
 Roster: adai, Botpa1, dan4o, Maison, modeSavage<br />
-Global Rank: [112](../../standings_global_2026_04_05.md)<br />
+Global Rank: [112](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [77]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [77]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1011.3<br />
 <br />

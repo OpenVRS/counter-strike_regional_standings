@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Infinite Gaming<br />
 Roster: adeX, DaciaBlue3, LkS, mhN1, RQBY<br />
-Global Rank: [299](../../standings_global_2026_04_05.md)<br />
+Global Rank: [299](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [186]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [186]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  542.2<br />
 <br />

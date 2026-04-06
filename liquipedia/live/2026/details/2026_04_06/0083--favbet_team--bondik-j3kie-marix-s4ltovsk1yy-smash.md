@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FAVBET Team<br />
 Roster: bondik, j3kie, Marix, s4ltovsk1yy, Smash<br />
-Global Rank: [83](../../standings_global_2026_04_05.md)<br />
+Global Rank: [83](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [58]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [58]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1165.4<br />
 <br />

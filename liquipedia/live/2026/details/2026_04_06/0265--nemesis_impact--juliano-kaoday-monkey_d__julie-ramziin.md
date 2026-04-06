@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Nemesis Impact<br />
 Roster: juliano, Kaoday, Monkey D. Julie, ramziiN<br />
-Global Rank: [265](../../standings_global_2026_04_05.md)<br />
+Global Rank: [265](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [168]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [168]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  623.6<br />
 <br />

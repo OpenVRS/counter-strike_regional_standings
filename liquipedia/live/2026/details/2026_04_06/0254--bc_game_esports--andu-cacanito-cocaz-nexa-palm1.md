@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BC.Game Esports<br />
 Roster: aNdu, CacaNito, Cocaz, nexa, PALM1<br />
-Global Rank: [254](../../standings_global_2026_04_05.md)<br />
+Global Rank: [254](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [162]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [162]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  643.5<br />
 <br />

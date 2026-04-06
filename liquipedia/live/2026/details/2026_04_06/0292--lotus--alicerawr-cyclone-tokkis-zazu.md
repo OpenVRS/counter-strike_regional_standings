@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Lotus<br />
 Roster: alicerawr, cyclone, tokkis, Zazu<br />
-Global Rank: [292](../../standings_global_2026_04_05.md)<br />
+Global Rank: [292](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [77]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [77]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  567.0<br />
 <br />

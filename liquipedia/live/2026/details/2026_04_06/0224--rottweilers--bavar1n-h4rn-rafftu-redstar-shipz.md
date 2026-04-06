@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Rottweilers<br />
 Roster: bavar1n, h4rn, rafftu, REDSTAR, SHiPZ<br />
-Global Rank: [224](../../standings_global_2026_04_05.md)<br />
+Global Rank: [224](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [142]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [142]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  700.0<br />
 <br />

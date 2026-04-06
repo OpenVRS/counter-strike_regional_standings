@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Fingers Crossed<br />
 Roster: BaGyZ, fello, MAGILA, Sidivo, Uzman<br />
-Global Rank: [334](../../standings_global_2026_04_05.md)<br />
+Global Rank: [334](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [195]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [195]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  470.6<br />
 <br />

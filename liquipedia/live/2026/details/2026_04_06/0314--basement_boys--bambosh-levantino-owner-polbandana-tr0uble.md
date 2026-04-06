@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BASEMENT BOYS<br />
 Roster: Bambosh, levantino, OWNER, Polbandana, Tr0ublE<br />
-Global Rank: [314](../../standings_global_2026_04_05.md)<br />
+Global Rank: [314](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [189]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [189]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  516.0<br />
 <br />

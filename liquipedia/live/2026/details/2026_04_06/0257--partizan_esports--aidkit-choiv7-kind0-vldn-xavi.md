@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Partizan Esports<br />
 Roster: aidKiT, choiv7, Kind0, VLDN, xavi<br />
-Global Rank: [257](../../standings_global_2026_04_05.md)<br />
+Global Rank: [257](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [164]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [164]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  640.5<br />
 <br />

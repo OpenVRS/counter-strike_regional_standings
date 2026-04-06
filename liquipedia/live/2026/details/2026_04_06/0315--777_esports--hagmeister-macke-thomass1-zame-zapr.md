@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 777 Esports<br />
 Roster: Hagmeister, macke, thomass1, zame, ZapR<br />
-Global Rank: [315](../../standings_global_2026_04_05.md)<br />
+Global Rank: [315](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [190]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [190]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  516.0<br />
 <br />

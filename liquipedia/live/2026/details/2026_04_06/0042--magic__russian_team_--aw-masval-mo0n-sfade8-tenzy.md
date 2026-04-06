@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Magic (Russian team)<br />
 Roster: AW, MaSvAl, mo0N, sFade8, tENZY<br />
-Global Rank: [42](../../standings_global_2026_04_05.md)<br />
+Global Rank: [42](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [30]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [30]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1335.9<br />
 <br />

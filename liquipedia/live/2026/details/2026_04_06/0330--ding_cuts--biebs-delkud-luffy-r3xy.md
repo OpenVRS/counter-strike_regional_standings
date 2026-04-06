@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Ding Cuts<br />
 Roster: biebs, delkud, luffy, R3XY<br />
-Global Rank: [330](../../standings_global_2026_04_05.md)<br />
+Global Rank: [330](../../standings_global_.md)<br />
 <br />
-Region: [Asia]( ../../standings_asia_2026_04_05.md)<br />
-Regional Rank: [41]( ../../standings_asia_2026_04_05.md)<br />
+Region: [Asia]( ../../standings_asia_.md)<br />
+Regional Rank: [41]( ../../standings_asia_.md)<br />
 <br />
 Final Rank Value:  480.1<br />
 <br />

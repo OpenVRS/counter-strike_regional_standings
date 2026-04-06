@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Ex-Flame Sharks<br />
 Roster: 7tetsu, heis999, sad, xm1nd, Yakuza<br />
-Global Rank: [205](../../standings_global_2026_04_05.md)<br />
+Global Rank: [205](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [133]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [133]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  732.8<br />
 <br />

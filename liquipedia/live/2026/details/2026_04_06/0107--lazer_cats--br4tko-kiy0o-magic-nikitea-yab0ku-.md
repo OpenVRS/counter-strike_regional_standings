@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Lazer Cats<br />
 Roster: Br4tkO, Kiy0o, Magic, nikitea, yab0ku-<br />
-Global Rank: [107](../../standings_global_2026_04_05.md)<br />
+Global Rank: [107](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [72]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [72]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1042.7<br />
 <br />

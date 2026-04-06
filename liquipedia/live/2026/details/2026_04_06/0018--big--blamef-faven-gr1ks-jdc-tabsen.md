@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BIG<br />
 Roster: blameF, faveN, gr1ks, JDC, tabseN<br />
-Global Rank: [18](../../standings_global_2026_04_05.md)<br />
+Global Rank: [18](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [13]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [13]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1525.7<br />
 <br />

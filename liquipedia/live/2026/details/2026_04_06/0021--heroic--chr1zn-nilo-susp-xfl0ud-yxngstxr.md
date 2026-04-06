@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: HEROIC<br />
 Roster: Chr1zN, nilo, susp, xfl0ud, yxngstxr<br />
-Global Rank: [21](../../standings_global_2026_04_05.md)<br />
+Global Rank: [21](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [16]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [16]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1502.2<br />
 <br />

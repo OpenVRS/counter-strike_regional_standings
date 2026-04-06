@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: B8<br />
 Roster: alex666, esenthial, kensizor, npl, s1zzi<br />
-Global Rank: [20](../../standings_global_2026_04_05.md)<br />
+Global Rank: [20](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [15]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [15]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1517.0<br />
 <br />

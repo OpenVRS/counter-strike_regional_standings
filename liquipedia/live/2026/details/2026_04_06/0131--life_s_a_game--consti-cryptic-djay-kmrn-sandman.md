@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Life's A Game<br />
 Roster: consti, Cryptic, djay, kmrn, Sandman<br />
-Global Rank: [131](../../standings_global_2026_04_05.md)<br />
+Global Rank: [131](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [25]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [25]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  937.7<br />
 <br />

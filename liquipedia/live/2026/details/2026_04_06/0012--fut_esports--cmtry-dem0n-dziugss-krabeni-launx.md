@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FUT Esports<br />
 Roster: cmtry, dem0n, dziugss, Krabeni, lauNX<br />
-Global Rank: [12](../../standings_global_2026_04_05.md)<br />
+Global Rank: [12](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [10]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [10]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1618.5<br />
 <br />

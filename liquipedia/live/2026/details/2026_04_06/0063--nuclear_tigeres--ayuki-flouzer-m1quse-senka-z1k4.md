@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Nuclear TigeRES<br />
 Roster: ayuki, flouzer, m1QUSE, senka, z1k4<br />
-Global Rank: [63](../../standings_global_2026_04_05.md)<br />
+Global Rank: [63](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [42]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [42]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1249.0<br />
 <br />

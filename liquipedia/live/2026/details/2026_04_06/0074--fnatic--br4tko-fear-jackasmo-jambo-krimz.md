@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Fnatic<br />
 Roster: Br4tkO, fear, jackasmo, jambo, KRIMZ<br />
-Global Rank: [74](../../standings_global_2026_04_05.md)<br />
+Global Rank: [74](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [50]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [50]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1197.7<br />
 <br />

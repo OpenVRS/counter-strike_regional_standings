@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Ex-RUBY<br />
 Roster: danistzz, H4SAN4TOR, Kaide, sh1nejezzz, YumsaN<br />
-Global Rank: [82](../../standings_global_2026_04_05.md)<br />
+Global Rank: [82](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [57]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [57]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1169.2<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Young Ninjas<br />
 Roster: jocab, MahaR, MisteM, rud, sL1m3<br />
-Global Rank: [302](../../standings_global_2026_04_05.md)<br />
+Global Rank: [302](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [187]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [187]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  540.1<br />
 <br />

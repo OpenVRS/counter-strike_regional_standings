@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: CSDIILIT<br />
 Roster: 8Juho8, joeski, Myggis, Puteli, Rejoiner<br />
-Global Rank: [262](../../standings_global_2026_04_05.md)<br />
+Global Rank: [262](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [165]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [165]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  628.0<br />
 <br />

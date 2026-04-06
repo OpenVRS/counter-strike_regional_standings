@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: BIG<br />
 Roster: FreeZe, JBOEN, JDC, prosus, tabseN<br />
-Global Rank: [195](../../standings_global_2026_04_05.md)<br />
+Global Rank: [195](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [130]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [130]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  745.4<br />
 <br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: CYBERSHOKE Prospects<br />
 Roster: DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza<br />
-Global Rank: [232](../../standings_global_2026_04_05.md)<br />
+Global Rank: [232](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [147]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [147]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  675.2<br />
 <br />

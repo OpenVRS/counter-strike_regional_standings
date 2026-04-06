@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Chicken Coop Esports<br />
 Roster: colin, Crisp, Drop, Jared, REKMEISTER<br />
-Global Rank: [188](../../standings_global_2026_04_05.md)<br />
+Global Rank: [188](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [40]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [40]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  755.3<br />
 <br />

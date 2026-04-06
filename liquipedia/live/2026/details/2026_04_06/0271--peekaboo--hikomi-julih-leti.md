@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Peekaboo<br />
 Roster: Hikomi, julih, LETi<br />
-Global Rank: [271](../../standings_global_2026_04_05.md)<br />
+Global Rank: [271](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [172]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [172]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  613.2<br />
 <br />

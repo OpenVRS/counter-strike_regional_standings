@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Phantom Esports<br />
 Roster: KEi, Kunai, Kylar, mwlky, mynio<br />
-Global Rank: [90](../../standings_global_2026_04_05.md)<br />
+Global Rank: [90](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [64]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [64]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1141.0<br />
 <br />

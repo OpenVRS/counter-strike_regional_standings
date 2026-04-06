@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 100 Thieves<br />
 Roster: Ag1l, dev1ce, poiii, rain, sirah<br />
-Global Rank: [41](../../standings_global_2026_04_05.md)<br />
+Global Rank: [41](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [29]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [29]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1348.6<br />
 <br />

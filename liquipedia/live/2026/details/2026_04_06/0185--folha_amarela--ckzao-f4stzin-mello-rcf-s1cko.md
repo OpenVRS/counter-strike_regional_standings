@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: FOLHA AMARELA<br />
 Roster: ckzao, f4stzin, mello, RCF, s1cko<br />
-Global Rank: [185](../../standings_global_2026_04_05.md)<br />
+Global Rank: [185](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [39]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [39]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  768.8<br />
 <br />

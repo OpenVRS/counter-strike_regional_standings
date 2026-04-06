@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: The Last Resort<br />
 Roster: arTisT, bevve, Extinct, Girafffe, Vacancy<br />
-Global Rank: [124](../../standings_global_2026_04_05.md)<br />
+Global Rank: [124](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [87]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [87]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  968.9<br />
 <br />

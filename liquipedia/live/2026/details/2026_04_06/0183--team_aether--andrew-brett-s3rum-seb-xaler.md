@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Aether<br />
 Roster: Andrew, brett, s3rum, Seb, xaler<br />
-Global Rank: [183](../../standings_global_2026_04_05.md)<br />
+Global Rank: [183](../../standings_global_.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_2026_04_05.md)<br />
-Regional Rank: [38]( ../../standings_americas_2026_04_05.md)<br />
+Region: [Americas]( ../../standings_americas_.md)<br />
+Regional Rank: [38]( ../../standings_americas_.md)<br />
 <br />
 Final Rank Value:  770.5<br />
 <br />

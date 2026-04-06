@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: WOPA Esport<br />
 Roster: kwezz, Patti, sL1m3, thamlike, Zanto<br />
-Global Rank: [125](../../standings_global_2026_04_05.md)<br />
+Global Rank: [125](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [88]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [88]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  968.7<br />
 <br />

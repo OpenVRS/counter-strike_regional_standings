@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: 9INE<br />
 Roster: bnox, cej0t, Flayy, kraghen, raalz<br />
-Global Rank: [47](../../standings_global_2026_04_05.md)<br />
+Global Rank: [47](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [32]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [32]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1316.5<br />
 <br />

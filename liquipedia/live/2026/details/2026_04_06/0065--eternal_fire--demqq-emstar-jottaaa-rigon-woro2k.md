@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Eternal Fire<br />
 Roster: DemQQ, EMSTAR, jottAAA, rigoN, Woro2k<br />
-Global Rank: [65](../../standings_global_2026_04_05.md)<br />
+Global Rank: [65](../../standings_global_.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
-Regional Rank: [43]( ../../standings_europe_2026_04_05.md)<br />
+Region: [Europe]( ../../standings_europe_.md)<br />
+Regional Rank: [43]( ../../standings_europe_.md)<br />
 <br />
 Final Rank Value:  1240.2<br />
 <br />
