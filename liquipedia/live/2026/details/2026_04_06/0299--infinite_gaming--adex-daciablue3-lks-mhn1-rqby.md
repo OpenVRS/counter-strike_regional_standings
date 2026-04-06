@@ -1,0 +1,72 @@
+### Roster Details<br />
+Team Name: Infinite Gaming<br />
+Roster: adeX, DaciaBlue3, LkS, mhN1, RQBY<br />
+Global Rank: [299](../../standings_global_2026_04_05.md)<br />
+<br />
+Region: [Europe]( ../../standings_europe_2026_04_05.md)<br />
+Regional Rank: [186]( ../../standings_europe_2026_04_05.md)<br />
+<br />
+Final Rank Value:  542.2<br />
+<br />
+Final Rank Value (542.2) = Starting Rank Value (528.1) + Head To Head Adjustments (14.0)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.000[<sup>1</sup>](#table2)
+- Bounty Collected: 0.000[<sup>2</sup>](#table1)
+- Opponent Network: 0.010[<sup>2</sup>](#table1)
+- LAN Wins: 0.252[<sup>2</sup>](#table1)
+
+The average of these factors is 0.065<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 528.1
+- 400 + ( ( 0.065 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 528.1
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+
+- A team offers ownNetwork for other teams to collect for their network
+- Own Network: 0.077
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           17 |     1959 | 2026-02-25 | Betclic Apogee Esports  | L   | 0.933      | -            | -                | -                | -         |    -0.51 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           16 |     1976 | 2026-02-25 | HEROIC                  | L   | 0.932      | -            | -                | -                | -         |    -0.11 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           15 |     1989 | 2026-02-24 | Japczany                | W   | 0.927      | 0.354        | 0.000 (0.000)    | 0.260 (0.085)    | 1 (0.927) |    19.65 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           14 |     1999 | 2026-02-24 | Hermine Esports Club    | W   | 0.926      | 0.354        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.926) |     9.73 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           13 |     2017 | 2026-02-24 | Japczany                | L   | 0.925      | -            | -                | -                | -         |    -8.74 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           12 |     3480 | 2026-01-16 | Aimclub (Romanian team) | L   | 0.667      | -            | -                | -                | -         |    -1.84 | adeX, LkS, mhN1, RQBY, welnic     |
+|           11 |     3492 | 2026-01-16 | Prestige Esport         | W   | 0.667      | 0.337        | 0.000 (0.000)    | 0.061 (0.014)    | 1 (0.667) |    13.99 | adeX, LkS, mhN1, RQBY, welnic     |
+|           10 |     3504 | 2026-01-16 | WOPA Esport             | L   | 0.666      | -            | -                | -                | -         |    -1.36 | adeX, LkS, mhN1, RQBY, welnic     |
+|            9 |     3512 | 2026-01-16 | Johnny Speeds           | L   | 0.666      | -            | -                | -                | -         |    -0.22 | adeX, LkS, mhN1, RQBY, welnic     |
+|            8 |     3521 | 2026-01-16 | AaB esport              | L   | 0.665      | -            | -                | -                | -         |    -0.58 | adeX, LkS, mhN1, RQBY, welnic     |
+|            7 |     3833 | 2025-12-17 | Fingers Crossed         | L   | 0.466      | -            | -                | -                | -         |    -8.66 | adeX, LkS, mhN1, RQBY, welnic     |
+|            6 |     3844 | 2025-12-17 | Illwill                 | L   | 0.465      | -            | -                | -                | -         |    -0.96 | adeX, LkS, mhN1, RQBY, welnic     |
+|            5 |     4169 | 2025-11-29 | OG                      | L   | 0.346      | -            | -                | -                | -         |    -0.18 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            4 |     4261 | 2025-11-25 | Team Nemesis            | L   | 0.318      | -            | -                | -                | -         |    -2.59 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            3 |     4297 | 2025-11-24 | Sangal Esports          | L   | 0.311      | -            | -                | -                | -         |    -1.55 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            2 |     4419 | 2025-11-20 | G2 Ares                 | L   | 0.286      | -            | -                | -                | -         |    -1.66 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            1 |     4442 | 2025-11-20 | Nexus Gaming            | L   | 0.285      | -            | -                | -                | -         |    -0.38 | LkS, mhN1, ra1n, RQBY, welnic     |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($0.00)
+- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by Liquipedia.net_<br />
