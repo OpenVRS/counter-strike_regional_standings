@@ -1,27 +1,27 @@
 ### Roster Details<br />
 Team Name: NRG<br />
 Roster: br0, Grim, nitr0, oSee, Sonic<br />
-Global Rank: [29](../../standings_global_.md)<br />
+Global Rank: [29](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_.md)<br />
-Regional Rank: [6]( ../../standings_americas_.md)<br />
+Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
+Regional Rank: [6]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  1409.9<br />
+Final Rank Value:  1411.8<br />
 <br />
-Final Rank Value (1409.9) = Starting Rank Value (1318.8) + Head To Head Adjustments (91.1)<br />
+Final Rank Value (1411.8) = Starting Rank Value (1321.1) + Head To Head Adjustments (90.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.516[<sup>1</sup>](#table2)
-- Bounty Collected: 0.467[<sup>2</sup>](#table1)
-- Opponent Network: 0.223[<sup>2</sup>](#table1)
+- Bounty Collected: 0.468[<sup>2</sup>](#table1)
+- Opponent Network: 0.227[<sup>2</sup>](#table1)
 - LAN Wins: 0.673[<sup>2</sup>](#table1)
 
-The average of these factors is 0.470<br />
+The average of these factors is 0.471<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1318.8
-- 400 + ( ( 0.470 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1318.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1321.1
+- 400 + ( ( 0.471 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1321.1
 
 
 #### Factors<br />
@@ -40,37 +40,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |      737 | 2026-03-22 | FURIA                  | L   | 1.000      | -            | -                | -                | -         |    -3.29 | br0, Grim, nitr0, oSee, Sonic    |
-|           30 |      862 | 2026-03-20 | B8                     | W   | 1.000      | 1.000        | 0.187 (0.187)    | 0.349 (0.349)    | 1 (1.000) |    21.36 | br0, Grim, nitr0, oSee, Sonic    |
-|           29 |      951 | 2026-03-18 | Team Falcons           | L   | 1.000      | -            | -                | -                | -         |    -3.39 | br0, Grim, nitr0, oSee, Sonic    |
-|           28 |     1653 | 2026-03-03 | Ninjas in Pyjamas      | L   | 0.974      | -            | -                | -                | -         |   -14.80 | br0, Grim, nitr0, oSee, Sonic    |
-|           27 |     1728 | 2026-03-02 | Monte                  | L   | 0.965      | -            | -                | -                | -         |   -10.23 | br0, Grim, nitr0, oSee, Sonic    |
-|           26 |     1771 | 2026-03-01 | HEROIC                 | L   | 0.958      | -            | -                | -                | -         |    -9.28 | br0, Grim, nitr0, oSee, Sonic    |
-|           25 |     2769 | 2026-02-08 | Passion UA             | W   | 0.820      | 0.769        | 0.070 (0.044)    | 0.462 (0.291)    | -         |    11.37 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           24 |     2799 | 2026-02-07 | Team Voca              | W   | 0.813      | 0.769        | 0.044 (0.028)    | 0.701 (0.438)    | -         |     9.71 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           23 |     2836 | 2026-02-06 | Fisher College         | W   | 0.807      | 0.769        | -                | 0.324 (0.201)    | -         |     1.54 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           22 |     2947 | 2026-02-02 | Team Falcons           | L   | 0.780      | -            | -                | -                | -         |    -3.10 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           21 |     2983 | 2026-02-01 | MOUZ                   | L   | 0.772      | -            | -                | -                | -         |    -3.08 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           20 |     3055 | 2026-01-30 | Astralis               | W   | 0.759      | 0.783        | 0.466 (0.277)    | 0.337 (0.200)    | 1 (0.759) |    18.89 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           19 |     3103 | 2026-01-28 | B8                     | W   | 0.746      | 0.783        | 0.187 (0.109)    | 0.349 (0.204)    | 1 (0.746) |    17.65 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           18 |     3613 | 2026-01-11 | M80                    | L   | 0.636      | -            | -                | -                | -         |    -7.73 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           17 |     3614 | 2026-01-11 | Marsborne              | W   | 0.634      | 0.396        | 0.038 (0.009)    | 0.491 (0.123)    | 1 (0.634) |     6.10 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           16 |     3625 | 2026-01-10 | Team Voca              | W   | 0.627      | 0.396        | 0.044 (0.011)    | 0.701 (0.174)    | 1 (0.627) |     8.72 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           15 |     3634 | 2026-01-09 | Outfit 49              | W   | 0.622      | -            | -                | -                | 1 (0.622) |     0.44 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           14 |     3652 | 2026-01-04 | 9INE                   | W   | 0.589      | 0.323        | 0.054 (0.010)    | 0.606 (0.115)    | 1 (0.589) |     9.09 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           13 |     3658 | 2026-01-04 | GamerLegion            | W   | 0.587      | 0.323        | 0.204 (0.039)    | -                | 1 (0.587) |    13.44 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           12 |     3669 | 2026-01-04 | Team Voca              | W   | 0.586      | 0.323        | 0.044 (0.008)    | 0.701 (0.133)    | 1 (0.586) |     9.19 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           11 |     3708 | 2026-01-03 | Marsborne              | W   | 0.580      | -            | -                | -                | 1 (0.580) |     7.34 | br0, Jeorge, nitr0, oSee, Sonic  |
-|           10 |     3714 | 2026-01-03 | EMPIRE (American team) | W   | 0.580      | -            | -                | -                | -         |     0.53 | br0, Jeorge, nitr0, oSee, Sonic  |
-|            9 |     4401 | 2025-11-20 | SkinRave Esports       | W   | 0.289      | -            | -                | -                | -         |     0.50 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            8 |     4660 | 2025-11-09 | M80                    | W   | 0.215      | -            | -                | -                | -         |     4.59 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            7 |     4667 | 2025-11-09 | BC.Game Esports        | W   | 0.214      | -            | -                | -                | -         |     3.51 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            6 |     4676 | 2025-11-09 | FRZ Unit               | W   | 0.213      | -            | -                | -                | -         |     0.06 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            5 |     4697 | 2025-11-08 | Reign Above            | W   | 0.209      | -            | -                | -                | -         |     0.10 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            4 |     4702 | 2025-11-08 | Outfit 49              | W   | 0.208      | -            | -                | -                | -         |     0.07 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            3 |     5177 | 2025-10-26 | Marsborne              | W   | 0.121      | -            | -                | -                | -         |     1.69 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            2 |     5198 | 2025-10-26 | Team Voca              | W   | 0.120      | -            | -                | -                | -         |     0.10 | br0, Jeorge, nitr0, Sonic, XotiC |
-|            1 |     5237 | 2025-10-25 | SapphireKelownaDotCom  | W   | 0.114      | -            | -                | -                | -         |     0.02 | br0, Jeorge, nitr0, Sonic, XotiC |
+|           31 |      755 | 2026-03-22 | FURIA                  | L   | 1.000      | -            | -                | -                | -         |    -3.32 | br0, Grim, nitr0, oSee, Sonic    |
+|           30 |      880 | 2026-03-20 | B8                     | W   | 1.000      | 1.000        | 0.187 (0.187)    | 0.349 (0.349)    | 1 (1.000) |    21.29 | br0, Grim, nitr0, oSee, Sonic    |
+|           29 |      969 | 2026-03-18 | Team Falcons           | L   | 1.000      | -            | -                | -                | -         |    -3.42 | br0, Grim, nitr0, oSee, Sonic    |
+|           28 |     1671 | 2026-03-03 | Ninjas in Pyjamas      | L   | 0.974      | -            | -                | -                | -         |   -14.89 | br0, Grim, nitr0, oSee, Sonic    |
+|           27 |     1746 | 2026-03-02 | Monte                  | L   | 0.965      | -            | -                | -                | -         |   -10.30 | br0, Grim, nitr0, oSee, Sonic    |
+|           26 |     1789 | 2026-03-01 | HEROIC                 | L   | 0.958      | -            | -                | -                | -         |    -9.36 | br0, Grim, nitr0, oSee, Sonic    |
+|           25 |     2794 | 2026-02-08 | Passion UA             | W   | 0.820      | 0.769        | 0.070 (0.044)    | 0.462 (0.291)    | -         |    11.29 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           24 |     2824 | 2026-02-07 | Team Voca              | W   | 0.813      | 0.769        | 0.044 (0.028)    | 0.701 (0.438)    | -         |     9.73 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           23 |     2861 | 2026-02-06 | Fisher College         | W   | 0.807      | 0.769        | 0.025 (0.015)    | 0.385 (0.239)    | -         |     1.96 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           22 |     2972 | 2026-02-02 | Team Falcons           | L   | 0.780      | -            | -                | -                | -         |    -3.13 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           21 |     3009 | 2026-02-01 | MOUZ                   | L   | 0.772      | -            | -                | -                | -         |    -3.11 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           20 |     3081 | 2026-01-30 | Astralis               | W   | 0.759      | 0.783        | 0.466 (0.277)    | 0.337 (0.200)    | 1 (0.759) |    18.84 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           19 |     3129 | 2026-01-28 | B8                     | W   | 0.746      | 0.783        | 0.187 (0.109)    | 0.349 (0.204)    | 1 (0.746) |    17.60 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           18 |     3645 | 2026-01-11 | M80                    | L   | 0.636      | -            | -                | -                | -         |    -7.76 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           17 |     3646 | 2026-01-11 | Marsborne              | W   | 0.634      | 0.396        | 0.038 (0.009)    | 0.491 (0.123)    | 1 (0.634) |     6.03 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           16 |     3658 | 2026-01-10 | Team Voca              | W   | 0.627      | 0.396        | 0.044 (0.011)    | 0.701 (0.174)    | 1 (0.627) |     8.75 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           15 |     3667 | 2026-01-09 | Outfit 49              | W   | 0.622      | -            | -                | -                | 1 (0.622) |     0.44 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           14 |     3686 | 2026-01-04 | 9INE                   | W   | 0.589      | 0.323        | 0.054 (0.010)    | 0.606 (0.115)    | 1 (0.589) |     9.04 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           13 |     3692 | 2026-01-04 | GamerLegion            | W   | 0.587      | 0.323        | 0.204 (0.039)    | -                | 1 (0.587) |    13.40 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           12 |     3703 | 2026-01-04 | Team Voca              | W   | 0.586      | 0.323        | -                | 0.701 (0.133)    | 1 (0.586) |     9.22 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           11 |     3742 | 2026-01-03 | Marsborne              | W   | 0.580      | -            | -                | -                | 1 (0.580) |     7.25 | br0, Jeorge, nitr0, oSee, Sonic  |
+|           10 |     3748 | 2026-01-03 | EMPIRE (American team) | W   | 0.580      | -            | -                | -                | -         |     0.52 | br0, Jeorge, nitr0, oSee, Sonic  |
+|            9 |     4435 | 2025-11-20 | SkinRave Esports       | W   | 0.289      | -            | -                | -                | -         |     0.51 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            8 |     4694 | 2025-11-09 | M80                    | W   | 0.215      | -            | -                | -                | -         |     4.58 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            7 |     4701 | 2025-11-09 | BC.Game Esports        | W   | 0.214      | -            | -                | -                | -         |     3.50 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            6 |     4710 | 2025-11-09 | FRZ Unit               | W   | 0.213      | -            | -                | -                | -         |     0.06 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            5 |     4731 | 2025-11-08 | Reign Above            | W   | 0.209      | -            | -                | -                | -         |     0.10 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            4 |     4736 | 2025-11-08 | Outfit 49              | W   | 0.208      | -            | -                | -                | -         |     0.06 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            3 |     5211 | 2025-10-26 | Marsborne              | W   | 0.121      | -            | -                | -                | -         |     1.67 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            2 |     5232 | 2025-10-26 | Team Voca              | W   | 0.120      | -            | -                | -                | -         |     0.10 | br0, Jeorge, nitr0, Sonic, XotiC |
+|            1 |     5271 | 2025-10-25 | SapphireKelownaDotCom  | W   | 0.114      | -            | -                | -                | -         |     0.02 | br0, Jeorge, nitr0, Sonic, XotiC |
 
 <br />
 <span id="table2"></span><br />

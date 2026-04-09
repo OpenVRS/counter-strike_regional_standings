@@ -1,14 +1,14 @@
 ### Roster Details<br />
 Team Name: B8<br />
 Roster: alex666, esenthial, kensizor, npl, s1zzi<br />
-Global Rank: [20](../../standings_global_.md)<br />
+Global Rank: [20](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_.md)<br />
-Regional Rank: [15]( ../../standings_europe_.md)<br />
+Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
+Regional Rank: [15]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  1517.0<br />
+Final Rank Value:  1518.0<br />
 <br />
-Final Rank Value (1517.0) = Starting Rank Value (1559.5) + Head To Head Adjustments (-42.5)<br />
+Final Rank Value (1518.0) = Starting Rank Value (1559.5) + Head To Head Adjustments (-41.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,55 +40,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           43 |      125 | 2026-04-02 | BESTIA           | W   | 1.000      | 0.341        | -                | 0.817 (0.278)    | 1 (1.000) |     9.75 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           42 |      134 | 2026-04-02 | 3DMAX            | W   | 1.000      | 0.341        | 0.215 (0.073)    | 0.492 (0.167)    | 1 (1.000) |    14.13 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           41 |      155 | 2026-04-02 | Falcons Force    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.63 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           40 |      170 | 2026-04-01 | Phantom Esports  | W   | 1.000      | 0.341        | -                | 0.634 (0.216)    | 1 (1.000) |     3.94 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           39 |      185 | 2026-04-01 | 3DMAX            | L   | 1.000      | -            | -                | -                | -         |   -16.36 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           38 |      211 | 2026-04-01 | Falcons Force    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.47 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           37 |      226 | 2026-03-31 | Phantom Esports  | W   | 1.000      | 0.341        | -                | 0.634 (0.216)    | 1 (1.000) |     3.53 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           36 |      241 | 2026-03-31 | AM Gaming        | W   | 1.000      | 0.341        | -                | 0.767 (0.261)    | 1 (1.000) |     7.51 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           35 |      248 | 2026-03-31 | Z7 Esports       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.09 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           34 |      265 | 2026-03-31 | WAZABI           | L   | 1.000      | -            | -                | -                | -         |   -31.13 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           33 |      280 | 2026-03-31 | Máquinas         | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.06 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           32 |      862 | 2026-03-20 | NRG              | L   | 1.000      | -            | -                | -                | -         |   -21.36 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           31 |      947 | 2026-03-18 | Natus Vincere    | L   | 1.000      | -            | -                | -                | -         |    -4.35 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           30 |     1357 | 2026-03-09 | FUT Esports      | L   | 1.000      | -            | -                | -                | -         |   -14.34 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           29 |     1438 | 2026-03-08 | Natus Vincere    | L   | 1.000      | -            | -                | -                | -         |    -5.11 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           28 |     1464 | 2026-03-07 | Team Spirit      | L   | 1.000      | -            | -                | -                | -         |    -9.00 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           27 |     1505 | 2026-03-06 | FURIA            | W   | 0.995      | 0.805        | 1.000 (0.801)    | 0.388 (0.311)    | -         |    26.16 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           26 |     2401 | 2026-02-17 | Aurora Gaming    | L   | 0.879      | -            | -                | -                | -         |    -5.21 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           25 |     2445 | 2026-02-16 | The MongolZ      | L   | 0.872      | -            | -                | -                | -         |    -9.34 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           24 |     2485 | 2026-02-15 | HEROIC           | W   | 0.867      | 1.000        | 0.236 (0.204)    | 0.491 (0.425)    | 1 (0.867) |    13.25 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           23 |     2524 | 2026-02-14 | FURIA            | L   | 0.861      | -            | -                | -                | -         |    -3.67 | alex666, esenthial, kensizor, npl, s1zzi     |
-|           22 |     3082 | 2026-01-29 | PaiN Gaming      | L   | 0.752      | -            | -                | -                | -         |   -11.97 | alex666, esenthial, kensizor, npl, segukawa  |
-|           21 |     3103 | 2026-01-28 | NRG              | L   | 0.746      | -            | -                | -                | -         |   -17.65 | alex666, esenthial, kensizor, npl, segukawa  |
-|           20 |     3973 | 2025-12-07 | Natus Vincere    | L   | 0.399      | -            | -                | -                | -         |    -1.41 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           19 |     3999 | 2025-12-06 | PaiN Gaming      | W   | 0.393      | 1.000        | 0.272 (0.107)    | 0.392 (0.154)    | -         |     6.00 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           18 |     4024 | 2025-12-05 | Team Vitality    | L   | 0.386      | -            | -                | -                | -         |    -1.22 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           17 |     4040 | 2025-12-04 | MOUZ             | L   | 0.381      | -            | -                | -                | -         |    -3.22 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           16 |     4049 | 2025-12-04 | Team Falcons     | W   | 0.380      | 1.000        | 0.657 (0.250)    | 0.284 (0.108)    | -         |     8.71 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           15 |     4095 | 2025-12-01 | 3DMAX            | W   | 0.361      | 0.769        | 0.215 (0.060)    | 0.492 (0.136)    | -         |     5.69 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           14 |     4110 | 2025-11-30 | Natus Vincere    | L   | 0.354      | -            | -                | -                | -         |    -1.12 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           13 |     4144 | 2025-11-29 | Fnatic           | W   | 0.348      | -            | -                | -                | -         |     1.52 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           12 |     4157 | 2025-11-29 | Team Liquid      | W   | 0.346      | 0.769        | 0.238 (0.063)    | -                | -         |     3.62 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           11 |     4229 | 2025-11-26 | Legacy           | W   | 0.326      | 0.624        | 0.258 (0.052)    | -                | -         |     3.42 | alex666, esenthial, headtr1ck, kensizor, npl |
-|           10 |     4251 | 2025-11-25 | PARIVISION       | W   | 0.319      | 0.624        | 1.000 (0.199)    | -                | -         |     8.50 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            9 |     4270 | 2025-11-24 | The Huns Esports | W   | 0.314      | -            | -                | -                | -         |     1.27 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            8 |     4294 | 2025-11-24 | M80              | L   | 0.312      | -            | -                | -                | -         |    -6.34 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            7 |     5045 | 2025-10-31 | Aurora Gaming    | L   | 0.151      | -            | -                | -                | -         |    -0.67 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            6 |     5075 | 2025-10-29 | Legacy           | W   | 0.139      | -            | -                | -                | -         |     1.48 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            5 |     5107 | 2025-10-28 | PaiN Gaming      | L   | 0.133      | -            | -                | -                | -         |    -2.02 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            4 |     5139 | 2025-10-27 | 3DMAX            | W   | 0.127      | -            | -                | -                | -         |     2.18 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            3 |     5195 | 2025-10-26 | Astralis         | W   | 0.120      | 1.000        | 0.466 (0.056)    | -                | -         |     2.38 | alex666, esenthial, headtr1ck, kensizor, npl |
-|            2 |     5568 | 2025-10-14 | FaZe Clan        | L   | 0.043      | -            | -                | -                | -         |    -0.73 | alex666, esenthial, headtr1ck, kRaSnaL, npl  |
-|            1 |     5594 | 2025-10-14 | HEROIC           | L   | 0.038      | -            | -                | -                | -         |    -0.56 | alex666, esenthial, headtr1ck, kRaSnaL, npl  |
+|           43 |      132 | 2026-04-02 | BESTIA           | W   | 1.000      | 0.341        | -                | 0.817 (0.278)    | 1 (1.000) |     9.78 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           42 |      142 | 2026-04-02 | 3DMAX            | W   | 1.000      | 0.341        | 0.215 (0.073)    | 0.492 (0.167)    | 1 (1.000) |    14.16 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           41 |      162 | 2026-04-02 | Falcons Force    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.98 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           40 |      184 | 2026-04-01 | Phantom Esports  | W   | 1.000      | 0.341        | -                | 0.634 (0.216)    | 1 (1.000) |     3.97 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           39 |      197 | 2026-04-01 | 3DMAX            | L   | 1.000      | -            | -                | -                | -         |   -16.31 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           38 |      222 | 2026-04-01 | Falcons Force    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.75 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           37 |      244 | 2026-03-31 | Phantom Esports  | W   | 1.000      | 0.341        | -                | 0.634 (0.216)    | 1 (1.000) |     3.57 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           36 |      259 | 2026-03-31 | AM Gaming        | W   | 1.000      | 0.341        | -                | 0.767 (0.261)    | 1 (1.000) |     7.52 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           35 |      266 | 2026-03-31 | Z7 Esports       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.09 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           34 |      283 | 2026-03-31 | WAZABI           | L   | 1.000      | -            | -                | -                | -         |   -31.13 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           33 |      298 | 2026-03-31 | Máquinas         | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.06 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           32 |      880 | 2026-03-20 | NRG              | L   | 1.000      | -            | -                | -                | -         |   -21.29 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           31 |      965 | 2026-03-18 | Natus Vincere    | L   | 1.000      | -            | -                | -                | -         |    -4.35 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           30 |     1375 | 2026-03-09 | FUT Esports      | L   | 1.000      | -            | -                | -                | -         |   -14.33 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           29 |     1456 | 2026-03-08 | Natus Vincere    | L   | 1.000      | -            | -                | -                | -         |    -5.11 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           28 |     1482 | 2026-03-07 | Team Spirit      | L   | 1.000      | -            | -                | -                | -         |    -9.00 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           27 |     1523 | 2026-03-06 | FURIA            | W   | 0.995      | 0.805        | 1.000 (0.801)    | 0.388 (0.311)    | -         |    26.16 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           26 |     2425 | 2026-02-17 | Aurora Gaming    | L   | 0.879      | -            | -                | -                | -         |    -5.22 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           25 |     2469 | 2026-02-16 | The MongolZ      | L   | 0.872      | -            | -                | -                | -         |    -9.34 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           24 |     2509 | 2026-02-15 | HEROIC           | W   | 0.867      | 1.000        | 0.236 (0.204)    | 0.491 (0.425)    | 1 (0.867) |    13.25 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           23 |     2549 | 2026-02-14 | FURIA            | L   | 0.861      | -            | -                | -                | -         |    -3.67 | alex666, esenthial, kensizor, npl, s1zzi     |
+|           22 |     3108 | 2026-01-29 | PaiN Gaming      | L   | 0.752      | -            | -                | -                | -         |   -11.97 | alex666, esenthial, kensizor, npl, segukawa  |
+|           21 |     3129 | 2026-01-28 | NRG              | L   | 0.746      | -            | -                | -                | -         |   -17.60 | alex666, esenthial, kensizor, npl, segukawa  |
+|           20 |     4007 | 2025-12-07 | Natus Vincere    | L   | 0.399      | -            | -                | -                | -         |    -1.41 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           19 |     4033 | 2025-12-06 | PaiN Gaming      | W   | 0.393      | 1.000        | 0.272 (0.107)    | 0.392 (0.154)    | -         |     6.00 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           18 |     4058 | 2025-12-05 | Team Vitality    | L   | 0.386      | -            | -                | -                | -         |    -1.22 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           17 |     4074 | 2025-12-04 | MOUZ             | L   | 0.381      | -            | -                | -                | -         |    -3.22 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           16 |     4083 | 2025-12-04 | Team Falcons     | W   | 0.380      | 1.000        | 0.657 (0.250)    | 0.284 (0.108)    | -         |     8.71 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           15 |     4129 | 2025-12-01 | 3DMAX            | W   | 0.361      | 0.769        | 0.215 (0.060)    | 0.492 (0.136)    | -         |     5.69 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           14 |     4144 | 2025-11-30 | Natus Vincere    | L   | 0.354      | -            | -                | -                | -         |    -1.12 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           13 |     4178 | 2025-11-29 | Fnatic           | W   | 0.348      | -            | -                | -                | -         |     1.52 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           12 |     4191 | 2025-11-29 | Team Liquid      | W   | 0.346      | 0.769        | 0.238 (0.063)    | -                | -         |     3.62 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           11 |     4263 | 2025-11-26 | Legacy           | W   | 0.326      | 0.624        | 0.258 (0.052)    | -                | -         |     3.42 | alex666, esenthial, headtr1ck, kensizor, npl |
+|           10 |     4285 | 2025-11-25 | PARIVISION       | W   | 0.319      | 0.624        | 1.000 (0.199)    | -                | -         |     8.50 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            9 |     4304 | 2025-11-24 | The Huns Esports | W   | 0.314      | -            | -                | -                | -         |     1.27 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            8 |     4328 | 2025-11-24 | M80              | L   | 0.312      | -            | -                | -                | -         |    -6.33 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            7 |     5079 | 2025-10-31 | Aurora Gaming    | L   | 0.151      | -            | -                | -                | -         |    -0.67 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            6 |     5109 | 2025-10-29 | Legacy           | W   | 0.139      | -            | -                | -                | -         |     1.48 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            5 |     5141 | 2025-10-28 | PaiN Gaming      | L   | 0.133      | -            | -                | -                | -         |    -2.02 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            4 |     5173 | 2025-10-27 | 3DMAX            | W   | 0.127      | -            | -                | -                | -         |     2.18 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            3 |     5229 | 2025-10-26 | Astralis         | W   | 0.120      | 1.000        | 0.466 (0.056)    | -                | -         |     2.38 | alex666, esenthial, headtr1ck, kensizor, npl |
+|            2 |     5602 | 2025-10-14 | FaZe Clan        | L   | 0.043      | -            | -                | -                | -         |    -0.73 | alex666, esenthial, headtr1ck, kRaSnaL, npl  |
+|            1 |     5628 | 2025-10-14 | HEROIC           | L   | 0.038      | -            | -                | -                | -         |    -0.56 | alex666, esenthial, headtr1ck, kRaSnaL, npl  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($85,534.84)
+- First, take the sum of their top 10 scaled winnings ($85,534.61)
 - Divide that value by the 5th highest value among all rosters ($457,592.01)
 - The final value (0.19) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
@@ -96,7 +96,7 @@ Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-04-02 |      1.000 | $5,796.23      | $5,796.23       |
+| 2026-04-02 |      1.000 | $5,796.00      | $5,796.00       |
 | 2026-03-29 |      1.000 | $20,000.00     | $20,000.00      |
 | 2026-03-10 |      1.000 | $21,500.00     | $21,500.00      |
 | 2026-02-22 |      0.913 | $18,750.00     | $17,121.76      |

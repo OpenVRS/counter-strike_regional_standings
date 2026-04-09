@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: MOUZ<br />
 Roster: Brollan, Jimpphat, Spinx, torzsi, xertioN<br />
-Global Rank: [7](../../standings_global_.md)<br />
+Global Rank: [7](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_.md)<br />
-Regional Rank: [6]( ../../standings_europe_.md)<br />
+Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
+Regional Rank: [6]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  1769.1<br />
 <br />
@@ -40,39 +40,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           33 |      792 | 2026-03-21 | 9z Team       | L   | 1.000      | -            | -                | -                | -         |   -24.79 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           32 |      887 | 2026-03-19 | The MongolZ   | L   | 1.000      | -            | -                | -                | -         |   -18.68 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           31 |     1153 | 2026-03-13 | FUT Esports   | L   | 1.000      | -            | -                | -                | -         |   -23.69 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           30 |     1421 | 2026-03-08 | The MongolZ   | W   | 1.000      | 0.805        | 0.556 (0.447)    | 0.295 (0.238)    | -         |    11.64 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           29 |     1477 | 2026-03-07 | Astralis      | W   | 1.000      | 0.805        | 0.466 (0.375)    | 0.337 (0.271)    | -         |     9.12 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           28 |     1512 | 2026-03-06 | HEROIC        | W   | 0.994      | 0.805        | -                | 0.491 (0.393)    | -         |     6.60 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           27 |     2131 | 2026-02-22 | The MongolZ   | W   | 0.912      | 1.000        | 0.556 (0.507)    | 0.295 (0.269)    | 1 (0.912) |    11.01 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           26 |     2168 | 2026-02-21 | PARIVISION    | L   | 0.906      | -            | -                | -                | -         |   -12.19 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           25 |     2228 | 2026-02-20 | Natus Vincere | W   | 0.899      | 1.000        | 1.000 (0.899)    | 0.344 (0.309)    | 1 (0.899) |    17.46 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           24 |     2403 | 2026-02-17 | FUT Esports   | W   | 0.878      | 1.000        | 0.331 (0.291)    | 0.467 (0.410)    | 1 (0.878) |     6.29 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           23 |     2428 | 2026-02-16 | Team Vitality | L   | 0.873      | -            | -                | -                | -         |    -6.21 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           22 |     2515 | 2026-02-15 | Natus Vincere | W   | 0.864      | 1.000        | 1.000 (0.864)    | 0.344 (0.297)    | 1 (0.864) |    18.18 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           21 |     2569 | 2026-02-14 | PARIVISION    | W   | 0.858      | 1.000        | 1.000 (0.858)    | 0.426 (0.366)    | 1 (0.858) |    16.47 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           20 |     2784 | 2026-02-08 | Team Spirit   | L   | 0.819      | -            | -                | -                | -         |   -14.67 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           19 |     2795 | 2026-02-07 | Team Vitality | L   | 0.814      | -            | -                | -                | -         |    -6.04 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           18 |     2833 | 2026-02-06 | G2 Esports    | W   | 0.807      | 1.000        | -                | 0.582 (0.470)    | 1 (0.807) |    10.42 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           17 |     2906 | 2026-02-03 | Team Falcons  | W   | 0.787      | 1.000        | 0.657 (0.518)    | -                | 1 (0.787) |    12.30 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           16 |     2921 | 2026-02-03 | FaZe Clan     | W   | 0.786      | 1.000        | 0.375 (0.294)    | 0.350 (0.275)    | 1 (0.786) |     5.95 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           15 |     2953 | 2026-02-02 | Aurora Gaming | L   | 0.779      | -            | -                | -                | -         |    -8.88 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           14 |     2983 | 2026-02-01 | NRG           | W   | 0.772      | -            | -                | -                | 1 (0.772) |     3.08 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           13 |     3892 | 2025-12-12 | FaZe Clan     | L   | 0.433      | -            | -                | -                | -         |   -10.49 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           12 |     3993 | 2025-12-06 | Team Falcons  | W   | 0.393      | -            | -                | -                | 1 (0.393) |     5.99 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           11 |     4018 | 2025-12-05 | Team Spirit   | L   | 0.387      | -            | -                | -                | -         |    -7.82 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|           10 |     4040 | 2025-12-04 | B8            | W   | 0.381      | -            | -                | -                | -         |     3.22 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            9 |     4059 | 2025-12-04 | PARIVISION    | W   | 0.379      | 1.000        | 1.000 (0.379)    | -                | -         |     7.50 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            8 |     4692 | 2025-11-08 | Team Falcons  | L   | 0.210      | -            | -                | -                | -         |    -3.43 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            7 |     4750 | 2025-11-07 | Team Vitality | L   | 0.204      | -            | -                | -                | -         |    -1.35 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            6 |     4909 | 2025-11-05 | FURIA         | W   | 0.184      | -            | -                | -                | -         |     3.65 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            5 |     4938 | 2025-11-03 | Team Vitality | W   | 0.177      | -            | -                | -                | -         |     4.45 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            4 |     4965 | 2025-11-02 | FaZe Clan     | W   | 0.170      | -            | -                | -                | -         |     1.20 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            3 |     5628 | 2025-10-12 | FaZe Clan     | W   | 0.025      | -            | -                | -                | -         |     0.18 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            2 |     5647 | 2025-10-11 | Team Falcons  | L   | 0.019      | -            | -                | -                | -         |    -0.31 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
-|            1 |     5687 | 2025-10-10 | Natus Vincere | W   | 0.012      | -            | -                | -                | -         |     0.29 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           33 |      810 | 2026-03-21 | 9z Team       | L   | 1.000      | -            | -                | -                | -         |   -24.81 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           32 |      905 | 2026-03-19 | The MongolZ   | L   | 1.000      | -            | -                | -                | -         |   -18.68 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           31 |     1171 | 2026-03-13 | FUT Esports   | L   | 1.000      | -            | -                | -                | -         |   -23.69 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           30 |     1439 | 2026-03-08 | The MongolZ   | W   | 1.000      | 0.805        | 0.556 (0.447)    | 0.295 (0.238)    | -         |    11.64 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           29 |     1495 | 2026-03-07 | Astralis      | W   | 1.000      | 0.805        | 0.466 (0.375)    | 0.337 (0.271)    | -         |     9.12 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           28 |     1530 | 2026-03-06 | HEROIC        | W   | 0.994      | 0.805        | -                | 0.491 (0.393)    | -         |     6.60 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           27 |     2153 | 2026-02-22 | The MongolZ   | W   | 0.912      | 1.000        | 0.556 (0.507)    | 0.295 (0.269)    | 1 (0.912) |    11.01 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           26 |     2192 | 2026-02-21 | PARIVISION    | L   | 0.906      | -            | -                | -                | -         |   -12.19 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           25 |     2252 | 2026-02-20 | Natus Vincere | W   | 0.899      | 1.000        | 1.000 (0.899)    | 0.344 (0.309)    | 1 (0.899) |    17.46 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           24 |     2427 | 2026-02-17 | FUT Esports   | W   | 0.878      | 1.000        | 0.331 (0.291)    | 0.467 (0.410)    | 1 (0.878) |     6.29 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           23 |     2452 | 2026-02-16 | Team Vitality | L   | 0.873      | -            | -                | -                | -         |    -6.21 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           22 |     2540 | 2026-02-15 | Natus Vincere | W   | 0.864      | 1.000        | 1.000 (0.864)    | 0.344 (0.297)    | 1 (0.864) |    18.18 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           21 |     2594 | 2026-02-14 | PARIVISION    | W   | 0.858      | 1.000        | 1.000 (0.858)    | 0.426 (0.366)    | 1 (0.858) |    16.47 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           20 |     2809 | 2026-02-08 | Team Spirit   | L   | 0.819      | -            | -                | -                | -         |   -14.67 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           19 |     2820 | 2026-02-07 | Team Vitality | L   | 0.814      | -            | -                | -                | -         |    -6.04 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           18 |     2858 | 2026-02-06 | G2 Esports    | W   | 0.807      | 1.000        | -                | 0.582 (0.470)    | 1 (0.807) |    10.42 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           17 |     2931 | 2026-02-03 | Team Falcons  | W   | 0.787      | 1.000        | 0.657 (0.518)    | -                | 1 (0.787) |    12.30 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           16 |     2946 | 2026-02-03 | FaZe Clan     | W   | 0.786      | 1.000        | 0.375 (0.294)    | 0.350 (0.275)    | 1 (0.786) |     5.95 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           15 |     2978 | 2026-02-02 | Aurora Gaming | L   | 0.779      | -            | -                | -                | -         |    -8.88 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           14 |     3009 | 2026-02-01 | NRG           | W   | 0.772      | -            | -                | -                | 1 (0.772) |     3.11 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           13 |     3926 | 2025-12-12 | FaZe Clan     | L   | 0.433      | -            | -                | -                | -         |   -10.49 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           12 |     4027 | 2025-12-06 | Team Falcons  | W   | 0.393      | -            | -                | -                | 1 (0.393) |     5.99 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           11 |     4052 | 2025-12-05 | Team Spirit   | L   | 0.387      | -            | -                | -                | -         |    -7.82 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|           10 |     4074 | 2025-12-04 | B8            | W   | 0.381      | -            | -                | -                | -         |     3.22 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            9 |     4093 | 2025-12-04 | PARIVISION    | W   | 0.379      | 1.000        | 1.000 (0.379)    | -                | -         |     7.50 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            8 |     4726 | 2025-11-08 | Team Falcons  | L   | 0.210      | -            | -                | -                | -         |    -3.43 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            7 |     4784 | 2025-11-07 | Team Vitality | L   | 0.204      | -            | -                | -                | -         |    -1.35 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            6 |     4943 | 2025-11-05 | FURIA         | W   | 0.184      | -            | -                | -                | -         |     3.65 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            5 |     4972 | 2025-11-03 | Team Vitality | W   | 0.177      | -            | -                | -                | -         |     4.45 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            4 |     4999 | 2025-11-02 | FaZe Clan     | W   | 0.170      | -            | -                | -                | -         |     1.20 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            3 |     5662 | 2025-10-12 | FaZe Clan     | W   | 0.025      | -            | -                | -                | -         |     0.18 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            2 |     5681 | 2025-10-11 | Team Falcons  | L   | 0.019      | -            | -                | -                | -         |    -0.31 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
+|            1 |     5721 | 2025-10-10 | Natus Vincere | W   | 0.012      | -            | -                | -                | -         |     0.29 | Brollan, Jimpphat, Spinx, torzsi, xertioN |
 
 <br />
 <span id="table2"></span><br />

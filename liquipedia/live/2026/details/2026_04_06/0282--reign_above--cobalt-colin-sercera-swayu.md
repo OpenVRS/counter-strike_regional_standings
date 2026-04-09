@@ -1,14 +1,14 @@
 ### Roster Details<br />
 Team Name: Reign Above<br />
 Roster: cobalt, colin, SeRCEra, swayu<br />
-Global Rank: [282](../../standings_global_.md)<br />
+Global Rank: [282](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_.md)<br />
-Regional Rank: [73]( ../../standings_americas_.md)<br />
+Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
+Regional Rank: [72]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  595.7<br />
+Final Rank Value:  596.9<br />
 <br />
-Final Rank Value (595.7) = Starting Rank Value (575.6) + Head To Head Adjustments (20.0)<br />
+Final Rank Value (596.9) = Starting Rank Value (575.6) + Head To Head Adjustments (21.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,21 +40,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      642 | 2026-03-23 | Outfit 49              | L   | 1.000      | -            | -                | -                | -         |   -10.46 | cobalt, dAVE, Louie, SeRCEra, swayu       |
-|           14 |      714 | 2026-03-22 | Sakura Esports         | W   | 1.000      | 0.363        | 0.021 (0.008)    | 0.054 (0.020)    | 0 (0.000) |    17.55 | cobalt, dAVE, Louie, SeRCEra, swayu       |
-|           13 |      758 | 2026-03-21 | NuTorious              | W   | 1.000      | 0.363        | 0.000 (0.000)    | 0.061 (0.022)    | 0 (0.000) |    11.58 | cobalt, dAVE, Louie, SeRCEra, swayu       |
-|           12 |      816 | 2026-03-20 | Team Aether            | L   | 1.000      | -            | -                | -                | -         |    -8.85 | cobalt, dAVE, Louie, SeRCEra, swayu       |
-|           11 |     2581 | 2026-02-13 | InControl              | L   | 0.856      | -            | -                | -                | -         |    -9.83 | cobalt, colin, ryn, SeRCEra, swayu        |
-|           10 |     2739 | 2026-02-09 | SportsBetExpert        | L   | 0.829      | -            | -                | -                | -         |    -7.49 | cobalt, colin, ryn, SeRCEra, swayu        |
-|            9 |     2819 | 2026-02-06 | FlyQuest RED           | W   | 0.809      | 0.333        | 0.007 (0.002)    | 0.072 (0.019)    | 0 (0.000) |    14.97 | cobalt, colin, ryn, SeRCEra, swayu        |
-|            8 |     2933 | 2026-02-02 | Life's A Game          | L   | 0.783      | -            | -                | -                | -         |    -3.77 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            7 |     3702 | 2026-01-03 | Marsborne              | L   | 0.581      | -            | -                | -                | -         |    -0.43 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            6 |     3707 | 2026-01-03 | EMPIRE (American team) | W   | 0.580      | 0.323        | 0.004 (0.001)    | 0.122 (0.023)    | 1 (0.580) |    11.98 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            5 |     3713 | 2026-01-03 | Marsborne              | L   | 0.580      | -            | -                | -                | -         |    -0.39 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            4 |     4675 | 2025-11-09 | M80                    | L   | 0.213      | -            | -                | -                | -         |    -0.05 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            3 |     4693 | 2025-11-08 | Memeories              | W   | 0.209      | 0.333        | 0.000 (0.000)    | 0.037 (0.003)    | 1 (0.209) |     2.67 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            2 |     4697 | 2025-11-08 | NRG                    | L   | 0.209      | -            | -                | -                | -         |    -0.10 | cobalt, colin, SayYouWill, SeRCEra, swayu |
-|            1 |     4706 | 2025-11-08 | Memeories              | W   | 0.207      | 0.333        | 0.000 (0.000)    | 0.037 (0.003)    | 1 (0.207) |     2.66 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|           15 |      660 | 2026-03-23 | Outfit 49              | L   | 1.000      | -            | -                | -                | -         |   -10.39 | cobalt, dAVE, Louie, SeRCEra, swayu       |
+|           14 |      732 | 2026-03-22 | Sakura Esports         | W   | 1.000      | 0.363        | 0.021 (0.008)    | 0.054 (0.020)    | 0 (0.000) |    17.59 | cobalt, dAVE, Louie, SeRCEra, swayu       |
+|           13 |      776 | 2026-03-21 | NuTorious              | W   | 1.000      | 0.363        | 0.000 (0.000)    | 0.061 (0.022)    | 0 (0.000) |    11.54 | cobalt, dAVE, Louie, SeRCEra, swayu       |
+|           12 |      834 | 2026-03-20 | Team Aether            | L   | 1.000      | -            | -                | -                | -         |    -8.63 | cobalt, dAVE, Louie, SeRCEra, swayu       |
+|           11 |     2606 | 2026-02-13 | InControl              | L   | 0.856      | -            | -                | -                | -         |    -9.57 | cobalt, colin, ryn, SeRCEra, swayu        |
+|           10 |     2764 | 2026-02-09 | SportsBetExpert        | L   | 0.829      | -            | -                | -                | -         |    -7.32 | cobalt, colin, ryn, SeRCEra, swayu        |
+|            9 |     2844 | 2026-02-06 | FlyQuest RED           | W   | 0.809      | 0.333        | 0.007 (0.002)    | 0.072 (0.019)    | 0 (0.000) |    14.96 | cobalt, colin, ryn, SeRCEra, swayu        |
+|            8 |     2958 | 2026-02-02 | Life's A Game          | L   | 0.783      | -            | -                | -                | -         |    -3.25 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            7 |     3736 | 2026-01-03 | Marsborne              | L   | 0.581      | -            | -                | -                | -         |    -0.44 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            6 |     3741 | 2026-01-03 | EMPIRE (American team) | W   | 0.580      | 0.323        | 0.004 (0.001)    | 0.122 (0.023)    | 1 (0.580) |    11.99 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            5 |     3747 | 2026-01-03 | Marsborne              | L   | 0.580      | -            | -                | -                | -         |    -0.40 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            4 |     4709 | 2025-11-09 | M80                    | L   | 0.213      | -            | -                | -                | -         |    -0.05 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            3 |     4727 | 2025-11-08 | Memeories              | W   | 0.209      | 0.333        | 0.000 (0.000)    | 0.037 (0.003)    | 1 (0.209) |     2.67 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            2 |     4731 | 2025-11-08 | NRG                    | L   | 0.209      | -            | -                | -                | -         |    -0.10 | cobalt, colin, SayYouWill, SeRCEra, swayu |
+|            1 |     4740 | 2025-11-08 | Memeories              | W   | 0.207      | 0.333        | 0.000 (0.000)    | 0.037 (0.003)    | 1 (0.207) |     2.66 | cobalt, colin, SayYouWill, SeRCEra, swayu |
 
 <br />
 <span id="table2"></span><br />

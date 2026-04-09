@@ -1,27 +1,27 @@
 ### Roster Details<br />
 Team Name: SkinRave Esports<br />
 Roster: Cryptic, junior, laxiee, Pluto, Walco<br />
-Global Rank: [157](../../standings_global_.md)<br />
+Global Rank: [157](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Americas]( ../../standings_americas_.md)<br />
-Regional Rank: [32]( ../../standings_americas_.md)<br />
+Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
+Regional Rank: [32]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  843.9<br />
+Final Rank Value:  851.8<br />
 <br />
-Final Rank Value (843.9) = Starting Rank Value (782.7) + Head To Head Adjustments (61.1)<br />
+Final Rank Value (851.8) = Starting Rank Value (790.0) + Head To Head Adjustments (61.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.363[<sup>1</sup>](#table2)
-- Bounty Collected: 0.280[<sup>2</sup>](#table1)
-- Opponent Network: 0.076[<sup>2</sup>](#table1)
+- Bounty Collected: 0.293[<sup>2</sup>](#table1)
+- Opponent Network: 0.078[<sup>2</sup>](#table1)
 - LAN Wins: 0.063[<sup>2</sup>](#table1)
 
-The average of these factors is 0.196<br />
+The average of these factors is 0.199<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 782.7
-- 400 + ( ( 0.196 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 782.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 790.0
+- 400 + ( ( 0.199 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 790.0
 
 
 #### Factors<br />
@@ -40,41 +40,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |     2072 | 2026-02-22 | Marsborne             | L   | 0.916      | -            | -                | -                | -         |    -3.23 | Cryptic, junior, laxiee, Pluto, Walco |
-|           34 |     2148 | 2026-02-21 | Outfit 49             | W   | 0.909      | 0.363        | 0.008 (0.003)    | 0.311 (0.103)    | 0 (0.000) |     9.51 | Cryptic, junior, laxiee, Pluto, Walco |
-|           33 |     2196 | 2026-02-20 | M80                   | L   | 0.903      | -            | -                | -                | -         |    -0.92 | Cryptic, junior, laxiee, Pluto, Walco |
-|           32 |     2295 | 2026-02-18 | BOSS                  | W   | 0.889      | 0.363        | 0.004 (0.001)    | 0.150 (0.048)    | 0 (0.000) |    11.35 | Cryptic, junior, laxiee, Pluto, Walco |
-|           31 |     2356 | 2026-02-17 | Outfit 49             | W   | 0.883      | 0.363        | 0.008 (0.002)    | 0.311 (0.100)    | 0 (0.000) |     9.47 | Cryptic, junior, laxiee, Pluto, Walco |
-|           30 |     2516 | 2026-02-14 | FarmVille             | L   | 0.862      | -            | -                | -                | -         |   -18.00 | Cryptic, junior, laxiee, MarKE, Walco |
-|           29 |     2702 | 2026-02-10 | Marsborne             | L   | 0.836      | -            | -                | -                | -         |    -2.77 | Cryptic, junior, laxiee, MarKE, Walco |
-|           28 |     2704 | 2026-02-10 | Team Voca             | L   | 0.835      | -            | -                | -                | -         |    -1.88 | Cryptic, junior, laxiee, MarKE, Walco |
-|           27 |     2712 | 2026-02-10 | Fisher College        | L   | 0.834      | -            | -                | -                | -         |   -10.35 | Cryptic, junior, laxiee, MarKE, Walco |
-|           26 |     2740 | 2026-02-09 | Life's A Game         | W   | 0.829      | 0.333        | 0.027 (0.008)    | 0.679 (0.188)    | 0 (0.000) |    15.20 | Cryptic, junior, laxiee, MarKE, Walco |
-|           25 |     2761 | 2026-02-08 | Regain                | W   | 0.822      | 0.333        | -                | 0.210 (0.057)    | 0 (0.000) |     8.28 | Cryptic, junior, laxiee, MarKE, Walco |
-|           24 |     3621 | 2026-01-10 | Team Voca             | L   | 0.629      | -            | -                | -                | -         |    -1.16 | Cryptic, junior, laxiee, MarKE, Pluto |
-|           23 |     3624 | 2026-01-10 | Outfit 49             | W   | 0.627      | 0.396        | 0.008 (0.002)    | 0.311 (0.077)    | 1 (0.627) |     6.39 | Cryptic, junior, laxiee, MarKE, Pluto |
-|           22 |     3633 | 2026-01-09 | Team Voca             | L   | 0.623      | -            | -                | -                | -         |    -1.07 | Cryptic, junior, laxiee, MarKE, Pluto |
-|           21 |     3811 | 2025-12-18 | Team Voca             | L   | 0.476      | -            | -                | -                | -         |    -0.77 | Cryptic, junior, laxiee, MarKE, Walco |
-|           20 |     3862 | 2025-12-14 | Pulse (American team) | W   | 0.449      | -            | -                | -                | 0 (0.000) |     2.42 | Cryptic, junior, laxiee, MarKE, Walco |
-|           19 |     3914 | 2025-12-10 | InControl             | W   | 0.422      | -            | -                | -                | 0 (0.000) |     4.60 | Cryptic, junior, laxiee, MarKE, Walco |
-|           18 |     3943 | 2025-12-08 | Team Aether           | W   | 0.409      | 0.333        | -                | 0.260 (0.035)    | 0 (0.000) |     5.32 | Cryptic, junior, laxiee, MarKE, Walco |
-|           17 |     4034 | 2025-12-04 | Straight2Killin       | W   | 0.383      | -            | -                | -                | 0 (0.000) |     1.88 | Cryptic, junior, laxiee, MarKE, Walco |
-|           16 |     4094 | 2025-12-01 | Akimbo Esports        | L   | 0.362      | -            | -                | -                | -         |    -9.70 | Cryptic, junior, laxiee, MarKE, Walco |
-|           15 |     4401 | 2025-11-20 | NRG                   | L   | 0.289      | -            | -                | -                | -         |    -0.50 | Cryptic, junior, laxiee, MarKE, Walco |
-|           14 |     4479 | 2025-11-16 | Team Voca             | W   | 0.261      | 0.303        | 0.044 (0.003)    | 0.701 (0.056)    | -         |     7.85 | Cryptic, junior, laxiee, MarKE, Walco |
-|           13 |     4486 | 2025-11-16 | BOSS                  | W   | 0.260      | -            | -                | -                | -         |     5.35 | Cryptic, junior, laxiee, MarKE, Walco |
-|           12 |     4497 | 2025-11-15 | Marsborne             | W   | 0.256      | 0.363        | 0.038 (0.004)    | 0.491 (0.046)    | -         |     7.53 | Cryptic, junior, laxiee, MarKE, Walco |
-|           11 |     4503 | 2025-11-15 | Sakura Esports        | W   | 0.254      | 0.303        | 0.021 (0.002)    | -                | -         |     3.37 | Cryptic, junior, laxiee, MarKE, Walco |
-|           10 |     4544 | 2025-11-13 | Team Voca             | W   | 0.243      | -            | -                | -                | -         |     2.79 | Cryptic, junior, laxiee, MarKE, Walco |
-|            9 |     4635 | 2025-11-10 | Life's A Game         | W   | 0.223      | 0.363        | 0.027 (0.002)    | 0.679 (0.055)    | -         |     4.71 | Cryptic, junior, laxiee, MarKE, Walco |
-|            8 |     5162 | 2025-10-26 | InControl             | W   | 0.123      | -            | -                | -                | -         |     1.48 | Cryptic, junior, laxiee, MarKE, Walco |
-|            7 |     5192 | 2025-10-26 | Marsborne             | L   | 0.120      | -            | -                | -                | -         |    -0.23 | Cryptic, junior, laxiee, MarKE, Walco |
-|            6 |     5235 | 2025-10-25 | Team Kiri             | W   | 0.114      | -            | -                | -                | -         |     0.60 | Cryptic, junior, laxiee, MarKE, Walco |
-|            5 |     5277 | 2025-10-24 | OverKnight            | W   | 0.109      | -            | -                | -                | -         |     0.62 | Cryptic, junior, laxiee, MarKE, Walco |
-|            4 |     5429 | 2025-10-19 | Wildcard              | W   | 0.076      | -            | -                | -                | -         |     0.68 | Cryptic, junior, laxiee, MarKE, Walco |
-|            3 |     5466 | 2025-10-17 | Marsborne             | W   | 0.062      | 0.363        | 0.038 (0.001)    | -                | -         |     1.85 | Cryptic, junior, laxiee, MarKE, Walco |
-|            2 |     5571 | 2025-10-14 | Team Voca             | W   | 0.042      | -            | -                | -                | -         |     0.46 | Cryptic, junior, laxiee, MarKE, Walco |
-|            1 |     5744 | 2025-10-08 | Regain                | W   | 0.002      | -            | -                | -                | -         |     0.03 | Cryptic, junior, laxiee, MarKE, Walco |
+|           35 |     2093 | 2026-02-22 | Marsborne             | L   | 0.916      | -            | -                | -                | -         |    -3.41 | Cryptic, junior, laxiee, Pluto, Walco |
+|           34 |     2170 | 2026-02-21 | Outfit 49             | W   | 0.909      | 0.363        | 0.008 (0.003)    | 0.311 (0.103)    | 0 (0.000) |     9.32 | Cryptic, junior, laxiee, Pluto, Walco |
+|           33 |     2220 | 2026-02-20 | M80                   | L   | 0.903      | -            | -                | -                | -         |    -0.96 | Cryptic, junior, laxiee, Pluto, Walco |
+|           32 |     2319 | 2026-02-18 | BOSS                  | W   | 0.889      | 0.363        | 0.004 (0.001)    | 0.150 (0.048)    | 0 (0.000) |    11.18 | Cryptic, junior, laxiee, Pluto, Walco |
+|           31 |     2380 | 2026-02-17 | Outfit 49             | W   | 0.883      | 0.363        | 0.008 (0.002)    | 0.311 (0.100)    | 0 (0.000) |     9.26 | Cryptic, junior, laxiee, Pluto, Walco |
+|           30 |     2541 | 2026-02-14 | FarmVille             | L   | 0.862      | -            | -                | -                | -         |   -18.06 | Cryptic, junior, laxiee, MarKE, Walco |
+|           29 |     2727 | 2026-02-10 | Marsborne             | L   | 0.836      | -            | -                | -                | -         |    -2.94 | Cryptic, junior, laxiee, MarKE, Walco |
+|           28 |     2729 | 2026-02-10 | Team Voca             | L   | 0.835      | -            | -                | -                | -         |    -1.94 | Cryptic, junior, laxiee, MarKE, Walco |
+|           27 |     2737 | 2026-02-10 | Fisher College        | L   | 0.834      | -            | -                | -                | -         |    -9.03 | Cryptic, junior, laxiee, MarKE, Walco |
+|           26 |     2765 | 2026-02-09 | Life's A Game         | W   | 0.829      | 0.333        | 0.060 (0.017)    | 0.714 (0.197)    | 0 (0.000) |    15.93 | Cryptic, junior, laxiee, MarKE, Walco |
+|           25 |     2786 | 2026-02-08 | Regain                | W   | 0.822      | 0.333        | -                | 0.237 (0.065)    | 0 (0.000) |     8.16 | Cryptic, junior, laxiee, MarKE, Walco |
+|           24 |     3654 | 2026-01-10 | Team Voca             | L   | 0.629      | -            | -                | -                | -         |    -1.18 | Cryptic, junior, laxiee, MarKE, Pluto |
+|           23 |     3657 | 2026-01-10 | Outfit 49             | W   | 0.627      | 0.396        | 0.008 (0.002)    | 0.311 (0.077)    | 1 (0.627) |     6.25 | Cryptic, junior, laxiee, MarKE, Pluto |
+|           22 |     3666 | 2026-01-09 | Team Voca             | L   | 0.623      | -            | -                | -                | -         |    -1.09 | Cryptic, junior, laxiee, MarKE, Pluto |
+|           21 |     3845 | 2025-12-18 | Team Voca             | L   | 0.476      | -            | -                | -                | -         |    -0.79 | Cryptic, junior, laxiee, MarKE, Walco |
+|           20 |     3896 | 2025-12-14 | Pulse (American team) | W   | 0.449      | -            | -                | -                | 0 (0.000) |     2.44 | Cryptic, junior, laxiee, MarKE, Walco |
+|           19 |     3948 | 2025-12-10 | InControl             | W   | 0.422      | -            | -                | -                | 0 (0.000) |     4.63 | Cryptic, junior, laxiee, MarKE, Walco |
+|           18 |     3977 | 2025-12-08 | Team Aether           | W   | 0.409      | 0.333        | -                | 0.260 (0.035)    | 0 (0.000) |     5.37 | Cryptic, junior, laxiee, MarKE, Walco |
+|           17 |     4068 | 2025-12-04 | Straight2Killin       | W   | 0.383      | -            | -                | -                | 0 (0.000) |     1.81 | Cryptic, junior, laxiee, MarKE, Walco |
+|           16 |     4128 | 2025-12-01 | Akimbo Esports        | L   | 0.362      | -            | -                | -                | -         |    -9.76 | Cryptic, junior, laxiee, MarKE, Walco |
+|           15 |     4435 | 2025-11-20 | NRG                   | L   | 0.289      | -            | -                | -                | -         |    -0.51 | Cryptic, junior, laxiee, MarKE, Walco |
+|           14 |     4513 | 2025-11-16 | Team Voca             | W   | 0.261      | 0.303        | 0.044 (0.003)    | 0.701 (0.056)    | -         |     7.84 | Cryptic, junior, laxiee, MarKE, Walco |
+|           13 |     4520 | 2025-11-16 | BOSS                  | W   | 0.260      | -            | -                | -                | -         |     5.43 | Cryptic, junior, laxiee, MarKE, Walco |
+|           12 |     4531 | 2025-11-15 | Marsborne             | W   | 0.256      | 0.363        | 0.038 (0.004)    | 0.491 (0.046)    | -         |     7.50 | Cryptic, junior, laxiee, MarKE, Walco |
+|           11 |     4537 | 2025-11-15 | Sakura Esports        | W   | 0.254      | 0.303        | 0.021 (0.002)    | -                | -         |     3.29 | Cryptic, junior, laxiee, MarKE, Walco |
+|           10 |     4578 | 2025-11-13 | Team Voca             | W   | 0.243      | -            | -                | -                | -         |     2.72 | Cryptic, junior, laxiee, MarKE, Walco |
+|            9 |     4669 | 2025-11-10 | Life's A Game         | W   | 0.223      | 0.363        | 0.060 (0.005)    | 0.714 (0.058)    | -         |     4.94 | Cryptic, junior, laxiee, MarKE, Walco |
+|            8 |     5196 | 2025-10-26 | InControl             | W   | 0.123      | -            | -                | -                | -         |     1.49 | Cryptic, junior, laxiee, MarKE, Walco |
+|            7 |     5226 | 2025-10-26 | Marsborne             | L   | 0.120      | -            | -                | -                | -         |    -0.24 | Cryptic, junior, laxiee, MarKE, Walco |
+|            6 |     5269 | 2025-10-25 | Team Kiri             | W   | 0.114      | -            | -                | -                | -         |     0.58 | Cryptic, junior, laxiee, MarKE, Walco |
+|            5 |     5311 | 2025-10-24 | OverKnight            | W   | 0.109      | -            | -                | -                | -         |     0.60 | Cryptic, junior, laxiee, MarKE, Walco |
+|            4 |     5463 | 2025-10-19 | Wildcard              | W   | 0.076      | -            | -                | -                | -         |     0.66 | Cryptic, junior, laxiee, MarKE, Walco |
+|            3 |     5500 | 2025-10-17 | Marsborne             | W   | 0.062      | 0.363        | 0.038 (0.001)    | -                | -         |     1.84 | Cryptic, junior, laxiee, MarKE, Walco |
+|            2 |     5605 | 2025-10-14 | Team Voca             | W   | 0.042      | -            | -                | -                | -         |     0.45 | Cryptic, junior, laxiee, MarKE, Walco |
+|            1 |     5778 | 2025-10-08 | Regain                | W   | 0.002      | -            | -                | -                | -         |     0.03 | Cryptic, junior, laxiee, MarKE, Walco |
 
 <br />
 <span id="table2"></span><br />

@@ -1,14 +1,14 @@
 ### Roster Details<br />
 Team Name: Aurora Gaming<br />
 Roster: MAJ3R, soulfly, Wicadia, woxic, XANTARES<br />
-Global Rank: [5](../../standings_global_.md)<br />
+Global Rank: [5](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_.md)<br />
-Regional Rank: [4]( ../../standings_europe_.md)<br />
+Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
+Regional Rank: [4]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  1777.3<br />
+Final Rank Value:  1777.4<br />
 <br />
-Final Rank Value (1777.3) = Starting Rank Value (1896.0) + Head To Head Adjustments (-118.7)<br />
+Final Rank Value (1777.4) = Starting Rank Value (1896.0) + Head To Head Adjustments (-118.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,54 +40,54 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           48 |      191 | 2026-04-01 | Alliance        | L   | 1.000      | -            | -                | -                | -         |   -27.17 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           47 |      229 | 2026-03-31 | M80             | L   | 1.000      | -            | -                | -                | -         |   -28.59 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           46 |      271 | 2026-03-31 | Sashi Esport    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.86 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           45 |      305 | 2026-03-30 | INFINITE        | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.09 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           44 |      436 | 2026-03-28 | Team Vitality   | L   | 1.000      | -            | -                | -                | -         |    -7.29 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           43 |      484 | 2026-03-27 | The MongolZ     | W   | 1.000      | 1.000        | 0.556 (0.556)    | -                | 1 (1.000) |    12.26 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           42 |      700 | 2026-03-23 | Natus Vincere   | L   | 1.000      | -            | -                | -                | -         |   -13.10 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           41 |      832 | 2026-03-20 | FURIA           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.388 (0.388)    | 1 (1.000) |    14.33 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           40 |      931 | 2026-03-18 | FaZe Clan       | W   | 1.000      | 1.000        | 0.375 (0.375)    | 0.350 (0.350)    | 1 (1.000) |     4.79 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           39 |     1064 | 2026-03-15 | Natus Vincere   | L   | 1.000      | -            | -                | -                | -         |   -14.11 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           38 |     1099 | 2026-03-14 | Astralis        | W   | 1.000      | 0.901        | 0.466 (0.420)    | 0.337 (0.303)    | 1 (1.000) |     9.49 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           37 |     1167 | 2026-03-13 | Legacy          | W   | 1.000      | 0.901        | 0.258 (0.232)    | 0.387 (0.348)    | 1 (1.000) |     5.03 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           36 |     1325 | 2026-03-09 | G2 Esports      | W   | 1.000      | 0.805        | 0.348 (0.280)    | 0.582 (0.469)    | -         |    10.24 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           35 |     1452 | 2026-03-08 | PaiN Gaming     | W   | 1.000      | 0.805        | -                | 0.392 (0.315)    | -         |     6.85 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           34 |     1499 | 2026-03-07 | The MongolZ     | L   | 0.998      | -            | -                | -                | -         |   -19.28 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           33 |     1527 | 2026-03-06 | Legacy          | W   | 0.992      | 0.805        | -                | 0.387 (0.309)    | -         |     3.68 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           32 |     2221 | 2026-02-20 | Team Vitality   | L   | 0.900      | -            | -                | -                | -         |    -7.17 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           31 |     2339 | 2026-02-18 | Astralis        | W   | 0.885      | 1.000        | 0.466 (0.412)    | -                | 1 (0.885) |     7.42 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           30 |     2401 | 2026-02-17 | B8              | W   | 0.879      | 1.000        | -                | 0.349 (0.306)    | 1 (0.879) |     5.21 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           29 |     2451 | 2026-02-16 | Natus Vincere   | L   | 0.871      | -            | -                | -                | -         |   -10.66 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           28 |     2503 | 2026-02-15 | PaiN Gaming     | W   | 0.866      | 1.000        | 0.272 (0.235)    | 0.392 (0.339)    | 1 (0.866) |     4.95 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           27 |     2579 | 2026-02-14 | FUT Esports     | L   | 0.858      | -            | -                | -                | -         |   -22.47 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           26 |     2841 | 2026-02-06 | FURIA           | L   | 0.806      | -            | -                | -                | -         |   -11.56 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           25 |     2908 | 2026-02-03 | Team Vitality   | L   | 0.787      | -            | -                | -                | -         |    -8.38 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           24 |     2953 | 2026-02-02 | MOUZ            | W   | 0.779      | 1.000        | 0.666 (0.519)    | -                | -         |     8.88 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           23 |     2982 | 2026-02-01 | Team Falcons    | W   | 0.772      | 1.000        | 0.657 (0.508)    | -                | -         |     9.20 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           22 |     3048 | 2026-01-30 | PaiN Gaming     | W   | 0.760      | -            | -                | -                | -         |     4.24 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           21 |     3081 | 2026-01-29 | PARIVISION      | L   | 0.752      | -            | -                | -                | -         |   -10.95 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           20 |     3110 | 2026-01-28 | GamerLegion     | W   | 0.745      | -            | -                | -                | -         |     3.34 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           19 |     3449 | 2026-01-17 | GamerLegion     | L   | 0.673      | -            | -                | -                | -         |   -18.23 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           18 |     3586 | 2026-01-13 | HOTU            | W   | 0.647      | 0.895        | -                | 0.666 (0.386)    | -         |     1.25 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
-|           17 |     4100 | 2025-12-01 | Astralis        | L   | 0.360      | -            | -                | -                | -         |    -8.90 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           16 |     4117 | 2025-11-30 | PARIVISION      | L   | 0.353      | -            | -                | -                | -         |    -6.02 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           15 |     4146 | 2025-11-29 | FaZe Clan       | L   | 0.347      | -            | -                | -                | -         |    -9.70 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           14 |     4161 | 2025-11-29 | M80             | W   | 0.346      | -            | -                | -                | -         |     0.95 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           13 |     5013 | 2025-11-01 | Legacy          | W   | 0.159      | -            | -                | -                | -         |     0.39 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           12 |     5034 | 2025-10-31 | GamerLegion     | W   | 0.153      | -            | -                | -                | -         |     0.60 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           11 |     5045 | 2025-10-31 | B8              | W   | 0.151      | -            | -                | -                | -         |     0.67 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|           10 |     5058 | 2025-10-30 | Astralis        | W   | 0.145      | -            | -                | -                | -         |     0.97 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            9 |     5086 | 2025-10-29 | BC.Game Esports | L   | 0.138      | -            | -                | -                | -         |    -4.16 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            8 |     5108 | 2025-10-28 | HEROIC          | L   | 0.132      | -            | -                | -                | -         |    -3.55 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            7 |     5147 | 2025-10-27 | Team Liquid     | W   | 0.126      | -            | -                | -                | -         |     0.30 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            6 |     5193 | 2025-10-26 | Fnatic          | W   | 0.120      | -            | -                | -                | -         |     0.09 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            5 |     5437 | 2025-10-19 | The MongolZ     | L   | 0.072      | -            | -                | -                | -         |    -1.70 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            4 |     5457 | 2025-10-18 | FURIA           | L   | 0.066      | -            | -                | -                | -         |    -1.17 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            3 |     5478 | 2025-10-17 | KOLESIE         | W   | 0.060      | -            | -                | -                | -         |     0.04 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            2 |     5513 | 2025-10-16 | Natus Vincere   | L   | 0.053      | -            | -                | -                | -         |    -0.66 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
-|            1 |     5545 | 2025-10-15 | KOLESIE         | W   | 0.047      | -            | -                | -                | -         |     0.03 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           48 |      205 | 2026-04-01 | Alliance        | L   | 1.000      | -            | -                | -                | -         |   -27.15 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           47 |      247 | 2026-03-31 | M80             | L   | 1.000      | -            | -                | -                | -         |   -28.57 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           46 |      289 | 2026-03-31 | Sashi Esport    | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.91 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           45 |      323 | 2026-03-30 | INFINITE        | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.10 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           44 |      454 | 2026-03-28 | Team Vitality   | L   | 1.000      | -            | -                | -                | -         |    -7.29 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           43 |      502 | 2026-03-27 | The MongolZ     | W   | 1.000      | 1.000        | 0.556 (0.556)    | -                | 1 (1.000) |    12.26 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           42 |      718 | 2026-03-23 | Natus Vincere   | L   | 1.000      | -            | -                | -                | -         |   -13.10 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           41 |      850 | 2026-03-20 | FURIA           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.388 (0.388)    | 1 (1.000) |    14.33 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           40 |      949 | 2026-03-18 | FaZe Clan       | W   | 1.000      | 1.000        | 0.375 (0.375)    | 0.350 (0.350)    | 1 (1.000) |     4.79 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           39 |     1082 | 2026-03-15 | Natus Vincere   | L   | 1.000      | -            | -                | -                | -         |   -14.11 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           38 |     1117 | 2026-03-14 | Astralis        | W   | 1.000      | 0.901        | 0.466 (0.420)    | 0.337 (0.303)    | 1 (1.000) |     9.49 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           37 |     1185 | 2026-03-13 | Legacy          | W   | 1.000      | 0.901        | 0.258 (0.232)    | 0.387 (0.348)    | 1 (1.000) |     5.03 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           36 |     1343 | 2026-03-09 | G2 Esports      | W   | 1.000      | 0.805        | 0.348 (0.280)    | 0.582 (0.469)    | -         |    10.24 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           35 |     1470 | 2026-03-08 | PaiN Gaming     | W   | 1.000      | 0.805        | -                | 0.392 (0.315)    | -         |     6.85 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           34 |     1517 | 2026-03-07 | The MongolZ     | L   | 0.998      | -            | -                | -                | -         |   -19.28 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           33 |     1545 | 2026-03-06 | Legacy          | W   | 0.992      | 0.805        | -                | 0.387 (0.309)    | -         |     3.68 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           32 |     2245 | 2026-02-20 | Team Vitality   | L   | 0.900      | -            | -                | -                | -         |    -7.17 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           31 |     2363 | 2026-02-18 | Astralis        | W   | 0.885      | 1.000        | 0.466 (0.412)    | -                | 1 (0.885) |     7.42 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           30 |     2425 | 2026-02-17 | B8              | W   | 0.879      | 1.000        | -                | 0.349 (0.306)    | 1 (0.879) |     5.22 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           29 |     2475 | 2026-02-16 | Natus Vincere   | L   | 0.871      | -            | -                | -                | -         |   -10.66 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           28 |     2528 | 2026-02-15 | PaiN Gaming     | W   | 0.866      | 1.000        | 0.272 (0.235)    | 0.392 (0.339)    | 1 (0.866) |     4.95 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           27 |     2604 | 2026-02-14 | FUT Esports     | L   | 0.858      | -            | -                | -                | -         |   -22.47 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           26 |     2866 | 2026-02-06 | FURIA           | L   | 0.806      | -            | -                | -                | -         |   -11.56 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           25 |     2933 | 2026-02-03 | Team Vitality   | L   | 0.787      | -            | -                | -                | -         |    -8.38 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           24 |     2978 | 2026-02-02 | MOUZ            | W   | 0.779      | 1.000        | 0.666 (0.519)    | -                | -         |     8.88 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           23 |     3008 | 2026-02-01 | Team Falcons    | W   | 0.772      | 1.000        | 0.657 (0.508)    | -                | -         |     9.20 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           22 |     3074 | 2026-01-30 | PaiN Gaming     | W   | 0.760      | -            | -                | -                | -         |     4.24 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           21 |     3107 | 2026-01-29 | PARIVISION      | L   | 0.752      | -            | -                | -                | -         |   -10.95 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           20 |     3136 | 2026-01-28 | GamerLegion     | W   | 0.745      | -            | -                | -                | -         |     3.34 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           19 |     3479 | 2026-01-17 | GamerLegion     | L   | 0.673      | -            | -                | -                | -         |   -18.23 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           18 |     3618 | 2026-01-13 | HOTU            | W   | 0.647      | 0.895        | -                | 0.666 (0.386)    | -         |     1.26 | MAJ3R, soulfly, Wicadia, woxic, XANTARES |
+|           17 |     4134 | 2025-12-01 | Astralis        | L   | 0.360      | -            | -                | -                | -         |    -8.90 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           16 |     4151 | 2025-11-30 | PARIVISION      | L   | 0.353      | -            | -                | -                | -         |    -6.02 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           15 |     4180 | 2025-11-29 | FaZe Clan       | L   | 0.347      | -            | -                | -                | -         |    -9.70 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           14 |     4195 | 2025-11-29 | M80             | W   | 0.346      | -            | -                | -                | -         |     0.95 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           13 |     5047 | 2025-11-01 | Legacy          | W   | 0.159      | -            | -                | -                | -         |     0.39 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           12 |     5068 | 2025-10-31 | GamerLegion     | W   | 0.153      | -            | -                | -                | -         |     0.60 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           11 |     5079 | 2025-10-31 | B8              | W   | 0.151      | -            | -                | -                | -         |     0.67 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|           10 |     5092 | 2025-10-30 | Astralis        | W   | 0.145      | -            | -                | -                | -         |     0.97 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            9 |     5120 | 2025-10-29 | BC.Game Esports | L   | 0.138      | -            | -                | -                | -         |    -4.16 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            8 |     5142 | 2025-10-28 | HEROIC          | L   | 0.132      | -            | -                | -                | -         |    -3.55 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            7 |     5181 | 2025-10-27 | Team Liquid     | W   | 0.126      | -            | -                | -                | -         |     0.30 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            6 |     5227 | 2025-10-26 | Fnatic          | W   | 0.120      | -            | -                | -                | -         |     0.09 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            5 |     5471 | 2025-10-19 | The MongolZ     | L   | 0.072      | -            | -                | -                | -         |    -1.70 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            4 |     5491 | 2025-10-18 | FURIA           | L   | 0.066      | -            | -                | -                | -         |    -1.17 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            3 |     5512 | 2025-10-17 | KOLESIE         | W   | 0.060      | -            | -                | -                | -         |     0.04 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            2 |     5547 | 2025-10-16 | Natus Vincere   | L   | 0.053      | -            | -                | -                | -         |    -0.66 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
+|            1 |     5579 | 2025-10-15 | KOLESIE         | W   | 0.047      | -            | -                | -                | -         |     0.03 | jottAAA, MAJ3R, Wicadia, woxic, XANTARES |
 
 <br />
 <span id="table2"></span><br />

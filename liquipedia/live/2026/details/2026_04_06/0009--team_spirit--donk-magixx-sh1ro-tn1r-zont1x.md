@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Team Spirit<br />
 Roster: donk, magixx, sh1ro, tN1R, zont1x<br />
-Global Rank: [9](../../standings_global_.md)<br />
+Global Rank: [9](../../standings_global_2026_04_06.md)<br />
 <br />
-Region: [Europe]( ../../standings_europe_.md)<br />
-Regional Rank: [7]( ../../standings_europe_.md)<br />
+Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
+Regional Rank: [7]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  1721.1<br />
 <br />
@@ -40,35 +40,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |      655 | 2026-03-23 | The MongolZ          | L   | 1.000      | -            | -                | -                | -         |   -14.73 | donk, magixx, sh1ro, tN1R, zont1x |
-|           28 |      725 | 2026-03-22 | 9z Team              | W   | 1.000      | 1.000        | 0.192 (0.192)    | 0.582 (0.582)    | 1 (1.000) |     8.62 | donk, magixx, sh1ro, tN1R, zont1x |
-|           27 |      774 | 2026-03-21 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |   -13.08 | donk, magixx, sh1ro, tN1R, zont1x |
-|           26 |      900 | 2026-03-19 | Team Liquid          | W   | 1.000      | 1.000        | 0.238 (0.238)    | 0.312 (0.312)    | 1 (1.000) |     3.60 | donk, magixx, sh1ro, tN1R, zont1x |
-|           25 |     1139 | 2026-03-13 | Astralis             | L   | 1.000      | -            | -                | -                | -         |   -18.82 | donk, magixx, sh1ro, tN1R, zont1x |
-|           24 |     1409 | 2026-03-08 | G2 Esports           | W   | 1.000      | 0.805        | 0.348 (0.280)    | 0.582 (0.469)    | -         |    13.48 | donk, magixx, sh1ro, tN1R, zont1x |
-|           23 |     1464 | 2026-03-07 | B8                   | W   | 1.000      | 0.805        | -                | 0.349 (0.281)    | -         |     9.00 | donk, magixx, sh1ro, tN1R, zont1x |
-|           22 |     1525 | 2026-03-06 | 3DMAX                | W   | 0.993      | 0.805        | 0.215 (0.172)    | 0.492 (0.393)    | -         |     7.22 | donk, magixx, sh1ro, tN1R, zont1x |
-|           21 |     2784 | 2026-02-08 | MOUZ                 | W   | 0.819      | 1.000        | 0.666 (0.545)    | -                | 1 (0.819) |    14.67 | donk, magixx, sh1ro, tN1R, zont1x |
-|           20 |     2804 | 2026-02-07 | FURIA                | L   | 0.813      | -            | -                | -                | -         |    -6.98 | donk, magixx, sh1ro, tN1R, zont1x |
-|           19 |     2916 | 2026-02-03 | G2 Esports           | W   | 0.786      | 1.000        | 0.348 (0.274)    | 0.582 (0.458)    | 1 (0.786) |    12.69 | donk, magixx, sh1ro, tN1R, zont1x |
-|           18 |     2968 | 2026-02-01 | Natus Vincere        | W   | 0.774      | 1.000        | 1.000 (0.774)    | 0.344 (0.266)    | 1 (0.774) |    19.39 | donk, magixx, sh1ro, tN1R, zont1x |
-|           17 |     3010 | 2026-01-31 | Astralis             | W   | 0.767      | 1.000        | 0.466 (0.357)    | 0.337 (0.258)    | 1 (0.767) |    10.43 | donk, magixx, sh1ro, tN1R, zont1x |
-|           16 |     3236 | 2026-01-23 | PARIVISION           | L   | 0.714      | -            | -                | -                | -         |    -6.50 | donk, magixx, sh1ro, tN1R, zont1x |
-|           15 |     3405 | 2026-01-18 | Inner Circle Esports | W   | 0.679      | 0.895        | -                | 0.484 (0.294)    | -         |     1.32 | donk, magixx, sh1ro, tN1R, zont1x |
-|           14 |     3514 | 2026-01-16 | SINNERS Esports      | W   | 0.666      | 0.895        | -                | 0.674 (0.402)    | -         |     6.47 | donk, magixx, sh1ro, tN1R, zont1x |
-|           13 |     3876 | 2025-12-13 | Team Vitality        | L   | 0.440      | -            | -                | -                | -         |    -2.09 | chopper, donk, sh1ro, tN1R, zweih |
-|           12 |     3906 | 2025-12-11 | Team Falcons         | W   | 0.426      | 1.000        | 0.657 (0.280)    | -                | 1 (0.426) |     8.17 | chopper, donk, sh1ro, tN1R, zweih |
-|           11 |     4018 | 2025-12-05 | MOUZ                 | W   | 0.387      | 1.000        | 0.666 (0.257)    | -                | 1 (0.387) |     7.82 | chopper, donk, sh1ro, tN1R, zweih |
-|           10 |     4042 | 2025-12-04 | FaZe Clan            | W   | 0.381      | -            | -                | -                | 1 (0.381) |     4.15 | chopper, donk, sh1ro, tN1R, zweih |
-|            9 |     4055 | 2025-12-04 | Team Liquid          | W   | 0.379      | -            | -                | -                | 1 (0.379) |     2.98 | chopper, donk, sh1ro, tN1R, zweih |
-|            8 |     4539 | 2025-11-14 | Team Vitality        | L   | 0.245      | -            | -                | -                | -         |    -1.02 | chopper, donk, sh1ro, tN1R, zweih |
-|            7 |     4576 | 2025-11-12 | The MongolZ          | W   | 0.236      | -            | -                | -                | -         |     4.15 | chopper, donk, sh1ro, tN1R, zweih |
-|            6 |     4607 | 2025-11-11 | Team Falcons         | L   | 0.230      | -            | -                | -                | -         |    -2.66 | chopper, donk, sh1ro, tN1R, zweih |
-|            5 |     4903 | 2025-11-05 | The MongolZ          | L   | 0.185      | -            | -                | -                | -         |    -2.56 | chopper, donk, sh1ro, tN1R, zweih |
-|            4 |     4912 | 2025-11-04 | HEROIC               | W   | 0.183      | -            | -                | -                | -         |     2.33 | chopper, donk, sh1ro, tN1R, zweih |
-|            3 |     4932 | 2025-11-04 | Team Falcons         | L   | 0.178      | -            | -                | -                | -         |    -2.12 | chopper, donk, sh1ro, tN1R, zweih |
-|            2 |     4959 | 2025-11-03 | PaiN Gaming          | W   | 0.171      | -            | -                | -                | -         |     2.11 | chopper, donk, sh1ro, tN1R, zweih |
-|            1 |     5680 | 2025-10-10 | FaZe Clan            | L   | 0.013      | -            | -                | -                | -         |    -0.27 | chopper, donk, sh1ro, tN1R, zweih |
+|           29 |      673 | 2026-03-23 | The MongolZ          | L   | 1.000      | -            | -                | -                | -         |   -14.73 | donk, magixx, sh1ro, tN1R, zont1x |
+|           28 |      743 | 2026-03-22 | 9z Team              | W   | 1.000      | 1.000        | 0.192 (0.192)    | 0.582 (0.582)    | 1 (1.000) |     8.59 | donk, magixx, sh1ro, tN1R, zont1x |
+|           27 |      792 | 2026-03-21 | PARIVISION           | L   | 1.000      | -            | -                | -                | -         |   -13.07 | donk, magixx, sh1ro, tN1R, zont1x |
+|           26 |      918 | 2026-03-19 | Team Liquid          | W   | 1.000      | 1.000        | 0.238 (0.238)    | 0.312 (0.312)    | 1 (1.000) |     3.60 | donk, magixx, sh1ro, tN1R, zont1x |
+|           25 |     1157 | 2026-03-13 | Astralis             | L   | 1.000      | -            | -                | -                | -         |   -18.82 | donk, magixx, sh1ro, tN1R, zont1x |
+|           24 |     1427 | 2026-03-08 | G2 Esports           | W   | 1.000      | 0.805        | 0.348 (0.280)    | 0.582 (0.469)    | -         |    13.48 | donk, magixx, sh1ro, tN1R, zont1x |
+|           23 |     1482 | 2026-03-07 | B8                   | W   | 1.000      | 0.805        | -                | 0.349 (0.281)    | -         |     9.00 | donk, magixx, sh1ro, tN1R, zont1x |
+|           22 |     1543 | 2026-03-06 | 3DMAX                | W   | 0.993      | 0.805        | 0.215 (0.172)    | 0.492 (0.393)    | -         |     7.22 | donk, magixx, sh1ro, tN1R, zont1x |
+|           21 |     2809 | 2026-02-08 | MOUZ                 | W   | 0.819      | 1.000        | 0.666 (0.545)    | -                | 1 (0.819) |    14.67 | donk, magixx, sh1ro, tN1R, zont1x |
+|           20 |     2829 | 2026-02-07 | FURIA                | L   | 0.813      | -            | -                | -                | -         |    -6.98 | donk, magixx, sh1ro, tN1R, zont1x |
+|           19 |     2941 | 2026-02-03 | G2 Esports           | W   | 0.786      | 1.000        | 0.348 (0.274)    | 0.582 (0.458)    | 1 (0.786) |    12.69 | donk, magixx, sh1ro, tN1R, zont1x |
+|           18 |     2993 | 2026-02-01 | Natus Vincere        | W   | 0.774      | 1.000        | 1.000 (0.774)    | 0.344 (0.266)    | 1 (0.774) |    19.39 | donk, magixx, sh1ro, tN1R, zont1x |
+|           17 |     3036 | 2026-01-31 | Astralis             | W   | 0.767      | 1.000        | 0.466 (0.357)    | 0.337 (0.258)    | 1 (0.767) |    10.44 | donk, magixx, sh1ro, tN1R, zont1x |
+|           16 |     3265 | 2026-01-23 | PARIVISION           | L   | 0.714      | -            | -                | -                | -         |    -6.50 | donk, magixx, sh1ro, tN1R, zont1x |
+|           15 |     3434 | 2026-01-18 | Inner Circle Esports | W   | 0.679      | 0.895        | -                | 0.484 (0.294)    | -         |     1.32 | donk, magixx, sh1ro, tN1R, zont1x |
+|           14 |     3546 | 2026-01-16 | SINNERS Esports      | W   | 0.666      | 0.895        | -                | 0.674 (0.402)    | -         |     6.48 | donk, magixx, sh1ro, tN1R, zont1x |
+|           13 |     3910 | 2025-12-13 | Team Vitality        | L   | 0.440      | -            | -                | -                | -         |    -2.09 | chopper, donk, sh1ro, tN1R, zweih |
+|           12 |     3940 | 2025-12-11 | Team Falcons         | W   | 0.426      | 1.000        | 0.657 (0.280)    | -                | 1 (0.426) |     8.17 | chopper, donk, sh1ro, tN1R, zweih |
+|           11 |     4052 | 2025-12-05 | MOUZ                 | W   | 0.387      | 1.000        | 0.666 (0.257)    | -                | 1 (0.387) |     7.82 | chopper, donk, sh1ro, tN1R, zweih |
+|           10 |     4076 | 2025-12-04 | FaZe Clan            | W   | 0.381      | -            | -                | -                | 1 (0.381) |     4.15 | chopper, donk, sh1ro, tN1R, zweih |
+|            9 |     4089 | 2025-12-04 | Team Liquid          | W   | 0.379      | -            | -                | -                | 1 (0.379) |     2.98 | chopper, donk, sh1ro, tN1R, zweih |
+|            8 |     4573 | 2025-11-14 | Team Vitality        | L   | 0.245      | -            | -                | -                | -         |    -1.02 | chopper, donk, sh1ro, tN1R, zweih |
+|            7 |     4610 | 2025-11-12 | The MongolZ          | W   | 0.236      | -            | -                | -                | -         |     4.15 | chopper, donk, sh1ro, tN1R, zweih |
+|            6 |     4641 | 2025-11-11 | Team Falcons         | L   | 0.230      | -            | -                | -                | -         |    -2.66 | chopper, donk, sh1ro, tN1R, zweih |
+|            5 |     4937 | 2025-11-05 | The MongolZ          | L   | 0.185      | -            | -                | -                | -         |    -2.56 | chopper, donk, sh1ro, tN1R, zweih |
+|            4 |     4946 | 2025-11-04 | HEROIC               | W   | 0.183      | -            | -                | -                | -         |     2.33 | chopper, donk, sh1ro, tN1R, zweih |
+|            3 |     4966 | 2025-11-04 | Team Falcons         | L   | 0.178      | -            | -                | -                | -         |    -2.12 | chopper, donk, sh1ro, tN1R, zweih |
+|            2 |     4993 | 2025-11-03 | PaiN Gaming          | W   | 0.171      | -            | -                | -                | -         |     2.11 | chopper, donk, sh1ro, tN1R, zweih |
+|            1 |     5714 | 2025-10-10 | FaZe Clan            | L   | 0.013      | -            | -                | -                | -         |    -0.27 | chopper, donk, sh1ro, tN1R, zweih |
 
 <br />
 <span id="table2"></span><br />
