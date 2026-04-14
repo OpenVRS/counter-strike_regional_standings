@@ -8,7 +8,7 @@ Regional Rank: [120]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  811.3<br />
 <br />
-Final Rank Value (811.3) = Starting Rank Value (771.0) + Head To Head Adjustments (40.3)<br />
+Final Rank Value (811.3) = Starting Rank Value (770.9) + Head To Head Adjustments (40.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.190<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 771.0
-- 400 + ( ( 0.190 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 771.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 770.9
+- 400 + ( ( 0.190 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 770.9
 
 
 #### Factors<br />
@@ -41,28 +41,28 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            9 |      314 | 2026-03-30 | Fnatic        | L   | 1.000      | -            | -                | -                | -         |    -3.61 | Dytor, kreaz, mhN1, Q-Q, sl3nd      |
-|            8 |      323 | 2026-03-30 | Aurora Gaming | L   | 1.000      | -            | -                | -                | -         |    -0.10 | Dytor, kreaz, mhN1, Q-Q, sl3nd      |
+|            8 |      323 | 2026-03-30 | Aurora Gaming | L   | 1.000      | -            | -                | -                | -         |    -0.11 | Dytor, kreaz, mhN1, Q-Q, sl3nd      |
 |            7 |      353 | 2026-03-29 | Drama Esports | W   | 1.000      | 0.354        | 0.000 (0.000)    | 0.061 (0.022)    | 1 (1.000) |     5.20 | Dytor, kreaz, mhN1, Q-Q, sl3nd      |
 |            6 |      375 | 2026-03-29 | Eternal Fire  | L   | 1.000      | -            | -                | -                | -         |    -2.26 | Dytor, kreaz, mhN1, Q-Q, sl3nd      |
 |            5 |      384 | 2026-03-29 | HYPERSPIRIT   | W   | 1.000      | 0.354        | 0.000 (0.000)    | 0.479 (0.170)    | 1 (1.000) |    25.08 | Dytor, kreaz, mhN1, Q-Q, sl3nd      |
 |            4 |     1662 | 2026-03-04 | Team Pigeons  | W   | 0.978      | 0.384        | 0.037 (0.014)    | 0.248 (0.093)    | 0 (0.000) |    13.79 | Dytor, kreaz, nbqq, Sl3nd, spardaus |
-|            3 |     1707 | 2026-03-03 | CSDIILIT      | L   | 0.971      | -            | -                | -                | -         |   -14.07 | Dytor, kreaz, nbqq, Sl3nd, spardaus |
-|            2 |     1818 | 2026-02-28 | TNC Esports   | L   | 0.953      | -            | -                | -                | -         |    -3.87 | Dytor, kreaz, nbqq, sl3nd, spardaus |
-|            1 |     1863 | 2026-02-27 | ENCE Academy  | W   | 0.946      | 0.384        | 0.001 (0.000)    | 0.513 (0.187)    | 0 (0.000) |    20.16 | Dytor, kreaz, nbqq, sl3nd, spardaus |
+|            3 |     1707 | 2026-03-03 | CSDIILIT      | L   | 0.972      | -            | -                | -                | -         |   -14.06 | Dytor, kreaz, nbqq, Sl3nd, spardaus |
+|            2 |     1818 | 2026-02-28 | TNC Esports   | L   | 0.954      | -            | -                | -                | -         |    -3.87 | Dytor, kreaz, nbqq, sl3nd, spardaus |
+|            1 |     1863 | 2026-02-27 | ENCE Academy  | W   | 0.947      | 0.384        | 0.001 (0.000)    | 0.513 (0.187)    | 0 (0.000) |    20.19 | Dytor, kreaz, nbqq, sl3nd, spardaus |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($480.19)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($480.47)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-03-01 |      0.960 | $500.00        | $480.19         |
+| 2026-03-01 |      0.961 | $500.00        | $480.47         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

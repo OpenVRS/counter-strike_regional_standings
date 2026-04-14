@@ -6,9 +6,9 @@ Global Rank: [178](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [22]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  789.5<br />
+Final Rank Value:  789.4<br />
 <br />
-Final Rank Value (789.5) = Starting Rank Value (809.2) + Head To Head Adjustments (-19.7)<br />
+Final Rank Value (789.4) = Starting Rank Value (809.1) + Head To Head Adjustments (-19.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.209<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 809.2
-- 400 + ( ( 0.209 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 809.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 809.1
+- 400 + ( ( 0.209 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 809.1
 
 
 #### Factors<br />
@@ -50,26 +50,26 @@ Note:<br />
 |           16 |      818 | 2026-03-21 | TakeMeAway Gaming         | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.73 | B1NGO, BZA, lan, Miami, Roninbaby    |
 |           15 |      830 | 2026-03-21 | Rare Atom                 | L   | 1.000      | -            | -                | -                | -         |    -4.00 | B1NGO, BZA, lan, Miami, Roninbaby    |
 |           14 |      874 | 2026-03-20 | BMZ                       | L   | 1.000      | -            | -                | -                | -         |    -8.63 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|           13 |     2072 | 2026-02-23 | Change The Game           | L   | 0.919      | -            | -                | -                | -         |   -10.79 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|           12 |     2139 | 2026-02-22 | Morningstar               | L   | 0.913      | -            | -                | -                | -         |    -7.10 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|           11 |     2249 | 2026-02-20 | Chinggis Warriors         | W   | 0.899      | 0.333        | 0.017 (0.005)    | 0.384 (0.115)    | 0 (0.000) |    25.15 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|           10 |     2353 | 2026-02-18 | BMZ                       | W   | 0.886      | 0.333        | 0.012 (0.004)    | 0.275 (0.081)    | 0 (0.000) |    21.31 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|            9 |     2416 | 2026-02-17 | 100RA                     | W   | 0.879      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.66 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|            8 |     3765 | 2025-12-27 | FengDa Gaming             | L   | 0.537      | -            | -                | -                | -         |    -9.45 | B1NGO, BZA, lan, Miami, Roninbaby    |
-|            7 |     4576 | 2025-11-13 | Lynn Vision Gaming        | L   | 0.244      | -            | -                | -                | -         |    -0.58 | B1NGO, flying, lan, Miami, Roninbaby |
-|            6 |     4719 | 2025-11-09 | Ever Growing Gaming       | W   | 0.211      | 0.380        | 0.000 (0.000)    | 0.006 (0.000)    | 1 (0.211) |     0.65 | B1NGO, flying, lan, Miami, Roninbaby |
-|            5 |     4782 | 2025-11-07 | Morningstar               | L   | 0.204      | -            | -                | -                | -         |    -1.66 | B1NGO, flying, lan, Miami, Roninbaby |
-|            4 |     4939 | 2025-11-05 | BORING PLAYER             | W   | 0.185      | 0.380        | 0.002 (0.000)    | 0.134 (0.009)    | 1 (0.185) |     1.93 | B1NGO, flying, lan, Miami, Roninbaby |
-|            3 |     5294 | 2025-10-25 | BORING PLAYER             | L   | 0.112      | -            | -                | -                | -         |    -2.38 | B1NGO, flying, lan, Miami, Roninbaby |
-|            2 |     5352 | 2025-10-24 | Morningstar               | L   | 0.106      | -            | -                | -                | -         |    -0.88 | B1NGO, flying, lan, Miami, Roninbaby |
-|            1 |     5400 | 2025-10-23 | Just Swing (Chinese team) | W   | 0.099      | 0.333        | 0.003 (0.000)    | 0.145 (0.005)    | 0 (0.000) |     1.28 | B1NGO, flying, lan, Miami, Roninbaby |
+|           13 |     2072 | 2026-02-23 | Change The Game           | L   | 0.920      | -            | -                | -                | -         |   -10.80 | B1NGO, BZA, lan, Miami, Roninbaby    |
+|           12 |     2139 | 2026-02-22 | Morningstar               | L   | 0.913      | -            | -                | -                | -         |    -7.11 | B1NGO, BZA, lan, Miami, Roninbaby    |
+|           11 |     2249 | 2026-02-20 | Chinggis Warriors         | W   | 0.900      | 0.333        | 0.017 (0.005)    | 0.384 (0.115)    | 0 (0.000) |    25.16 | B1NGO, BZA, lan, Miami, Roninbaby    |
+|           10 |     2353 | 2026-02-18 | BMZ                       | W   | 0.887      | 0.333        | 0.012 (0.004)    | 0.275 (0.081)    | 0 (0.000) |    21.32 | B1NGO, BZA, lan, Miami, Roninbaby    |
+|            9 |     2417 | 2026-02-17 | 100RA                     | W   | 0.880      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.66 | B1NGO, BZA, lan, Miami, Roninbaby    |
+|            8 |     3766 | 2025-12-27 | FengDa Gaming             | L   | 0.538      | -            | -                | -                | -         |    -9.46 | B1NGO, BZA, lan, Miami, Roninbaby    |
+|            7 |     4577 | 2025-11-13 | Lynn Vision Gaming        | L   | 0.244      | -            | -                | -                | -         |    -0.59 | B1NGO, flying, lan, Miami, Roninbaby |
+|            6 |     4720 | 2025-11-09 | Ever Growing Gaming       | W   | 0.212      | 0.380        | 0.000 (0.000)    | 0.006 (0.000)    | 1 (0.212) |     0.66 | B1NGO, flying, lan, Miami, Roninbaby |
+|            5 |     4783 | 2025-11-07 | Morningstar               | L   | 0.205      | -            | -                | -                | -         |    -1.67 | B1NGO, flying, lan, Miami, Roninbaby |
+|            4 |     4940 | 2025-11-05 | BORING PLAYER             | W   | 0.185      | 0.380        | 0.002 (0.000)    | 0.134 (0.009)    | 1 (0.185) |     1.94 | B1NGO, flying, lan, Miami, Roninbaby |
+|            3 |     5295 | 2025-10-25 | BORING PLAYER             | L   | 0.113      | -            | -                | -                | -         |    -2.39 | B1NGO, flying, lan, Miami, Roninbaby |
+|            2 |     5353 | 2025-10-24 | Morningstar               | L   | 0.106      | -            | -                | -                | -         |    -0.88 | B1NGO, flying, lan, Miami, Roninbaby |
+|            1 |     5401 | 2025-10-23 | Just Swing (Chinese team) | W   | 0.100      | 0.333        | 0.003 (0.000)    | 0.145 (0.005)    | 0 (0.000) |     1.29 | B1NGO, flying, lan, Miami, Roninbaby |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,482.75)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($3,484.70)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -79,9 +79,9 @@ Top ten winnings for this roster:<br />
 | 2026-04-05 |      1.000 | $726.00        | $726.00         |
 | 2026-03-25 |      1.000 | $375.00        | $375.00         |
 | 2026-03-21 |      1.000 | $300.00        | $300.00         |
-| 2026-02-24 |      0.926 | $1,500.00      | $1,388.91       |
-| 2025-12-30 |      0.551 | $600.00        | $330.73         |
-| 2025-11-15 |      0.257 | $1,409.00      | $362.12         |
+| 2026-02-24 |      0.926 | $1,500.00      | $1,389.74       |
+| 2025-12-30 |      0.552 | $600.00        | $331.06         |
+| 2025-11-15 |      0.258 | $1,409.00      | $362.90         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

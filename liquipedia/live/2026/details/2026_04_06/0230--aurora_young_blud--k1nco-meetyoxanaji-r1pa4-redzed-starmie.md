@@ -6,9 +6,9 @@ Global Rank: [230](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [149]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  695.1<br />
+Final Rank Value:  695.3<br />
 <br />
-Final Rank Value (695.1) = Starting Rank Value (577.7) + Head To Head Adjustments (117.5)<br />
+Final Rank Value (695.3) = Starting Rank Value (577.7) + Head To Head Adjustments (117.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,27 +40,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     1076 | 2026-03-15 | TNT             | L   | 1.000      | -            | -                | -                | -         |   -12.23 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|           14 |     1076 | 2026-03-15 | TNT             | L   | 1.000      | -            | -                | -                | -         |   -12.20 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
 |           13 |     1090 | 2026-03-15 | Eternal premium | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.092 (0.013)    | 0 (0.000) |     8.88 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
 |           12 |     1179 | 2026-03-13 | HAVU            | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.569 (0.081)    | 0 (0.000) |    25.91 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|           11 |     1438 | 2026-03-08 | OLDBOYS         | L   | 1.000      | -            | -                | -                | -         |   -15.99 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|           10 |     1572 | 2026-03-05 | Megoshort       | W   | 0.987      | 0.143        | 0.004 (0.001)    | 0.336 (0.047)    | 0 (0.000) |    27.07 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            9 |     1805 | 2026-02-28 | Yngods          | L   | 0.954      | -            | -                | -                | -         |   -16.10 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|           11 |     1438 | 2026-03-08 | OLDBOYS         | L   | 1.000      | -            | -                | -                | -         |   -16.00 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|           10 |     1572 | 2026-03-05 | Megoshort       | W   | 0.988      | 0.143        | 0.004 (0.001)    | 0.335 (0.047)    | 0 (0.000) |    27.08 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            9 |     1805 | 2026-02-28 | Yngods          | L   | 0.955      | -            | -                | -                | -         |   -16.11 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
 |            8 |     1819 | 2026-02-28 | HAVU            | L   | 0.953      | -            | -                | -                | -         |    -2.80 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            7 |     1861 | 2026-02-27 | G2 Ares         | W   | 0.947      | 0.278        | 0.002 (0.001)    | 0.143 (0.038)    | 0 (0.000) |    19.68 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            6 |     1906 | 2026-02-26 | Atreides        | L   | 0.941      | -            | -                | -                | -         |   -13.06 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            5 |     1924 | 2026-02-26 | MASONIC         | W   | 0.940      | 0.384        | 0.002 (0.001)    | 0.520 (0.188)    | 0 (0.000) |    26.63 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            4 |     1997 | 2026-02-25 | ENCE Academy    | W   | 0.931      | 0.384        | 0.001 (0.000)    | 0.513 (0.184)    | 0 (0.000) |    24.02 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            3 |     2823 | 2026-02-07 | TNC Esports     | L   | 0.814      | -            | -                | -                | -         |    -2.60 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            2 |     2942 | 2026-02-03 | Rebels Gaming   | W   | 0.786      | 0.384        | 0.014 (0.004)    | 0.540 (0.163)    | 0 (0.000) |    23.81 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
-|            1 |     2988 | 2026-02-02 | WW Team         | W   | 0.778      | 0.384        | 0.034 (0.010)    | 0.865 (0.259)    | 0 (0.000) |    24.23 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            7 |     1861 | 2026-02-27 | G2 Ares         | W   | 0.947      | 0.278        | 0.002 (0.001)    | 0.143 (0.038)    | 0 (0.000) |    19.69 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            6 |     1906 | 2026-02-26 | Atreides        | L   | 0.941      | -            | -                | -                | -         |   -13.07 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            5 |     1924 | 2026-02-26 | MASONIC         | W   | 0.940      | 0.384        | 0.002 (0.001)    | 0.520 (0.188)    | 0 (0.000) |    26.71 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            4 |     1997 | 2026-02-25 | ENCE Academy    | W   | 0.932      | 0.384        | 0.001 (0.000)    | 0.513 (0.184)    | 0 (0.000) |    24.04 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            3 |     2824 | 2026-02-07 | TNC Esports     | L   | 0.814      | -            | -                | -                | -         |    -2.60 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            2 |     2943 | 2026-02-03 | Rebels Gaming   | W   | 0.787      | 0.384        | 0.014 (0.004)    | 0.540 (0.163)    | 0 (0.000) |    23.83 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
+|            1 |     2989 | 2026-02-02 | WW Team         | W   | 0.778      | 0.384        | 0.034 (0.010)    | 0.865 (0.259)    | 0 (0.000) |    24.25 | k1nco, meetyoxanaji, r1pa4, redzed, starmie |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

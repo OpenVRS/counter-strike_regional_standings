@@ -6,9 +6,9 @@ Global Rank: [294](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [76]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  574.9<br />
+Final Rank Value:  574.8<br />
 <br />
-Final Rank Value (574.9) = Starting Rank Value (637.1) + Head To Head Adjustments (-62.1)<br />
+Final Rank Value (574.8) = Starting Rank Value (637.0) + Head To Head Adjustments (-62.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.121<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 637.1
-- 400 + ( ( 0.121 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 637.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 637.0
+- 400 + ( ( 0.121 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 637.0
 
 
 #### Factors<br />
@@ -40,37 +40,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |      777 | 2026-03-21 | Outfit 49            | L   | 1.000      | -            | -                | -                | -         |   -10.46 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|           17 |      777 | 2026-03-21 | Outfit 49            | L   | 1.000      | -            | -                | -                | -         |   -10.48 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
 |           16 |      835 | 2026-03-20 | OverKnight           | L   | 1.000      | -            | -                | -                | -         |   -19.27 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
 |           15 |     1068 | 2026-03-15 | F5 Esports           | L   | 1.000      | -            | -                | -                | -         |   -10.21 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
 |           14 |     1338 | 2026-03-09 | Zomblers             | L   | 1.000      | -            | -                | -                | -         |    -9.66 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|           13 |     2275 | 2026-02-19 | Outfit 49            | L   | 0.896      | -            | -                | -                | -         |   -10.60 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|           12 |     2318 | 2026-02-18 | Team Voca            | L   | 0.889      | -            | -                | -                | -         |    -0.72 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|           11 |     2378 | 2026-02-17 | Sakura Esports       | W   | 0.883      | 0.363        | 0.021 (0.007)    | 0.054 (0.017)    | 0 (0.000) |    15.63 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|           10 |     2884 | 2026-02-05 | Team mouse           | L   | 0.802      | -            | -                | -                | -         |   -17.27 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            9 |     2961 | 2026-02-02 | SportsBetExpert      | L   | 0.782      | -            | -                | -                | -         |    -8.89 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            8 |     4643 | 2025-11-11 | Marsborne            | L   | 0.229      | -            | -                | -                | -         |    -0.21 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            7 |     4671 | 2025-11-10 | Zomblers             | W   | 0.223      | 0.363        | 0.002 (0.000)    | 0.253 (0.020)    | 0 (0.000) |     3.95 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            6 |     5155 | 2025-10-27 | Team Kiri            | W   | 0.129      | 0.363        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.28 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            5 |     5195 | 2025-10-26 | Life's A Game        | L   | 0.123      | -            | -                | -                | -         |    -0.57 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            4 |     5308 | 2025-10-24 | BOSS                 | W   | 0.109      | 0.363        | 0.009 (0.000)    | 0.316 (0.012)    | 0 (0.000) |     2.88 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            3 |     5372 | 2025-10-23 | Chicken Coop Esports | W   | 0.102      | 0.363        | 0.017 (0.001)    | 0.186 (0.007)    | 0 (0.000) |     2.08 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
-|            2 |     5733 | 2025-10-09 | Regain               | L   | 0.009      | -            | -                | -                | -         |    -0.13 | Austin, Cooper, fl0m, hyza, Trucklover86   |
-|            1 |     5782 | 2025-10-08 | Sakura Esports       | W   | 0.002      | 0.363        | 0.021 (0.000)    | 0.054 (0.000)    | 0 (0.000) |     0.05 | Austin, Cooper, fl0m, hyza, Trucklover86   |
+|           13 |     2275 | 2026-02-19 | Outfit 49            | L   | 0.896      | -            | -                | -                | -         |   -10.63 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|           12 |     2318 | 2026-02-18 | Team Voca            | L   | 0.890      | -            | -                | -                | -         |    -0.72 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|           11 |     2378 | 2026-02-17 | Sakura Esports       | W   | 0.883      | 0.363        | 0.021 (0.007)    | 0.055 (0.017)    | 0 (0.000) |    15.63 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|           10 |     2885 | 2026-02-05 | Team mouse           | L   | 0.802      | -            | -                | -                | -         |   -17.28 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            9 |     2962 | 2026-02-02 | SportsBetExpert      | L   | 0.783      | -            | -                | -                | -         |    -8.93 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            8 |     4644 | 2025-11-11 | Marsborne            | L   | 0.230      | -            | -                | -                | -         |    -0.21 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            7 |     4672 | 2025-11-10 | Zomblers             | W   | 0.223      | 0.363        | 0.002 (0.000)    | 0.253 (0.020)    | 0 (0.000) |     3.96 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            6 |     5156 | 2025-10-27 | Team Kiri            | W   | 0.130      | 0.363        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     1.29 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            5 |     5196 | 2025-10-26 | Life's A Game        | L   | 0.123      | -            | -                | -                | -         |    -0.58 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            4 |     5309 | 2025-10-24 | BOSS                 | W   | 0.110      | 0.363        | 0.009 (0.000)    | 0.316 (0.013)    | 0 (0.000) |     2.90 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            3 |     5373 | 2025-10-23 | Chicken Coop Esports | W   | 0.103      | 0.363        | 0.017 (0.001)    | 0.186 (0.007)    | 0 (0.000) |     2.09 | Cooper, fl0m, hyza, PwnAlone, Trucklover86 |
+|            2 |     5734 | 2025-10-09 | Regain               | L   | 0.010      | -            | -                | -                | -         |    -0.13 | Austin, Cooper, fl0m, hyza, Trucklover86   |
+|            1 |     5783 | 2025-10-08 | Sakura Esports       | W   | 0.003      | 0.363        | 0.021 (0.000)    | 0.055 (0.000)    | 0 (0.000) |     0.06 | Austin, Cooper, fl0m, hyza, Trucklover86   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($255.94)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($256.49)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-15 |      0.256 | $1,000.00      | $255.94         |
+| 2025-11-15 |      0.256 | $1,000.00      | $256.49         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

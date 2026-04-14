@@ -8,20 +8,20 @@ Regional Rank: [126]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  782.3<br />
 <br />
-Final Rank Value (782.3) = Starting Rank Value (742.2) + Head To Head Adjustments (40.0)<br />
+Final Rank Value (782.3) = Starting Rank Value (742.1) + Head To Head Adjustments (40.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.307[<sup>1</sup>](#table2)
+- Bounty Offered: 0.306[<sup>1</sup>](#table2)
 - Bounty Collected: 0.277[<sup>2</sup>](#table1)
 - Opponent Network: 0.031[<sup>2</sup>](#table1)
-- LAN Wins: 0.084[<sup>2</sup>](#table1)
+- LAN Wins: 0.085[<sup>2</sup>](#table1)
 
 The average of these factors is 0.175<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 742.2
-- 400 + ( ( 0.175 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 742.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 742.1
+- 400 + ( ( 0.175 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 742.1
 
 
 #### Factors<br />
@@ -40,23 +40,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      422 | 2026-03-28 | TNT                  | L   | 1.000      | -            | -                | -                | -         |   -15.22 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
+|           10 |      422 | 2026-03-28 | TNT                  | L   | 1.000      | -            | -                | -                | -         |   -15.18 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
 |            9 |      487 | 2026-03-27 | ROUNDS               | W   | 1.000      | 0.407        | 0.002 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     5.85 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
-|            8 |     1112 | 2026-03-14 | Young Ninjas         | L   | 1.000      | -            | -                | -                | -         |   -13.24 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
+|            8 |     1112 | 2026-03-14 | Young Ninjas         | L   | 1.000      | -            | -                | -                | -         |   -13.25 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
 |            7 |     1170 | 2026-03-13 | Inner Circle Academy | W   | 1.000      | 0.278        | 0.003 (0.001)    | 0.057 (0.016)    | 0 (0.000) |     8.51 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
 |            6 |     1214 | 2026-03-12 | Donstu Esports       | L   | 1.000      | -            | -                | -                | -         |   -19.23 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
-|            5 |     1349 | 2026-03-09 | TNT                  | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.245 (0.035)    | 0 (0.000) |    14.66 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
+|            5 |     1349 | 2026-03-09 | TNT                  | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.245 (0.035)    | 0 (0.000) |    14.70 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
 |            4 |     1419 | 2026-03-08 | Yngods               | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.180 (0.026)    | 0 (0.000) |     9.87 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
-|            3 |     1573 | 2026-03-05 | HAVU                 | W   | 0.987      | 0.143        | 0.005 (0.001)    | 0.569 (0.080)    | 0 (0.000) |    25.69 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
-|            2 |     2637 | 2026-02-13 | Magic (Russian team) | L   | 0.852      | -            | -                | -                | -         |    -1.18 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
-|            1 |     2688 | 2026-02-12 | Inner Circle Esports | W   | 0.845      | 0.384        | 0.060 (0.020)    | 0.484 (0.157)    | 1 (0.845) |    24.34 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
+|            3 |     1573 | 2026-03-05 | HAVU                 | W   | 0.988      | 0.143        | 0.005 (0.001)    | 0.569 (0.080)    | 0 (0.000) |    25.70 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
+|            2 |     2638 | 2026-02-13 | Magic (Russian team) | L   | 0.853      | -            | -                | -                | -         |    -1.18 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
+|            1 |     2689 | 2026-02-12 | Inner Circle Esports | W   | 0.846      | 0.384        | 0.060 (0.020)    | 0.484 (0.157)    | 1 (0.846) |    24.36 | Ckanic, Mertowsk1, rim3, souv, Zuedsta |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,500.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

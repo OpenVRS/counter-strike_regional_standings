@@ -6,9 +6,9 @@ Global Rank: [276](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [69]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  609.7<br />
+Final Rank Value:  609.6<br />
 <br />
-Final Rank Value (609.7) = Starting Rank Value (610.8) + Head To Head Adjustments (-1.1)<br />
+Final Rank Value (609.6) = Starting Rank Value (610.8) + Head To Head Adjustments (-1.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,28 +40,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     4337 | 2025-11-23 | Dusty Roses   | W   | 0.307      | 0.268        | 0.001 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     4.53 | annaEX, Babs, Brendinha, cellax, josi |
-|            5 |     4565 | 2025-11-14 | MIBR Female   | L   | 0.247      | -            | -                | -                | -         |    -1.79 | annaEX, Babs, Brendinha, cellax, josi |
-|            4 |     4589 | 2025-11-13 | Atrix Esports | L   | 0.240      | -            | -                | -                | -         |    -2.35 | annaEX, Babs, Brendinha, cellax, josi |
-|            3 |     5329 | 2025-10-24 | Atrix Esports | L   | 0.108      | -            | -                | -                | -         |    -1.07 | annaEX, Babs, Brendinha, cellax, josi |
-|            2 |     5573 | 2025-10-15 | MIBR Female   | L   | 0.048      | -            | -                | -                | -         |    -0.34 | annaEX, Babs, Brendinha, cellax, josi |
-|            1 |     5742 | 2025-10-09 | FURIA Female  | L   | 0.008      | -            | -                | -                | -         |    -0.09 | annaEX, Babs, Brendinha, cellax, josi |
+|            6 |     4338 | 2025-11-23 | Dusty Roses   | W   | 0.308      | 0.268        | 0.001 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     4.54 | annaEX, Babs, Brendinha, cellax, josi |
+|            5 |     4566 | 2025-11-14 | MIBR Female   | L   | 0.248      | -            | -                | -                | -         |    -1.80 | annaEX, Babs, Brendinha, cellax, josi |
+|            4 |     4590 | 2025-11-13 | Atrix Esports | L   | 0.240      | -            | -                | -                | -         |    -2.36 | annaEX, Babs, Brendinha, cellax, josi |
+|            3 |     5330 | 2025-10-24 | Atrix Esports | L   | 0.108      | -            | -                | -                | -         |    -1.07 | annaEX, Babs, Brendinha, cellax, josi |
+|            2 |     5574 | 2025-10-15 | MIBR Female   | L   | 0.049      | -            | -                | -                | -         |    -0.35 | annaEX, Babs, Brendinha, cellax, josi |
+|            1 |     5743 | 2025-10-09 | FURIA Female  | L   | 0.008      | -            | -                | -                | -         |    -0.10 | annaEX, Babs, Brendinha, cellax, josi |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($960.19)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($962.63)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-23 |      0.307 | $925.00        | $284.28         |
-| 2025-11-16 |      0.259 | $1,982.00      | $513.88         |
-| 2025-10-24 |      0.108 | $1,500.00      | $162.03         |
+| 2025-11-23 |      0.308 | $925.00        | $284.79         |
+| 2025-11-16 |      0.260 | $1,982.00      | $514.98         |
+| 2025-10-24 |      0.109 | $1,500.00      | $162.87         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

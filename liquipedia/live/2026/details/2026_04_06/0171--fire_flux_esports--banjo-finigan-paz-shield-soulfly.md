@@ -6,22 +6,22 @@ Global Rank: [171](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [118]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  817.7<br />
+Final Rank Value:  817.5<br />
 <br />
-Final Rank Value (817.7) = Starting Rank Value (732.3) + Head To Head Adjustments (85.4)<br />
+Final Rank Value (817.5) = Starting Rank Value (732.5) + Head To Head Adjustments (85.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.310[<sup>1</sup>](#table2)
-- Bounty Collected: 0.296[<sup>2</sup>](#table1)
+- Bounty Collected: 0.297[<sup>2</sup>](#table1)
 - Opponent Network: 0.073[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.170<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 732.3
-- 400 + ( ( 0.170 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 732.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 732.5
+- 400 + ( ( 0.170 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 732.5
 
 
 #### Factors<br />
@@ -40,60 +40,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |     2524 | 2026-02-15 | JiJieHao                                  | L   | 0.866      | -            | -                | -                | -         |    -3.74 | Banjo, FinigaN, paz, shield, soulfly   |
-|           37 |     2635 | 2026-02-13 | TNT                                       | L   | 0.853      | -            | -                | -                | -         |   -16.81 | Banjo, duggy, FinigaN, paz, soulfly    |
-|           36 |     3860 | 2025-12-18 | Oramond                                   | L   | 0.471      | -            | -                | -                | -         |    -3.63 | Banjo, FinigaN, paz, shield, soulfly   |
-|           35 |     3866 | 2025-12-17 | CYBERSHOKE Esports                        | W   | 0.466      | 0.384        | 0.031 (0.006)    | 0.556 (0.100)    | 0 (0.000) |    13.38 | Banjo, FinigaN, paz, shield, soulfly   |
-|           34 |     3890 | 2025-12-16 | Nemiga Gaming                             | W   | 0.458      | 0.384        | 0.138 (0.024)    | 0.947 (0.167)    | 0 (0.000) |    13.85 | Banjo, FinigaN, paz, shield, soulfly   |
-|           33 |     3952 | 2025-12-10 | Lavked                                    | W   | 0.419      | 0.384        | 0.007 (0.001)    | 0.494 (0.080)    | 0 (0.000) |     8.66 | Banjo, FinigaN, paz, shield, soulfly   |
-|           32 |     3964 | 2025-12-09 | FORZE Reload                              | W   | 0.413      | 0.384        | -                | 0.472 (0.075)    | 0 (0.000) |     8.11 | Banjo, FinigaN, paz, shield, soulfly   |
-|           31 |     4079 | 2025-12-04 | 9BoomPro                                  | W   | 0.380      | -            | -                | -                | 0 (0.000) |     1.99 | Banjo, FinigaN, paz, shield, soulfly   |
-|           30 |     4135 | 2025-12-01 | Nuclear TigeRES                           | L   | 0.360      | -            | -                | -                | -         |    -0.45 | Banjo, FinigaN, paz, shield, soulfly   |
-|           29 |     4308 | 2025-11-24 | MOUZ NXT                                  | W   | 0.314      | 0.299        | 0.037 (0.003)    | 1.000 (0.094)    | 0 (0.000) |     9.31 | Banjo, FinigaN, paz, shield, soulfly   |
-|           28 |     4313 | 2025-11-24 | The Last Resort                           | W   | 0.313      | 0.299        | 0.010 (0.001)    | 0.434 (0.041)    | 0 (0.000) |     6.85 | Banjo, FinigaN, paz, shield, soulfly   |
-|           27 |     4333 | 2025-11-24 | HAVU                                      | W   | 0.311      | 0.344        | 0.005 (0.001)    | 0.569 (0.061)    | 0 (0.000) |     8.45 | Banjo, FinigaN, paz, shield, soulfly   |
-|           26 |     4338 | 2025-11-23 | Eternal Fire                              | W   | 0.307      | -            | -                | -                | 0 (0.000) |     3.48 | Banjo, cacan, FinigaN, shield, soulfly |
-|           25 |     4345 | 2025-11-23 | HYPERSPIRIT                               | W   | 0.306      | 0.299        | -                | 0.479 (0.044)    | 0 (0.000) |     7.10 | Banjo, cacan, FinigaN, shield, soulfly |
-|           24 |     4377 | 2025-11-22 | Mousquetaires                             | W   | 0.299      | 0.344        | 0.007 (0.001)    | -                | -         |     4.02 | Banjo, FinigaN, paz, shield, soulfly   |
-|           23 |     4414 | 2025-11-21 | Leo Team                                  | L   | 0.292      | -            | -                | -                | -         |    -2.78 | Banjo, FinigaN, paz, shield, soulfly   |
-|           22 |     4449 | 2025-11-20 | The Glecs                                 | W   | 0.286      | -            | -                | -                | -         |     1.70 | Banjo, FinigaN, paz, shield, soulfly   |
-|           21 |     4691 | 2025-11-10 | CYBERSHOKE Esports                        | L   | 0.218      | -            | -                | -                | -         |    -0.41 | Banjo, FinigaN, paz, shield, soulfly   |
-|           20 |     4707 | 2025-11-09 | Ex-Flame Sharks                           | W   | 0.213      | -            | -                | -                | -         |     2.59 | Banjo, FinigaN, paz, shield, soulfly   |
-|           19 |     4768 | 2025-11-08 | Lavked                                    | W   | 0.205      | 0.384        | -                | 0.494 (0.039)    | -         |     4.11 | Banjo, FinigaN, paz, shield, soulfly   |
-|           18 |     4803 | 2025-11-07 | Bushido Wildcats                          | W   | 0.200      | -            | -                | -                | -         |     3.53 | Banjo, FinigaN, paz, shield, soulfly   |
-|           17 |     4929 | 2025-11-05 | 9BoomPro                                  | L   | 0.186      | -            | -                | -                | -         |    -4.66 | Banjo, FinigaN, paz, shield, soulfly   |
-|           16 |     4954 | 2025-11-04 | Copenhagen Wolves (American organization) | L   | 0.180      | -            | -                | -                | -         |    -4.18 | Banjo, FinigaN, paz, shield, soulfly   |
-|           15 |     4980 | 2025-11-03 | BASEMENT BOYS                             | W   | 0.174      | -            | -                | -                | -         |     1.19 | Banjo, FinigaN, paz, shield, soulfly   |
-|           14 |     4986 | 2025-11-03 | QUAZAR                                    | W   | 0.173      | -            | -                | -                | -         |     1.56 | Banjo, FinigaN, paz, shield, soulfly   |
-|           13 |     5041 | 2025-11-01 | NOVAQ                                     | W   | 0.160      | 0.384        | 0.022 (0.001)    | 0.524 (0.032)    | -         |     4.37 | Banjo, FinigaN, paz, shield, soulfly   |
-|           12 |     5048 | 2025-11-01 | JiJieHao                                  | W   | 0.159      | 0.384        | 0.025 (0.002)    | -                | -         |     4.57 | Banjo, FinigaN, paz, shield, soulfly   |
-|           11 |     5060 | 2025-10-31 | ALLINNERS                                 | W   | 0.154      | -            | -                | -                | -         |     1.83 | Banjo, FinigaN, paz, shield, soulfly   |
-|           10 |     5087 | 2025-10-30 | ALLINNERS                                 | W   | 0.146      | -            | -                | -                | -         |     1.75 | Banjo, FinigaN, paz, shield, soulfly   |
-|            9 |     5113 | 2025-10-29 | Mousquetaires                             | W   | 0.139      | -            | -                | -                | -         |     2.00 | Banjo, FinigaN, paz, shield, soulfly   |
-|            8 |     5124 | 2025-10-28 | The Last Resort                           | W   | 0.134      | -            | -                | -                | -         |     3.24 | Banjo, FinigaN, paz, shield, soulfly   |
-|            7 |     5186 | 2025-10-27 | ARCRED                                    | L   | 0.125      | -            | -                | -                | -         |    -0.11 | Banjo, FinigaN, paz, shield, soulfly   |
-|            6 |     5303 | 2025-10-25 | Oramond                                   | W   | 0.111      | 0.435        | 0.049 (0.002)    | -                | -         |     2.50 | Banjo, FinigaN, paz, shield, soulfly   |
-|            5 |     5384 | 2025-10-23 | VP.Prodigy                                | L   | 0.100      | -            | -                | -                | -         |    -0.35 | Banjo, FinigaN, paz, shield, soulfly   |
-|            4 |     5454 | 2025-10-21 | Sashi Esport                              | L   | 0.084      | -            | -                | -                | -         |    -0.09 | Banjo, FinigaN, paz, shield, soulfly   |
-|            3 |     5462 | 2025-10-20 | Copenhagen Wolves (American organization) | W   | 0.078      | -            | -                | -                | -         |     0.70 | Banjo, FinigaN, paz, shield, soulfly   |
-|            2 |     5543 | 2025-10-16 | RUBY                                      | W   | 0.053      | -            | -                | -                | -         |     0.64 | Banjo, FinigaN, paz, shield, soulfly   |
-|            1 |     5588 | 2025-10-15 | TNC Esports                               | W   | 0.046      | -            | -                | -                | -         |     1.17 | Banjo, FinigaN, paz, shield, soulfly   |
+|           38 |     2525 | 2026-02-15 | JiJieHao                                  | L   | 0.866      | -            | -                | -                | -         |    -3.74 | Banjo, FinigaN, paz, shield, soulfly   |
+|           37 |     2636 | 2026-02-13 | TNT                                       | L   | 0.853      | -            | -                | -                | -         |   -16.79 | Banjo, duggy, FinigaN, paz, soulfly    |
+|           36 |     3861 | 2025-12-18 | Oramond                                   | L   | 0.472      | -            | -                | -                | -         |    -3.63 | Banjo, FinigaN, paz, shield, soulfly   |
+|           35 |     3867 | 2025-12-17 | CYBERSHOKE Esports                        | W   | 0.467      | 0.384        | 0.031 (0.006)    | 0.556 (0.100)    | 0 (0.000) |    13.39 | Banjo, FinigaN, paz, shield, soulfly   |
+|           34 |     3891 | 2025-12-16 | Nemiga Gaming                             | W   | 0.458      | 0.384        | 0.137 (0.024)    | 0.947 (0.167)    | 0 (0.000) |    13.87 | Banjo, FinigaN, paz, shield, soulfly   |
+|           33 |     3953 | 2025-12-10 | Lavked                                    | W   | 0.419      | 0.384        | 0.007 (0.001)    | 0.495 (0.080)    | 0 (0.000) |     8.68 | Banjo, FinigaN, paz, shield, soulfly   |
+|           32 |     3965 | 2025-12-09 | FORZE Reload                              | W   | 0.413      | 0.384        | -                | 0.472 (0.075)    | 0 (0.000) |     8.13 | Banjo, FinigaN, paz, shield, soulfly   |
+|           31 |     4080 | 2025-12-04 | 9BoomPro                                  | W   | 0.381      | -            | -                | -                | 0 (0.000) |     1.99 | Banjo, FinigaN, paz, shield, soulfly   |
+|           30 |     4136 | 2025-12-01 | Nuclear TigeRES                           | L   | 0.360      | -            | -                | -                | -         |    -0.45 | Banjo, FinigaN, paz, shield, soulfly   |
+|           29 |     4309 | 2025-11-24 | MOUZ NXT                                  | W   | 0.314      | 0.299        | 0.037 (0.003)    | 1.000 (0.094)    | 0 (0.000) |     9.33 | Banjo, FinigaN, paz, shield, soulfly   |
+|           28 |     4314 | 2025-11-24 | The Last Resort                           | W   | 0.314      | 0.299        | 0.015 (0.001)    | 0.434 (0.041)    | 0 (0.000) |     6.97 | Banjo, FinigaN, paz, shield, soulfly   |
+|           27 |     4334 | 2025-11-24 | HAVU                                      | W   | 0.312      | 0.344        | -                | 0.569 (0.061)    | 0 (0.000) |     8.47 | Banjo, FinigaN, paz, shield, soulfly   |
+|           26 |     4339 | 2025-11-23 | Eternal Fire                              | W   | 0.308      | -            | -                | -                | 0 (0.000) |     3.50 | Banjo, cacan, FinigaN, shield, soulfly |
+|           25 |     4346 | 2025-11-23 | HYPERSPIRIT                               | W   | 0.307      | 0.299        | -                | 0.479 (0.044)    | 0 (0.000) |     7.12 | Banjo, cacan, FinigaN, shield, soulfly |
+|           24 |     4378 | 2025-11-22 | Mousquetaires                             | W   | 0.299      | 0.344        | 0.007 (0.001)    | -                | -         |     4.03 | Banjo, FinigaN, paz, shield, soulfly   |
+|           23 |     4415 | 2025-11-21 | Leo Team                                  | L   | 0.293      | -            | -                | -                | -         |    -2.78 | Banjo, FinigaN, paz, shield, soulfly   |
+|           22 |     4450 | 2025-11-20 | The Glecs                                 | W   | 0.287      | -            | -                | -                | -         |     1.71 | Banjo, FinigaN, paz, shield, soulfly   |
+|           21 |     4692 | 2025-11-10 | CYBERSHOKE Esports                        | L   | 0.218      | -            | -                | -                | -         |    -0.41 | Banjo, FinigaN, paz, shield, soulfly   |
+|           20 |     4708 | 2025-11-09 | Ex-Flame Sharks                           | W   | 0.213      | -            | -                | -                | -         |     2.60 | Banjo, FinigaN, paz, shield, soulfly   |
+|           19 |     4769 | 2025-11-08 | Lavked                                    | W   | 0.206      | 0.384        | -                | 0.495 (0.039)    | -         |     4.13 | Banjo, FinigaN, paz, shield, soulfly   |
+|           18 |     4804 | 2025-11-07 | Bushido Wildcats                          | W   | 0.201      | -            | -                | -                | -         |     3.55 | Banjo, FinigaN, paz, shield, soulfly   |
+|           17 |     4930 | 2025-11-05 | 9BoomPro                                  | L   | 0.187      | -            | -                | -                | -         |    -4.67 | Banjo, FinigaN, paz, shield, soulfly   |
+|           16 |     4955 | 2025-11-04 | Copenhagen Wolves (American organization) | L   | 0.181      | -            | -                | -                | -         |    -4.19 | Banjo, FinigaN, paz, shield, soulfly   |
+|           15 |     4981 | 2025-11-03 | BASEMENT BOYS                             | W   | 0.174      | -            | -                | -                | -         |     1.20 | Banjo, FinigaN, paz, shield, soulfly   |
+|           14 |     4987 | 2025-11-03 | QUAZAR                                    | W   | 0.173      | -            | -                | -                | -         |     1.56 | Banjo, FinigaN, paz, shield, soulfly   |
+|           13 |     5042 | 2025-11-01 | NOVAQ                                     | W   | 0.160      | 0.384        | 0.022 (0.001)    | 0.525 (0.032)    | -         |     4.39 | Banjo, FinigaN, paz, shield, soulfly   |
+|           12 |     5049 | 2025-11-01 | JiJieHao                                  | W   | 0.159      | 0.384        | 0.025 (0.002)    | -                | -         |     4.59 | Banjo, FinigaN, paz, shield, soulfly   |
+|           11 |     5061 | 2025-10-31 | ALLINNERS                                 | W   | 0.154      | -            | -                | -                | -         |     1.84 | Banjo, FinigaN, paz, shield, soulfly   |
+|           10 |     5088 | 2025-10-30 | ALLINNERS                                 | W   | 0.147      | -            | -                | -                | -         |     1.76 | Banjo, FinigaN, paz, shield, soulfly   |
+|            9 |     5114 | 2025-10-29 | Mousquetaires                             | W   | 0.139      | -            | -                | -                | -         |     2.01 | Banjo, FinigaN, paz, shield, soulfly   |
+|            8 |     5125 | 2025-10-28 | The Last Resort                           | W   | 0.134      | 0.344        | 0.015 (0.001)    | -                | -         |     3.30 | Banjo, FinigaN, paz, shield, soulfly   |
+|            7 |     5187 | 2025-10-27 | ARCRED                                    | L   | 0.126      | -            | -                | -                | -         |    -0.11 | Banjo, FinigaN, paz, shield, soulfly   |
+|            6 |     5304 | 2025-10-25 | Oramond                                   | W   | 0.111      | 0.435        | 0.049 (0.002)    | -                | -         |     2.51 | Banjo, FinigaN, paz, shield, soulfly   |
+|            5 |     5385 | 2025-10-23 | VP.Prodigy                                | L   | 0.101      | -            | -                | -                | -         |    -0.35 | Banjo, FinigaN, paz, shield, soulfly   |
+|            4 |     5455 | 2025-10-21 | Sashi Esport                              | L   | 0.085      | -            | -                | -                | -         |    -0.09 | Banjo, FinigaN, paz, shield, soulfly   |
+|            3 |     5463 | 2025-10-20 | Copenhagen Wolves (American organization) | W   | 0.078      | -            | -                | -                | -         |     0.71 | Banjo, FinigaN, paz, shield, soulfly   |
+|            2 |     5544 | 2025-10-16 | RUBY                                      | W   | 0.054      | -            | -                | -                | -         |     0.65 | Banjo, FinigaN, paz, shield, soulfly   |
+|            1 |     5589 | 2025-10-15 | VRSoholics                                | W   | 0.046      | -            | -                | -                | -         |     0.20 | Banjo, FinigaN, paz, shield, soulfly   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,732.76)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($2,737.06)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-12-18 |      0.473 | $3,000.00      | $1,418.65       |
-| 2025-11-24 |      0.314 | $3,000.00      | $941.56         |
-| 2025-11-09 |      0.213 | $1,750.00      | $372.54         |
+| 2025-12-18 |      0.473 | $3,000.00      | $1,420.31       |
+| 2025-11-24 |      0.314 | $3,000.00      | $943.23         |
+| 2025-11-09 |      0.213 | $1,750.00      | $373.52         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

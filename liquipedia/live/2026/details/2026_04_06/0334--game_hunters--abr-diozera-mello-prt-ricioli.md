@@ -8,7 +8,7 @@ Regional Rank: [95]( ../../standings_americas_2026_04_06.md)<br />
 <br />
 Final Rank Value:  483.7<br />
 <br />
-Final Rank Value (483.7) = Starting Rank Value (481.6) + Head To Head Adjustments (2.0)<br />
+Final Rank Value (483.7) = Starting Rank Value (481.7) + Head To Head Adjustments (2.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.042<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 481.6
-- 400 + ( ( 0.042 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 481.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 481.7
+- 400 + ( ( 0.042 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 481.7
 
 
 #### Factors<br />
@@ -40,22 +40,22 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |     5208 | 2025-10-26 | DashSkins     | L   | 0.121      | -            | -                | -                | -         |    -0.21 | abr, prt, RICIOLI, s1cko, spinnie |
-|            8 |     5264 | 2025-10-25 | MAGICOS       | W   | 0.115      | 0.363        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | abr, prt, RICIOLI, s1cko, spinnie |
-|            7 |     5325 | 2025-10-24 | Keyd Stars    | L   | 0.108      | -            | -                | -                | -         |    -0.65 | abr, prt, RICIOLI, s1cko, spinnie |
-|            6 |     5381 | 2025-10-23 | Vasco eSports | W   | 0.101      | 0.363        | 0.002 (0.000)    | 0.272 (0.010)    | 0 (0.000) |     2.54 | abr, prt, RICIOLI, s1cko, spinnie |
-|            5 |     5608 | 2025-10-14 | MIBR Academy  | L   | 0.041      | -            | -                | -                | -         |    -0.51 | abr, diozera, mello, prt, RICIOLI |
-|            4 |     5643 | 2025-10-13 | Fuego eSports | L   | 0.034      | -            | -                | -                | -         |    -0.57 | abr, diozera, mello, prt, RICIOLI |
-|            3 |     5669 | 2025-10-11 | FOLHA AMARELA | L   | 0.021      | -            | -                | -                | -         |    -0.11 | abr, diozera, mello, prt, RICIOLI |
-|            2 |     5758 | 2025-10-09 | Vasco eSports | W   | 0.006      | 0.371        | 0.002 (0.000)    | 0.272 (0.001)    | 0 (0.000) |     0.16 | abr, diozera, mello, prt, RICIOLI |
-|            1 |     5794 | 2025-10-08 | UNO MILLE     | L   | 0.001      | -            | -                | -                | -         |    -0.01 | abr, diozera, mello, prt, RICIOLI |
+|            9 |     5209 | 2025-10-26 | DashSkins     | L   | 0.122      | -            | -                | -                | -         |    -0.21 | abr, prt, RICIOLI, s1cko, spinnie |
+|            8 |     5265 | 2025-10-25 | MAGICOS       | W   | 0.115      | 0.363        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.40 | abr, prt, RICIOLI, s1cko, spinnie |
+|            7 |     5326 | 2025-10-24 | Keyd Stars    | L   | 0.108      | -            | -                | -                | -         |    -0.66 | abr, prt, RICIOLI, s1cko, spinnie |
+|            6 |     5382 | 2025-10-23 | Vasco eSports | W   | 0.102      | 0.363        | 0.002 (0.000)    | 0.272 (0.010)    | 0 (0.000) |     2.56 | abr, prt, RICIOLI, s1cko, spinnie |
+|            5 |     5609 | 2025-10-14 | MIBR Academy  | L   | 0.042      | -            | -                | -                | -         |    -0.52 | abr, diozera, mello, prt, RICIOLI |
+|            4 |     5644 | 2025-10-13 | Fuego eSports | L   | 0.034      | -            | -                | -                | -         |    -0.58 | abr, diozera, mello, prt, RICIOLI |
+|            3 |     5670 | 2025-10-11 | FOLHA AMARELA | L   | 0.021      | -            | -                | -                | -         |    -0.12 | abr, diozera, mello, prt, RICIOLI |
+|            2 |     5759 | 2025-10-09 | Vasco eSports | W   | 0.007      | 0.371        | 0.002 (0.000)    | 0.272 (0.001)    | 0 (0.000) |     0.18 | abr, diozera, mello, prt, RICIOLI |
+|            1 |     5795 | 2025-10-08 | UNO MILLE     | L   | 0.002      | -            | -                | -                | -         |    -0.01 | abr, diozera, mello, prt, RICIOLI |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

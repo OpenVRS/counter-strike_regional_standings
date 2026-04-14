@@ -6,9 +6,9 @@ Global Rank: [357](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [100]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  403.0<br />
+Final Rank Value:  403.1<br />
 <br />
-Final Rank Value (403.0) = Starting Rank Value (410.1) + Head To Head Adjustments (-7.1)<br />
+Final Rank Value (403.1) = Starting Rank Value (410.1) + Head To Head Adjustments (-7.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |      433 | 2026-03-28 | Wanted Goons                 | L   | 1.000      | -            | -                | -                | -         |    -7.50 | borb, JAKEY, laea, terrk1s, Yaboduulio |
+|            5 |      433 | 2026-03-28 | Wanted Goons                 | L   | 1.000      | -            | -                | -                | -         |    -7.51 | borb, JAKEY, laea, terrk1s, Yaboduulio |
 |            4 |      449 | 2026-03-28 | Life's A Game                | L   | 1.000      | -            | -                | -                | -         |    -1.45 | borb, JAKEY, laea, terrk1s, Yaboduulio |
-|            3 |     4738 | 2025-11-08 | FlyQuest RED                 | L   | 0.208      | -            | -                | -                | -         |    -1.24 | borb, JAKEY, leae, terrk1s, Yaboduulio |
-|            2 |     4750 | 2025-11-08 | AURA Esports (American team) | W   | 0.207      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.207) |     3.15 | borb, JAKEY, leae, terrk1s, Yaboduulio |
-|            1 |     4760 | 2025-11-08 | BC.Game Esports              | L   | 0.206      | -            | -                | -                | -         |    -0.04 | borb, JAKEY, leae, terrk1s, Yaboduulio |
+|            3 |     4739 | 2025-11-08 | FlyQuest RED                 | L   | 0.208      | -            | -                | -                | -         |    -1.24 | borb, JAKEY, leae, terrk1s, Yaboduulio |
+|            2 |     4751 | 2025-11-08 | AURA Esports (American team) | W   | 0.207      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.207) |     3.16 | borb, JAKEY, leae, terrk1s, Yaboduulio |
+|            1 |     4761 | 2025-11-08 | BC.Game Esports              | L   | 0.207      | -            | -                | -                | -         |    -0.04 | borb, JAKEY, leae, terrk1s, Yaboduulio |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

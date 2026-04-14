@@ -6,9 +6,9 @@ Global Rank: [243](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [29]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  665.6<br />
+Final Rank Value:  665.5<br />
 <br />
-Final Rank Value (665.6) = Starting Rank Value (649.5) + Head To Head Adjustments (16.1)<br />
+Final Rank Value (665.5) = Starting Rank Value (649.4) + Head To Head Adjustments (16.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.128<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 649.5
-- 400 + ( ( 0.128 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 649.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 649.4
+- 400 + ( ( 0.128 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 649.4
 
 
 #### Factors<br />
@@ -40,34 +40,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     2247 | 2026-02-20 | The QUBE Esports          | L   | 0.899      | -            | -                | -                | -         |    -7.79 | Anasasis, Bhavi, borosto, clouda, EmbeR |
-|           12 |     2299 | 2026-02-19 | BMZ                       | W   | 0.893      | 0.333        | 0.012 (0.004)    | 0.275 (0.082)    | 0 (0.000) |    24.42 | Anasasis, Bhavi, borosto, clouda, EmbeR |
-|           11 |     2356 | 2026-02-18 | Deep Cross Gaming         | W   | 0.886      | 0.333        | 0.002 (0.001)    | 0.013 (0.004)    | 0 (0.000) |    12.58 | Anasasis, Bhavi, borosto, clouda, EmbeR |
-|           10 |     2417 | 2026-02-17 | Change The Game           | L   | 0.879      | -            | -                | -                | -         |    -5.32 | Anasasis, Bhavi, borosto, clouda, EmbeR |
-|            9 |     3206 | 2026-01-24 | Legion (Pakistani team)   | L   | 0.724      | -            | -                | -                | -         |   -10.40 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
-|            8 |     3207 | 2026-01-24 | Flashback Gaming          | W   | 0.724      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.49 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
-|            7 |     3797 | 2025-12-20 | Legion (Pakistani team)   | W   | 0.491      | 0.262        | 0.003 (0.000)    | 0.241 (0.031)    | 0 (0.000) |     8.54 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
-|            6 |     3798 | 2025-12-20 | WahWah                    | W   | 0.490      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.23 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
-|            5 |     4170 | 2025-11-29 | Legion (Pakistani team)   | L   | 0.350      | -            | -                | -                | -         |    -5.06 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
-|            4 |     4767 | 2025-11-08 | Team Unitronic            | L   | 0.205      | -            | -                | -                | -         |    -4.52 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
-|            3 |     4783 | 2025-11-07 | BIG                       | L   | 0.204      | -            | -                | -                | -         |    -2.40 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
-|            2 |     5356 | 2025-10-24 | Just Swing (Chinese team) | L   | 0.106      | -            | -                | -                | -         |    -1.23 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
-|            1 |     5399 | 2025-10-23 | Morningstar               | L   | 0.099      | -            | -                | -                | -         |    -0.40 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
+|           13 |     2247 | 2026-02-20 | The QUBE Esports          | L   | 0.900      | -            | -                | -                | -         |    -7.80 | Anasasis, Bhavi, borosto, clouda, EmbeR |
+|           12 |     2299 | 2026-02-19 | BMZ                       | W   | 0.893      | 0.333        | 0.012 (0.004)    | 0.275 (0.082)    | 0 (0.000) |    24.44 | Anasasis, Bhavi, borosto, clouda, EmbeR |
+|           11 |     2356 | 2026-02-18 | Deep Cross Gaming         | W   | 0.887      | 0.333        | 0.002 (0.001)    | 0.013 (0.004)    | 0 (0.000) |    12.59 | Anasasis, Bhavi, borosto, clouda, EmbeR |
+|           10 |     2418 | 2026-02-17 | Change The Game           | L   | 0.880      | -            | -                | -                | -         |    -5.33 | Anasasis, Bhavi, borosto, clouda, EmbeR |
+|            9 |     3207 | 2026-01-24 | Legion (Pakistani team)   | L   | 0.725      | -            | -                | -                | -         |   -10.40 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
+|            8 |     3208 | 2026-01-24 | Flashback Gaming          | W   | 0.724      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.50 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
+|            7 |     3798 | 2025-12-20 | Legion (Pakistani team)   | W   | 0.491      | 0.262        | 0.003 (0.000)    | 0.241 (0.031)    | 0 (0.000) |     8.55 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
+|            6 |     3799 | 2025-12-20 | WahWah                    | W   | 0.491      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.24 | Anasasis, Bhavi, borosto, EmbeR, Ph1NNN |
+|            5 |     4171 | 2025-11-29 | Legion (Pakistani team)   | L   | 0.351      | -            | -                | -                | -         |    -5.07 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
+|            4 |     4768 | 2025-11-08 | Team Unitronic            | L   | 0.206      | -            | -                | -                | -         |    -4.54 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
+|            3 |     4784 | 2025-11-07 | BIG                       | L   | 0.204      | -            | -                | -                | -         |    -2.41 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
+|            2 |     5357 | 2025-10-24 | Just Swing (Chinese team) | L   | 0.106      | -            | -                | -                | -         |    -1.24 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
+|            1 |     5400 | 2025-10-23 | Morningstar               | L   | 0.100      | -            | -                | -                | -         |    -0.40 | Benzene, Bhavi, clouda, EmbeR, reV3nnnn |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($852.94)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($853.77)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-01-24 |      0.724 | $500.00        | $362.11         |
-| 2025-12-20 |      0.491 | $1,000.00      | $490.82         |
+| 2026-01-24 |      0.725 | $500.00        | $362.39         |
+| 2025-12-20 |      0.491 | $1,000.00      | $491.38         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

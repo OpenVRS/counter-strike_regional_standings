@@ -6,9 +6,9 @@ Global Rank: [170](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [117]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  818.7<br />
+Final Rank Value:  819.0<br />
 <br />
-Final Rank Value (818.7) = Starting Rank Value (740.8) + Head To Head Adjustments (77.9)<br />
+Final Rank Value (819.0) = Starting Rank Value (740.8) + Head To Head Adjustments (78.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -34,78 +34,78 @@ Note:<br />
 - Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
 
 - A team offers ownNetwork for other teams to collect for their network
-- Own Network: 0.193
+- Own Network: 0.194
 <span id="table1"></span><br />
 
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |     2461 | 2026-02-16 | ALGO Esports                              | L   | 0.873      | -            | -                | -                | -         |    -7.15 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           46 |     2520 | 2026-02-15 | Team Nemesis                              | W   | 0.866      | 0.384        | 0.004 (0.001)    | -                | 0 (0.000) |    10.38 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           45 |     2558 | 2026-02-14 | Leo Team                                  | L   | 0.860      | -            | -                | -                | -         |   -10.23 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           44 |     3109 | 2026-01-29 | FAVBET Team                               | L   | 0.752      | -            | -                | -                | -         |    -7.00 | CeRq, CYPHER, hampus, pr1metapz, volt  |
-|           43 |     3147 | 2026-01-27 | Metizport                                 | L   | 0.740      | -            | -                | -                | -         |    -4.66 | CeRq, CYPHER, hampus, pr1metapz, volt  |
-|           42 |     3178 | 2026-01-26 | Magic (Russian team)                      | L   | 0.731      | -            | -                | -                | -         |    -1.88 | CeRq, CYPHER, hampus, pr1metapz, volt  |
-|           41 |     3902 | 2025-12-14 | Magic (Russian team)                      | L   | 0.445      | -            | -                | -                | -         |    -1.33 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           40 |     3913 | 2025-12-13 | CYBERSHOKE Esports                        | W   | 0.439      | 0.435        | 0.031 (0.006)    | 0.556 (0.106)    | 0 (0.000) |    12.61 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           39 |     3931 | 2025-12-12 | OG                                        | W   | 0.432      | 0.435        | 0.024 (0.004)    | 0.311 (0.058)    | 0 (0.000) |    12.52 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           38 |     3950 | 2025-12-10 | Sashi Esport                              | W   | 0.420      | 0.435        | 0.015 (0.003)    | 0.631 (0.115)    | 0 (0.000) |    12.48 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           37 |     3991 | 2025-12-08 | Partizan Esports                          | W   | 0.405      | -            | -                | -                | 0 (0.000) |     2.07 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           36 |     4009 | 2025-12-07 | Johnny Speeds                             | L   | 0.399      | -            | -                | -                | -         |    -0.56 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           35 |     4012 | 2025-12-07 | Johnny Speeds                             | L   | 0.398      | -            | -                | -                | -         |    -0.56 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           34 |     4028 | 2025-12-06 | ECSTATIC                                  | L   | 0.393      | -            | -                | -                | -         |    -0.40 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           33 |     4078 | 2025-12-04 | BASEMENT BOYS                             | W   | 0.380      | 0.435        | -                | 0.338 (0.056)    | 0 (0.000) |     6.48 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           32 |     4102 | 2025-12-03 | Lavked                                    | W   | 0.373      | 0.371        | 0.007 (0.001)    | 0.494 (0.068)    | 0 (0.000) |     7.82 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
-|           31 |     4125 | 2025-12-02 | Sangal Esports                            | L   | 0.365      | -            | -                | -                | -         |    -4.17 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           30 |     4201 | 2025-11-29 | Monte                                     | L   | 0.346      | -            | -                | -                | -         |    -0.21 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           29 |     4347 | 2025-11-23 | AaB esport                                | W   | 0.306      | -            | -                | -                | 0 (0.000) |     3.41 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           28 |     4361 | 2025-11-22 | FAVBET Team                               | L   | 0.300      | -            | -                | -                | -         |    -2.88 | CeRq, hampus, kRaSnaL, Rainwaker, volt |
-|           27 |     4401 | 2025-11-21 | HEROIC                                    | L   | 0.294      | -            | -                | -                | -         |    -0.11 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           26 |     4410 | 2025-11-21 | FORZE Reload                              | L   | 0.293      | -            | -                | -                | -         |    -3.92 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           25 |     4447 | 2025-11-20 | Copenhagen Wolves (American organization) | W   | 0.286      | -            | -                | -                | 0 (0.000) |     2.31 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           24 |     4486 | 2025-11-19 | Tung Tung Sahur                           | W   | 0.279      | 0.435        | 0.013 (0.002)    | -                | 0 (0.000) |     5.04 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           23 |     4492 | 2025-11-18 | 33                                        | W   | 0.274      | 0.435        | 0.059 (0.007)    | 0.731 (0.087)    | -         |     8.32 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           22 |     4506 | 2025-11-17 | Ex-RUBY                                   | W   | 0.266      | 0.435        | 0.065 (0.007)    | 1.000 (0.116)    | -         |     6.62 | CeRq, CYPHER, hampus, Rainwaker, volt  |
-|           21 |     4542 | 2025-11-15 | Betclic Apogee Esports                    | W   | 0.254      | -            | -                | -                | -         |     1.40 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           20 |     4546 | 2025-11-15 | Leo Team                                  | L   | 0.253      | -            | -                | -                | -         |    -2.65 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           19 |     4585 | 2025-11-13 | Lavked                                    | W   | 0.240      | 0.435        | -                | 0.494 (0.052)    | -         |     4.65 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           18 |     4597 | 2025-11-13 | Monte                                     | L   | 0.239      | -            | -                | -                | -         |    -0.13 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           17 |     4617 | 2025-11-12 | NOVAQ                                     | W   | 0.234      | 0.384        | 0.022 (0.002)    | 0.524 (0.047)    | -         |     6.34 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           16 |     4623 | 2025-11-12 | CYBERSHOKE Esports                        | L   | 0.233      | -            | -                | -                | -         |    -0.46 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           15 |     4632 | 2025-11-12 | Nuclear TigeRES                           | L   | 0.232      | -            | -                | -                | -         |    -0.24 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           14 |     4654 | 2025-11-11 | K27                                       | L   | 0.227      | -            | -                | -                | -         |    -0.11 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           13 |     4656 | 2025-11-11 | 9BoomPro                                  | W   | 0.226      | -            | -                | -                | -         |     1.42 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           12 |     4681 | 2025-11-10 | FORZE Reload                              | W   | 0.220      | -            | -                | -                | -         |     4.30 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           11 |     4766 | 2025-11-08 | Betera Esports                            | L   | 0.206      | -            | -                | -                | -         |    -3.91 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|           10 |     4856 | 2025-11-07 | ECSTATIC                                  | W   | 0.199      | 0.435        | 0.104 (0.009)    | 0.643 (0.056)    | -         |     6.11 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            9 |     4927 | 2025-11-05 | Lavked                                    | W   | 0.186      | -            | -                | -                | -         |     3.71 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            8 |     5038 | 2025-11-01 | ALLINNERS                                 | W   | 0.160      | -            | -                | -                | -         |     1.84 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            7 |     5085 | 2025-10-30 | The Last Resort                           | W   | 0.146      | -            | -                | -                | -         |     3.47 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            6 |     5111 | 2025-10-29 | Team Nemesis                              | L   | 0.139      | -            | -                | -                | -         |    -0.08 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            5 |     5128 | 2025-10-28 | SINNERS Esports                           | L   | 0.134      | -            | -                | -                | -         |    -0.05 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            4 |     5220 | 2025-10-26 | Nexus Gaming                              | W   | 0.120      | -            | -                | -                | -         |     3.34 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            3 |     5343 | 2025-10-24 | The Last Resort                           | W   | 0.107      | -            | -                | -                | -         |     2.60 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            2 |     5515 | 2025-10-17 | Nuclear TigeRES                           | L   | 0.059      | -            | -                | -                | -         |    -0.05 | CeRq, hampus, Rainwaker, REDSTAR, volt |
-|            1 |     5592 | 2025-10-15 | ARCRED                                    | W   | 0.045      | -            | -                | -                | -         |     1.38 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           47 |     2462 | 2026-02-16 | ALGO Esports                              | L   | 0.873      | -            | -                | -                | -         |    -7.16 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           46 |     2521 | 2026-02-15 | Team Nemesis                              | W   | 0.866      | 0.384        | 0.004 (0.001)    | -                | 0 (0.000) |    10.38 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           45 |     2559 | 2026-02-14 | Leo Team                                  | L   | 0.861      | -            | -                | -                | -         |   -10.25 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           44 |     3110 | 2026-01-29 | FAVBET Team                               | L   | 0.753      | -            | -                | -                | -         |    -6.94 | CeRq, CYPHER, hampus, pr1metapz, volt  |
+|           43 |     3148 | 2026-01-27 | Metizport                                 | L   | 0.740      | -            | -                | -                | -         |    -4.67 | CeRq, CYPHER, hampus, pr1metapz, volt  |
+|           42 |     3179 | 2026-01-26 | Magic (Russian team)                      | L   | 0.732      | -            | -                | -                | -         |    -1.88 | CeRq, CYPHER, hampus, pr1metapz, volt  |
+|           41 |     3903 | 2025-12-14 | Magic (Russian team)                      | L   | 0.446      | -            | -                | -                | -         |    -1.33 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           40 |     3914 | 2025-12-13 | CYBERSHOKE Esports                        | W   | 0.439      | 0.435        | 0.031 (0.006)    | 0.556 (0.106)    | 0 (0.000) |    12.62 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           39 |     3932 | 2025-12-12 | OG                                        | W   | 0.433      | 0.435        | 0.024 (0.004)    | 0.311 (0.058)    | 0 (0.000) |    12.53 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           38 |     3951 | 2025-12-10 | Sashi Esport                              | W   | 0.420      | 0.435        | 0.015 (0.003)    | 0.631 (0.115)    | 0 (0.000) |    12.50 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           37 |     3992 | 2025-12-08 | Partizan Esports                          | W   | 0.406      | -            | -                | -                | 0 (0.000) |     2.07 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           36 |     4010 | 2025-12-07 | Johnny Speeds                             | L   | 0.399      | -            | -                | -                | -         |    -0.56 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           35 |     4013 | 2025-12-07 | Johnny Speeds                             | L   | 0.398      | -            | -                | -                | -         |    -0.56 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           34 |     4029 | 2025-12-06 | ECSTATIC                                  | L   | 0.394      | -            | -                | -                | -         |    -0.40 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           33 |     4079 | 2025-12-04 | BASEMENT BOYS                             | W   | 0.381      | 0.435        | -                | 0.338 (0.056)    | 0 (0.000) |     6.48 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           32 |     4103 | 2025-12-03 | Lavked                                    | W   | 0.373      | 0.371        | 0.007 (0.001)    | 0.495 (0.068)    | 0 (0.000) |     7.83 | CeRq, CYPHER, kRaSnaL, Rainwaker, volt |
+|           31 |     4126 | 2025-12-02 | Sangal Esports                            | L   | 0.365      | -            | -                | -                | -         |    -4.18 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           30 |     4202 | 2025-11-29 | Monte                                     | L   | 0.346      | -            | -                | -                | -         |    -0.21 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           29 |     4348 | 2025-11-23 | AaB esport                                | W   | 0.307      | -            | -                | -                | 0 (0.000) |     3.42 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           28 |     4362 | 2025-11-22 | FAVBET Team                               | L   | 0.301      | -            | -                | -                | -         |    -2.89 | CeRq, hampus, kRaSnaL, Rainwaker, volt |
+|           27 |     4402 | 2025-11-21 | HEROIC                                    | L   | 0.294      | -            | -                | -                | -         |    -0.11 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           26 |     4411 | 2025-11-21 | FORZE Reload                              | L   | 0.293      | -            | -                | -                | -         |    -3.92 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           25 |     4448 | 2025-11-20 | Copenhagen Wolves (American organization) | W   | 0.287      | -            | -                | -                | 0 (0.000) |     2.31 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           24 |     4487 | 2025-11-19 | Tung Tung Sahur                           | W   | 0.279      | 0.435        | 0.013 (0.002)    | -                | 0 (0.000) |     5.05 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           23 |     4493 | 2025-11-18 | 33                                        | W   | 0.274      | 0.435        | 0.059 (0.007)    | 0.731 (0.087)    | -         |     8.34 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           22 |     4507 | 2025-11-17 | Ex-RUBY                                   | W   | 0.267      | 0.435        | 0.064 (0.007)    | 1.000 (0.116)    | -         |     6.63 | CeRq, CYPHER, hampus, Rainwaker, volt  |
+|           21 |     4543 | 2025-11-15 | Betclic Apogee Esports                    | W   | 0.254      | -            | -                | -                | -         |     1.40 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           20 |     4547 | 2025-11-15 | Leo Team                                  | L   | 0.253      | -            | -                | -                | -         |    -2.66 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           19 |     4586 | 2025-11-13 | Lavked                                    | W   | 0.241      | 0.435        | -                | 0.495 (0.052)    | -         |     4.66 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           18 |     4598 | 2025-11-13 | Monte                                     | L   | 0.239      | -            | -                | -                | -         |    -0.13 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           17 |     4618 | 2025-11-12 | NOVAQ                                     | W   | 0.234      | 0.384        | 0.022 (0.002)    | 0.525 (0.047)    | -         |     6.36 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           16 |     4624 | 2025-11-12 | CYBERSHOKE Esports                        | L   | 0.234      | -            | -                | -                | -         |    -0.46 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           15 |     4633 | 2025-11-12 | Nuclear TigeRES                           | L   | 0.233      | -            | -                | -                | -         |    -0.24 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           14 |     4655 | 2025-11-11 | K27                                       | L   | 0.228      | -            | -                | -                | -         |    -0.11 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           13 |     4657 | 2025-11-11 | 9BoomPro                                  | W   | 0.227      | -            | -                | -                | -         |     1.42 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           12 |     4682 | 2025-11-10 | FORZE Reload                              | W   | 0.221      | -            | -                | -                | -         |     4.31 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           11 |     4767 | 2025-11-08 | Betera Esports                            | L   | 0.206      | -            | -                | -                | -         |    -3.92 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|           10 |     4857 | 2025-11-07 | ECSTATIC                                  | W   | 0.199      | 0.435        | 0.103 (0.009)    | 0.643 (0.056)    | -         |     6.13 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            9 |     4928 | 2025-11-05 | Lavked                                    | W   | 0.187      | -            | -                | -                | -         |     3.72 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            8 |     5039 | 2025-11-01 | ALLINNERS                                 | W   | 0.160      | -            | -                | -                | -         |     1.85 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            7 |     5086 | 2025-10-30 | The Last Resort                           | W   | 0.147      | -            | -                | -                | -         |     3.53 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            6 |     5112 | 2025-10-29 | Team Nemesis                              | L   | 0.139      | -            | -                | -                | -         |    -0.08 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            5 |     5129 | 2025-10-28 | SINNERS Esports                           | L   | 0.134      | -            | -                | -                | -         |    -0.05 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            4 |     5221 | 2025-10-26 | Nexus Gaming                              | W   | 0.121      | -            | -                | -                | -         |     3.35 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            3 |     5344 | 2025-10-24 | The Last Resort                           | W   | 0.107      | -            | -                | -                | -         |     2.65 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            2 |     5516 | 2025-10-17 | Nuclear TigeRES                           | L   | 0.060      | -            | -                | -                | -         |    -0.05 | CeRq, hampus, Rainwaker, REDSTAR, volt |
+|            1 |     5593 | 2025-10-15 | ARCRED                                    | W   | 0.046      | -            | -                | -                | -         |     1.40 | CeRq, hampus, Rainwaker, REDSTAR, volt |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,767.21)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($3,773.73)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-12-14 |      0.447 | $5,000.00      | $2,235.25       |
-| 2025-11-23 |      0.307 | $500.00        | $153.39         |
-| 2025-11-16 |      0.260 | $750.00        | $195.29         |
-| 2025-11-13 |      0.240 | $3,000.00      | $719.27         |
-| 2025-11-09 |      0.214 | $2,000.00      | $427.15         |
-| 2025-10-19 |      0.074 | $500.00        | $36.86          |
+| 2025-12-14 |      0.448 | $5,000.00      | $2,238.02       |
+| 2025-11-23 |      0.307 | $500.00        | $153.66         |
+| 2025-11-16 |      0.261 | $750.00        | $195.70         |
+| 2025-11-13 |      0.240 | $3,000.00      | $720.94         |
+| 2025-11-09 |      0.214 | $2,000.00      | $428.27         |
+| 2025-10-19 |      0.074 | $500.00        | $37.14          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

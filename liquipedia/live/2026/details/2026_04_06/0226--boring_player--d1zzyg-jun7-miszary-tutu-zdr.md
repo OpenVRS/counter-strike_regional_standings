@@ -6,9 +6,9 @@ Global Rank: [226](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [28]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  700.4<br />
+Final Rank Value:  700.3<br />
 <br />
-Final Rank Value (700.4) = Starting Rank Value (682.2) + Head To Head Adjustments (18.2)<br />
+Final Rank Value (700.3) = Starting Rank Value (682.2) + Head To Head Adjustments (18.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,29 +42,29 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           18 |      215 | 2026-04-01 | Just Swing (Chinese team)  | L   | 1.000      | -            | -                | -                | -         |   -15.39 | D1zzyg, Jun7, Miszary, tutu, zdr |
 |           17 |      299 | 2026-03-31 | Rare Atom                  | L   | 1.000      | -            | -                | -                | -         |    -2.71 | D1zzyg, Jun7, Miszary, tutu, zdr |
-|           16 |      627 | 2026-03-24 | The QUBE Esports           | L   | 1.000      | -            | -                | -                | -         |    -8.29 | D1zzyg, Jun7, Miszary, tutu, zdr |
+|           16 |      627 | 2026-03-24 | The QUBE Esports           | L   | 1.000      | -            | -                | -                | -         |    -8.30 | D1zzyg, Jun7, Miszary, tutu, zdr |
 |           15 |      704 | 2026-03-23 | FengDa Gaming              | L   | 1.000      | -            | -                | -                | -         |   -12.67 | D1zzyg, Jun7, Miszary, tutu, zdr |
 |           14 |      811 | 2026-03-21 | Alter Ego                  | W   | 1.000      | 0.333        | 0.003 (0.001)    | 0.214 (0.071)    | 0 (0.000) |    19.26 | D1zzyg, Jun7, Miszary, tutu, zdr |
 |           13 |      869 | 2026-03-20 | Legion (Pakistani team)    | W   | 1.000      | 0.333        | 0.003 (0.001)    | 0.241 (0.080)    | 0 (0.000) |    17.04 | D1zzyg, Jun7, Miszary, tutu, zdr |
-|           12 |     2198 | 2026-02-21 | The QUBE Esports           | L   | 0.906      | -            | -                | -                | -         |    -8.83 | D1zzyg, karl, Miszary, tutu, zdr |
-|           11 |     2246 | 2026-02-20 | Morningstar                | L   | 0.899      | -            | -                | -                | -         |    -3.98 | D1zzyg, karl, Miszary, tutu, zdr |
-|           10 |     2354 | 2026-02-18 | Change The Game            | W   | 0.886      | 0.333        | 0.010 (0.003)    | 0.252 (0.074)    | 0 (0.000) |    20.62 | D1zzyg, karl, Miszary, tutu, zdr |
-|            9 |     2418 | 2026-02-17 | Deep Cross Gaming          | W   | 0.879      | 0.333        | 0.002 (0.001)    | 0.013 (0.004)    | 0 (0.000) |    11.14 | D1zzyg, karl, Miszary, tutu, zdr |
-|            8 |     4577 | 2025-11-13 | 9INE                       | L   | 0.243      | -            | -                | -                | -         |    -0.17 | Jun7, karl, Miszary, tutu, zdr   |
-|            7 |     4725 | 2025-11-08 | FengDa Gaming              | W   | 0.211      | 0.380        | 0.001 (0.000)    | 0.024 (0.002)    | 1 (0.211) |     2.94 | Jun7, karl, Miszary, tutu, zdr   |
-|            6 |     4884 | 2025-11-06 | Unsettled Resentment       | W   | 0.197      | 0.380        | 0.000 (0.000)    | 0.061 (0.005)    | 1 (0.197) |     1.07 | Jun7, karl, Miszary, tutu, zdr   |
-|            5 |     4939 | 2025-11-05 | Last Bullet (Chinese team) | L   | 0.185      | -            | -                | -                | -         |    -1.93 | Jun7, karl, Miszary, tutu, zdr   |
-|            4 |     5240 | 2025-10-26 | The QUBE Esports           | L   | 0.119      | -            | -                | -                | -         |    -1.12 | Jun7, karl, Miszary, tutu, zdr   |
-|            3 |     5294 | 2025-10-25 | Last Bullet (Chinese team) | W   | 0.112      | 0.333        | 0.008 (0.000)    | 0.185 (0.007)    | 0 (0.000) |     2.38 | Jun7, karl, Miszary, tutu, zdr   |
-|            2 |     5358 | 2025-10-24 | Nomads (Mongolian team)    | W   | 0.106      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.57 | Jun7, karl, Miszary, tutu, zdr   |
-|            1 |     5403 | 2025-10-23 | FengDa Gaming              | L   | 0.099      | -            | -                | -                | -         |    -1.76 | Jun7, karl, Miszary, tutu, zdr   |
+|           12 |     2198 | 2026-02-21 | The QUBE Esports           | L   | 0.906      | -            | -                | -                | -         |    -8.84 | D1zzyg, karl, Miszary, tutu, zdr |
+|           11 |     2246 | 2026-02-20 | Morningstar                | L   | 0.900      | -            | -                | -                | -         |    -3.98 | D1zzyg, karl, Miszary, tutu, zdr |
+|           10 |     2354 | 2026-02-18 | Change The Game            | W   | 0.887      | 0.333        | 0.010 (0.003)    | 0.252 (0.074)    | 0 (0.000) |    20.63 | D1zzyg, karl, Miszary, tutu, zdr |
+|            9 |     2419 | 2026-02-17 | Deep Cross Gaming          | W   | 0.880      | 0.333        | 0.002 (0.001)    | 0.013 (0.004)    | 0 (0.000) |    11.15 | D1zzyg, karl, Miszary, tutu, zdr |
+|            8 |     4578 | 2025-11-13 | 9INE                       | L   | 0.243      | -            | -                | -                | -         |    -0.17 | Jun7, karl, Miszary, tutu, zdr   |
+|            7 |     4726 | 2025-11-08 | FengDa Gaming              | W   | 0.211      | 0.380        | 0.001 (0.000)    | 0.024 (0.002)    | 1 (0.211) |     2.95 | Jun7, karl, Miszary, tutu, zdr   |
+|            6 |     4885 | 2025-11-06 | Unsettled Resentment       | W   | 0.198      | 0.380        | 0.000 (0.000)    | 0.061 (0.005)    | 1 (0.198) |     1.07 | Jun7, karl, Miszary, tutu, zdr   |
+|            5 |     4940 | 2025-11-05 | Last Bullet (Chinese team) | L   | 0.185      | -            | -                | -                | -         |    -1.94 | Jun7, karl, Miszary, tutu, zdr   |
+|            4 |     5241 | 2025-10-26 | The QUBE Esports           | L   | 0.120      | -            | -                | -                | -         |    -1.12 | Jun7, karl, Miszary, tutu, zdr   |
+|            3 |     5295 | 2025-10-25 | Last Bullet (Chinese team) | W   | 0.113      | 0.333        | 0.008 (0.000)    | 0.185 (0.007)    | 0 (0.000) |     2.39 | Jun7, karl, Miszary, tutu, zdr   |
+|            2 |     5359 | 2025-10-24 | Nomads (Mongolian team)    | W   | 0.106      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.57 | Jun7, karl, Miszary, tutu, zdr   |
+|            1 |     5404 | 2025-10-23 | FengDa Gaming              | L   | 0.100      | -            | -                | -                | -         |    -1.77 | Jun7, karl, Miszary, tutu, zdr   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,088.12)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($1,088.90)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -72,7 +72,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-04-05 |      1.000 | $726.00        | $726.00         |
-| 2025-11-15 |      0.257 | $1,409.00      | $362.12         |
+| 2025-11-15 |      0.258 | $1,409.00      | $362.90         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -3,7 +3,8 @@
 const Ranking = require('./ranking');
 const Report = require('./report');
 const RegionList = ['Europe', 'Americas', 'Asia'];
-//node main.js "" "" "" 1772467200
+const mischief = false;
+//node main.js "" "" "" 1775486240
 function run()
 {
     let regions = [0,1,2];
@@ -40,7 +41,7 @@ function run()
         strDate = process.argv[4];
 
     // Print markdown table for results
-    Report.generateOutput( teams, regions, strDate );
+    Report.generateOutput( teams, regions, strDate , false, matches, mischief);
 }
 
 run();

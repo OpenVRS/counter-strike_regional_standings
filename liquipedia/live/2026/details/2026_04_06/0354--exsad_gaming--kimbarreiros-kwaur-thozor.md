@@ -8,7 +8,7 @@ Regional Rank: [208]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  427.8<br />
 <br />
-Final Rank Value (427.8) = Starting Rank Value (423.5) + Head To Head Adjustments (4.2)<br />
+Final Rank Value (427.8) = Starting Rank Value (423.5) + Head To Head Adjustments (4.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     3519 | 2026-01-16 | FC Famalicão Esports | L   | 0.667      | -            | -                | -                | -         |    -1.16 | KiMBARREiROS, kWAUR, rafity, Ruy2k, ThozoR |
-|            4 |     3526 | 2026-01-16 | BIG                  | L   | 0.667      | -            | -                | -                | -         |    -0.05 | KiMBARREiROS, kWAUR, rafity, Ruy2k, ThozoR |
-|            3 |     3823 | 2025-12-19 | FC Famalicão Esports | L   | 0.481      | -            | -                | -                | -         |    -0.80 | fny, KiMBARREiROS, kWAUR, sml, ThozoR      |
-|            2 |     3825 | 2025-12-19 | Nebula In Chaox      | W   | 0.481      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.481) |     7.02 | fny, KiMBARREiROS, kWAUR, sml, ThozoR      |
-|            1 |     3830 | 2025-12-19 | FC Famalicão Esports | L   | 0.480      | -            | -                | -                | -         |    -0.77 | fny, KiMBARREiROS, kWAUR, sml, ThozoR      |
+|            5 |     3520 | 2026-01-16 | FC Famalicão Esports | L   | 0.668      | -            | -                | -                | -         |    -1.16 | KiMBARREiROS, kWAUR, rafity, Ruy2k, ThozoR |
+|            4 |     3527 | 2026-01-16 | BIG                  | L   | 0.667      | -            | -                | -                | -         |    -0.05 | KiMBARREiROS, kWAUR, rafity, Ruy2k, ThozoR |
+|            3 |     3824 | 2025-12-19 | FC Famalicão Esports | L   | 0.482      | -            | -                | -                | -         |    -0.80 | fny, KiMBARREiROS, kWAUR, sml, ThozoR      |
+|            2 |     3826 | 2025-12-19 | Nebula In Chaox      | W   | 0.481      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.481) |     7.02 | fny, KiMBARREiROS, kWAUR, sml, ThozoR      |
+|            1 |     3831 | 2025-12-19 | FC Famalicão Esports | L   | 0.481      | -            | -                | -                | -         |    -0.77 | fny, KiMBARREiROS, kWAUR, sml, ThozoR      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [180](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [125]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  786.0<br />
+Final Rank Value:  785.9<br />
 <br />
-Final Rank Value (786.0) = Starting Rank Value (782.9) + Head To Head Adjustments (3.2)<br />
+Final Rank Value (785.9) = Starting Rank Value (782.7) + Head To Head Adjustments (3.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.196<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 782.9
-- 400 + ( ( 0.196 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 782.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 782.7
+- 400 + ( ( 0.196 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 782.7
 
 
 #### Factors<br />
@@ -41,9 +41,9 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |       62 | 2026-04-04 | K27             | L   | 1.000      | -            | -                | -                | -         |    -0.73 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
-|            6 |      124 | 2026-04-02 | SPARTA Esports  | W   | 1.000      | 0.435        | 0.063 (0.027)    | 0.732 (0.318)    | 1 (1.000) |    28.98 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
+|            6 |      124 | 2026-04-02 | SPARTA Esports  | W   | 1.000      | 0.435        | 0.063 (0.027)    | 0.732 (0.318)    | 1 (1.000) |    28.95 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
 |            5 |      129 | 2026-04-02 | Eternal premium | W   | 1.000      | 0.435        | 0.000 (0.000)    | 0.092 (0.040)    | 1 (1.000) |     6.91 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
-|            4 |      145 | 2026-04-02 | SPARTA Esports  | L   | 1.000      | -            | -                | -                | -         |    -1.99 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
+|            4 |      145 | 2026-04-02 | SPARTA Esports  | L   | 1.000      | -            | -                | -                | -         |    -2.01 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
 |            3 |      415 | 2026-03-28 | BankaPEPSI      | L   | 1.000      | -            | -                | -                | -         |   -20.43 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
 |            2 |      485 | 2026-03-27 | Brazylijski luz | W   | 1.000      | 0.278        | 0.002 (0.000)    | 0.057 (0.016)    | 0 (0.000) |    11.88 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
 |            1 |      518 | 2026-03-26 | Benched gods    | L   | 1.000      | -            | -                | -                | -         |   -21.43 | DAN9ARMATURA, desl3bio, pleynnn, SquEzxc, tw1sterzaza |
@@ -53,7 +53,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($750.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

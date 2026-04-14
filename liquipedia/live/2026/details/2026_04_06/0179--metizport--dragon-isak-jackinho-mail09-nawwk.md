@@ -6,9 +6,9 @@ Global Rank: [179](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [124]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  788.3<br />
+Final Rank Value:  788.5<br />
 <br />
-Final Rank Value (788.3) = Starting Rank Value (753.4) + Head To Head Adjustments (34.9)<br />
+Final Rank Value (788.5) = Starting Rank Value (753.6) + Head To Head Adjustments (35.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.181<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 753.4
-- 400 + ( ( 0.181 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 753.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 753.6
+- 400 + ( ( 0.181 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 753.6
 
 
 #### Factors<br />
@@ -40,35 +40,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     4544 | 2025-11-15 | Alliance             | L   | 0.253      | -            | -                | -                | -         |    -0.14 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|           14 |     4566 | 2025-11-14 | Johnny Speeds        | W   | 0.247      | 0.400        | 0.067 (0.007)    | 0.794 (0.078)    | 1 (0.247) |     7.49 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|           13 |     4594 | 2025-11-13 | Megoshort            | W   | 0.239      | 0.400        | 0.004 (0.000)    | 0.336 (0.032)    | 1 (0.239) |     5.91 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|           12 |     4621 | 2025-11-12 | Alliance             | L   | 0.233      | -            | -                | -                | -         |    -0.12 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|           11 |     4634 | 2025-11-12 | Megoshort            | W   | 0.232      | 0.400        | 0.004 (0.000)    | 0.336 (0.031)    | 1 (0.232) |     5.78 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|           10 |     4780 | 2025-11-08 | BetBoom Team         | L   | 0.205      | -            | -                | -                | -         |    -0.11 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            9 |     4797 | 2025-11-07 | MASONIC              | W   | 0.201      | 0.336        | 0.002 (0.000)    | 0.520 (0.035)    | 1 (0.201) |     5.69 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            8 |     4804 | 2025-11-07 | Minkens finest       | W   | 0.200      | 0.336        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.200) |     0.72 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            7 |     4818 | 2025-11-07 | Inner Circle Esports | L   | 0.200      | -            | -                | -                | -         |    -0.54 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            6 |     4835 | 2025-11-07 | Acend                | W   | 0.199      | 0.336        | 0.035 (0.002)    | 0.771 (0.052)    | 1 (0.199) |     6.01 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            5 |     4851 | 2025-11-07 | Johnny Speeds        | L   | 0.199      | -            | -                | -                | -         |    -0.20 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            4 |     4869 | 2025-11-07 | Young Ninjas         | W   | 0.198      | 0.336        | 0.000 (0.000)    | 0.017 (0.001)    | 1 (0.198) |     1.39 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            3 |     5064 | 2025-10-31 | JiJieHao             | L   | 0.153      | -            | -                | -                | -         |    -0.44 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            2 |     5105 | 2025-10-29 | Nexus Gaming         | W   | 0.140      | 0.435        | 0.001 (0.000)    | 0.450 (0.027)    | 0 (0.000) |     3.83 | Dragon, isak, Jackinho, MaiL09, nawwk |
-|            1 |     5138 | 2025-10-28 | JiJieHao             | L   | 0.133      | -            | -                | -                | -         |    -0.37 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|           15 |     4545 | 2025-11-15 | Alliance             | L   | 0.254      | -            | -                | -                | -         |    -0.14 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|           14 |     4567 | 2025-11-14 | Johnny Speeds        | W   | 0.247      | 0.400        | 0.067 (0.007)    | 0.794 (0.079)    | 1 (0.247) |     7.51 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|           13 |     4595 | 2025-11-13 | Megoshort            | W   | 0.240      | 0.400        | 0.004 (0.000)    | 0.335 (0.032)    | 1 (0.240) |     5.92 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|           12 |     4622 | 2025-11-12 | Alliance             | L   | 0.234      | -            | -                | -                | -         |    -0.12 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|           11 |     4635 | 2025-11-12 | Megoshort            | W   | 0.232      | 0.400        | 0.004 (0.000)    | 0.335 (0.031)    | 1 (0.232) |     5.79 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|           10 |     4781 | 2025-11-08 | BetBoom Team         | L   | 0.205      | -            | -                | -                | -         |    -0.11 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            9 |     4798 | 2025-11-07 | MASONIC              | W   | 0.201      | 0.336        | 0.002 (0.000)    | 0.520 (0.035)    | 1 (0.201) |     5.70 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            8 |     4805 | 2025-11-07 | Minkens finest       | W   | 0.201      | 0.336        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.201) |     0.72 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            7 |     4819 | 2025-11-07 | Inner Circle Esports | L   | 0.200      | -            | -                | -                | -         |    -0.55 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            6 |     4836 | 2025-11-07 | Acend                | W   | 0.200      | 0.336        | 0.035 (0.002)    | 0.771 (0.052)    | 1 (0.200) |     6.03 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            5 |     4852 | 2025-11-07 | Johnny Speeds        | L   | 0.199      | -            | -                | -                | -         |    -0.20 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            4 |     4870 | 2025-11-07 | Young Ninjas         | W   | 0.199      | 0.336        | 0.000 (0.000)    | 0.017 (0.001)    | 1 (0.199) |     1.40 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            3 |     5065 | 2025-10-31 | JiJieHao             | L   | 0.153      | -            | -                | -                | -         |    -0.44 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            2 |     5106 | 2025-10-29 | Nexus Gaming         | W   | 0.140      | 0.435        | 0.001 (0.000)    | 0.450 (0.027)    | 0 (0.000) |     3.84 | Dragon, isak, Jackinho, MaiL09, nawwk |
+|            1 |     5139 | 2025-10-28 | JiJieHao             | L   | 0.133      | -            | -                | -                | -         |    -0.38 | Dragon, isak, Jackinho, MaiL09, nawwk |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,877.47)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($1,881.59)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-15 |      0.253 | $7,408.00      | $1,877.47       |
+| 2025-11-15 |      0.254 | $7,408.00      | $1,881.59       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

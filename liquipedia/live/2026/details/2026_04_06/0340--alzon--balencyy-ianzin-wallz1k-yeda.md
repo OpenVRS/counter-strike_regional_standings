@@ -6,9 +6,9 @@ Global Rank: [340](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [97]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  471.4<br />
+Final Rank Value:  471.6<br />
 <br />
-Final Rank Value (471.4) = Starting Rank Value (481.4) + Head To Head Adjustments (-10.0)<br />
+Final Rank Value (471.6) = Starting Rank Value (481.4) + Head To Head Adjustments (-9.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,18 +42,18 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            7 |      936 | 2026-03-18 | BESTIA Academy           | L   | 1.000      | -            | -                | -                | -         |    -4.86 | balencyy, Ianzin, ntx, wallz1k, yeda     |
 |            6 |      982 | 2026-03-17 | ODDIK                    | L   | 1.000      | -            | -                | -                | -         |    -0.35 | balencyy, Ianzin, ntx, wallz1k, yeda     |
-|            5 |     1867 | 2026-02-27 | Bad Luck                 | L   | 0.946      | -            | -                | -                | -         |   -12.90 | balencyy, busan, Ianzin, wallz1k, yeda   |
-|            4 |     1987 | 2026-02-25 | CPC Curralzinho Esports  | W   | 0.932      | 0.371        | 0.000 (0.000)    | 0.003 (0.001)    | 0 (0.000) |    16.54 | balencyy, busan, Ianzin, wallz1k, yeda   |
+|            5 |     1867 | 2026-02-27 | Bad Luck                 | L   | 0.947      | -            | -                | -                | -         |   -12.80 | balencyy, busan, Ianzin, wallz1k, yeda   |
+|            4 |     1987 | 2026-02-25 | CPC Curralzinho Esports  | W   | 0.933      | 0.371        | 0.000 (0.000)    | 0.003 (0.001)    | 0 (0.000) |    16.55 | balencyy, busan, Ianzin, wallz1k, yeda   |
 |            3 |     2067 | 2026-02-23 | DashSkins                | L   | 0.920      | -            | -                | -                | -         |    -1.04 | balencyy, busan, Ianzin, wallz1k, yeda   |
 |            2 |     2097 | 2026-02-22 | Players (Brazilian team) | L   | 0.915      | -            | -                | -                | -         |    -7.34 | balencyy, busan, Ianzin, wallz1k, yeda   |
-|            1 |     3455 | 2026-01-17 | 9z Team                  | L   | 0.675      | -            | -                | -                | -         |    -0.06 | balencyy, Ianzin, Luk1nha, wallz1k, yeda |
+|            1 |     3456 | 2026-01-17 | 9z Team                  | L   | 0.675      | -            | -                | -                | -         |    -0.06 | balencyy, Ianzin, Luk1nha, wallz1k, yeda |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

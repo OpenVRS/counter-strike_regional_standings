@@ -6,9 +6,9 @@ Global Rank: [296](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [77]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  567.1<br />
+Final Rank Value:  567.2<br />
 <br />
-Final Rank Value (567.1) = Starting Rank Value (582.5) + Head To Head Adjustments (-15.4)<br />
+Final Rank Value (567.2) = Starting Rank Value (582.5) + Head To Head Adjustments (-15.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,26 +40,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     3978 | 2025-12-08 | Straight2Killin  | L   | 0.409      | -            | -                | -                | -         |    -7.61 | abby, alicerawr, cyclone, tokkis, Zazu     |
-|            5 |     4067 | 2025-12-04 | Ghost Gaming     | L   | 0.383      | -            | -                | -                | -         |    -5.87 | abby, alicerawr, cyclone, tokkis, Zazu     |
-|            4 |     4111 | 2025-12-02 | InControl        | L   | 0.369      | -            | -                | -                | -         |    -3.91 | abby, alicerawr, cyclone, tokkis, Zazu     |
-|            3 |     5314 | 2025-10-24 | The Little Bocks | W   | 0.109      | 0.520        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.34 | alicerawr, cyclone, estrella, tokkis, Zazu |
-|            2 |     5570 | 2025-10-15 | Ghost Gaming     | W   | 0.049      | 0.520        | 0.000 (0.000)    | 0.019 (0.000)    | 0 (0.000) |     0.79 | alicerawr, cyclone, estrella, tokkis, Zazu |
-|            1 |     5735 | 2025-10-09 | FlyQuest RED     | L   | 0.009      | -            | -                | -                | -         |    -0.10 | alicerawr, cyclone, estrella, tokkis, Zazu |
+|            6 |     3979 | 2025-12-08 | Straight2Killin  | L   | 0.410      | -            | -                | -                | -         |    -7.62 | abby, alicerawr, cyclone, tokkis, Zazu     |
+|            5 |     4068 | 2025-12-04 | Ghost Gaming     | L   | 0.383      | -            | -                | -                | -         |    -5.87 | abby, alicerawr, cyclone, tokkis, Zazu     |
+|            4 |     4112 | 2025-12-02 | InControl        | L   | 0.370      | -            | -                | -                | -         |    -3.94 | abby, alicerawr, cyclone, tokkis, Zazu     |
+|            3 |     5315 | 2025-10-24 | The Little Bocks | W   | 0.109      | 0.520        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.35 | alicerawr, cyclone, estrella, tokkis, Zazu |
+|            2 |     5571 | 2025-10-15 | Ghost Gaming     | W   | 0.049      | 0.520        | 0.000 (0.000)    | 0.019 (0.000)    | 0 (0.000) |     0.79 | alicerawr, cyclone, estrella, tokkis, Zazu |
+|            1 |     5736 | 2025-10-09 | FlyQuest RED     | L   | 0.009      | -            | -                | -                | -         |    -0.11 | alicerawr, cyclone, estrella, tokkis, Zazu |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($141.30)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($142.02)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-10-24 |      0.109 | $1,300.00      | $141.30         |
+| 2025-10-24 |      0.109 | $1,300.00      | $142.02         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

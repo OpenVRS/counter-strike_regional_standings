@@ -51,4 +51,4 @@
 | 46       |    459 | Time Waves                       | camille, ElephanT, harbor, Kezza, lawlkay         | [details](details/2026_03_22/0326--time_waves--camille-elephant-harbor-kezza-lawlkay.md)                      |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

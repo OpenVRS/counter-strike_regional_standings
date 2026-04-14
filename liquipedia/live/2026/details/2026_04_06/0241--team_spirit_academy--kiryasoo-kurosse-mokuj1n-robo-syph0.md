@@ -6,9 +6,9 @@ Global Rank: [241](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [156]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  669.4<br />
+Final Rank Value:  669.6<br />
 <br />
-Final Rank Value (669.4) = Starting Rank Value (655.7) + Head To Head Adjustments (13.7)<br />
+Final Rank Value (669.6) = Starting Rank Value (655.8) + Head To Head Adjustments (13.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.131<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 655.7
-- 400 + ( ( 0.131 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 655.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 655.8
+- 400 + ( ( 0.131 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 655.8
 
 
 #### Factors<br />
@@ -40,33 +40,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     4910 | 2025-11-06 | Sangal Esports  | L   | 0.192      | -            | -                | -                | -         |    -1.44 | Kiryasoo, Mokuj1n, robo, S0tF1k, SYPH0  |
-|           10 |     4934 | 2025-11-05 | SINNERS Esports | L   | 0.185      | -            | -                | -                | -         |    -0.05 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            9 |     4984 | 2025-11-03 | 33              | W   | 0.173      | 0.435        | 0.059 (0.004)    | 0.731 (0.055)    | 0 (0.000) |     5.35 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            8 |     5033 | 2025-11-01 | Nemiga Gaming   | L   | 0.161      | -            | -                | -                | -         |    -0.05 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            7 |     5090 | 2025-10-30 | Betera Esports  | W   | 0.146      | 0.435        | 0.003 (0.000)    | 0.031 (0.002)    | 0 (0.000) |     2.42 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            6 |     5097 | 2025-10-30 | Sashi Esport    | W   | 0.145      | 0.435        | 0.015 (0.001)    | 0.631 (0.040)    | 0 (0.000) |     4.45 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            5 |     5184 | 2025-10-27 | Home            | W   | 0.125      | 0.435        | 0.000 (0.000)    | 0.127 (0.007)    | 0 (0.000) |     2.11 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            4 |     5650 | 2025-10-13 | BetBoom Team    | L   | 0.032      | -            | -                | -                | -         |    -0.01 | kurosse, Mokuj1n, robo, S0tF1k, SYPH0   |
-|            3 |     5663 | 2025-10-12 | Betera Esports  | W   | 0.025      | 0.485        | 0.003 (0.000)    | 0.031 (0.000)    | 0 (0.000) |     0.41 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            2 |     5688 | 2025-10-11 | EYEBALLERS      | W   | 0.018      | 0.485        | 0.097 (0.001)    | 0.599 (0.005)    | 0 (0.000) |     0.55 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
-|            1 |     5767 | 2025-10-09 | 1w Team         | L   | 0.005      | -            | -                | -                | -         |    -0.00 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|           11 |     4911 | 2025-11-06 | Sangal Esports  | L   | 0.193      | -            | -                | -                | -         |    -1.45 | Kiryasoo, Mokuj1n, robo, S0tF1k, SYPH0  |
+|           10 |     4935 | 2025-11-05 | SINNERS Esports | L   | 0.186      | -            | -                | -                | -         |    -0.05 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            9 |     4985 | 2025-11-03 | 33              | W   | 0.173      | 0.435        | 0.059 (0.004)    | 0.731 (0.055)    | 0 (0.000) |     5.37 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            8 |     5034 | 2025-11-01 | Nemiga Gaming   | L   | 0.161      | -            | -                | -                | -         |    -0.05 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            7 |     5091 | 2025-10-30 | Betera Esports  | W   | 0.146      | 0.435        | 0.003 (0.000)    | 0.032 (0.002)    | 0 (0.000) |     2.42 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            6 |     5098 | 2025-10-30 | Sashi Esport    | W   | 0.145      | 0.435        | 0.015 (0.001)    | 0.631 (0.040)    | 0 (0.000) |     4.47 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            5 |     5185 | 2025-10-27 | Home            | W   | 0.126      | 0.435        | 0.000 (0.000)    | 0.127 (0.007)    | 0 (0.000) |     2.13 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            4 |     5651 | 2025-10-13 | BetBoom Team    | L   | 0.032      | -            | -                | -                | -         |    -0.01 | kurosse, Mokuj1n, robo, S0tF1k, SYPH0   |
+|            3 |     5664 | 2025-10-12 | Betera Esports  | W   | 0.026      | 0.485        | 0.003 (0.000)    | 0.032 (0.000)    | 0 (0.000) |     0.42 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            2 |     5689 | 2025-10-11 | EYEBALLERS      | W   | 0.018      | 0.485        | 0.097 (0.001)    | 0.599 (0.005)    | 0 (0.000) |     0.56 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
+|            1 |     5768 | 2025-10-09 | 1w Team         | L   | 0.006      | -            | -                | -                | -         |    -0.00 | Kiryasoo, kurosse, Mokuj1n, robo, SYPH0 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,013.10)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($1,018.82)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-06 |      0.193 | $2,500.00      | $482.67         |
-| 2025-11-02 |      0.167 | $2,000.00      | $334.47         |
-| 2025-10-13 |      0.034 | $5,804.00      | $195.96         |
+| 2025-11-06 |      0.194 | $2,500.00      | $484.06         |
+| 2025-11-02 |      0.168 | $2,000.00      | $335.58         |
+| 2025-10-13 |      0.034 | $5,804.00      | $199.18         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

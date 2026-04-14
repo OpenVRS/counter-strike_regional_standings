@@ -34,27 +34,27 @@ Note:<br />
 - Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
 
 - A team offers ownNetwork for other teams to collect for their network
-- Own Network: 0.060
+- Own Network: 0.061
 <span id="table1"></span><br />
 
 
 | Match Played | Match ID | Date       | Opponent                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     1879 | 2026-02-27 | Legion (Pakistani team)   | L   | 0.945      | -            | -                | -                | -         |    -4.67 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            7 |     1889 | 2026-02-26 | Biryani                   | W   | 0.944      | 0.143        | 0.000 (0.000)    | 0.029 (0.004)    | 0 (0.000) |    14.38 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            6 |     1931 | 2026-02-26 | Legion (Pakistani team)   | L   | 0.939      | -            | -                | -                | -         |    -4.53 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            5 |     1960 | 2026-02-25 | THE UNIT                  | W   | 0.937      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    14.29 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            4 |     4171 | 2025-11-29 | OxinGame Esport           | L   | 0.350      | -            | -                | -                | -         |    -2.89 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            3 |     5292 | 2025-10-25 | Just Swing (Chinese team) | L   | 0.112      | -            | -                | -                | -         |    -0.45 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            2 |     5354 | 2025-10-24 | FengDa Gaming             | L   | 0.106      | -            | -                | -                | -         |    -0.70 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
-|            1 |     5404 | 2025-10-23 | Nomads (Mongolian team)   | W   | 0.099      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.56 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            8 |     1879 | 2026-02-27 | Legion (Pakistani team)   | L   | 0.945      | -            | -                | -                | -         |    -4.68 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            7 |     1889 | 2026-02-26 | Biryani                   | W   | 0.944      | 0.143        | 0.000 (0.000)    | 0.029 (0.004)    | 0 (0.000) |    14.39 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            6 |     1931 | 2026-02-26 | Legion (Pakistani team)   | L   | 0.940      | -            | -                | -                | -         |    -4.54 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            5 |     1960 | 2026-02-25 | THE UNIT                  | W   | 0.937      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    14.30 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            4 |     4172 | 2025-11-29 | OxinGame Esport           | L   | 0.351      | -            | -                | -                | -         |    -2.90 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            3 |     5293 | 2025-10-25 | Just Swing (Chinese team) | L   | 0.113      | -            | -                | -                | -         |    -0.45 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            2 |     5355 | 2025-10-24 | FengDa Gaming             | L   | 0.106      | -            | -                | -                | -         |    -0.70 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
+|            1 |     5405 | 2025-10-23 | Nomads (Mongolian team)   | W   | 0.100      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.57 | Dant1k, Dili, KryPt0NN, mRmN, x1ron |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

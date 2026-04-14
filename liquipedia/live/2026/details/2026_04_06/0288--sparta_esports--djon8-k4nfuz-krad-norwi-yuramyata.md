@@ -8,7 +8,7 @@ Regional Rank: [182]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  586.8<br />
 <br />
-Final Rank Value (586.8) = Starting Rank Value (557.4) + Head To Head Adjustments (29.3)<br />
+Final Rank Value (586.8) = Starting Rank Value (557.4) + Head To Head Adjustments (29.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,12 +41,12 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |     1303 | 2026-03-10 | 5Actors        | L   | 1.000      | -            | -                | -                | -         |   -20.28 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
-|            7 |     1309 | 2026-03-10 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -0.43 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
-|            6 |     1730 | 2026-03-02 | WW Team        | L   | 0.966      | -            | -                | -                | -         |    -0.89 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
-|            5 |     1836 | 2026-02-28 | AM Gaming      | L   | 0.951      | -            | -                | -                | -         |    -0.97 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
-|            4 |     1935 | 2026-02-26 | Lazer Cats     | L   | 0.939      | -            | -                | -                | -         |    -2.28 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
-|            3 |     1973 | 2026-02-25 | ASTRAL Esports | W   | 0.934      | 0.435        | 0.000 (0.000)    | 0.533 (0.216)    | 0 (0.000) |    26.51 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
-|            2 |     2156 | 2026-02-22 | MOUZ NXT       | W   | 0.912      | 0.435        | 0.037 (0.015)    | 1.000 (0.396)    | 0 (0.000) |    28.04 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
+|            7 |     1309 | 2026-03-10 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -0.44 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
+|            6 |     1730 | 2026-03-02 | WW Team        | L   | 0.967      | -            | -                | -                | -         |    -0.89 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
+|            5 |     1836 | 2026-02-28 | AM Gaming      | L   | 0.952      | -            | -                | -                | -         |    -0.97 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
+|            4 |     1935 | 2026-02-26 | Lazer Cats     | L   | 0.939      | -            | -                | -                | -         |    -2.29 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
+|            3 |     1973 | 2026-02-25 | ASTRAL Esports | W   | 0.934      | 0.435        | 0.000 (0.000)    | 0.533 (0.216)    | 0 (0.000) |    26.53 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
+|            2 |     2156 | 2026-02-22 | MOUZ NXT       | W   | 0.913      | 0.435        | 0.037 (0.015)    | 1.000 (0.397)    | 0 (0.000) |    28.06 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
 |            1 |     2217 | 2026-02-21 | WW Team        | L   | 0.905      | -            | -                | -                | -         |    -0.35 | Djon8, k4nfuz, Krad, Norwi, yuramyata |
 
 <br />
@@ -54,7 +54,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [339](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [200]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  472.4<br />
+Final Rank Value:  472.5<br />
 <br />
-Final Rank Value (472.4) = Starting Rank Value (452.6) + Head To Head Adjustments (19.8)<br />
+Final Rank Value (472.5) = Starting Rank Value (452.7) + Head To Head Adjustments (19.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.027<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 452.6
-- 400 + ( ( 0.027 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 452.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 452.7
+- 400 + ( ( 0.027 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 452.7
 
 
 #### Factors<br />
@@ -40,21 +40,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     3710 | 2026-01-04 | SINQU Esports   | W   | 0.586      | 0.314        | 0.000 (0.000)    | 0.067 (0.012)    | 1 (0.586) |    12.39 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            7 |     3714 | 2026-01-04 | Ex-MINLATE      | L   | 0.585      | -            | -                | -                | -         |    -0.84 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            6 |     3718 | 2026-01-04 | ASTRAL Esports  | L   | 0.585      | -            | -                | -                | -         |    -0.57 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            5 |     3721 | 2026-01-04 | AaB esport      | L   | 0.585      | -            | -                | -                | -         |    -0.21 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            4 |     3725 | 2026-01-04 | ESC Gaming      | L   | 0.584      | -            | -                | -                | -         |    -0.37 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            3 |     3863 | 2025-12-17 | Illwill         | L   | 0.467      | -            | -                | -                | -         |    -0.72 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            2 |     3867 | 2025-12-17 | Infinite Gaming | W   | 0.466      | 0.339        | 0.000 (0.000)    | 0.077 (0.012)    | 1 (0.466) |    10.28 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
-|            1 |     3877 | 2025-12-17 | MOUZ NXT        | L   | 0.466      | -            | -                | -                | -         |    -0.21 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            8 |     3711 | 2026-01-04 | SINQU Esports   | W   | 0.586      | 0.314        | 0.000 (0.000)    | 0.067 (0.012)    | 1 (0.586) |    12.41 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            7 |     3715 | 2026-01-04 | Ex-MINLATE      | L   | 0.586      | -            | -                | -                | -         |    -0.84 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            6 |     3719 | 2026-01-04 | ASTRAL Esports  | L   | 0.585      | -            | -                | -                | -         |    -0.57 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            5 |     3722 | 2026-01-04 | AaB esport      | L   | 0.585      | -            | -                | -                | -         |    -0.21 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            4 |     3726 | 2026-01-04 | ESC Gaming      | L   | 0.585      | -            | -                | -                | -         |    -0.37 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            3 |     3864 | 2025-12-17 | Illwill         | L   | 0.468      | -            | -                | -                | -         |    -0.72 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            2 |     3868 | 2025-12-17 | Infinite Gaming | W   | 0.467      | 0.339        | 0.000 (0.000)    | 0.077 (0.012)    | 1 (0.467) |    10.29 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
+|            1 |     3878 | 2025-12-17 | MOUZ NXT        | L   | 0.466      | -            | -                | -                | -         |    -0.21 | BaGyZ, fello, MAGILA, Sidivo, Uzman |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

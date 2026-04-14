@@ -6,9 +6,9 @@ Global Rank: [350](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [207]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  439.7<br />
+Final Rank Value:  439.8<br />
 <br />
-Final Rank Value (439.7) = Starting Rank Value (434.9) + Head To Head Adjustments (4.8)<br />
+Final Rank Value (439.8) = Starting Rank Value (434.9) + Head To Head Adjustments (4.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -43,17 +43,17 @@ Note:<br />
 |            7 |      528 | 2026-03-26 | Young Ninjas  | L   | 1.000      | -            | -                | -                | -         |    -2.49 | chucker, king, p1ke, Rack, zeak |
 |            6 |      539 | 2026-03-26 | Alliance      | L   | 1.000      | -            | -                | -                | -         |    -0.13 | chucker, king, p1ke, Rack, zeak |
 |            5 |     2211 | 2026-02-21 | Acend         | L   | 0.905      | -            | -                | -                | -         |    -0.38 | chucker, king, p1ke, Rack, zeak |
-|            4 |     3255 | 2026-01-23 | HAVU          | L   | 0.714      | -            | -                | -                | -         |    -0.57 | king, p1ke, Rack, TIM, zeak     |
-|            3 |     3261 | 2026-01-23 | Metizport     | L   | 0.714      | -            | -                | -                | -         |    -0.55 | king, p1ke, Rack, TIM, zeak     |
-|            2 |     3267 | 2026-01-23 | Flying Angels | W   | 0.714      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.714) |     9.95 | king, p1ke, Rack, TIM, zeak     |
-|            1 |     5042 | 2025-11-01 | Home          | L   | 0.159      | -            | -                | -                | -         |    -1.00 | king, lindeen, p1ke, Rack, zeak |
+|            4 |     3256 | 2026-01-23 | HAVU          | L   | 0.715      | -            | -                | -                | -         |    -0.57 | king, p1ke, Rack, TIM, zeak     |
+|            3 |     3262 | 2026-01-23 | Metizport     | L   | 0.714      | -            | -                | -                | -         |    -0.55 | king, p1ke, Rack, TIM, zeak     |
+|            2 |     3268 | 2026-01-23 | Flying Angels | W   | 0.714      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.714) |     9.96 | king, p1ke, Rack, TIM, zeak     |
+|            1 |     5043 | 2025-11-01 | Home          | L   | 0.160      | -            | -                | -                | -         |    -1.00 | king, lindeen, p1ke, Rack, zeak |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

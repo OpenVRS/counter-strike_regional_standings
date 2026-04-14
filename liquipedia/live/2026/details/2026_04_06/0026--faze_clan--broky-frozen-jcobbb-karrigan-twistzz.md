@@ -8,20 +8,20 @@ Regional Rank: [20]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  1453.8<br />
 <br />
-Final Rank Value (1453.8) = Starting Rank Value (1531.1) + Head To Head Adjustments (-77.3)<br />
+Final Rank Value (1453.8) = Starting Rank Value (1531.0) + Head To Head Adjustments (-77.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.701[<sup>1</sup>](#table2)
 - Bounty Collected: 0.579[<sup>2</sup>](#table1)
-- Opponent Network: 0.241[<sup>2</sup>](#table1)
-- LAN Wins: 0.791[<sup>2</sup>](#table1)
+- Opponent Network: 0.242[<sup>2</sup>](#table1)
+- LAN Wins: 0.792[<sup>2</sup>](#table1)
 
 The average of these factors is 0.578<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1531.1
-- 400 + ( ( 0.578 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1531.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1531.0
+- 400 + ( ( 0.578 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1531.0
 
 
 #### Factors<br />
@@ -40,60 +40,61 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |        4 | 2026-04-05 | BIG                           | L   | 1.000      | -            | -                | -                | -         |   -13.15 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           46 |        9 | 2026-04-05 | Illwill                       | W   | 1.000      | 0.396        | -                | 0.835 (0.331)    | 1 (1.000) |    11.26 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           45 |       23 | 2026-04-05 | CYBERSHOKE Esports            | W   | 1.000      | 0.396        | -                | 0.556 (0.220)    | 1 (1.000) |     5.66 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           44 |      102 | 2026-04-03 | Drama Esports                 | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.18 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           43 |      107 | 2026-04-03 | Békéscsabai E-Sport Egyesület | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.08 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           42 |      256 | 2026-03-31 | Fnatic                        | L   | 1.000      | -            | -                | -                | -         |   -25.84 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           41 |      291 | 2026-03-31 | Passion UA                    | L   | 1.000      | -            | -                | -                | -         |   -22.78 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           40 |      324 | 2026-03-30 | Aimclub (Romanian team)       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.00 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           39 |      876 | 2026-03-20 | TYLOO                         | L   | 1.000      | -            | -                | -                | -         |   -16.98 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           38 |      949 | 2026-03-18 | Aurora Gaming                 | L   | 1.000      | -            | -                | -                | -         |    -4.79 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           37 |     1361 | 2026-03-09 | Astralis                      | L   | 1.000      | -            | -                | -                | -         |   -10.88 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           36 |     1471 | 2026-03-08 | Monte                         | W   | 1.000      | 0.805        | 0.114 (0.091)    | 0.487 (0.392)    | -         |    16.96 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           35 |     1516 | 2026-03-07 | PaiN Gaming                   | L   | 0.998      | -            | -                | -                | -         |   -13.30 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           34 |     1535 | 2026-03-06 | G2 Esports                    | L   | 0.993      | -            | -                | -                | -         |    -9.62 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           33 |     2428 | 2026-02-17 | Astralis                      | L   | 0.878      | -            | -                | -                | -         |   -10.15 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           32 |     2474 | 2026-02-16 | PARIVISION                    | L   | 0.871      | -            | -                | -                | -         |    -4.38 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           31 |     2533 | 2026-02-15 | Team Falcons                  | L   | 0.865      | -            | -                | -                | -         |    -6.56 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           30 |     2591 | 2026-02-14 | HEROIC                        | W   | 0.859      | 1.000        | 0.236 (0.202)    | 0.491 (0.421)    | 1 (0.859) |    14.04 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           29 |     2946 | 2026-02-03 | MOUZ                          | L   | 0.786      | -            | -                | -                | -         |    -5.95 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           28 |     2973 | 2026-02-02 | BC.Game Esports               | W   | 0.780      | 1.000        | 0.077 (0.060)    | 0.310 (0.242)    | 1 (0.780) |     5.74 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           27 |     3033 | 2026-01-31 | 3DMAX                         | L   | 0.767      | -            | -                | -                | -         |   -11.41 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           26 |     3626 | 2026-01-13 | EYEBALLERS                    | L   | 0.646      | -            | -                | -                | -         |   -14.20 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           25 |     3899 | 2025-12-14 | Team Vitality                 | L   | 0.447      | -            | -                | -                | -         |    -1.25 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           24 |     3908 | 2025-12-13 | Natus Vincere                 | W   | 0.441      | 1.000        | 1.000 (0.441)    | 0.344 (0.152)    | 1 (0.441) |    12.56 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           23 |     3926 | 2025-12-12 | MOUZ                          | W   | 0.433      | 1.000        | 0.666 (0.288)    | 0.291 (0.126)    | 1 (0.433) |    10.49 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           22 |     4003 | 2025-12-07 | Passion UA                    | W   | 0.400      | 1.000        | 0.070 (0.028)    | 0.462 (0.185)    | 1 (0.400) |     3.75 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           21 |     4023 | 2025-12-06 | 3DMAX                         | W   | 0.394      | 1.000        | 0.215 (0.085)    | 0.492 (0.194)    | -         |     6.84 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           20 |     4059 | 2025-12-05 | The MongolZ                   | L   | 0.386      | -            | -                | -                | -         |    -3.78 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           19 |     4076 | 2025-12-04 | Team Spirit                   | L   | 0.381      | -            | -                | -                | -         |    -4.15 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           18 |     4087 | 2025-12-04 | Team Vitality                 | W   | 0.380      | 1.000        | 1.000 (0.380)    | 0.399 (0.151)    | -         |    11.05 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           17 |     4148 | 2025-11-30 | Ninjas in Pyjamas             | W   | 0.353      | 0.769        | 0.127 (0.034)    | -                | -         |     4.40 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           16 |     4180 | 2025-11-29 | Aurora Gaming                 | W   | 0.347      | 0.769        | 1.000 (0.267)    | -                | -         |     9.70 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           15 |     4199 | 2025-11-29 | Passion UA                    | W   | 0.346      | -            | -                | -                | -         |     3.36 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           14 |     4251 | 2025-11-27 | Fluxo W7M                     | W   | 0.333      | -            | -                | -                | -         |     3.30 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           13 |     4261 | 2025-11-26 | RED Canids                    | W   | 0.326      | -            | -                | -                | -         |     2.28 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           12 |     4282 | 2025-11-25 | Ninjas in Pyjamas             | L   | 0.320      | -            | -                | -                | -         |    -6.20 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           11 |     4298 | 2025-11-24 | NRG                           | L   | 0.315      | -            | -                | -                | -         |    -9.87 | broky, frozen, jcobbb, karrigan, Twistzz |
-|           10 |     4315 | 2025-11-24 | Lynn Vision Gaming            | W   | 0.313      | -            | -                | -                | -         |     1.91 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            9 |     4973 | 2025-11-03 | Virtus.pro                    | L   | 0.177      | -            | -                | -                | -         |    -5.49 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            8 |     4999 | 2025-11-02 | MOUZ                          | L   | 0.170      | -            | -                | -                | -         |    -1.20 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            7 |     5555 | 2025-10-16 | FUT Esports                   | L   | 0.051      | -            | -                | -                | -         |    -0.78 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            6 |     5564 | 2025-10-15 | TYLOO                         | W   | 0.050      | -            | -                | -                | -         |     0.62 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            5 |     5602 | 2025-10-14 | B8                            | W   | 0.043      | -            | -                | -                | -         |     0.73 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            4 |     5629 | 2025-10-14 | FUT Esports                   | L   | 0.038      | -            | -                | -                | -         |    -0.57 | broky, frozen, jcobbb, karrigan, Twistzz |
-|            3 |     5662 | 2025-10-12 | MOUZ                          | L   | 0.025      | -            | -                | -                | -         |    -0.18 | broky, frozen, karrigan, rain, Twistzz   |
-|            2 |     5675 | 2025-10-11 | Team Vitality                 | L   | 0.020      | -            | -                | -                | -         |    -0.04 | broky, frozen, karrigan, rain, Twistzz   |
-|            1 |     5714 | 2025-10-10 | Team Spirit                   | W   | 0.013      | -            | -                | -                | -         |     0.27 | broky, frozen, karrigan, rain, Twistzz   |
+|           48 |        4 | 2026-04-05 | BIG                           | L   | 1.000      | -            | -                | -                | -         |   -13.15 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           47 |        9 | 2026-04-05 | Illwill                       | W   | 1.000      | 0.396        | -                | 0.835 (0.331)    | 1 (1.000) |    11.26 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           46 |       23 | 2026-04-05 | CYBERSHOKE Esports            | W   | 1.000      | 0.396        | -                | 0.556 (0.221)    | 1 (1.000) |     5.66 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           45 |      102 | 2026-04-03 | Drama Esports                 | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.18 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           44 |      107 | 2026-04-03 | Békéscsabai E-Sport Egyesület | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.08 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           43 |      256 | 2026-03-31 | Fnatic                        | L   | 1.000      | -            | -                | -                | -         |   -25.84 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           42 |      291 | 2026-03-31 | Passion UA                    | L   | 1.000      | -            | -                | -                | -         |   -22.78 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           41 |      324 | 2026-03-30 | Aimclub (Romanian team)       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.00 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           40 |      876 | 2026-03-20 | TYLOO                         | L   | 1.000      | -            | -                | -                | -         |   -16.99 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           39 |      949 | 2026-03-18 | Aurora Gaming                 | L   | 1.000      | -            | -                | -                | -         |    -4.79 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           38 |     1361 | 2026-03-09 | Astralis                      | L   | 1.000      | -            | -                | -                | -         |   -10.89 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           37 |     1471 | 2026-03-08 | Monte                         | W   | 1.000      | 0.805        | 0.113 (0.091)    | 0.487 (0.392)    | -         |    16.96 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           36 |     1516 | 2026-03-07 | PaiN Gaming                   | L   | 0.999      | -            | -                | -                | -         |   -13.29 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           35 |     1535 | 2026-03-06 | G2 Esports                    | L   | 0.994      | -            | -                | -                | -         |    -9.64 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           34 |     2429 | 2026-02-17 | Astralis                      | L   | 0.879      | -            | -                | -                | -         |   -10.16 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           33 |     2475 | 2026-02-16 | PARIVISION                    | L   | 0.871      | -            | -                | -                | -         |    -4.39 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           32 |     2534 | 2026-02-15 | Team Falcons                  | L   | 0.866      | -            | -                | -                | -         |    -6.56 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           31 |     2592 | 2026-02-14 | HEROIC                        | W   | 0.859      | 1.000        | 0.235 (0.202)    | 0.491 (0.422)    | 1 (0.859) |    14.05 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           30 |     2947 | 2026-02-03 | MOUZ                          | L   | 0.786      | -            | -                | -                | -         |    -5.95 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           29 |     2974 | 2026-02-02 | BC.Game Esports               | W   | 0.780      | 1.000        | 0.077 (0.060)    | 0.310 (0.242)    | 1 (0.780) |     5.75 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           28 |     3034 | 2026-01-31 | 3DMAX                         | L   | 0.768      | -            | -                | -                | -         |   -11.42 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           27 |     3627 | 2026-01-13 | EYEBALLERS                    | L   | 0.646      | -            | -                | -                | -         |   -14.21 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           26 |     3900 | 2025-12-14 | Team Vitality                 | L   | 0.447      | -            | -                | -                | -         |    -1.25 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           25 |     3909 | 2025-12-13 | Natus Vincere                 | W   | 0.441      | 1.000        | 1.000 (0.441)    | 0.344 (0.152)    | 1 (0.441) |    12.58 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           24 |     3927 | 2025-12-12 | MOUZ                          | W   | 0.434      | 1.000        | 0.664 (0.288)    | 0.291 (0.126)    | 1 (0.434) |    10.50 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           23 |     4004 | 2025-12-07 | Passion UA                    | W   | 0.401      | 1.000        | 0.069 (0.028)    | 0.462 (0.185)    | 1 (0.401) |     3.76 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           22 |     4024 | 2025-12-06 | 3DMAX                         | W   | 0.395      | 1.000        | 0.215 (0.085)    | 0.492 (0.194)    | -         |     6.84 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           21 |     4060 | 2025-12-05 | The MongolZ                   | L   | 0.386      | -            | -                | -                | -         |    -3.79 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           20 |     4077 | 2025-12-04 | Team Spirit                   | L   | 0.381      | -            | -                | -                | -         |    -4.16 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           19 |     4088 | 2025-12-04 | Team Vitality                 | W   | 0.380      | 1.000        | 1.000 (0.380)    | 0.399 (0.152)    | -         |    11.07 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           18 |     4149 | 2025-11-30 | Ninjas in Pyjamas             | W   | 0.354      | 0.769        | 0.126 (0.034)    | -                | -         |     4.41 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           17 |     4181 | 2025-11-29 | Aurora Gaming                 | W   | 0.348      | 0.769        | 1.000 (0.267)    | -                | -         |     9.71 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           16 |     4200 | 2025-11-29 | Passion UA                    | W   | 0.346      | -            | -                | -                | -         |     3.37 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           15 |     4252 | 2025-11-27 | Fluxo W7M                     | W   | 0.333      | -            | -                | -                | -         |     3.32 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           14 |     4262 | 2025-11-26 | RED Canids                    | W   | 0.327      | -            | -                | -                | -         |     2.28 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           13 |     4283 | 2025-11-25 | Ninjas in Pyjamas             | L   | 0.320      | -            | -                | -                | -         |    -6.21 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           12 |     4299 | 2025-11-24 | NRG                           | L   | 0.316      | -            | -                | -                | -         |    -9.89 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           11 |     4316 | 2025-11-24 | Lynn Vision Gaming            | W   | 0.314      | -            | -                | -                | -         |     1.92 | broky, frozen, jcobbb, karrigan, Twistzz |
+|           10 |     4974 | 2025-11-03 | Virtus.pro                    | L   | 0.177      | -            | -                | -                | -         |    -5.50 | broky, frozen, jcobbb, karrigan, Twistzz |
+|            9 |     5000 | 2025-11-02 | MOUZ                          | L   | 0.171      | -            | -                | -                | -         |    -1.20 | broky, frozen, jcobbb, karrigan, Twistzz |
+|            8 |     5556 | 2025-10-16 | FUT Esports                   | L   | 0.052      | -            | -                | -                | -         |    -0.79 | broky, frozen, jcobbb, karrigan, Twistzz |
+|            7 |     5565 | 2025-10-15 | TYLOO                         | W   | 0.050      | -            | -                | -                | -         |     0.63 | broky, frozen, jcobbb, karrigan, Twistzz |
+|            6 |     5603 | 2025-10-14 | B8                            | W   | 0.044      | -            | -                | -                | -         |     0.74 | broky, frozen, jcobbb, karrigan, Twistzz |
+|            5 |     5630 | 2025-10-14 | FUT Esports                   | L   | 0.038      | -            | -                | -                | -         |    -0.58 | broky, frozen, jcobbb, karrigan, Twistzz |
+|            4 |     5663 | 2025-10-12 | MOUZ                          | L   | 0.026      | -            | -                | -                | -         |    -0.18 | broky, frozen, karrigan, rain, Twistzz   |
+|            3 |     5676 | 2025-10-11 | Team Vitality                 | L   | 0.021      | -            | -                | -                | -         |    -0.04 | broky, frozen, karrigan, rain, Twistzz   |
+|            2 |     5715 | 2025-10-10 | Team Spirit                   | W   | 0.014      | -            | -                | -                | -         |     0.28 | broky, frozen, karrigan, rain, Twistzz   |
+|            1 |     5811 | 2025-10-08 | Aurora Gaming                 | W   | 0.001      | -            | -                | -                | -         |     0.01 | broky, frozen, karrigan, rain, Twistzz   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($171,383.12)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($171,563.82)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.37) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -103,13 +104,13 @@ Top ten winnings for this roster:<br />
 | 2026-04-05 |      1.000 | $8,000.00      | $8,000.00       |
 | 2026-03-29 |      1.000 | $20,000.00     | $20,000.00      |
 | 2026-03-10 |      1.000 | $21,500.00     | $21,500.00      |
-| 2026-02-22 |      0.913 | $18,750.00     | $17,121.76      |
-| 2026-02-08 |      0.820 | $23,000.00     | $18,856.02      |
-| 2026-01-18 |      0.680 | $7,500.00      | $5,103.04       |
-| 2025-12-14 |      0.447 | $170,000.00    | $75,951.17      |
-| 2025-11-09 |      0.211 | $4,000.00      | $843.75         |
-| 2025-10-19 |      0.071 | $30,000.00     | $2,119.81       |
-| 2025-10-12 |      0.026 | $72,000.00     | $1,887.56       |
+| 2026-02-22 |      0.914 | $18,750.00     | $17,132.18      |
+| 2026-02-08 |      0.820 | $23,000.00     | $18,868.80      |
+| 2026-01-18 |      0.681 | $7,500.00      | $5,107.21       |
+| 2025-12-14 |      0.447 | $170,000.00    | $76,045.62      |
+| 2025-11-09 |      0.211 | $4,000.00      | $845.98         |
+| 2025-10-19 |      0.071 | $30,000.00     | $2,136.48       |
+| 2025-10-12 |      0.027 | $72,000.00     | $1,927.56       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

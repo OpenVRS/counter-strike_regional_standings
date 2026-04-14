@@ -42,33 +42,33 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           14 |      960 | 2026-03-18 | Sangal Esports         | L   | 1.000      | -            | -                | -                | -         |    -2.76 | D7, irbitka, Margo, v1spel, xia        |
 |           13 |     1050 | 2026-03-16 | Megoshort              | L   | 1.000      | -            | -                | -                | -         |    -3.88 | D7, irbitka, Margo, v1spel, xia        |
-|           12 |     2592 | 2026-02-14 | Let Her Cook           | L   | 0.859      | -            | -                | -                | -         |    -9.71 | D7, IRBITka, Margo, v1spel, xia        |
-|           11 |     2608 | 2026-02-13 | BIG EQUIPA             | L   | 0.854      | -            | -                | -                | -         |    -6.82 | D7, IRBITka, Margo, v1spel, xia        |
-|           10 |     2658 | 2026-02-12 | Peekaboo               | W   | 0.848      | 0.384        | 0.001 (0.000)    | 0.026 (0.008)    | 0 (0.000) |    12.83 | D7, IRBITka, Margo, v1spel, xia        |
-|            9 |     2667 | 2026-02-12 | Imodium                | W   | 0.847      | 0.384        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.31 | D7, IRBITka, Margo, v1spel, xia        |
-|            8 |     2769 | 2026-02-09 | Peekaboo               | L   | 0.828      | -            | -                | -                | -         |   -13.07 | D7, IRBITka, Margo, v1spel, xia        |
-|            7 |     4715 | 2025-11-09 | BIG EQUIPA             | L   | 0.212      | -            | -                | -                | -         |    -1.66 | emocore, IRBITka, Margo, sosya, v1spel |
-|            6 |     4763 | 2025-11-08 | Nemesis Impact         | W   | 0.206      | 0.317        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     3.19 | emocore, IRBITka, Margo, sosya, v1spel |
-|            5 |     4905 | 2025-11-06 | Amateurs (Female team) | W   | 0.192      | 0.317        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.04 | emocore, IRBITka, Margo, sosya, v1spel |
-|            4 |     4955 | 2025-11-04 | Confidence             | L   | 0.180      | -            | -                | -                | -         |    -3.03 | emocore, IRBITka, Margo, sosya, v1spel |
-|            3 |     5288 | 2025-10-25 | Flame Sharks Female    | W   | 0.113      | 0.523        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     1.60 | Deylary, IRBITka, Margo, sosya, v1spel |
-|            2 |     5334 | 2025-10-24 | Amateurs (Female team) | W   | 0.107      | 0.523        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.14 | Deylary, IRBITka, Margo, sosya, v1spel |
-|            1 |     5542 | 2025-10-16 | BIG EQUIPA             | L   | 0.054      | -            | -                | -                | -         |    -0.41 | emocore, IRBITka, Margo, sosya, v1spel |
+|           12 |     2593 | 2026-02-14 | Let Her Cook           | L   | 0.859      | -            | -                | -                | -         |    -9.72 | D7, IRBITka, Margo, v1spel, xia        |
+|           11 |     2609 | 2026-02-13 | BIG EQUIPA             | L   | 0.855      | -            | -                | -                | -         |    -6.82 | D7, IRBITka, Margo, v1spel, xia        |
+|           10 |     2659 | 2026-02-12 | Peekaboo               | W   | 0.848      | 0.384        | 0.001 (0.000)    | 0.026 (0.008)    | 0 (0.000) |    12.84 | D7, IRBITka, Margo, v1spel, xia        |
+|            9 |     2668 | 2026-02-12 | Imodium                | W   | 0.847      | 0.384        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.32 | D7, IRBITka, Margo, v1spel, xia        |
+|            8 |     2770 | 2026-02-09 | Peekaboo               | L   | 0.828      | -            | -                | -                | -         |   -13.08 | D7, IRBITka, Margo, v1spel, xia        |
+|            7 |     4716 | 2025-11-09 | BIG EQUIPA             | L   | 0.213      | -            | -                | -                | -         |    -1.66 | emocore, IRBITka, Margo, sosya, v1spel |
+|            6 |     4764 | 2025-11-08 | Nemesis Impact         | W   | 0.206      | 0.317        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     3.20 | emocore, IRBITka, Margo, sosya, v1spel |
+|            5 |     4906 | 2025-11-06 | Amateurs (Female team) | W   | 0.193      | 0.317        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.04 | emocore, IRBITka, Margo, sosya, v1spel |
+|            4 |     4956 | 2025-11-04 | Confidence             | L   | 0.181      | -            | -                | -                | -         |    -3.04 | emocore, IRBITka, Margo, sosya, v1spel |
+|            3 |     5289 | 2025-10-25 | Flame Sharks Female    | W   | 0.113      | 0.523        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     1.61 | Deylary, IRBITka, Margo, sosya, v1spel |
+|            2 |     5335 | 2025-10-24 | Amateurs (Female team) | W   | 0.108      | 0.523        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.15 | Deylary, IRBITka, Margo, sosya, v1spel |
+|            1 |     5543 | 2025-10-16 | BIG EQUIPA             | L   | 0.054      | -            | -                | -                | -         |    -0.41 | emocore, IRBITka, Margo, sosya, v1spel |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($973.42)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($974.25)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-02-15 |      0.867 | $1,000.00      | $866.77         |
-| 2025-11-09 |      0.213 | $500.00        | $106.65         |
+| 2026-02-15 |      0.867 | $1,000.00      | $867.33         |
+| 2025-11-09 |      0.214 | $500.00        | $106.93         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

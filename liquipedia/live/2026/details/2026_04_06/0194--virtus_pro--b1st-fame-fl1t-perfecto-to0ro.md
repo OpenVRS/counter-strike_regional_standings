@@ -6,9 +6,9 @@ Global Rank: [194](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [130]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  752.8<br />
+Final Rank Value:  753.0<br />
 <br />
-Final Rank Value (752.8) = Starting Rank Value (763.3) + Head To Head Adjustments (-10.5)<br />
+Final Rank Value (753.0) = Starting Rank Value (763.4) + Head To Head Adjustments (-10.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.186<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 763.3
-- 400 + ( ( 0.186 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 763.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 763.4
+- 400 + ( ( 0.186 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 763.4
 
 
 #### Factors<br />
@@ -40,34 +40,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3032 | 2026-01-31 | WW Team          | L   | 0.767      | -            | -                | -                | -         |    -0.56 | b1st, fame, FL1T, Perfecto, tO0RO |
-|           11 |     3059 | 2026-01-30 | RUSTEC           | L   | 0.764      | -            | -                | -                | -         |   -16.24 | b1st, fame, FL1T, Perfecto, tO0RO |
-|           10 |     3149 | 2026-01-27 | Nemiga Gaming    | L   | 0.740      | -            | -                | -                | -         |    -0.70 | b1st, fame, FL1T, Perfecto, tO0RO |
-|            9 |     3472 | 2026-01-17 | Nuclear TigeRES  | L   | 0.673      | -            | -                | -                | -         |    -0.81 | b1st, fame, FL1T, Perfecto, tO0RO |
-|            8 |     3601 | 2026-01-14 | Team Vitality    | L   | 0.654      | -            | -                | -                | -         |    -0.02 | b1st, fame, FL1T, Perfecto, tO0RO |
-|            7 |     4947 | 2025-11-04 | G2 Esports       | L   | 0.183      | -            | -                | -                | -         |    -0.03 | b1st, fame, FL1T, Perfecto, tO0RO |
-|            6 |     4973 | 2025-11-03 | FaZe Clan        | W   | 0.177      | 1.000        | 0.375 (0.066)    | 0.350 (0.062)    | 1 (0.177) |     5.49 | b1st, fame, FL1T, Perfecto, tO0RO |
-|            5 |     4998 | 2025-11-02 | Team Vitality    | L   | 0.170      | -            | -                | -                | -         |    -0.01 | b1st, fame, FL1T, Perfecto, tO0RO |
-|            4 |     5556 | 2025-10-16 | 3DMAX            | L   | 0.051      | -            | -                | -                | -         |    -0.02 | fame, FL1T, ICY, Perfecto, tO0RO  |
-|            3 |     5596 | 2025-10-15 | MIBR             | W   | 0.045      | 1.000        | 0.076 (0.003)    | 0.436 (0.019)    | 1 (0.045) |     1.33 | fame, FL1T, ICY, Perfecto, tO0RO  |
-|            2 |     5624 | 2025-10-14 | The Huns Esports | W   | 0.038      | 1.000        | 0.011 (0.000)    | 0.487 (0.019)    | 1 (0.038) |     1.11 | fame, FL1T, ICY, Perfecto, tO0RO  |
-|            1 |     5633 | 2025-10-13 | Legacy           | L   | 0.037      | -            | -                | -                | -         |    -0.03 | fame, FL1T, ICY, Perfecto, tO0RO  |
+|           12 |     3033 | 2026-01-31 | WW Team          | L   | 0.768      | -            | -                | -                | -         |    -0.56 | b1st, fame, FL1T, Perfecto, tO0RO |
+|           11 |     3060 | 2026-01-30 | RUSTEC           | L   | 0.765      | -            | -                | -                | -         |   -16.25 | b1st, fame, FL1T, Perfecto, tO0RO |
+|           10 |     3150 | 2026-01-27 | Nemiga Gaming    | L   | 0.740      | -            | -                | -                | -         |    -0.70 | b1st, fame, FL1T, Perfecto, tO0RO |
+|            9 |     3473 | 2026-01-17 | Nuclear TigeRES  | L   | 0.674      | -            | -                | -                | -         |    -0.81 | b1st, fame, FL1T, Perfecto, tO0RO |
+|            8 |     3602 | 2026-01-14 | Team Vitality    | L   | 0.655      | -            | -                | -                | -         |    -0.02 | b1st, fame, FL1T, Perfecto, tO0RO |
+|            7 |     4948 | 2025-11-04 | G2 Esports       | L   | 0.183      | -            | -                | -                | -         |    -0.03 | b1st, fame, FL1T, Perfecto, tO0RO |
+|            6 |     4974 | 2025-11-03 | FaZe Clan        | W   | 0.177      | 1.000        | 0.374 (0.066)    | 0.350 (0.062)    | 1 (0.177) |     5.50 | b1st, fame, FL1T, Perfecto, tO0RO |
+|            5 |     4999 | 2025-11-02 | Team Vitality    | L   | 0.171      | -            | -                | -                | -         |    -0.01 | b1st, fame, FL1T, Perfecto, tO0RO |
+|            4 |     5557 | 2025-10-16 | 3DMAX            | L   | 0.052      | -            | -                | -                | -         |    -0.02 | fame, FL1T, ICY, Perfecto, tO0RO  |
+|            3 |     5597 | 2025-10-15 | MIBR             | W   | 0.045      | 1.000        | 0.076 (0.003)    | 0.436 (0.020)    | 1 (0.045) |     1.35 | fame, FL1T, ICY, Perfecto, tO0RO  |
+|            2 |     5625 | 2025-10-14 | The Huns Esports | W   | 0.039      | 1.000        | 0.011 (0.000)    | 0.487 (0.019)    | 1 (0.039) |     1.13 | fame, FL1T, ICY, Perfecto, tO0RO  |
+|            1 |     5634 | 2025-10-13 | Legacy           | L   | 0.037      | -            | -                | -                | -         |    -0.03 | fame, FL1T, ICY, Perfecto, tO0RO  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($12,496.32)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($12,531.04)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-01-18 |      0.680 | $7,500.00      | $5,103.04       |
-| 2025-11-09 |      0.211 | $25,000.00     | $5,273.46       |
-| 2025-10-19 |      0.071 | $30,000.00     | $2,119.81       |
+| 2026-01-18 |      0.681 | $7,500.00      | $5,107.21       |
+| 2025-11-09 |      0.211 | $25,000.00     | $5,287.35       |
+| 2025-10-19 |      0.071 | $30,000.00     | $2,136.48       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

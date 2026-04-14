@@ -40,26 +40,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent               | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2658 | 2026-02-12 | Fingers Crossed Female | L   | 0.848      | -            | -                | -                | -         |   -12.83 | Hikomi, julih, LETi, Nem1za, Zana    |
-|            4 |     2705 | 2026-02-11 | Team Pigeons           | L   | 0.840      | -            | -                | -                | -         |    -8.19 | Hikomi, julih, LETi, Nem1za, Zana    |
-|            3 |     2769 | 2026-02-09 | Fingers Crossed Female | W   | 0.828      | 0.384        | 0.002 (0.001)    | 0.067 (0.021)    | 0 (0.000) |    13.07 | Hikomi, julih, LETi, Nem1za, Zana    |
-|            2 |     5335 | 2025-10-24 | BIG EQUIPA             | L   | 0.107      | -            | -                | -                | -         |    -0.79 | Angelka, Hikomi, julih, LETi, NAYLLA |
-|            1 |     5745 | 2025-10-09 | Nemesis Impact         | W   | 0.007      | 0.523        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     0.11 | Angelka, Hikomi, julih, LETi, NAYLLA |
+|            5 |     2659 | 2026-02-12 | Fingers Crossed Female | L   | 0.848      | -            | -                | -                | -         |   -12.84 | Hikomi, julih, LETi, Nem1za, Zana    |
+|            4 |     2706 | 2026-02-11 | Team Pigeons           | L   | 0.841      | -            | -                | -                | -         |    -8.19 | Hikomi, julih, LETi, Nem1za, Zana    |
+|            3 |     2770 | 2026-02-09 | Fingers Crossed Female | W   | 0.828      | 0.384        | 0.002 (0.001)    | 0.067 (0.021)    | 0 (0.000) |    13.08 | Hikomi, julih, LETi, Nem1za, Zana    |
+|            2 |     5336 | 2025-10-24 | BIG EQUIPA             | L   | 0.108      | -            | -                | -                | -         |    -0.79 | Angelka, Hikomi, julih, LETi, NAYLLA |
+|            1 |     5746 | 2025-10-09 | Nemesis Impact         | W   | 0.008      | 0.523        | 0.001 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     0.12 | Angelka, Hikomi, julih, LETi, NAYLLA |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($608.14)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($609.23)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-02-15 |      0.867 | $500.00        | $433.39         |
-| 2025-10-26 |      0.121 | $1,450.00      | $174.76         |
+| 2026-02-15 |      0.867 | $500.00        | $433.66         |
+| 2025-10-26 |      0.121 | $1,450.00      | $175.56         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

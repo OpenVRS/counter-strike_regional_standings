@@ -8,11 +8,11 @@ Regional Rank: [111]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  838.3<br />
 <br />
-Final Rank Value (838.3) = Starting Rank Value (794.3) + Head To Head Adjustments (44.0)<br />
+Final Rank Value (838.3) = Starting Rank Value (794.2) + Head To Head Adjustments (44.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.273[<sup>1</sup>](#table2)
+- Bounty Offered: 0.272[<sup>1</sup>](#table2)
 - Bounty Collected: 0.295[<sup>2</sup>](#table1)
 - Opponent Network: 0.117[<sup>2</sup>](#table1)
 - LAN Wins: 0.122[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.202<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 794.3
-- 400 + ( ( 0.202 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 794.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 794.2
+- 400 + ( ( 0.202 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 794.2
 
 
 #### Factors<br />
@@ -43,35 +43,35 @@ Note:<br />
 |           18 |      507 | 2026-03-27 | Imperial Academy        | L   | 1.000      | -            | -                | -                | -         |   -27.64 | hitori, Junyme, SHiNE, tAk, yksjupe |
 |           17 |      860 | 2026-03-20 | UNiTY esports           | L   | 1.000      | -            | -                | -                | -         |    -9.45 | hitori, Junyme, SHiNE, tAk, yksjupe |
 |           16 |      900 | 2026-03-19 | K27                     | L   | 1.000      | -            | -                | -                | -         |    -1.11 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|           15 |     1005 | 2026-03-17 | WOPA Esport             | W   | 1.000      | 0.384        | 0.002 (0.001)    | 0.429 (0.165)    | 0 (0.000) |    19.15 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|           14 |     1044 | 2026-03-16 | QWENTRY                 | W   | 1.000      | 0.384        | 0.045 (0.017)    | 1.000 (0.384)    | 0 (0.000) |    25.80 | hitori, Junyme, SHiNE, tAk, yksjupe |
+|           15 |     1005 | 2026-03-17 | WOPA Esport             | W   | 1.000      | 0.384        | 0.002 (0.001)    | 0.429 (0.165)    | 0 (0.000) |    19.14 | hitori, Junyme, SHiNE, tAk, yksjupe |
+|           14 |     1044 | 2026-03-16 | QWENTRY                 | W   | 1.000      | 0.384        | 0.045 (0.017)    | 1.000 (0.384)    | 0 (0.000) |    25.81 | hitori, Junyme, SHiNE, tAk, yksjupe |
 |           13 |     1639 | 2026-03-04 | 33                      | L   | 0.980      | -            | -                | -                | -         |    -1.51 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|           12 |     1678 | 2026-03-03 | WW Team                 | W   | 0.974      | 0.333        | 0.034 (0.011)    | 0.865 (0.281)    | 0 (0.000) |    27.27 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|           11 |     1762 | 2026-03-01 | Acend                   | W   | 0.961      | 0.333        | 0.035 (0.011)    | 0.771 (0.247)    | 0 (0.000) |    27.93 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|           10 |     1861 | 2026-02-27 | Aurora Young Blud       | L   | 0.947      | -            | -                | -                | -         |   -19.68 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|            9 |     2684 | 2026-02-12 | Bushido Wildcats        | L   | 0.845      | -            | -                | -                | -         |   -13.72 | hitori, Junyme, SHiNE, tAk, yksjupe |
-|            8 |     3849 | 2025-12-18 | Acend                   | L   | 0.473      | -            | -                | -                | -         |    -1.01 | fNk, hitori, Junyme, tAk, yksjupe   |
-|            7 |     3859 | 2025-12-18 | Fnatic                  | L   | 0.471      | -            | -                | -                | -         |    -1.26 | fNk, hitori, Junyme, tAk, yksjupe   |
-|            6 |     3865 | 2025-12-17 | Aimclub (Romanian team) | W   | 0.467      | 0.339        | 0.000 (0.000)    | 0.271 (0.043)    | 1 (0.467) |    10.39 | fNk, hitori, Junyme, tAk, yksjupe   |
-|            5 |     3875 | 2025-12-17 | Acend                   | L   | 0.466      | -            | -                | -                | -         |    -0.92 | fNk, hitori, Junyme, tAk, yksjupe   |
-|            4 |     3882 | 2025-12-17 | Aimclub (Romanian team) | W   | 0.465      | 0.339        | 0.000 (0.000)    | 0.271 (0.043)    | 1 (0.465) |    10.67 | fNk, hitori, Junyme, tAk, yksjupe   |
-|            3 |     4444 | 2025-11-20 | Nexus Gaming            | L   | 0.287      | -            | -                | -                | -         |    -1.53 | Fessor, fNk, Junyme, tAk, yksjupe   |
-|            2 |     4453 | 2025-11-20 | Infinite Gaming         | W   | 0.286      | 0.338        | 0.000 (0.000)    | 0.077 (0.007)    | 1 (0.286) |     2.46 | Fessor, fNk, Junyme, tAk, yksjupe   |
-|            1 |     4469 | 2025-11-20 | WOPA Esport             | L   | 0.285      | -            | -                | -                | -         |    -1.80 | Fessor, fNk, Junyme, tAk, yksjupe   |
+|           12 |     1678 | 2026-03-03 | WW Team                 | W   | 0.974      | 0.333        | 0.034 (0.011)    | 0.865 (0.281)    | 0 (0.000) |    27.28 | hitori, Junyme, SHiNE, tAk, yksjupe |
+|           11 |     1762 | 2026-03-01 | Acend                   | W   | 0.961      | 0.333        | 0.035 (0.011)    | 0.771 (0.247)    | 0 (0.000) |    27.94 | hitori, Junyme, SHiNE, tAk, yksjupe |
+|           10 |     1861 | 2026-02-27 | Aurora Young Blud       | L   | 0.947      | -            | -                | -                | -         |   -19.69 | hitori, Junyme, SHiNE, tAk, yksjupe |
+|            9 |     2685 | 2026-02-12 | Bushido Wildcats        | L   | 0.846      | -            | -                | -                | -         |   -13.72 | hitori, Junyme, SHiNE, tAk, yksjupe |
+|            8 |     3850 | 2025-12-18 | Acend                   | L   | 0.474      | -            | -                | -                | -         |    -1.01 | fNk, hitori, Junyme, tAk, yksjupe   |
+|            7 |     3860 | 2025-12-18 | Fnatic                  | L   | 0.472      | -            | -                | -                | -         |    -1.26 | fNk, hitori, Junyme, tAk, yksjupe   |
+|            6 |     3866 | 2025-12-17 | Aimclub (Romanian team) | W   | 0.468      | 0.339        | 0.000 (0.000)    | 0.271 (0.043)    | 1 (0.468) |    10.41 | fNk, hitori, Junyme, tAk, yksjupe   |
+|            5 |     3876 | 2025-12-17 | Acend                   | L   | 0.466      | -            | -                | -                | -         |    -0.92 | fNk, hitori, Junyme, tAk, yksjupe   |
+|            4 |     3883 | 2025-12-17 | Aimclub (Romanian team) | W   | 0.465      | 0.339        | 0.000 (0.000)    | 0.271 (0.043)    | 1 (0.465) |    10.69 | fNk, hitori, Junyme, tAk, yksjupe   |
+|            3 |     4445 | 2025-11-20 | Nexus Gaming            | L   | 0.288      | -            | -                | -                | -         |    -1.53 | Fessor, fNk, Junyme, tAk, yksjupe   |
+|            2 |     4454 | 2025-11-20 | Infinite Gaming         | W   | 0.287      | 0.338        | 0.000 (0.000)    | 0.077 (0.007)    | 1 (0.287) |     2.46 | Fessor, fNk, Junyme, tAk, yksjupe   |
+|            1 |     4470 | 2025-11-20 | WOPA Esport             | L   | 0.286      | -            | -                | -                | -         |    -1.80 | Fessor, fNk, Junyme, tAk, yksjupe   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($980.66)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($981.22)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-03-04 |      0.981 | $1,000.00      | $980.66         |
+| 2026-03-04 |      0.981 | $1,000.00      | $981.22         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

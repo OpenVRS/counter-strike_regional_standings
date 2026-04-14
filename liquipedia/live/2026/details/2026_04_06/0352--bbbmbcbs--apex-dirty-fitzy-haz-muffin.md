@@ -8,7 +8,7 @@ Regional Rank: [46]( ../../standings_asia_2026_04_06.md)<br />
 <br />
 Final Rank Value:  430.8<br />
 <br />
-Final Rank Value (430.8) = Starting Rank Value (418.3) + Head To Head Adjustments (12.5)<br />
+Final Rank Value (430.8) = Starting Rank Value (418.4) + Head To Head Adjustments (12.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.009<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 418.3
-- 400 + ( ( 0.009 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 418.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 418.4
+- 400 + ( ( 0.009 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 418.4
 
 
 #### Factors<br />
@@ -40,27 +40,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      765 | 2026-03-22 | MARKnLARRY                       | L   | 1.000      | -            | -                | -                | -         |   -12.78 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|           14 |      765 | 2026-03-22 | MARKnLARRY                       | L   | 1.000      | -            | -                | -                | -         |   -12.79 | ApeX, Dirty, Fitzy, HaZ, muffin  |
 |           13 |      882 | 2026-03-20 | Muttley Crew                     | L   | 1.000      | -            | -                | -                | -         |   -14.09 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|           12 |     2054 | 2026-02-24 | Arcade Esports (Australian team) | L   | 0.924      | -            | -                | -                | -         |    -2.74 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|           11 |     2166 | 2026-02-22 | Mindfreak (Australian team)      | L   | 0.911      | -            | -                | -                | -         |    -1.52 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|           10 |     2218 | 2026-02-21 | Time Waves                       | W   | 0.904      | 0.318        | 0.000 (0.000)    | 0.091 (0.026)    | 0 (0.000) |    14.63 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|            9 |     2266 | 2026-02-20 | Rooster                          | L   | 0.898      | -            | -                | -                | -         |    -2.46 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|            8 |     2272 | 2026-02-20 | Shanghai Sharks ESC              | W   | 0.898      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.75 | Arcay, Dirty, Fitzy, HaZ, muffin |
-|            7 |     2311 | 2026-02-19 | FURY                             | W   | 0.891      | 0.278        | 0.000 (0.000)    | 0.021 (0.005)    | 0 (0.000) |    15.99 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|           12 |     2054 | 2026-02-24 | Arcade Esports (Australian team) | L   | 0.925      | -            | -                | -                | -         |    -2.75 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|           11 |     2166 | 2026-02-22 | Mindfreak (Australian team)      | L   | 0.911      | -            | -                | -                | -         |    -1.51 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|           10 |     2218 | 2026-02-21 | Time Waves                       | W   | 0.905      | 0.318        | 0.000 (0.000)    | 0.091 (0.026)    | 0 (0.000) |    14.64 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            9 |     2266 | 2026-02-20 | Rooster                          | L   | 0.899      | -            | -                | -                | -         |    -2.47 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            8 |     2272 | 2026-02-20 | Shanghai Sharks ESC              | W   | 0.898      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.76 | Arcay, Dirty, Fitzy, HaZ, muffin |
+|            7 |     2311 | 2026-02-19 | FURY                             | W   | 0.892      | 0.278        | 0.000 (0.000)    | 0.021 (0.005)    | 0 (0.000) |    15.99 | ApeX, Dirty, Fitzy, HaZ, muffin  |
 |            6 |     2364 | 2026-02-18 | THUNDERdOWNUNDER                 | L   | 0.885      | -            | -                | -                | -         |    -0.20 | ApeX, Arcay, Fitzy, HaZ, muffin  |
-|            5 |     2429 | 2026-02-17 | Exsto Gaming                     | W   | 0.878      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    13.03 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|            4 |     2435 | 2026-02-17 | Time Waves                       | L   | 0.878      | -            | -                | -                | -         |   -12.77 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|            3 |     4215 | 2025-11-29 | Arcade Esports (Australian team) | L   | 0.345      | -            | -                | -                | -         |    -0.66 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|            2 |     4222 | 2025-11-28 | Rooster                          | L   | 0.344      | -            | -                | -                | -         |    -0.83 | ApeX, Dirty, Fitzy, HaZ, muffin  |
-|            1 |     4223 | 2025-11-28 | Blingus                          | W   | 0.343      | 0.279        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.343) |     5.11 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            5 |     2430 | 2026-02-17 | Exsto Gaming                     | W   | 0.879      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    13.04 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            4 |     2436 | 2026-02-17 | Time Waves                       | L   | 0.878      | -            | -                | -                | -         |   -12.78 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            3 |     4216 | 2025-11-29 | Arcade Esports (Australian team) | L   | 0.345      | -            | -                | -                | -         |    -0.67 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            2 |     4223 | 2025-11-28 | Rooster                          | L   | 0.345      | -            | -                | -                | -         |    -0.83 | ApeX, Dirty, Fitzy, HaZ, muffin  |
+|            1 |     4224 | 2025-11-28 | Blingus                          | W   | 0.344      | 0.279        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.344) |     5.11 | ApeX, Dirty, Fitzy, HaZ, muffin  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

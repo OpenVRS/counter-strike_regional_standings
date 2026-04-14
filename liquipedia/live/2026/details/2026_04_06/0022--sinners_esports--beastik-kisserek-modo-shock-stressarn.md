@@ -6,22 +6,22 @@ Global Rank: [22](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [17]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  1480.6<br />
+Final Rank Value:  1480.4<br />
 <br />
-Final Rank Value (1480.6) = Starting Rank Value (1528.3) + Head To Head Adjustments (-47.7)<br />
+Final Rank Value (1480.4) = Starting Rank Value (1528.1) + Head To Head Adjustments (-47.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.572[<sup>1</sup>](#table2)
 - Bounty Collected: 0.444[<sup>2</sup>](#table1)
 - Opponent Network: 0.324[<sup>2</sup>](#table1)
-- LAN Wins: 0.966[<sup>2</sup>](#table1)
+- LAN Wins: 0.967[<sup>2</sup>](#table1)
 
 The average of these factors is 0.577<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1528.3
-- 400 + ( ( 0.577 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1528.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1528.1
+- 400 + ( ( 0.577 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1528.1
 
 
 #### Factors<br />
@@ -41,76 +41,76 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           64 |      338 | 2026-03-30 | BetBoom Team         | L   | 1.000      | -            | -                | -                | -         |   -17.57 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           63 |      379 | 2026-03-29 | JiJieHao             | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.15 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           63 |      379 | 2026-03-29 | JiJieHao             | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.16 | beastik, kisserek, MoDo, SHOCK, stressarN |
 |           62 |      388 | 2026-03-29 | BIG                  | L   | 1.000      | -            | -                | -                | -         |   -15.25 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           61 |      389 | 2026-03-29 | OG                   | W   | 1.000      | -            | -                | -                | 1 (1.000) |     6.28 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           60 |      519 | 2026-03-26 | BIG                  | W   | 1.000      | 0.435        | 0.167 (0.073)    | 0.762 (0.331)    | 1 (1.000) |    17.82 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           59 |      534 | 2026-03-26 | BetBoom Team         | W   | 1.000      | 0.435        | 0.116 (0.050)    | 0.748 (0.325)    | 1 (1.000) |    16.10 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           58 |      558 | 2026-03-25 | G2 Esports           | W   | 1.000      | 0.435        | 0.348 (0.151)    | -                | 1 (1.000) |    23.57 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           61 |      389 | 2026-03-29 | OG                   | W   | 1.000      | -            | -                | -                | 1 (1.000) |     6.29 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           60 |      519 | 2026-03-26 | BIG                  | W   | 1.000      | 0.435        | 0.167 (0.072)    | 0.762 (0.331)    | 1 (1.000) |    17.82 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           59 |      534 | 2026-03-26 | BetBoom Team         | W   | 1.000      | 0.435        | 0.115 (0.050)    | 0.748 (0.325)    | 1 (1.000) |    16.10 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           58 |      558 | 2026-03-25 | G2 Esports           | W   | 1.000      | 0.435        | 0.347 (0.151)    | -                | 1 (1.000) |    23.57 | beastik, kisserek, MoDo, SHOCK, stressarN |
 |           57 |      587 | 2026-03-25 | BESTIA               | W   | 1.000      | 0.435        | -                | 0.817 (0.355)    | 1 (1.000) |     9.57 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           56 |     1513 | 2026-03-07 | Team Nemesis         | L   | 0.998      | -            | -                | -                | -         |   -20.88 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           55 |     1633 | 2026-03-04 | ECSTATIC             | W   | 0.980      | 0.435        | 0.104 (0.044)    | 0.643 (0.274)    | -         |    11.09 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           54 |     1724 | 2026-03-02 | AM Gaming            | L   | 0.967      | -            | -                | -                | -         |   -23.86 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           53 |     1868 | 2026-02-27 | SPARTA Esports       | L   | 0.946      | -            | -                | -                | -         |   -21.74 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           52 |     1914 | 2026-02-26 | WW Team              | W   | 0.940      | 0.435        | -                | 0.865 (0.353)    | -         |     8.87 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           51 |     1972 | 2026-02-25 | TNC Esports          | W   | 0.934      | 0.435        | -                | 1.000 (0.406)    | -         |     3.02 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           50 |     2036 | 2026-02-24 | Illwill              | L   | 0.925      | -            | -                | -                | -         |   -17.73 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           49 |     2049 | 2026-02-24 | GamerLegion          | L   | 0.925      | -            | -                | -                | -         |   -13.01 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           48 |     2075 | 2026-02-23 | ECSTATIC             | W   | 0.919      | 0.341        | 0.104 (0.033)    | -                | 1 (0.919) |     8.46 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           47 |     2087 | 2026-02-23 | MASONIC              | W   | 0.918      | -            | -                | -                | 1 (0.918) |     2.31 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           46 |     2100 | 2026-02-22 | Phantom Esports      | L   | 0.914      | -            | -                | -                | -         |   -24.78 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           45 |     2111 | 2026-02-22 | ECSTATIC             | W   | 0.914      | 0.341        | 0.104 (0.032)    | -                | 1 (0.914) |     7.46 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           44 |     2131 | 2026-02-22 | GamerLegion          | W   | 0.913      | 0.341        | 0.204 (0.064)    | -                | 1 (0.913) |    14.73 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           56 |     1513 | 2026-03-07 | Team Nemesis         | L   | 0.999      | -            | -                | -                | -         |   -20.89 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           55 |     1633 | 2026-03-04 | ECSTATIC             | W   | 0.981      | 0.435        | 0.103 (0.044)    | 0.643 (0.274)    | -         |    11.11 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           54 |     1724 | 2026-03-02 | AM Gaming            | L   | 0.968      | -            | -                | -                | -         |   -23.88 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           53 |     1868 | 2026-02-27 | SPARTA Esports       | L   | 0.946      | -            | -                | -                | -         |   -21.87 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           52 |     1914 | 2026-02-26 | WW Team              | W   | 0.941      | 0.435        | -                | 0.865 (0.354)    | -         |     8.88 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           51 |     1972 | 2026-02-25 | TNC Esports          | W   | 0.934      | 0.435        | -                | 1.000 (0.406)    | -         |     3.03 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           50 |     2036 | 2026-02-24 | Illwill              | L   | 0.926      | -            | -                | -                | -         |   -17.73 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           49 |     2049 | 2026-02-24 | GamerLegion          | L   | 0.925      | -            | -                | -                | -         |   -13.02 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           48 |     2075 | 2026-02-23 | ECSTATIC             | W   | 0.919      | 0.341        | 0.103 (0.032)    | -                | 1 (0.919) |     8.47 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           47 |     2087 | 2026-02-23 | MASONIC              | W   | 0.918      | -            | -                | -                | 1 (0.918) |     2.37 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           46 |     2100 | 2026-02-22 | Phantom Esports      | L   | 0.915      | -            | -                | -                | -         |   -24.79 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           45 |     2111 | 2026-02-22 | ECSTATIC             | W   | 0.914      | 0.341        | 0.103 (0.032)    | -                | 1 (0.914) |     7.47 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           44 |     2131 | 2026-02-22 | GamerLegion          | W   | 0.914      | 0.341        | 0.203 (0.063)    | -                | 1 (0.914) |    14.75 | beastik, kisserek, MoDo, SHOCK, stressarN |
 |           43 |     2138 | 2026-02-22 | Avanti Esport        | W   | 0.913      | -            | -                | -                | -         |     0.06 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           42 |     2148 | 2026-02-22 | Ex-MINLATE           | W   | 0.912      | -            | -                | -                | -         |     1.77 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           41 |     2248 | 2026-02-20 | Alliance             | L   | 0.899      | -            | -                | -                | -         |   -16.30 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           40 |     2289 | 2026-02-19 | Acend                | W   | 0.894      | 0.435        | -                | 0.771 (0.300)    | -         |     4.44 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           39 |     2394 | 2026-02-17 | Lazer Cats           | W   | 0.881      | -            | -                | -                | -         |     1.70 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           38 |     2660 | 2026-02-12 | 33                   | L   | 0.847      | -            | -                | -                | -         |   -19.07 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           37 |     2670 | 2026-02-12 | Fnatic               | W   | 0.846      | -            | -                | -                | -         |     4.48 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           36 |     2699 | 2026-02-11 | Johnny Speeds        | W   | 0.841      | -            | -                | -                | -         |     5.92 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           35 |     2708 | 2026-02-11 | BetBoom Team         | L   | 0.840      | -            | -                | -                | -         |   -14.91 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           34 |     2743 | 2026-02-10 | Alliance             | W   | 0.834      | -            | -                | -                | -         |    11.07 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           33 |     2761 | 2026-02-10 | Nuclear TigeRES      | W   | 0.831      | -            | -                | -                | -         |     7.57 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           32 |     2934 | 2026-02-03 | Magic (Russian team) | L   | 0.787      | -            | -                | -                | -         |   -20.21 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           31 |     2950 | 2026-02-03 | GenOne               | L   | 0.785      | -            | -                | -                | -         |   -23.20 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           30 |     3068 | 2026-01-30 | Nemiga Gaming        | W   | 0.761      | 0.435        | 0.138 (0.046)    | 0.947 (0.313)    | -         |     7.64 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           29 |     3086 | 2026-01-30 | 1w Team              | W   | 0.758      | 0.435        | 0.099 (0.032)    | -                | -         |     7.56 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           28 |     3115 | 2026-01-29 | Team Nemesis         | W   | 0.751      | 0.435        | 0.109 (0.036)    | 1.000 (0.326)    | -         |     7.74 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           27 |     3140 | 2026-01-28 | Nuclear TigeRES      | W   | 0.745      | 0.435        | -                | 0.798 (0.258)    | -         |     6.37 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           26 |     3546 | 2026-01-16 | Team Spirit          | L   | 0.666      | -            | -                | -                | -         |    -6.48 | beastik, kisserek, MoDo, SHOCK, stressarN |
-|           25 |     4198 | 2025-11-29 | Tung Tung Sahur      | W   | 0.346      | -            | -                | -                | -         |     0.23 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           24 |     4241 | 2025-11-28 | UNiTY esports        | W   | 0.339      | -            | -                | -                | -         |     0.26 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           23 |     4443 | 2025-11-20 | PARIVISION           | L   | 0.287      | -            | -                | -                | -         |    -1.21 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           22 |     4481 | 2025-11-19 | ESC Gaming           | W   | 0.280      | -            | -                | -                | -         |     0.88 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           21 |     4519 | 2025-11-16 | Monte                | W   | 0.260      | -            | -                | -                | -         |     3.71 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           20 |     4564 | 2025-11-14 | KOLESIE              | W   | 0.247      | -            | -                | -                | -         |     1.19 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           19 |     4652 | 2025-11-11 | Monte                | W   | 0.227      | -            | -                | -                | -         |     3.27 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           18 |     4901 | 2025-11-06 | ECSTATIC             | L   | 0.193      | -            | -                | -                | -         |    -4.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           17 |     4934 | 2025-11-05 | Team Spirit Academy  | W   | 0.185      | -            | -                | -                | -         |     0.05 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           16 |     4991 | 2025-11-03 | JiJieHao             | W   | 0.172      | -            | -                | -                | -         |     0.62 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           15 |     5128 | 2025-10-28 | SIXSEVEN             | W   | 0.134      | -            | -                | -                | -         |     0.05 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           14 |     5221 | 2025-10-26 | ALLINNERS            | W   | 0.120      | -            | -                | -                | -         |     0.03 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           13 |     5345 | 2025-10-24 | ARCRED               | W   | 0.107      | -            | -                | -                | -         |     0.95 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           12 |     5409 | 2025-10-23 | ECSTATIC             | W   | 0.098      | -            | -                | -                | -         |     1.08 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           11 |     5439 | 2025-10-21 | CYBERSHOKE Esports   | W   | 0.086      | -            | -                | -                | -         |     0.47 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|           10 |     5617 | 2025-10-14 | Monte                | L   | 0.040      | -            | -                | -                | -         |    -0.68 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            9 |     5644 | 2025-10-13 | BetBoom Team         | L   | 0.034      | -            | -                | -                | -         |    -0.57 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            8 |     5648 | 2025-10-13 | ECSTATIC             | W   | 0.033      | -            | -                | -                | -         |     0.36 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            7 |     5655 | 2025-10-12 | 9INE                 | W   | 0.027      | -            | -                | -                | -         |     0.24 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            6 |     5672 | 2025-10-11 | Partizan Esports     | W   | 0.020      | -            | -                | -                | -         |     0.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            5 |     5684 | 2025-10-11 | Tung Tung Sahur      | W   | 0.019      | -            | -                | -                | -         |     0.01 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            4 |     5708 | 2025-10-10 | Ex-Zero Tenacity     | L   | 0.013      | -            | -                | -                | -         |    -0.41 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            3 |     5722 | 2025-10-10 | Tung Tung Sahur      | W   | 0.012      | -            | -                | -                | -         |     0.01 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            2 |     5768 | 2025-10-09 | BRUTE                | W   | 0.005      | -            | -                | -                | -         |     0.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
-|            1 |     5809 | 2025-10-08 | Bebop                | W   | 0.000      | -            | -                | -                | -         |     0.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           42 |     2148 | 2026-02-22 | Ex-MINLATE           | W   | 0.913      | -            | -                | -                | -         |     1.77 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           41 |     2248 | 2026-02-20 | Alliance             | L   | 0.900      | -            | -                | -                | -         |   -16.31 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           40 |     2289 | 2026-02-19 | Acend                | W   | 0.894      | 0.435        | -                | 0.771 (0.300)    | -         |     4.45 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           39 |     2395 | 2026-02-17 | Lazer Cats           | W   | 0.881      | -            | -                | -                | -         |     1.70 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           38 |     2661 | 2026-02-12 | 33                   | L   | 0.848      | -            | -                | -                | -         |   -19.09 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           37 |     2671 | 2026-02-12 | Fnatic               | W   | 0.847      | -            | -                | -                | -         |     4.49 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           36 |     2700 | 2026-02-11 | Johnny Speeds        | W   | 0.841      | -            | -                | -                | -         |     5.93 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           35 |     2709 | 2026-02-11 | BetBoom Team         | L   | 0.840      | -            | -                | -                | -         |   -14.92 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           34 |     2744 | 2026-02-10 | Alliance             | W   | 0.834      | -            | -                | -                | -         |    11.08 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           33 |     2762 | 2026-02-10 | Nuclear TigeRES      | W   | 0.832      | -            | -                | -                | -         |     7.58 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           32 |     2935 | 2026-02-03 | Magic (Russian team) | L   | 0.788      | -            | -                | -                | -         |   -20.22 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           31 |     2951 | 2026-02-03 | GenOne               | L   | 0.786      | -            | -                | -                | -         |   -23.21 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           30 |     3069 | 2026-01-30 | Nemiga Gaming        | W   | 0.761      | 0.435        | 0.137 (0.045)    | 0.947 (0.313)    | -         |     7.64 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           29 |     3087 | 2026-01-30 | 1w Team              | W   | 0.759      | 0.435        | 0.098 (0.032)    | -                | -         |     7.56 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           28 |     3116 | 2026-01-29 | Team Nemesis         | W   | 0.752      | 0.435        | 0.109 (0.035)    | 1.000 (0.327)    | -         |     7.75 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           27 |     3141 | 2026-01-28 | Nuclear TigeRES      | W   | 0.745      | 0.435        | -                | 0.798 (0.258)    | -         |     6.38 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           26 |     3547 | 2026-01-16 | Team Spirit          | L   | 0.666      | -            | -                | -                | -         |    -6.48 | beastik, kisserek, MoDo, SHOCK, stressarN |
+|           25 |     4199 | 2025-11-29 | Tung Tung Sahur      | W   | 0.346      | -            | -                | -                | -         |     0.23 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           24 |     4242 | 2025-11-28 | UNiTY esports        | W   | 0.339      | -            | -                | -                | -         |     0.26 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           23 |     4444 | 2025-11-20 | PARIVISION           | L   | 0.288      | -            | -                | -                | -         |    -1.21 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           22 |     4482 | 2025-11-19 | ESC Gaming           | W   | 0.281      | -            | -                | -                | -         |     0.88 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           21 |     4520 | 2025-11-16 | Monte                | W   | 0.261      | -            | -                | -                | -         |     3.72 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           20 |     4565 | 2025-11-14 | KOLESIE              | W   | 0.248      | -            | -                | -                | -         |     1.19 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           19 |     4653 | 2025-11-11 | Monte                | W   | 0.228      | -            | -                | -                | -         |     3.28 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           18 |     4902 | 2025-11-06 | ECSTATIC             | L   | 0.194      | -            | -                | -                | -         |    -4.01 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           17 |     4935 | 2025-11-05 | Team Spirit Academy  | W   | 0.186      | -            | -                | -                | -         |     0.05 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           16 |     4992 | 2025-11-03 | JiJieHao             | W   | 0.173      | -            | -                | -                | -         |     0.62 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           15 |     5129 | 2025-10-28 | SIXSEVEN             | W   | 0.134      | -            | -                | -                | -         |     0.05 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           14 |     5222 | 2025-10-26 | ALLINNERS            | W   | 0.121      | -            | -                | -                | -         |     0.03 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           13 |     5346 | 2025-10-24 | ARCRED               | W   | 0.107      | -            | -                | -                | -         |     0.96 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           12 |     5410 | 2025-10-23 | ECSTATIC             | W   | 0.099      | -            | -                | -                | -         |     1.09 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           11 |     5440 | 2025-10-21 | CYBERSHOKE Esports   | W   | 0.086      | -            | -                | -                | -         |     0.47 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|           10 |     5618 | 2025-10-14 | Monte                | L   | 0.041      | -            | -                | -                | -         |    -0.69 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            9 |     5645 | 2025-10-13 | BetBoom Team         | L   | 0.034      | -            | -                | -                | -         |    -0.58 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            8 |     5649 | 2025-10-13 | ECSTATIC             | W   | 0.033      | -            | -                | -                | -         |     0.37 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            7 |     5656 | 2025-10-12 | 9INE                 | W   | 0.027      | -            | -                | -                | -         |     0.25 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            6 |     5673 | 2025-10-11 | Partizan Esports     | W   | 0.021      | -            | -                | -                | -         |     0.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            5 |     5685 | 2025-10-11 | Tung Tung Sahur      | W   | 0.019      | -            | -                | -                | -         |     0.01 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            4 |     5709 | 2025-10-10 | Ex-Zero Tenacity     | L   | 0.014      | -            | -                | -                | -         |    -0.43 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            3 |     5723 | 2025-10-10 | Tung Tung Sahur      | W   | 0.012      | -            | -                | -                | -         |     0.01 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            2 |     5769 | 2025-10-09 | BRUTE                | W   | 0.006      | -            | -                | -                | -         |     0.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
+|            1 |     5810 | 2025-10-08 | Bebop                | W   | 0.001      | -            | -                | -                | -         |     0.00 | beastik, kisserek, Pepo, SHOCK, stressarN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($81,976.52)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($82,047.37)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.18) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -118,15 +118,15 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-03-26 |      1.000 | $30,000.00     | $30,000.00      |
-| 2026-02-27 |      0.947 | $5,000.00      | $4,733.86       |
-| 2026-02-24 |      0.926 | $1,769.00      | $1,638.48       |
-| 2026-02-20 |      0.900 | $5,000.00      | $4,501.22       |
-| 2026-01-30 |      0.761 | $22,000.00     | $16,731.98      |
-| 2026-01-18 |      0.680 | $7,500.00      | $5,103.04       |
-| 2025-11-29 |      0.346 | $36,045.00     | $12,463.50      |
-| 2025-11-16 |      0.260 | $12,000.00     | $3,124.59       |
-| 2025-11-06 |      0.193 | $15,000.00     | $2,896.02       |
-| 2025-10-13 |      0.034 | $23,216.00     | $783.83         |
+| 2026-02-27 |      0.947 | $5,000.00      | $4,736.64       |
+| 2026-02-24 |      0.927 | $1,769.00      | $1,639.46       |
+| 2026-02-20 |      0.901 | $5,000.00      | $4,504.00       |
+| 2026-01-30 |      0.761 | $22,000.00     | $16,744.21      |
+| 2026-01-18 |      0.681 | $7,500.00      | $5,107.21       |
+| 2025-11-29 |      0.346 | $36,045.00     | $12,483.53      |
+| 2025-11-16 |      0.261 | $12,000.00     | $3,131.26       |
+| 2025-11-06 |      0.194 | $15,000.00     | $2,904.35       |
+| 2025-10-13 |      0.034 | $23,216.00     | $796.72         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

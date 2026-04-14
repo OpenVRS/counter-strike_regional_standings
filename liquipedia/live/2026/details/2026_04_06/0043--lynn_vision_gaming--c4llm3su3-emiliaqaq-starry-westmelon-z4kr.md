@@ -6,9 +6,9 @@ Global Rank: [43](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [3]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  1334.4<br />
+Final Rank Value:  1334.3<br />
 <br />
-Final Rank Value (1334.4) = Starting Rank Value (1248.7) + Head To Head Adjustments (85.7)<br />
+Final Rank Value (1334.3) = Starting Rank Value (1248.6) + Head To Head Adjustments (85.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.434<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1248.7
-- 400 + ( ( 0.434 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1248.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1248.6
+- 400 + ( ( 0.434 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1248.6
 
 
 #### Factors<br />
@@ -40,50 +40,50 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           37 |       17 | 2026-04-05 | TYLOO                      | W   | 1.000      | 0.352        | 0.113 (0.040)    | 0.342 (0.121)    | 1 (1.000) |    21.17 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           36 |       67 | 2026-04-04 | TYLOO                      | W   | 1.000      | 0.352        | 0.113 (0.040)    | 0.342 (0.121)    | 1 (1.000) |    22.27 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           37 |       17 | 2026-04-05 | TYLOO                      | W   | 1.000      | 0.352        | 0.112 (0.040)    | 0.342 (0.121)    | 1 (1.000) |    21.17 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           36 |       67 | 2026-04-04 | TYLOO                      | W   | 1.000      | 0.352        | 0.112 (0.040)    | 0.342 (0.121)    | 1 (1.000) |    22.26 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           35 |      115 | 2026-04-02 | Rare Atom                  | W   | 1.000      | 0.352        | 0.032 (0.011)    | 0.404 (0.142)    | 1 (1.000) |     8.90 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           34 |      329 | 2026-03-30 | Change The Game            | W   | 1.000      | 0.352        | -                | 0.252 (0.089)    | 1 (1.000) |     3.21 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           33 |      340 | 2026-03-29 | Chaos Gaming General       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.46 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           32 |      770 | 2026-03-21 | Rare Atom                  | W   | 1.000      | 0.284        | 0.032 (0.009)    | 0.404 (0.115)    | 1 (1.000) |    11.02 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           32 |      770 | 2026-03-21 | Rare Atom                  | W   | 1.000      | 0.284        | 0.032 (0.009)    | 0.404 (0.115)    | 1 (1.000) |    11.01 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           31 |      832 | 2026-03-20 | Morningstar                | W   | 1.000      | 0.284        | 0.027 (0.008)    | 0.316 (0.090)    | 1 (1.000) |     7.38 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           30 |     1237 | 2026-03-12 | Chinggis Warriors          | W   | 1.000      | -            | -                | -                | -         |    11.77 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           30 |     1237 | 2026-03-12 | Chinggis Warriors          | W   | 1.000      | -            | -                | -                | -         |    11.76 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           29 |     1252 | 2026-03-12 | Alter Ego                  | W   | 1.000      | -            | -                | -                | -         |     2.30 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           28 |     1257 | 2026-03-11 | The Huns Esports           | W   | 1.000      | -            | -                | -                | -         |    16.13 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           27 |     1285 | 2026-03-11 | Morningstar                | W   | 1.000      | 0.143        | 0.027 (0.004)    | -                | -         |     8.92 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           26 |     1327 | 2026-03-10 | NEXVOID                    | W   | 1.000      | -            | -                | -                | -         |    14.05 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           25 |     1336 | 2026-03-09 | Ground Zero Gaming         | W   | 1.000      | -            | -                | -                | -         |     7.03 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           25 |     1336 | 2026-03-09 | Ground Zero Gaming         | W   | 1.000      | -            | -                | -                | -         |     6.99 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           24 |     1402 | 2026-03-08 | Alter Ego                  | L   | 1.000      | -            | -                | -                | -         |   -29.63 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           23 |     1892 | 2026-02-26 | The Huns Esports           | L   | 0.943      | -            | -                | -                | -         |   -17.06 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           22 |     1944 | 2026-02-26 | Rare Atom                  | L   | 0.939      | -            | -                | -                | -         |   -15.84 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           23 |     1892 | 2026-02-26 | The Huns Esports           | L   | 0.944      | -            | -                | -                | -         |   -17.07 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           22 |     1944 | 2026-02-26 | Rare Atom                  | L   | 0.939      | -            | -                | -                | -         |   -15.85 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 |           21 |     1959 | 2026-02-25 | Chinggis Warriors          | W   | 0.937      | -            | -                | -                | -         |    10.82 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           20 |     2810 | 2026-02-08 | TYLOO                      | L   | 0.819      | -            | -                | -                | -         |    -6.38 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           19 |     2837 | 2026-02-07 | Morningstar                | W   | 0.811      | 0.769        | 0.027 (0.017)    | 0.316 (0.197)    | -         |     5.79 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           18 |     2878 | 2026-02-06 | Alter Ego                  | W   | 0.804      | 0.769        | -                | 0.214 (0.132)    | -         |     1.16 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           17 |     3240 | 2026-01-24 | JiJieHao                   | L   | 0.718      | -            | -                | -                | -         |   -14.37 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           16 |     3273 | 2026-01-23 | BMZ                        | W   | 0.713      | 0.423        | -                | 0.275 (0.083)    | 1 (0.713) |     4.80 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           15 |     3417 | 2026-01-18 | Walk The Talk              | W   | 0.683      | -            | -                | -                | -         |     0.17 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           14 |     4274 | 2025-11-25 | The Huns Esports           | L   | 0.321      | -            | -                | -                | -         |    -5.78 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           13 |     4300 | 2025-11-24 | Ninjas in Pyjamas          | L   | 0.315      | -            | -                | -                | -         |    -2.88 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           12 |     4315 | 2025-11-24 | FaZe Clan                  | L   | 0.313      | -            | -                | -                | -         |    -1.91 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           11 |     4454 | 2025-11-20 | Rare Atom                  | W   | 0.286      | -            | -                | -                | -         |     4.11 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|           10 |     4484 | 2025-11-19 | Chinggis Warriors          | W   | 0.279      | -            | -                | -                | -         |     3.76 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            9 |     4529 | 2025-11-15 | Rare Atom                  | W   | 0.257      | -            | -                | -                | 1 (0.257) |     3.83 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            8 |     4554 | 2025-11-14 | 9INE                       | W   | 0.251      | 0.429        | 0.054 (0.006)    | -                | 1 (0.251) |     5.11 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            7 |     4576 | 2025-11-13 | Last Bullet (Chinese team) | W   | 0.244      | -            | -                | -                | -         |     0.58 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            6 |     4948 | 2025-11-04 | Team Vitality              | L   | 0.183      | -            | -                | -                | -         |    -0.09 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            5 |     4975 | 2025-11-03 | 3DMAX                      | W   | 0.176      | 1.000        | 0.215 (0.038)    | 0.492 (0.087)    | -         |     4.80 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            4 |     5000 | 2025-11-02 | FURIA                      | L   | 0.169      | -            | -                | -                | -         |    -0.18 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            3 |     5594 | 2025-10-15 | 3DMAX                      | L   | 0.045      | -            | -                | -                | -         |    -0.18 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            2 |     5625 | 2025-10-14 | GamerLegion                | W   | 0.038      | 1.000        | 0.204 (0.008)    | -                | -         |     1.00 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
-|            1 |     5632 | 2025-10-13 | MIBR                       | L   | 0.037      | -            | -                | -                | -         |    -0.52 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           20 |     2811 | 2026-02-08 | TYLOO                      | L   | 0.819      | -            | -                | -                | -         |    -6.39 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           19 |     2838 | 2026-02-07 | Morningstar                | W   | 0.812      | 0.769        | 0.027 (0.017)    | 0.316 (0.197)    | -         |     5.80 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           18 |     2879 | 2026-02-06 | Alter Ego                  | W   | 0.805      | 0.769        | -                | 0.214 (0.132)    | -         |     1.16 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           17 |     3241 | 2026-01-24 | JiJieHao                   | L   | 0.719      | -            | -                | -                | -         |   -14.39 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           16 |     3274 | 2026-01-23 | BMZ                        | W   | 0.714      | 0.423        | -                | 0.275 (0.083)    | 1 (0.714) |     4.80 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           15 |     3418 | 2026-01-18 | Walk The Talk              | W   | 0.683      | -            | -                | -                | -         |     0.17 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           14 |     4275 | 2025-11-25 | The Huns Esports           | L   | 0.321      | -            | -                | -                | -         |    -5.79 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           13 |     4301 | 2025-11-24 | Ninjas in Pyjamas          | L   | 0.315      | -            | -                | -                | -         |    -2.89 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           12 |     4316 | 2025-11-24 | FaZe Clan                  | L   | 0.314      | -            | -                | -                | -         |    -1.92 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           11 |     4455 | 2025-11-20 | Rare Atom                  | W   | 0.286      | -            | -                | -                | -         |     4.12 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|           10 |     4485 | 2025-11-19 | Chinggis Warriors          | W   | 0.280      | -            | -                | -                | -         |     3.76 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            9 |     4530 | 2025-11-15 | Rare Atom                  | W   | 0.258      | -            | -                | -                | 1 (0.258) |     3.83 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            8 |     4555 | 2025-11-14 | 9INE                       | W   | 0.251      | 0.429        | 0.054 (0.006)    | -                | 1 (0.251) |     5.13 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            7 |     4577 | 2025-11-13 | Last Bullet (Chinese team) | W   | 0.244      | -            | -                | -                | -         |     0.59 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            6 |     4949 | 2025-11-04 | Team Vitality              | L   | 0.183      | -            | -                | -                | -         |    -0.09 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            5 |     4976 | 2025-11-03 | 3DMAX                      | W   | 0.176      | 1.000        | 0.215 (0.038)    | 0.492 (0.087)    | -         |     4.82 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            4 |     5001 | 2025-11-02 | FURIA                      | L   | 0.170      | -            | -                | -                | -         |    -0.18 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            3 |     5595 | 2025-10-15 | 3DMAX                      | L   | 0.046      | -            | -                | -                | -         |    -0.18 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            2 |     5626 | 2025-10-14 | GamerLegion                | W   | 0.038      | 1.000        | 0.203 (0.008)    | -                | -         |     1.01 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
+|            1 |     5633 | 2025-10-13 | MIBR                       | L   | 0.037      | -            | -                | -                | -         |    -0.53 | C4LLM3SU3, EmiliaQAQ, Starry, westmelon, z4kr |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($21,989.03)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($22,022.61)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.05) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -92,10 +92,10 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2026-04-05 |      1.000 | $5,812.00      | $5,812.00       |
 | 2026-03-21 |      1.000 | $1,650.00      | $1,650.00       |
-| 2026-01-25 |      0.725 | $4,302.00      | $3,117.01       |
-| 2025-11-15 |      0.257 | $21,128.00     | $5,429.96       |
-| 2025-11-09 |      0.211 | $25,000.00     | $5,273.46       |
-| 2025-10-19 |      0.071 | $10,000.00     | $706.60         |
+| 2026-01-25 |      0.725 | $4,302.00      | $3,119.40       |
+| 2025-11-15 |      0.258 | $21,128.00     | $5,441.70       |
+| 2025-11-09 |      0.211 | $25,000.00     | $5,287.35       |
+| 2025-10-19 |      0.071 | $10,000.00     | $712.16         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

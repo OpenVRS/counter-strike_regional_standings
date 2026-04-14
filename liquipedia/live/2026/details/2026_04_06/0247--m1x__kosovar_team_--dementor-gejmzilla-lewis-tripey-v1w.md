@@ -6,9 +6,9 @@ Global Rank: [247](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [159]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  652.9<br />
+Final Rank Value:  653.0<br />
 <br />
-Final Rank Value (652.9) = Starting Rank Value (630.2) + Head To Head Adjustments (22.7)<br />
+Final Rank Value (653.0) = Starting Rank Value (630.2) + Head To Head Adjustments (22.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2015 | 2026-02-24 | HYPERSPIRIT       | L   | 0.927      | -            | -                | -                | -         |    -3.92 | Dementor, gejmzilla, Lewis, tripey, v1w |
-|            4 |     2020 | 2026-02-24 | Insiders Esport   | W   | 0.926      | 0.354        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.926) |     5.60 | Dementor, gejmzilla, Lewis, tripey, v1w |
-|            3 |     2034 | 2026-02-24 | HYPERSPIRIT       | L   | 0.925      | -            | -                | -                | -         |    -3.84 | Dementor, gejmzilla, Lewis, tripey, v1w |
-|            2 |     2836 | 2026-02-07 | Ninjas in Pyjamas | L   | 0.811      | -            | -                | -                | -         |    -0.31 | Dementor, gejmzilla, Lewis, tripey, v1w |
-|            1 |     2874 | 2026-02-06 | 3DMAX             | W   | 0.805      | 0.769        | 0.215 (0.133)    | 0.492 (0.304)    | 0 (0.000) |    25.20 | Dementor, gejmzilla, Lewis, tripey, v1w |
+|            5 |     2015 | 2026-02-24 | HYPERSPIRIT       | L   | 0.928      | -            | -                | -                | -         |    -3.91 | Dementor, gejmzilla, Lewis, tripey, v1w |
+|            4 |     2020 | 2026-02-24 | Insiders Esport   | W   | 0.927      | 0.354        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.927) |     5.60 | Dementor, gejmzilla, Lewis, tripey, v1w |
+|            3 |     2034 | 2026-02-24 | HYPERSPIRIT       | L   | 0.926      | -            | -                | -                | -         |    -3.84 | Dementor, gejmzilla, Lewis, tripey, v1w |
+|            2 |     2837 | 2026-02-07 | Ninjas in Pyjamas | L   | 0.812      | -            | -                | -                | -         |    -0.31 | Dementor, gejmzilla, Lewis, tripey, v1w |
+|            1 |     2875 | 2026-02-06 | 3DMAX             | W   | 0.805      | 0.769        | 0.215 (0.133)    | 0.492 (0.304)    | 0 (0.000) |    25.22 | Dementor, gejmzilla, Lewis, tripey, v1w |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

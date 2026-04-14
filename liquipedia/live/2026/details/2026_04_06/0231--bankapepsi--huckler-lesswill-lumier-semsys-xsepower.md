@@ -6,9 +6,9 @@ Global Rank: [231](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [150]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  692.0<br />
+Final Rank Value:  691.9<br />
 <br />
-Final Rank Value (692.0) = Starting Rank Value (639.8) + Head To Head Adjustments (52.3)<br />
+Final Rank Value (691.9) = Starting Rank Value (639.7) + Head To Head Adjustments (52.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.123<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 639.8
-- 400 + ( ( 0.123 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 639.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 639.7
+- 400 + ( ( 0.123 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 639.7
 
 
 #### Factors<br />
@@ -44,15 +44,15 @@ Note:<br />
 |            5 |      364 | 2026-03-29 | Fire Flux Esports    | W   | 1.000      | 0.278        | 0.001 (0.000)    | 0.071 (0.020)    | 0 (0.000) |    13.42 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
 |            4 |      415 | 2026-03-28 | CYBERSHOKE Prospects | W   | 1.000      | 0.278        | 0.002 (0.000)    | 0.092 (0.025)    | 0 (0.000) |    20.43 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
 |            3 |      495 | 2026-03-27 | Lombard              | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.22 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
-|            2 |     3000 | 2026-02-01 | Oxuji Esports        | L   | 0.773      | -            | -                | -                | -         |    -1.95 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
-|            1 |     3019 | 2026-01-31 | Team Nemesis         | L   | 0.771      | -            | -                | -                | -         |    -0.33 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
+|            2 |     3001 | 2026-02-01 | Oxuji Esports        | L   | 0.774      | -            | -                | -                | -         |    -1.95 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
+|            1 |     3020 | 2026-01-31 | Team Nemesis         | L   | 0.771      | -            | -                | -                | -         |    -0.33 | HUckLer, lesswill, lUMiER, SEMSYS, xsepower |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,250.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

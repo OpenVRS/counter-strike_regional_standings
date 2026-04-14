@@ -46,14 +46,14 @@ Note:<br />
 |            4 |      353 | 2026-03-29 | INFINITE                      | L   | 1.000      | -            | -                | -                | -         |    -5.20 | andr1x, choiv7, d0jca, miwo, nopzy  |
 |            3 |      368 | 2026-03-29 | HYPERSPIRIT                   | W   | 1.000      | 0.354        | 0.000 (0.000)    | 0.479 (0.170)    | 1 (1.000) |    29.75 | andr1x, choiv7, d0jca, miwo, nopzy  |
 |            2 |      381 | 2026-03-29 | Eternal Fire                  | L   | 1.000      | -            | -                | -                | -         |    -0.42 | andr1x, choiv7, d0jca, miwo, nopzy  |
-|            1 |     1851 | 2026-02-27 | Yngods                        | L   | 0.947      | -            | -                | -                | -         |    -9.71 | andr1x, baxter, choiv7, dojca, miwo |
+|            1 |     1851 | 2026-02-27 | Yngods                        | L   | 0.948      | -            | -                | -                | -         |    -9.71 | andr1x, baxter, choiv7, dojca, miwo |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

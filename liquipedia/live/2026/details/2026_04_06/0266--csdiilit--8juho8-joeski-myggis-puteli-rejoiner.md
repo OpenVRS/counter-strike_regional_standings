@@ -40,29 +40,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |     4229 | 2025-11-28 | HAVU            | L   | 0.341      | -            | -                | -                | -         |    -0.74 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            8 |     4340 | 2025-11-23 | HAVU            | W   | 0.307      | 0.309        | 0.005 (0.001)    | 0.569 (0.054)    | 0 (0.000) |     9.08 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            7 |     4359 | 2025-11-22 | Smuuttikusilkki | W   | 0.301      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.38 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            6 |     4464 | 2025-11-20 | QWENTRY         | L   | 0.285      | -            | -                | -                | -         |    -1.33 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            5 |     4488 | 2025-11-19 | Lavked          | L   | 0.278      | -            | -                | -                | -         |    -1.84 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            4 |     4500 | 2025-11-18 | Dziuseppe       | W   | 0.271      | 0.344        | 0.000 (0.000)    | 0.065 (0.006)    | 0 (0.000) |     3.08 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            3 |     4508 | 2025-11-17 | Lavked          | L   | 0.265      | -            | -                | -                | -         |    -1.75 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            2 |     5516 | 2025-10-17 | Universe        | L   | 0.059      | -            | -                | -                | -         |    -0.96 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
-|            1 |     5524 | 2025-10-17 | ENCE Academy    | L   | 0.058      | -            | -                | -                | -         |    -0.45 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            9 |     4230 | 2025-11-28 | HAVU            | L   | 0.341      | -            | -                | -                | -         |    -0.74 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            8 |     4341 | 2025-11-23 | HAVU            | W   | 0.308      | 0.309        | 0.005 (0.001)    | 0.569 (0.054)    | 0 (0.000) |     9.10 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            7 |     4360 | 2025-11-22 | Smuuttikusilkki | W   | 0.301      | 0.309        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.39 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            6 |     4465 | 2025-11-20 | QWENTRY         | L   | 0.286      | -            | -                | -                | -         |    -1.34 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            5 |     4489 | 2025-11-19 | Lavked          | L   | 0.278      | -            | -                | -                | -         |    -1.84 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            4 |     4501 | 2025-11-18 | Dziuseppe       | W   | 0.272      | 0.344        | 0.000 (0.000)    | 0.065 (0.006)    | 0 (0.000) |     3.09 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            3 |     4509 | 2025-11-17 | Lavked          | L   | 0.266      | -            | -                | -                | -         |    -1.76 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            2 |     5517 | 2025-10-17 | Universe        | L   | 0.060      | -            | -                | -                | -         |    -0.96 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
+|            1 |     5525 | 2025-10-17 | ENCE Academy    | L   | 0.059      | -            | -                | -                | -         |    -0.46 | 8Juho8, joeski, Myggis, Puteli, Rejoiner |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($493.42)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($494.22)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-28 |      0.341 | $1,449.00      | $493.42         |
+| 2025-11-28 |      0.341 | $1,449.00      | $494.22         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

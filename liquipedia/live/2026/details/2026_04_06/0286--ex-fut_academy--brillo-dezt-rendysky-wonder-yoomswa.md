@@ -8,7 +8,7 @@ Regional Rank: [180]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  592.2<br />
 <br />
-Final Rank Value (592.2) = Starting Rank Value (600.5) + Head To Head Adjustments (-8.3)<br />
+Final Rank Value (592.2) = Starting Rank Value (600.5) + Head To Head Adjustments (-8.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,31 +40,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1344 | 2026-03-09 | BRUTE           | L   | 1.000      | -            | -                | -                | -         |    -6.34 | Brillo, dezt, rendysky, Wonder, yoomswa |
-|           10 |     3613 | 2026-01-14 | Japczany        | L   | 0.652      | -            | -                | -                | -         |    -9.01 | Brillo, dezt, rendysky, Wonder, yoomswa |
-|            9 |     3663 | 2026-01-10 | 777 Esports     | W   | 0.625      | 0.333        | 0.000 (0.000)    | 0.052 (0.011)    | 0 (0.000) |     7.71 | Brillo, dezt, rendysky, Wonder, yoomswa |
-|            8 |     3676 | 2026-01-06 | MASONIC         | L   | 0.599      | -            | -                | -                | -         |    -0.82 | Brillo, dezt, rendysky, Wonder, yoomswa |
-|            7 |     4599 | 2025-11-13 | Southern lights | L   | 0.239      | -            | -                | -                | -         |    -3.87 | Brillo, dezt, rendysky, Wonder, yoomswa |
-|            6 |     4626 | 2025-11-12 | Johnny Speeds   | L   | 0.233      | -            | -                | -                | -         |    -0.10 | Brillo, dezt, rendysky, Wonder, yoomswa |
-|            5 |     4811 | 2025-11-07 | MASONIC         | L   | 0.200      | -            | -                | -                | -         |    -0.27 | Brillo, dezt, rendY, Wonder, yoomswa    |
-|            4 |     4824 | 2025-11-07 | Falcons Force   | W   | 0.200      | 0.336        | 0.003 (0.000)    | 0.128 (0.009)    | 1 (0.200) |     5.07 | Brillo, dezt, rendY, Wonder, yoomswa    |
-|            3 |     4836 | 2025-11-07 | MOUZ NXT        | L   | 0.199      | -            | -                | -                | -         |    -0.13 | Brillo, dezt, rendY, Wonder, yoomswa    |
-|            2 |     4855 | 2025-11-07 | ENCE            | L   | 0.199      | -            | -                | -                | -         |    -0.40 | Brillo, dezt, rendY, Wonder, yoomswa    |
-|            1 |     4876 | 2025-11-07 | EYEBALLERS      | L   | 0.198      | -            | -                | -                | -         |    -0.07 | Brillo, dezt, rendY, Wonder, yoomswa    |
+|           11 |     1344 | 2026-03-09 | BRUTE           | L   | 1.000      | -            | -                | -                | -         |    -6.33 | Brillo, dezt, rendysky, Wonder, yoomswa |
+|           10 |     3614 | 2026-01-14 | Japczany        | L   | 0.652      | -            | -                | -                | -         |    -9.01 | Brillo, dezt, rendysky, Wonder, yoomswa |
+|            9 |     3664 | 2026-01-10 | 777 Esports     | W   | 0.625      | 0.333        | 0.000 (0.000)    | 0.052 (0.011)    | 0 (0.000) |     7.71 | Brillo, dezt, rendysky, Wonder, yoomswa |
+|            8 |     3677 | 2026-01-06 | MASONIC         | L   | 0.599      | -            | -                | -                | -         |    -0.83 | Brillo, dezt, rendysky, Wonder, yoomswa |
+|            7 |     4600 | 2025-11-13 | Southern lights | L   | 0.239      | -            | -                | -                | -         |    -3.88 | Brillo, dezt, rendysky, Wonder, yoomswa |
+|            6 |     4627 | 2025-11-12 | Johnny Speeds   | L   | 0.233      | -            | -                | -                | -         |    -0.10 | Brillo, dezt, rendysky, Wonder, yoomswa |
+|            5 |     4812 | 2025-11-07 | MASONIC         | L   | 0.200      | -            | -                | -                | -         |    -0.28 | Brillo, dezt, rendY, Wonder, yoomswa    |
+|            4 |     4825 | 2025-11-07 | Falcons Force   | W   | 0.200      | 0.336        | 0.003 (0.000)    | 0.128 (0.009)    | 1 (0.200) |     5.08 | Brillo, dezt, rendY, Wonder, yoomswa    |
+|            3 |     4837 | 2025-11-07 | MOUZ NXT        | L   | 0.200      | -            | -                | -                | -         |    -0.13 | Brillo, dezt, rendY, Wonder, yoomswa    |
+|            2 |     4856 | 2025-11-07 | ENCE            | L   | 0.199      | -            | -                | -                | -         |    -0.40 | Brillo, dezt, rendY, Wonder, yoomswa    |
+|            1 |     4877 | 2025-11-07 | EYEBALLERS      | L   | 0.199      | -            | -                | -                | -         |    -0.07 | Brillo, dezt, rendY, Wonder, yoomswa    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($100.61)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($100.84)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-15 |      0.253 | $397.00        | $100.61         |
+| 2025-11-15 |      0.254 | $397.00        | $100.84         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

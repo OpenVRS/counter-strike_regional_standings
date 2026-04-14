@@ -6,9 +6,9 @@ Global Rank: [347](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [98]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  456.8<br />
+Final Rank Value:  457.1<br />
 <br />
-Final Rank Value (456.8) = Starting Rank Value (456.7) + Head To Head Adjustments (0.1)<br />
+Final Rank Value (457.1) = Starting Rank Value (457.0) + Head To Head Adjustments (0.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.029<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 456.7
-- 400 + ( ( 0.029 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 456.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 457.0
+- 400 + ( ( 0.029 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 457.0
 
 
 #### Factors<br />
@@ -40,19 +40,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     4962 | 2025-11-04 | Procyon Team             | L   | 0.179      | -            | -                | -                | -         |    -0.44 | ALENNNCAR, Brnz1k, Lukita, Sakamoto, vzn  |
-|            5 |     5576 | 2025-10-15 | Fake do Biru             | L   | 0.048      | -            | -                | -                | -         |    -0.10 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
-|            4 |     5643 | 2025-10-13 | Game Hunters             | W   | 0.034      | 0.371        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     0.57 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
-|            3 |     5668 | 2025-10-11 | Yawara E-Sports          | L   | 0.021      | -            | -                | -                | -         |    -0.06 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
-|            2 |     5764 | 2025-10-09 | Players (Brazilian team) | W   | 0.006      | 0.371        | 0.000 (0.000)    | 0.297 (0.001)    | 0 (0.000) |     0.14 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
-|            1 |     5791 | 2025-10-08 | Procyon Team             | L   | 0.001      | -            | -                | -                | -         |    -0.00 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
+|            6 |     4963 | 2025-11-04 | Procyon Team             | L   | 0.180      | -            | -                | -                | -         |    -0.44 | ALENNNCAR, Brnz1k, Lukita, Sakamoto, vzn  |
+|            5 |     5577 | 2025-10-15 | Fake do Biru             | L   | 0.048      | -            | -                | -                | -         |    -0.10 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
+|            4 |     5644 | 2025-10-13 | Game Hunters             | W   | 0.034      | 0.371        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     0.58 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
+|            3 |     5669 | 2025-10-11 | Yawara E-Sports          | L   | 0.022      | -            | -                | -                | -         |    -0.06 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
+|            2 |     5765 | 2025-10-09 | Players (Brazilian team) | W   | 0.006      | 0.371        | 0.000 (0.000)    | 0.297 (0.001)    | 0 (0.000) |     0.15 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
+|            1 |     5792 | 2025-10-08 | Procyon Team             | L   | 0.002      | -            | -                | -                | -         |    -0.00 | ALENNNCAR, ghostT1, Lukita, Thuister, vzn |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -40,10 +40,10 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent              | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |      121 | 2026-04-02 | Fisher College        | L   | 1.000      | -            | -                | -                | -         |    -2.80 | Bizarre666, k6rdon, relan, tarturb0b, tw1nkl3 |
-|            4 |      179 | 2026-04-01 | Outfit 49             | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.311 (0.044)    | 0 (0.000) |    23.21 | Bizarre666, k6rdon, relan, tarturb0b, tw1nkl3 |
+|            5 |      121 | 2026-04-02 | Fisher College        | L   | 1.000      | -            | -                | -                | -         |    -2.81 | Bizarre666, k6rdon, relan, tarturb0b, tw1nkl3 |
+|            4 |      179 | 2026-04-01 | Outfit 49             | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.311 (0.044)    | 0 (0.000) |    23.20 | Bizarre666, k6rdon, relan, tarturb0b, tw1nkl3 |
 |            3 |      233 | 2026-03-31 | Life's A Game         | L   | 1.000      | -            | -                | -                | -         |    -2.37 | Bizarre666, k6rdon, relan, tarturb0b, tw1nkl3 |
-|            2 |      545 | 2026-03-25 | AVANT (American team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.08 | Bizarre666, k6rdon, kodua, relan, tarturb0b   |
+|            2 |      545 | 2026-03-25 | AVANT (American team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.09 | Bizarre666, k6rdon, kodua, relan, tarturb0b   |
 |            1 |     1108 | 2026-03-14 | Fisher College        | L   | 1.000      | -            | -                | -                | -         |    -2.82 | 6SIX, Bizarre666, k6rdon, relan, tarturb0b    |
 
 <br />
@@ -51,7 +51,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

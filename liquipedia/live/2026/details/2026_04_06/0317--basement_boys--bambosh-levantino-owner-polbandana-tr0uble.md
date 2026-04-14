@@ -40,24 +40,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     4552 | 2025-11-15 | 9BoomPro                                  | L   | 0.251      | -            | -                | -                | -         |    -4.03 | Bambosh, BRLM, levantino, OWNER, Tr0ublE       |
-|           10 |     4598 | 2025-11-13 | Partizan Esports                          | L   | 0.239      | -            | -                | -                | -         |    -2.55 | Bambosh, BRLM, levantino, OWNER, Tr0ublE       |
-|            9 |     4666 | 2025-11-11 | Oramond                                   | L   | 0.225      | -            | -                | -                | -         |    -0.67 | Bambosh, BRLM, levantino, OWNER, Tr0ublE       |
-|            8 |     4683 | 2025-11-10 | 1w Team                                   | L   | 0.220      | -            | -                | -                | -         |    -0.03 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            7 |     4756 | 2025-11-08 | Copenhagen Wolves (American organization) | L   | 0.206      | -            | -                | -                | -         |    -2.77 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            6 |     4921 | 2025-11-05 | GenOne                                    | L   | 0.187      | -            | -                | -                | -         |    -0.56 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            5 |     4980 | 2025-11-03 | Fire Flux Esports                         | L   | 0.174      | -            | -                | -                | -         |    -1.19 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            4 |     5034 | 2025-11-01 | Lavked                                    | W   | 0.160      | 0.384        | 0.007 (0.000)    | 0.494 (0.030)    | 0 (0.000) |     4.36 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            3 |     5130 | 2025-10-28 | 33                                        | L   | 0.134      | -            | -                | -                | -         |    -0.03 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            2 |     5225 | 2025-10-26 | HAVU                                      | W   | 0.120      | 0.384        | 0.005 (0.000)    | 0.569 (0.026)    | 0 (0.000) |     3.66 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
-|            1 |     5391 | 2025-10-23 | 1w Team                                   | W   | 0.100      | 0.384        | 0.099 (0.004)    | 0.660 (0.025)    | 0 (0.000) |     3.14 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|           11 |     4553 | 2025-11-15 | 9BoomPro                                  | L   | 0.252      | -            | -                | -                | -         |    -4.04 | Bambosh, BRLM, levantino, OWNER, Tr0ublE       |
+|           10 |     4599 | 2025-11-13 | Partizan Esports                          | L   | 0.239      | -            | -                | -                | -         |    -2.55 | Bambosh, BRLM, levantino, OWNER, Tr0ublE       |
+|            9 |     4667 | 2025-11-11 | Oramond                                   | L   | 0.225      | -            | -                | -                | -         |    -0.68 | Bambosh, BRLM, levantino, OWNER, Tr0ublE       |
+|            8 |     4684 | 2025-11-10 | 1w Team                                   | L   | 0.221      | -            | -                | -                | -         |    -0.03 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            7 |     4757 | 2025-11-08 | Copenhagen Wolves (American organization) | L   | 0.207      | -            | -                | -                | -         |    -2.78 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            6 |     4922 | 2025-11-05 | GenOne                                    | L   | 0.188      | -            | -                | -                | -         |    -0.57 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            5 |     4981 | 2025-11-03 | Fire Flux Esports                         | L   | 0.174      | -            | -                | -                | -         |    -1.20 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            4 |     5035 | 2025-11-01 | Lavked                                    | W   | 0.161      | 0.384        | 0.007 (0.000)    | 0.495 (0.031)    | 0 (0.000) |     4.37 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            3 |     5131 | 2025-10-28 | 33                                        | L   | 0.134      | -            | -                | -                | -         |    -0.03 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            2 |     5226 | 2025-10-26 | HAVU                                      | W   | 0.121      | 0.384        | 0.005 (0.000)    | 0.569 (0.026)    | 0 (0.000) |     3.68 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
+|            1 |     5392 | 2025-10-23 | 1w Team                                   | W   | 0.101      | 0.384        | 0.098 (0.004)    | 0.660 (0.026)    | 0 (0.000) |     3.16 | Bambosh, levantino, OWNER, Polbandana, Tr0ublE |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -40,24 +40,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     5190 | 2025-10-27 | ALLINNERS                                 | L   | 0.125      | -            | -                | -                | -         |    -0.81 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|           10 |     5243 | 2025-10-26 | HYPERSPIRIT                               | W   | 0.119      | 0.344        | 0.000 (0.000)    | 0.479 (0.020)    | 0 (0.000) |     3.58 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            9 |     5247 | 2025-10-26 | ALLINNERS                                 | L   | 0.118      | -            | -                | -                | -         |    -0.76 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            8 |     5274 | 2025-10-25 | ALLINNERS                                 | L   | 0.113      | -            | -                | -                | -         |    -0.73 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            7 |     5281 | 2025-10-25 | NOVAQ                                     | L   | 0.113      | -            | -                | -                | -         |    -0.07 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            6 |     5385 | 2025-10-23 | KOLESIE                                   | L   | 0.100      | -            | -                | -                | -         |    -0.03 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            5 |     5414 | 2025-10-23 | Dziuseppe                                 | W   | 0.098      | 0.384        | 0.000 (0.000)    | 0.065 (0.002)    | 0 (0.000) |     2.03 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            4 |     5428 | 2025-10-22 | UNiTY esports                             | L   | 0.092      | -            | -                | -                | -         |    -0.20 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            3 |     5470 | 2025-10-19 | Copenhagen Wolves (American organization) | L   | 0.073      | -            | -                | -                | -         |    -0.64 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            2 |     5490 | 2025-10-18 | The Glecs                                 | W   | 0.066      | 0.384        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     1.31 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
-|            1 |     5522 | 2025-10-17 | Hashiras                                  | L   | 0.058      | -            | -                | -                | -         |    -0.15 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|           11 |     5191 | 2025-10-27 | ALLINNERS                                 | L   | 0.125      | -            | -                | -                | -         |    -0.81 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|           10 |     5244 | 2025-10-26 | HYPERSPIRIT                               | W   | 0.119      | 0.344        | 0.000 (0.000)    | 0.479 (0.020)    | 0 (0.000) |     3.60 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            9 |     5248 | 2025-10-26 | ALLINNERS                                 | L   | 0.119      | -            | -                | -                | -         |    -0.76 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            8 |     5275 | 2025-10-25 | ALLINNERS                                 | L   | 0.114      | -            | -                | -                | -         |    -0.74 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            7 |     5282 | 2025-10-25 | NOVAQ                                     | L   | 0.114      | -            | -                | -                | -         |    -0.07 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            6 |     5386 | 2025-10-23 | KOLESIE                                   | L   | 0.101      | -            | -                | -                | -         |    -0.03 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            5 |     5415 | 2025-10-23 | Dziuseppe                                 | W   | 0.098      | 0.384        | 0.000 (0.000)    | 0.065 (0.002)    | 0 (0.000) |     2.04 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            4 |     5429 | 2025-10-22 | UNiTY esports                             | L   | 0.092      | -            | -                | -                | -         |    -0.20 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            3 |     5471 | 2025-10-19 | Copenhagen Wolves (American organization) | L   | 0.073      | -            | -                | -                | -         |    -0.65 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            2 |     5491 | 2025-10-18 | The Glecs                                 | W   | 0.066      | 0.384        | 0.000 (0.000)    | 0.007 (0.000)    | 0 (0.000) |     1.32 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
+|            1 |     5523 | 2025-10-17 | Hashiras                                  | L   | 0.059      | -            | -                | -                | -         |    -0.15 | her1tage, kAlash, sFade8, sstiNiX, z3ndeR |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

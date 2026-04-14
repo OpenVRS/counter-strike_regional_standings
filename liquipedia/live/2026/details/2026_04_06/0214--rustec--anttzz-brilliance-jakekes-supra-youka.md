@@ -34,7 +34,7 @@ Note:<br />
 - Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
 
 - A team offers ownNetwork for other teams to collect for their network
-- Own Network: 0.139
+- Own Network: 0.138
 <span id="table1"></span><br />
 
 
@@ -42,21 +42,21 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           10 |      424 | 2026-03-28 | MANA eSports   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.637 (0.091)    | 0 (0.000) |    26.38 | anttzz, Brilliance, jakekeS, supra, youka |
 |            9 |      609 | 2026-03-24 | Oxuji Esports  | W   | 1.000      | 0.143        | 0.011 (0.002)    | 0.474 (0.068)    | 0 (0.000) |    27.85 | anttzz, Brilliance, jakekeS, supra, youka |
-|            8 |      683 | 2026-03-23 | Hashiras       | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.454 (0.065)    | 0 (0.000) |    25.88 | anttzz, Brilliance, jakekeS, supra, youka |
+|            8 |      683 | 2026-03-23 | Hashiras       | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.454 (0.065)    | 0 (0.000) |    25.87 | anttzz, Brilliance, jakekeS, supra, youka |
 |            7 |     1324 | 2026-03-10 | QUAZAR         | L   | 1.000      | -            | -                | -                | -         |   -15.97 | anttzz, Brilliance, jakekeS, supra, youka |
 |            6 |     1335 | 2026-03-09 | Team Nemesis   | L   | 1.000      | -            | -                | -                | -         |    -0.67 | anttzz, Brilliance, jakekeS, supra, youka |
-|            5 |     2975 | 2026-02-02 | SPARTA Esports | L   | 0.780      | -            | -                | -                | -         |    -0.46 | anttzz, Brilliance, jakekeS, supra, youka |
-|            4 |     2982 | 2026-02-02 | K27            | L   | 0.779      | -            | -                | -                | -         |    -0.22 | anttzz, Brilliance, jakekeS, supra, youka |
-|            3 |     3026 | 2026-01-31 | WW Team        | W   | 0.768      | 0.333        | 0.034 (0.009)    | 0.865 (0.221)    | 1 (0.768) |    23.87 | anttzz, Brilliance, jakekeS, supra, youka |
-|            2 |     3043 | 2026-01-31 | ARCRED         | L   | 0.766      | -            | -                | -                | -         |    -0.67 | anttzz, Brilliance, jakekeS, supra, youka |
-|            1 |     3059 | 2026-01-30 | Virtus.pro     | W   | 0.764      | 0.333        | 0.027 (0.007)    | 0.008 (0.002)    | 1 (0.764) |    16.24 | anttzz, Brilliance, jakekeS, supra, youka |
+|            5 |     2976 | 2026-02-02 | SPARTA Esports | L   | 0.780      | -            | -                | -                | -         |    -0.46 | anttzz, Brilliance, jakekeS, supra, youka |
+|            4 |     2983 | 2026-02-02 | K27            | L   | 0.779      | -            | -                | -                | -         |    -0.22 | anttzz, Brilliance, jakekeS, supra, youka |
+|            3 |     3027 | 2026-01-31 | WW Team        | W   | 0.769      | 0.333        | 0.034 (0.009)    | 0.865 (0.222)    | 1 (0.769) |    23.88 | anttzz, Brilliance, jakekeS, supra, youka |
+|            2 |     3044 | 2026-01-31 | ARCRED         | L   | 0.767      | -            | -                | -                | -         |    -0.67 | anttzz, Brilliance, jakekeS, supra, youka |
+|            1 |     3060 | 2026-01-30 | Virtus.pro     | W   | 0.765      | 0.333        | 0.027 (0.007)    | 0.008 (0.002)    | 1 (0.765) |    16.25 | anttzz, Brilliance, jakekeS, supra, youka |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

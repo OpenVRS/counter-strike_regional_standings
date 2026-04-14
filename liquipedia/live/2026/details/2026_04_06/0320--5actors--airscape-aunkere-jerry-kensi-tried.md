@@ -46,15 +46,15 @@ Note:<br />
 |            5 |     1295 | 2026-03-10 | Nemiga Gaming  | L   | 1.000      | -            | -                | -                | -         |    -0.27 | airscape, Aunkere, Jerry, KENSi, tried |
 |            4 |     1303 | 2026-03-10 | SPARTA Esports | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.056 (0.021)    | 1 (1.000) |    20.28 | airscape, Aunkere, Jerry, KENSi, tried |
 |            3 |     1310 | 2026-03-10 | ARCRED         | L   | 1.000      | -            | -                | -                | -         |    -0.39 | airscape, Aunkere, Jerry, KENSi, tried |
-|            2 |     1675 | 2026-03-03 | Younglings     | L   | 0.974      | -            | -                | -                | -         |   -16.79 | airscape, Aunkere, Jerry, KENSi, tried |
-|            1 |     1705 | 2026-03-03 | SPARTA Esports | L   | 0.971      | -            | -                | -                | -         |    -0.29 | airscape, Aunkere, Jerry, KENSi, tried |
+|            2 |     1675 | 2026-03-03 | Younglings     | L   | 0.974      | -            | -                | -                | -         |   -16.80 | airscape, Aunkere, Jerry, KENSi, tried |
+|            1 |     1705 | 2026-03-03 | SPARTA Esports | L   | 0.972      | -            | -                | -                | -         |    -0.30 | airscape, Aunkere, Jerry, KENSi, tried |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

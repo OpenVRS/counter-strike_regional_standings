@@ -6,9 +6,9 @@ Global Rank: [221](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [52]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  717.8<br />
+Final Rank Value:  717.5<br />
 <br />
-Final Rank Value (717.8) = Starting Rank Value (709.7) + Head To Head Adjustments (8.1)<br />
+Final Rank Value (717.5) = Starting Rank Value (709.6) + Head To Head Adjustments (7.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.158<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 709.7
-- 400 + ( ( 0.158 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 709.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 709.6
+- 400 + ( ( 0.158 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 709.6
 
 
 #### Factors<br />
@@ -44,21 +44,21 @@ Note:<br />
 |           11 |      417 | 2026-03-28 | Wanted Goons      | L   | 1.000      | -            | -                | -                | -         |   -20.31 | BAGEL, C0C0, KmZ, no1nx, twigs    |
 |           10 |      434 | 2026-03-28 | Life's A Game     | L   | 1.000      | -            | -                | -                | -         |    -7.46 | BAGEL, C0C0, KmZ, no1nx, twigs    |
 |            9 |      448 | 2026-03-28 | Wanted Goons      | W   | 1.000      | 0.354        | 0.000 (0.000)    | 0.168 (0.059)    | 1 (1.000) |    10.21 | BAGEL, C0C0, KmZ, no1nx, twigs    |
-|            8 |      476 | 2026-03-27 | ClayMakers Reborn | W   | 1.000      | 0.404        | 0.002 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     7.39 | BAGEL, C0C0, KmZ, no1nx, twigs    |
+|            8 |      476 | 2026-03-27 | ClayMakers Reborn | W   | 1.000      | 0.404        | 0.002 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     7.40 | BAGEL, C0C0, KmZ, no1nx, twigs    |
 |            7 |      931 | 2026-03-18 | Zomblers          | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.253 (0.036)    | 0 (0.000) |    16.59 | BAGEL, C0C0, KmZ, no1nx, twigs    |
-|            6 |     1025 | 2026-03-16 | Wanted Goons      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.168 (0.024)    | 0 (0.000) |    11.14 | BAGEL, C0C0, KmZ, no1nx, twigs    |
-|            5 |     1107 | 2026-03-14 | SportsBetExpert   | W   | 1.000      | 0.143        | 0.011 (0.002)    | 0.255 (0.036)    | 0 (0.000) |    15.87 | BAGEL, C0C0, KmZ, no1nx, twigs    |
-|            4 |     3741 | 2026-01-03 | Reign Above       | L   | 0.580      | -            | -                | -                | -         |   -11.99 | BAGEL, C0C0, Laboom, no1nx, twigs |
-|            3 |     3748 | 2026-01-03 | NRG               | L   | 0.580      | -            | -                | -                | -         |    -0.52 | BAGEL, C0C0, Laboom, no1nx, twigs |
-|            2 |     3922 | 2025-12-12 | Life's A Game     | L   | 0.436      | -            | -                | -                | -         |    -3.06 | BAGEL, C0C0, Laboom, no1nx, twigs |
-|            1 |     4789 | 2025-11-07 | Team Voca         | L   | 0.202      | -            | -                | -                | -         |    -3.43 | BAGEL, C0C0, Laboom, no1nx, twigs |
+|            6 |     1025 | 2026-03-16 | Wanted Goons      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.168 (0.024)    | 0 (0.000) |    11.15 | BAGEL, C0C0, KmZ, no1nx, twigs    |
+|            5 |     1107 | 2026-03-14 | SportsBetExpert   | W   | 1.000      | 0.143        | 0.011 (0.002)    | 0.255 (0.036)    | 0 (0.000) |    15.77 | BAGEL, C0C0, KmZ, no1nx, twigs    |
+|            4 |     3742 | 2026-01-03 | Reign Above       | L   | 0.581      | -            | -                | -                | -         |   -12.07 | BAGEL, C0C0, Laboom, no1nx, twigs |
+|            3 |     3749 | 2026-01-03 | NRG               | L   | 0.580      | -            | -                | -                | -         |    -0.52 | BAGEL, C0C0, Laboom, no1nx, twigs |
+|            2 |     3921 | 2025-12-12 | Life's A Game     | L   | 0.436      | -            | -                | -                | -         |    -3.06 | BAGEL, C0C0, Laboom, no1nx, twigs |
+|            1 |     4790 | 2025-11-07 | Team Voca         | L   | 0.203      | -            | -                | -                | -         |    -3.44 | BAGEL, C0C0, Laboom, no1nx, twigs |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,000.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

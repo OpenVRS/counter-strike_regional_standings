@@ -41,32 +41,32 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           20 |      916 | 2026-03-19 | Sangal Esports    | L   | 1.000      | -            | -                | -                | -         |    -1.93 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
-|           19 |      959 | 2026-03-18 | Home              | W   | 1.000      | 0.384        | 0.000 (0.000)    | 0.127 (0.049)    | 0 (0.000) |    20.36 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
+|           19 |      959 | 2026-03-18 | Home              | W   | 1.000      | 0.384        | 0.000 (0.000)    | 0.127 (0.049)    | 0 (0.000) |    20.41 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
 |           18 |      989 | 2026-03-17 | TNC Esports       | L   | 1.000      | -            | -                | -                | -         |    -2.02 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
-|           17 |     1036 | 2026-03-16 | ENCE Academy      | W   | 1.000      | 0.384        | 0.001 (0.000)    | 0.513 (0.197)    | 0 (0.000) |    28.30 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
+|           17 |     1036 | 2026-03-16 | ENCE Academy      | W   | 1.000      | 0.384        | 0.001 (0.000)    | 0.513 (0.197)    | 0 (0.000) |    28.31 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
 |           16 |     1205 | 2026-03-12 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -3.06 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
 |           15 |     1212 | 2026-03-12 | EYEBALLERS        | L   | 1.000      | -            | -                | -                | -         |    -0.33 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
 |           14 |     1215 | 2026-03-12 | Team Voca         | L   | 1.000      | -            | -                | -                | -         |    -0.35 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
 |           13 |     1224 | 2026-03-12 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |    -0.18 | FOKUSSS, keis, Mazda, virtuoso, Xydoo |
-|           12 |     4500 | 2025-11-18 | CSDIILIT          | L   | 0.271      | -            | -                | -                | -         |    -3.08 | elem, keis, Markoś, virtuoso, Xydoo   |
-|           11 |     4505 | 2025-11-17 | MOUZ NXT          | L   | 0.266      | -            | -                | -                | -         |    -0.11 | elem, keis, Markoś, virtuoso, Xydoo   |
-|           10 |     5005 | 2025-11-02 | Young Ninjas      | L   | 0.167      | -            | -                | -                | -         |    -2.52 | d9zz, FOKUSSS, keis, virtuoso, Xydoo  |
-|            9 |     5066 | 2025-10-31 | Tung Tung Sahur   | L   | 0.153      | -            | -                | -                | -         |    -0.69 | d9zz, FOKUSSS, keis, virtuoso, Xydoo  |
-|            8 |     5170 | 2025-10-27 | Nexus Gaming      | L   | 0.127      | -            | -                | -                | -         |    -0.15 | Fugor, keis, Masi, virtuoso, Xydoo    |
-|            7 |     5213 | 2025-10-26 | MOUZ NXT          | L   | 0.121      | -            | -                | -                | -         |    -0.05 | keis, MaDi3, run1c, virtuoso, Xydoo   |
-|            6 |     5282 | 2025-10-25 | Oramond           | W   | 0.113      | 0.384        | 0.049 (0.002)    | 0.465 (0.020)    | 0 (0.000) |     3.19 | Fugor, keis, Masi, virtuoso, Xydoo    |
-|            5 |     5289 | 2025-10-25 | Phantom Esports   | L   | 0.113      | -            | -                | -                | -         |    -1.29 | keis, MaDi3, run1c, virtuoso, Xydoo   |
-|            4 |     5388 | 2025-10-23 | Nemiga Gaming     | L   | 0.100      | -            | -                | -                | -         |    -0.01 | Fugor, keis, Masi, virtuoso, Xydoo    |
-|            3 |     5414 | 2025-10-23 | HubaBuba          | L   | 0.098      | -            | -                | -                | -         |    -2.03 | Fugor, keis, Masi, virtuoso, Xydoo    |
-|            2 |     5433 | 2025-10-22 | ALLINNERS         | L   | 0.091      | -            | -                | -                | -         |    -0.96 | Fugor, keis, Masi, virtuoso, Xydoo    |
-|            1 |     5747 | 2025-10-09 | BetBoom Team      | L   | 0.007      | -            | -                | -                | -         |    -0.00 | Fugor, keis, Masi, virtuoso, Xydoo    |
+|           12 |     4501 | 2025-11-18 | CSDIILIT          | L   | 0.272      | -            | -                | -                | -         |    -3.09 | elem, keis, Markoś, virtuoso, Xydoo   |
+|           11 |     4506 | 2025-11-17 | MOUZ NXT          | L   | 0.267      | -            | -                | -                | -         |    -0.11 | elem, keis, Markoś, virtuoso, Xydoo   |
+|           10 |     5006 | 2025-11-02 | Young Ninjas      | L   | 0.168      | -            | -                | -                | -         |    -2.53 | d9zz, FOKUSSS, keis, virtuoso, Xydoo  |
+|            9 |     5067 | 2025-10-31 | Tung Tung Sahur   | L   | 0.153      | -            | -                | -                | -         |    -0.70 | d9zz, FOKUSSS, keis, virtuoso, Xydoo  |
+|            8 |     5171 | 2025-10-27 | Nexus Gaming      | L   | 0.128      | -            | -                | -                | -         |    -0.15 | Fugor, keis, Masi, virtuoso, Xydoo    |
+|            7 |     5214 | 2025-10-26 | MOUZ NXT          | L   | 0.121      | -            | -                | -                | -         |    -0.05 | keis, MaDi3, run1c, virtuoso, Xydoo   |
+|            6 |     5283 | 2025-10-25 | Oramond           | W   | 0.114      | 0.384        | 0.049 (0.002)    | 0.465 (0.020)    | 0 (0.000) |     3.21 | Fugor, keis, Masi, virtuoso, Xydoo    |
+|            5 |     5290 | 2025-10-25 | Phantom Esports   | L   | 0.113      | -            | -                | -                | -         |    -1.30 | keis, MaDi3, run1c, virtuoso, Xydoo   |
+|            4 |     5389 | 2025-10-23 | Nemiga Gaming     | L   | 0.101      | -            | -                | -                | -         |    -0.01 | Fugor, keis, Masi, virtuoso, Xydoo    |
+|            3 |     5415 | 2025-10-23 | HubaBuba          | L   | 0.098      | -            | -                | -                | -         |    -2.04 | Fugor, keis, Masi, virtuoso, Xydoo    |
+|            2 |     5434 | 2025-10-22 | ALLINNERS         | L   | 0.092      | -            | -                | -                | -         |    -0.97 | Fugor, keis, Masi, virtuoso, Xydoo    |
+|            1 |     5748 | 2025-10-09 | BetBoom Team      | L   | 0.008      | -            | -                | -                | -         |    -0.00 | Fugor, keis, Masi, virtuoso, Xydoo    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [353](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [47]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  428.3<br />
+Final Rank Value:  428.2<br />
 <br />
-Final Rank Value (428.3) = Starting Rank Value (400.5) + Head To Head Adjustments (27.8)<br />
+Final Rank Value (428.2) = Starting Rank Value (400.5) + Head To Head Adjustments (27.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -45,16 +45,16 @@ Note:<br />
 |            6 |      396 | 2026-03-29 | SHPL              | W   | 1.000      | 0.320        | 0.000 (0.000)    | 0.031 (0.010)    | 0 (0.000) |    15.10 | 0z, 4ever, drace, gLong, yoi      |
 |            5 |      465 | 2026-03-28 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |    -0.58 | 0z, 4ever, drace, gLong, yoi      |
 |            4 |      472 | 2026-03-27 | Walk The Talk     | W   | 1.000      | 0.320        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    15.12 | 0z, 4ever, drace, gLong, yoi      |
-|            3 |     3441 | 2026-01-18 | Rare Atom         | L   | 0.678      | -            | -                | -                | -         |    -0.21 | 4ever, drace, gLong, madness, yoi |
-|            2 |     4884 | 2025-11-06 | BORING PLAYER     | L   | 0.197      | -            | -                | -                | -         |    -1.07 | 4ever, drace, gLong, madness, yoi |
-|            1 |     4944 | 2025-11-04 | Morningstar       | L   | 0.184      | -            | -                | -                | -         |    -0.20 | 4ever, drace, gLong, madness, yoi |
+|            3 |     3442 | 2026-01-18 | Rare Atom         | L   | 0.679      | -            | -                | -                | -         |    -0.22 | 4ever, drace, gLong, madness, yoi |
+|            2 |     4885 | 2025-11-06 | BORING PLAYER     | L   | 0.198      | -            | -                | -                | -         |    -1.07 | 4ever, drace, gLong, madness, yoi |
+|            1 |     4945 | 2025-11-04 | Morningstar       | L   | 0.185      | -            | -                | -                | -         |    -0.20 | 4ever, drace, gLong, madness, yoi |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

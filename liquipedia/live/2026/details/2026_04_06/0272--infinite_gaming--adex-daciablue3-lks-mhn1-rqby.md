@@ -6,9 +6,9 @@ Global Rank: [272](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [173]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  618.5<br />
+Final Rank Value:  618.6<br />
 <br />
-Final Rank Value (618.5) = Starting Rank Value (618.4) + Head To Head Adjustments (0.1)<br />
+Final Rank Value (618.6) = Starting Rank Value (618.5) + Head To Head Adjustments (0.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.112<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 618.4
-- 400 + ( ( 0.112 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 618.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 618.5
+- 400 + ( ( 0.112 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 618.5
 
 
 #### Factors<br />
@@ -40,30 +40,30 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |     1977 | 2026-02-25 | Betclic Apogee Esports  | L   | 0.933      | -            | -                | -                | -         |    -0.77 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           17 |     1977 | 2026-02-25 | Betclic Apogee Esports  | L   | 0.934      | -            | -                | -                | -         |    -0.77 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
 |           16 |     1995 | 2026-02-25 | HEROIC                  | L   | 0.932      | -            | -                | -                | -         |    -0.16 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
-|           15 |     2008 | 2026-02-24 | Japczany                | W   | 0.927      | 0.354        | 0.000 (0.000)    | 0.260 (0.085)    | 1 (0.927) |    16.87 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
-|           14 |     2019 | 2026-02-24 | Hermine Esports Club    | W   | 0.926      | 0.354        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.926) |     7.08 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
-|           13 |     2037 | 2026-02-24 | Japczany                | L   | 0.925      | -            | -                | -                | -         |   -11.74 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
-|           12 |     3511 | 2026-01-16 | Aimclub (Romanian team) | L   | 0.667      | -            | -                | -                | -         |    -2.76 | adeX, LkS, mhN1, RQBY, welnic     |
-|           11 |     3523 | 2026-01-16 | Prestige Esport         | W   | 0.667      | 0.337        | 0.002 (0.000)    | 0.061 (0.014)    | 1 (0.667) |    15.14 | adeX, LkS, mhN1, RQBY, welnic     |
-|           10 |     3536 | 2026-01-16 | WOPA Esport             | L   | 0.666      | -            | -                | -                | -         |    -2.07 | adeX, LkS, mhN1, RQBY, welnic     |
-|            9 |     3544 | 2026-01-16 | Johnny Speeds           | L   | 0.666      | -            | -                | -                | -         |    -0.35 | adeX, LkS, mhN1, RQBY, welnic     |
-|            8 |     3553 | 2026-01-16 | AaB esport              | L   | 0.665      | -            | -                | -                | -         |    -0.49 | adeX, LkS, mhN1, RQBY, welnic     |
-|            7 |     3867 | 2025-12-17 | Fingers Crossed         | L   | 0.466      | -            | -                | -                | -         |   -10.28 | adeX, LkS, mhN1, RQBY, welnic     |
-|            6 |     3878 | 2025-12-17 | Illwill                 | L   | 0.465      | -            | -                | -                | -         |    -1.51 | adeX, LkS, mhN1, RQBY, welnic     |
-|            5 |     4203 | 2025-11-29 | OG                      | L   | 0.346      | -            | -                | -                | -         |    -0.29 | LkS, mhN1, ra1n, RQBY, welnic     |
-|            4 |     4295 | 2025-11-25 | Team Nemesis            | L   | 0.318      | -            | -                | -                | -         |    -3.61 | LkS, mhN1, ra1n, RQBY, welnic     |
-|            3 |     4331 | 2025-11-24 | Sangal Esports          | L   | 0.311      | -            | -                | -                | -         |    -1.89 | LkS, mhN1, ra1n, RQBY, welnic     |
-|            2 |     4453 | 2025-11-20 | G2 Ares                 | L   | 0.286      | -            | -                | -                | -         |    -2.46 | LkS, mhN1, ra1n, RQBY, welnic     |
-|            1 |     4476 | 2025-11-20 | Nexus Gaming            | L   | 0.285      | -            | -                | -                | -         |    -0.62 | LkS, mhN1, ra1n, RQBY, welnic     |
+|           15 |     2008 | 2026-02-24 | Japczany                | W   | 0.928      | 0.354        | 0.000 (0.000)    | 0.260 (0.086)    | 1 (0.928) |    16.88 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           14 |     2019 | 2026-02-24 | Hermine Esports Club    | W   | 0.927      | 0.354        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.927) |     7.08 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           13 |     2037 | 2026-02-24 | Japczany                | L   | 0.926      | -            | -                | -                | -         |   -11.74 | adeX, DaciaBlue3, LkS, mhN1, RQBY |
+|           12 |     3512 | 2026-01-16 | Aimclub (Romanian team) | L   | 0.668      | -            | -                | -                | -         |    -2.77 | adeX, LkS, mhN1, RQBY, welnic     |
+|           11 |     3524 | 2026-01-16 | Prestige Esport         | W   | 0.668      | 0.337        | 0.002 (0.000)    | 0.061 (0.014)    | 1 (0.668) |    15.15 | adeX, LkS, mhN1, RQBY, welnic     |
+|           10 |     3537 | 2026-01-16 | WOPA Esport             | L   | 0.667      | -            | -                | -                | -         |    -2.07 | adeX, LkS, mhN1, RQBY, welnic     |
+|            9 |     3545 | 2026-01-16 | Johnny Speeds           | L   | 0.666      | -            | -                | -                | -         |    -0.35 | adeX, LkS, mhN1, RQBY, welnic     |
+|            8 |     3554 | 2026-01-16 | AaB esport              | L   | 0.666      | -            | -                | -                | -         |    -0.49 | adeX, LkS, mhN1, RQBY, welnic     |
+|            7 |     3868 | 2025-12-17 | Fingers Crossed         | L   | 0.467      | -            | -                | -                | -         |   -10.29 | adeX, LkS, mhN1, RQBY, welnic     |
+|            6 |     3879 | 2025-12-17 | Illwill                 | L   | 0.466      | -            | -                | -                | -         |    -1.51 | adeX, LkS, mhN1, RQBY, welnic     |
+|            5 |     4204 | 2025-11-29 | OG                      | L   | 0.346      | -            | -                | -                | -         |    -0.29 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            4 |     4296 | 2025-11-25 | Team Nemesis            | L   | 0.318      | -            | -                | -                | -         |    -3.61 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            3 |     4332 | 2025-11-24 | Sangal Esports          | L   | 0.312      | -            | -                | -                | -         |    -1.89 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            2 |     4454 | 2025-11-20 | G2 Ares                 | L   | 0.287      | -            | -                | -                | -         |    -2.46 | LkS, mhN1, ra1n, RQBY, welnic     |
+|            1 |     4477 | 2025-11-20 | Nexus Gaming            | L   | 0.285      | -            | -                | -                | -         |    -0.62 | LkS, mhN1, ra1n, RQBY, welnic     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

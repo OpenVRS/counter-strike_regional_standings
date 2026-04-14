@@ -6,9 +6,9 @@ Global Rank: [300](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [188]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  552.5<br />
+Final Rank Value:  552.4<br />
 <br />
-Final Rank Value (552.5) = Starting Rank Value (540.3) + Head To Head Adjustments (12.1)<br />
+Final Rank Value (552.4) = Starting Rank Value (540.3) + Head To Head Adjustments (12.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -41,17 +41,17 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |      679 | 2026-03-23 | ASTRAL Esports | L   | 1.000      | -            | -                | -                | -         |    -2.80 | EgorMercedes, frakenzor, joly, kyoto666, md262      |
-|            4 |      688 | 2026-03-23 | Wave Esports   | W   | 1.000      | 0.333        | 0.001 (0.000)    | 0.092 (0.031)    | 1 (1.000) |    21.26 | EgorMercedes, frakenzor, joly, kyoto666, md262      |
+|            4 |      688 | 2026-03-23 | Wave Esports   | W   | 1.000      | 0.333        | 0.001 (0.000)    | 0.092 (0.031)    | 1 (1.000) |    21.20 | EgorMercedes, frakenzor, joly, kyoto666, md262      |
 |            3 |      691 | 2026-03-23 | Hypewrld       | L   | 1.000      | -            | -                | -                | -         |    -3.15 | EgorMercedes, frakenzor, joly, kyoto666, md262      |
-|            2 |     3588 | 2026-01-15 | MANA eSports   | L   | 0.659      | -            | -                | -                | -         |    -2.76 | EgorMercedes, frakenzor, joly, kyoto666, MagaPriora |
-|            1 |     3593 | 2026-01-15 | MOUZ NXT       | L   | 0.658      | -            | -                | -                | -         |    -0.42 | EgorMercedes, frakenzor, joly, kyoto666, MagaPriora |
+|            2 |     3589 | 2026-01-15 | MANA eSports   | L   | 0.659      | -            | -                | -                | -         |    -2.76 | EgorMercedes, frakenzor, joly, kyoto666, MagaPriora |
+|            1 |     3594 | 2026-01-15 | MOUZ NXT       | L   | 0.659      | -            | -                | -                | -         |    -0.43 | EgorMercedes, frakenzor, joly, kyoto666, MagaPriora |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

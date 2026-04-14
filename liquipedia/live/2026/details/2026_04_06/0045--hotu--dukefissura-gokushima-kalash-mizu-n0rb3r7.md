@@ -6,9 +6,9 @@ Global Rank: [45](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [31]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  1319.0<br />
+Final Rank Value:  1318.8<br />
 <br />
-Final Rank Value (1319.0) = Starting Rank Value (1401.3) + Head To Head Adjustments (-82.3)<br />
+Final Rank Value (1318.8) = Starting Rank Value (1401.2) + Head To Head Adjustments (-82.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.512<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1401.3
-- 400 + ( ( 0.512 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1401.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1401.2
+- 400 + ( ( 0.512 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 1401.2
 
 
 #### Factors<br />
@@ -43,60 +43,60 @@ Note:<br />
 |           50 |       56 | 2026-04-04 | 33                     | L   | 1.000      | -            | -                | -                | -         |   -17.02 | dukefissura, gokushima, kAlash, mizu, n0rb3r7 |
 |           49 |       81 | 2026-04-03 | ARCRED                 | W   | 1.000      | 0.435        | -                | 0.704 (0.306)    | 1 (1.000) |    12.87 | dukefissura, gokushima, kAlash, mizu, n0rb3r7 |
 |           48 |       89 | 2026-04-03 | WW Team                | W   | 1.000      | 0.435        | 0.034 (0.015)    | 0.865 (0.376)    | 1 (1.000) |    11.87 | dukefissura, gokushima, kAlash, mizu, n0rb3r7 |
-|           47 |      210 | 2026-04-01 | 100 Thieves            | L   | 1.000      | -            | -                | -                | -         |   -14.41 | dukefissura, gokushima, kAlash, mizu, n0rb3r7 |
+|           47 |      210 | 2026-04-01 | 100 Thieves            | L   | 1.000      | -            | -                | -                | -         |   -14.40 | dukefissura, gokushima, kAlash, mizu, n0rb3r7 |
 |           46 |      252 | 2026-03-31 | AKPO6ATbI              | L   | 1.000      | -            | -                | -                | -         |   -31.00 | dukefissura, gokushima, kAlash, mizu, n0rb3r7 |
 |           45 |      525 | 2026-03-26 | BetBoom Team           | L   | 1.000      | -            | -                | -                | -         |   -10.67 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
 |           44 |      533 | 2026-03-26 | BIG                    | L   | 1.000      | -            | -                | -                | -         |    -8.66 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
 |           43 |      556 | 2026-03-25 | Tricked Esport         | W   | 1.000      | 0.435        | 0.027 (0.012)    | 0.474 (0.206)    | 1 (1.000) |    13.13 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           42 |      573 | 2026-03-25 | Inner Circle Esports   | W   | 1.000      | 0.435        | 0.060 (0.026)    | 0.484 (0.210)    | 1 (1.000) |    10.52 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           41 |      997 | 2026-03-17 | Bebop                  | L   | 1.000      | -            | -                | -                | -         |   -27.68 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           40 |     1165 | 2026-03-13 | Ex-RUBY                | L   | 1.000      | -            | -                | -                | -         |   -22.65 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
-|           39 |     1178 | 2026-03-13 | Leo Team               | W   | 1.000      | 0.435        | -                | 0.593 (0.258)    | -         |     4.07 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
-|           38 |     1217 | 2026-03-12 | FAVBET Team            | W   | 1.000      | 0.435        | 0.044 (0.019)    | 0.583 (0.253)    | -         |     5.29 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
+|           42 |      573 | 2026-03-25 | Inner Circle Esports   | W   | 1.000      | 0.435        | 0.060 (0.026)    | 0.484 (0.210)    | 1 (1.000) |    10.51 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           41 |      997 | 2026-03-17 | Bebop                  | L   | 1.000      | -            | -                | -                | -         |   -27.67 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           40 |     1165 | 2026-03-13 | Ex-RUBY                | L   | 1.000      | -            | -                | -                | -         |   -22.64 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
+|           39 |     1178 | 2026-03-13 | Leo Team               | W   | 1.000      | 0.435        | -                | 0.593 (0.258)    | -         |     4.08 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
+|           38 |     1217 | 2026-03-12 | FAVBET Team            | W   | 1.000      | 0.435        | 0.044 (0.019)    | 0.583 (0.253)    | -         |     5.33 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
 |           37 |     1277 | 2026-03-11 | Ex-Zero Tenacity       | W   | 1.000      | 0.435        | -                | 0.547 (0.238)    | -         |     2.32 | dukefissura, fineshine, kAlash, mizu, n0rb3r7 |
-|           36 |     1642 | 2026-03-04 | Magic (Russian team)   | L   | 0.980      | -            | -                | -                | -         |   -19.66 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           35 |     1753 | 2026-03-02 | SPARTA Esports         | W   | 0.965      | 0.435        | 0.063 (0.026)    | 0.732 (0.307)    | -         |    12.20 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           34 |     1875 | 2026-02-27 | Donstu Esports         | W   | 0.945      | -            | -                | -                | 1 (0.945) |     0.55 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           33 |     1887 | 2026-02-26 | OMEGA                  | L   | 0.944      | -            | -                | -                | -         |   -23.20 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           32 |     1948 | 2026-02-26 | Altay Esports          | W   | 0.938      | -            | -                | -                | 1 (0.938) |     0.19 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           31 |     2107 | 2026-02-22 | Gentle Mates           | W   | 0.914      | 0.341        | 0.105 (0.033)    | -                | 1 (0.914) |    15.65 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           30 |     2125 | 2026-02-22 | Fnatic                 | W   | 0.913      | 0.341        | 0.036 (0.011)    | -                | 1 (0.913) |     9.22 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           36 |     1642 | 2026-03-04 | Magic (Russian team)   | L   | 0.980      | -            | -                | -                | -         |   -19.67 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           35 |     1753 | 2026-03-02 | SPARTA Esports         | W   | 0.965      | 0.435        | 0.063 (0.026)    | 0.732 (0.307)    | -         |    12.07 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           34 |     1875 | 2026-02-27 | Donstu Esports         | W   | 0.946      | -            | -                | -                | 1 (0.946) |     0.55 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           33 |     1887 | 2026-02-26 | OMEGA                  | L   | 0.945      | -            | -                | -                | -         |   -23.21 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           32 |     1948 | 2026-02-26 | Altay Esports          | W   | 0.939      | -            | -                | -                | 1 (0.939) |     0.19 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           31 |     2107 | 2026-02-22 | Gentle Mates           | W   | 0.914      | 0.341        | 0.105 (0.033)    | -                | 1 (0.914) |    15.67 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           30 |     2125 | 2026-02-22 | Fnatic                 | W   | 0.914      | 0.341        | 0.036 (0.011)    | -                | 1 (0.914) |     9.23 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
 |           29 |     2184 | 2026-02-21 | Betclic Apogee Esports | W   | 0.907      | -            | -                | -                | 1 (0.907) |    10.52 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           28 |     2282 | 2026-02-19 | Rebels Gaming          | W   | 0.894      | -            | -                | -                | 1 (0.894) |     6.59 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           27 |     2285 | 2026-02-19 | ALGO Esports           | W   | 0.894      | -            | -                | -                | -         |     2.98 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           26 |     2550 | 2026-02-14 | Gentle Mates           | L   | 0.860      | -            | -                | -                | -         |   -12.91 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           25 |     2568 | 2026-02-14 | 9INE                   | W   | 0.859      | 0.384        | 0.054 (0.018)    | 0.606 (0.200)    | -         |    11.77 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           24 |     2610 | 2026-02-13 | MANA eSports           | W   | 0.854      | 0.384        | -                | 0.637 (0.209)    | -         |     1.97 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           23 |     2656 | 2026-02-12 | ROCEAN Lords           | W   | 0.848      | -            | -                | -                | -         |     0.11 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           22 |     2939 | 2026-02-03 | FAVBET Team            | L   | 0.786      | -            | -                | -                | -         |   -21.64 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           21 |     3125 | 2026-01-28 | BetBoom Team           | L   | 0.746      | -            | -                | -                | -         |    -9.41 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           20 |     3134 | 2026-01-28 | ALLINNERS              | W   | 0.745      | -            | -                | -                | -         |     0.96 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           19 |     3142 | 2026-01-28 | BetBoom Team           | L   | 0.744      | -            | -                | -                | -         |    -9.98 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           18 |     3158 | 2026-01-27 | Rune Eaters Esports    | W   | 0.739      | -            | -                | -                | -         |     1.57 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           17 |     3165 | 2026-01-27 | Altay Esports          | W   | 0.738      | -            | -                | -                | -         |     0.15 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           16 |     3271 | 2026-01-23 | BetBoom Team           | W   | 0.713      | 0.143        | 0.116 (0.012)    | -                | -         |    13.55 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           15 |     3320 | 2026-01-22 | 9INE                   | W   | 0.706      | -            | -                | -                | -         |    10.12 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           14 |     3353 | 2026-01-21 | Gentle Mates           | W   | 0.701      | 0.143        | 0.105 (0.011)    | -                | -         |    10.27 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           13 |     3377 | 2026-01-21 | Sangal Esports         | W   | 0.698      | -            | -                | -                | -         |     1.66 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           12 |     3618 | 2026-01-13 | Aurora Gaming          | L   | 0.647      | -            | -                | -                | -         |    -1.26 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           11 |     3709 | 2026-01-04 | BetBoom Team           | L   | 0.586      | -            | -                | -                | -         |   -17.60 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|           10 |     3713 | 2026-01-04 | Haunted House          | W   | 0.585      | -            | -                | -                | -         |     0.52 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            9 |     3726 | 2026-01-03 | BetBoom Team           | L   | 0.584      | -            | -                | -                | -         |   -17.69 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            8 |     3746 | 2026-01-03 | NOVAQ                  | W   | 0.580      | -            | -                | -                | -         |     2.08 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            7 |     3755 | 2026-01-03 | Altay Esports          | W   | 0.578      | -            | -                | -                | -         |     0.13 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            6 |     3903 | 2025-12-14 | OMEGA                  | W   | 0.445      | -            | -                | -                | -         |     3.82 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            5 |     3916 | 2025-12-12 | NOVAQ                  | W   | 0.437      | -            | -                | -                | -         |     1.64 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            4 |     3935 | 2025-12-11 | OMEGA                  | W   | 0.431      | -            | -                | -                | -         |     3.76 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            3 |     4152 | 2025-11-30 | ALLINNERS              | W   | 0.353      | -            | -                | -                | -         |     0.51 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            2 |     4193 | 2025-11-29 | ALLINNERS              | W   | 0.346      | -            | -                | -                | -         |     0.48 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
-|            1 |     4220 | 2025-11-29 | WINNERS Esports        | W   | 0.344      | -            | -                | -                | -         |     0.08 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           28 |     2282 | 2026-02-19 | Rebels Gaming          | W   | 0.895      | -            | -                | -                | 1 (0.895) |     6.60 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           27 |     2285 | 2026-02-19 | ALGO Esports           | W   | 0.895      | -            | -                | -                | -         |     2.98 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           26 |     2551 | 2026-02-14 | Gentle Mates           | L   | 0.861      | -            | -                | -                | -         |   -12.91 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           25 |     2569 | 2026-02-14 | 9INE                   | W   | 0.860      | 0.384        | 0.054 (0.018)    | 0.606 (0.200)    | -         |    11.78 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           24 |     2611 | 2026-02-13 | MANA eSports           | W   | 0.854      | 0.384        | -                | 0.637 (0.209)    | -         |     1.97 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           23 |     2657 | 2026-02-12 | ROCEAN Lords           | W   | 0.849      | -            | -                | -                | -         |     0.11 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           22 |     2940 | 2026-02-03 | FAVBET Team            | L   | 0.787      | -            | -                | -                | -         |   -21.62 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           21 |     3126 | 2026-01-28 | BetBoom Team           | L   | 0.747      | -            | -                | -                | -         |    -9.43 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           20 |     3135 | 2026-01-28 | ALLINNERS              | W   | 0.746      | -            | -                | -                | -         |     0.99 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           19 |     3143 | 2026-01-28 | BetBoom Team           | L   | 0.745      | -            | -                | -                | -         |    -9.99 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           18 |     3159 | 2026-01-27 | Rune Eaters Esports    | W   | 0.739      | -            | -                | -                | -         |     1.50 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           17 |     3166 | 2026-01-27 | Altay Esports          | W   | 0.738      | -            | -                | -                | -         |     0.15 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           16 |     3272 | 2026-01-23 | BetBoom Team           | W   | 0.714      | 0.143        | 0.115 (0.012)    | -                | -         |    13.55 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           15 |     3321 | 2026-01-22 | 9INE                   | W   | 0.707      | -            | -                | -                | -         |    10.13 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           14 |     3354 | 2026-01-21 | Gentle Mates           | W   | 0.701      | 0.143        | 0.105 (0.011)    | -                | -         |    10.28 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           13 |     3378 | 2026-01-21 | Sangal Esports         | W   | 0.699      | -            | -                | -                | -         |     1.67 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           12 |     3619 | 2026-01-13 | Aurora Gaming          | L   | 0.648      | -            | -                | -                | -         |    -1.26 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           11 |     3710 | 2026-01-04 | BetBoom Team           | L   | 0.587      | -            | -                | -                | -         |   -17.62 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|           10 |     3714 | 2026-01-04 | Haunted House          | W   | 0.586      | -            | -                | -                | -         |     0.52 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            9 |     3727 | 2026-01-03 | BetBoom Team           | L   | 0.585      | -            | -                | -                | -         |   -17.70 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            8 |     3747 | 2026-01-03 | NOVAQ                  | W   | 0.580      | -            | -                | -                | -         |     2.08 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            7 |     3756 | 2026-01-03 | Altay Esports          | W   | 0.578      | -            | -                | -                | -         |     0.13 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            6 |     3904 | 2025-12-14 | OMEGA                  | W   | 0.445      | -            | -                | -                | -         |     3.83 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            5 |     3917 | 2025-12-12 | NOVAQ                  | W   | 0.438      | -            | -                | -                | -         |     1.64 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            4 |     3936 | 2025-12-11 | OMEGA                  | W   | 0.431      | -            | -                | -                | -         |     3.77 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            3 |     4153 | 2025-11-30 | ALLINNERS              | W   | 0.353      | -            | -                | -                | -         |     0.51 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            2 |     4194 | 2025-11-29 | ALLINNERS              | W   | 0.347      | -            | -                | -                | -         |     0.48 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
+|            1 |     4221 | 2025-11-29 | WINNERS Esports        | W   | 0.345      | -            | -                | -                | -         |     0.08 | dukefissura, frontales, kAlash, mizu, n0rb3r7 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($35,821.82)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($35,838.57)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.08) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -106,13 +106,13 @@ Top ten winnings for this roster:<br />
 | 2026-04-05 |      1.000 | $750.00        | $750.00         |
 | 2026-03-26 |      1.000 | $2,000.00      | $2,000.00       |
 | 2026-03-13 |      1.000 | $10,000.00     | $10,000.00      |
-| 2026-03-05 |      0.987 | $2,000.00      | $1,973.45       |
-| 2026-02-27 |      0.945 | $2,004.00      | $1,893.99       |
-| 2026-02-22 |      0.914 | $5,894.00      | $5,386.67       |
-| 2026-02-14 |      0.860 | $6,250.00      | $5,377.39       |
-| 2026-01-28 |      0.746 | $1,491.00      | $1,112.68       |
-| 2026-01-18 |      0.680 | $7,500.00      | $5,103.04       |
-| 2025-12-14 |      0.445 | $5,000.00      | $2,224.60       |
+| 2026-03-05 |      0.987 | $2,000.00      | $1,974.56       |
+| 2026-02-27 |      0.946 | $2,004.00      | $1,895.10       |
+| 2026-02-22 |      0.914 | $5,894.00      | $5,389.94       |
+| 2026-02-14 |      0.861 | $6,250.00      | $5,380.86       |
+| 2026-01-28 |      0.747 | $1,491.00      | $1,113.51       |
+| 2026-01-18 |      0.681 | $7,500.00      | $5,107.21       |
+| 2025-12-14 |      0.445 | $5,000.00      | $2,227.38       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

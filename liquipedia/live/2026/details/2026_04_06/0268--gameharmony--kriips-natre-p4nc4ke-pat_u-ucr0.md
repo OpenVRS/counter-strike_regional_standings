@@ -42,23 +42,23 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |      719 | 2026-03-23 | FOKUS REALITY | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     7.09 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
 |            4 |      725 | 2026-03-23 | 3DMAX         | L   | 1.000      | -            | -                | -                | -         |    -0.17 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
-|            3 |      730 | 2026-03-23 | FOKUS         | L   | 1.000      | -            | -                | -                | -         |    -0.90 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
-|            2 |     2146 | 2026-02-22 | Truck Drivers | W   | 0.912      | 0.283        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.912) |     6.45 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
-|            1 |     2187 | 2026-02-21 | EC BANGA      | L   | 0.907      | -            | -                | -                | -         |    -6.36 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
+|            3 |      730 | 2026-03-23 | FOKUS         | L   | 1.000      | -            | -                | -                | -         |    -0.91 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
+|            2 |     2146 | 2026-02-22 | Truck Drivers | W   | 0.913      | 0.283        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.913) |     6.46 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
+|            1 |     2187 | 2026-02-21 | EC BANGA      | L   | 0.907      | -            | -                | -                | -         |    -6.37 | kriips, Natre, P4nc4ke, pat_u, ucr0 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($403.19)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($403.43)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-02-22 |      0.912 | $442.00        | $403.19         |
+| 2026-02-22 |      0.913 | $442.00        | $403.43         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

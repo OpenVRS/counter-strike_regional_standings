@@ -40,33 +40,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     4456 | 2025-11-20 | Acend           | L   | 0.286      | -            | -                | -                | -         |    -0.19 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|           12 |     4475 | 2025-11-20 | Haemus eSports  | L   | 0.285      | -            | -                | -                | -         |    -5.99 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|           11 |     4916 | 2025-11-06 | ALLINNERS       | L   | 0.191      | -            | -                | -                | -         |    -2.75 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|           10 |     4941 | 2025-11-05 | NOVAQ           | L   | 0.185      | -            | -                | -                | -         |    -0.39 | Ayteel, DGL, Kunai, lunAtic, szejn |
-|            9 |     5025 | 2025-11-01 | Team Nemesis    | L   | 0.161      | -            | -                | -                | -         |    -1.92 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            8 |     5037 | 2025-11-01 | 8Sins           | W   | 0.160      | 0.305        | 0.004 (0.000)    | 0.153 (0.007)    | 1 (0.160) |     3.69 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            7 |     5044 | 2025-11-01 | Prestige Esport | L   | 0.159      | -            | -                | -                | -         |    -2.69 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            6 |     5076 | 2025-10-31 | GenOne          | L   | 0.151      | -            | -                | -                | -         |    -0.70 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            5 |     5185 | 2025-10-27 | MOUZ NXT        | W   | 0.125      | 0.344        | 0.037 (0.002)    | 1.000 (0.043)    | 0 (0.000) |     3.87 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            4 |     5228 | 2025-10-26 | Hashiras        | L   | 0.120      | -            | -                | -                | -         |    -0.83 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            3 |     5277 | 2025-10-25 | 9BoomPro        | L   | 0.113      | -            | -                | -                | -         |    -2.36 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            2 |     5289 | 2025-10-25 | Dziuseppe       | W   | 0.113      | 0.344        | 0.000 (0.000)    | 0.065 (0.003)    | 0 (0.000) |     1.29 | Ayteel, DGL, Kunai, szejn, TOAO    |
-|            1 |     5339 | 2025-10-24 | Monte           | L   | 0.107      | -            | -                | -                | -         |    -0.02 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|           13 |     4457 | 2025-11-20 | Acend           | L   | 0.286      | -            | -                | -                | -         |    -0.19 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|           12 |     4476 | 2025-11-20 | Haemus eSports  | L   | 0.285      | -            | -                | -                | -         |    -6.00 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|           11 |     4917 | 2025-11-06 | ALLINNERS       | L   | 0.192      | -            | -                | -                | -         |    -2.76 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|           10 |     4942 | 2025-11-05 | NOVAQ           | L   | 0.185      | -            | -                | -                | -         |    -0.39 | Ayteel, DGL, Kunai, lunAtic, szejn |
+|            9 |     5026 | 2025-11-01 | Team Nemesis    | L   | 0.162      | -            | -                | -                | -         |    -1.93 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            8 |     5038 | 2025-11-01 | 8Sins           | W   | 0.161      | 0.305        | 0.004 (0.000)    | 0.153 (0.007)    | 1 (0.161) |     3.70 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            7 |     5045 | 2025-11-01 | Prestige Esport | L   | 0.160      | -            | -                | -                | -         |    -2.70 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            6 |     5077 | 2025-10-31 | GenOne          | L   | 0.152      | -            | -                | -                | -         |    -0.71 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            5 |     5186 | 2025-10-27 | MOUZ NXT        | W   | 0.126      | 0.344        | 0.037 (0.002)    | 1.000 (0.043)    | 0 (0.000) |     3.88 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            4 |     5229 | 2025-10-26 | Hashiras        | L   | 0.120      | -            | -                | -                | -         |    -0.83 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            3 |     5278 | 2025-10-25 | 9BoomPro        | L   | 0.114      | -            | -                | -                | -         |    -2.37 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            2 |     5290 | 2025-10-25 | Dziuseppe       | W   | 0.113      | 0.344        | 0.000 (0.000)    | 0.065 (0.003)    | 0 (0.000) |     1.30 | Ayteel, DGL, Kunai, szejn, TOAO    |
+|            1 |     5340 | 2025-10-24 | Monte           | L   | 0.107      | -            | -                | -                | -         |    -0.02 | Ayteel, DGL, Kunai, szejn, TOAO    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($76.24)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($76.49)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-02 |      0.166 | $460.00        | $76.24          |
+| 2025-11-02 |      0.166 | $460.00        | $76.49          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

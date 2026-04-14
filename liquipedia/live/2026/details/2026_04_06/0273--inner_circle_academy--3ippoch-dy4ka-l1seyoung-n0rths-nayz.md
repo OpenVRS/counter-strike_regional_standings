@@ -6,9 +6,9 @@ Global Rank: [273](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [174]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  614.6<br />
+Final Rank Value:  614.5<br />
 <br />
-Final Rank Value (614.6) = Starting Rank Value (631.0) + Head To Head Adjustments (-16.5)<br />
+Final Rank Value (614.5) = Starting Rank Value (630.9) + Head To Head Adjustments (-16.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.118<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 631.0
-- 400 + ( ( 0.118 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 631.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 630.9
+- 400 + ( ( 0.118 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 630.9
 
 
 #### Factors<br />
@@ -44,15 +44,15 @@ Note:<br />
 |            5 |     1095 | 2026-03-15 | Okura                    | L   | 1.000      | -            | -                | -                | -         |   -14.45 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
 |            4 |     1104 | 2026-03-15 | B8 Academy               | W   | 1.000      | 0.274        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.80 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
 |            3 |     1170 | 2026-03-13 | Misa Esports             | L   | 1.000      | -            | -                | -                | -         |    -8.51 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
-|            2 |     2535 | 2026-02-15 | WROTBERRY                | L   | 0.865      | -            | -                | -                | -         |   -12.76 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
-|            1 |     2595 | 2026-02-14 | Legends (Ukrainian team) | W   | 0.858      | 0.294        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.22 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
+|            2 |     2536 | 2026-02-15 | WROTBERRY                | L   | 0.865      | -            | -                | -                | -         |   -12.77 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
+|            1 |     2596 | 2026-02-14 | Legends (Ukrainian team) | W   | 0.859      | 0.294        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     9.23 | 3ippoch, Dy4ka, L1seYoung, n0rths, NaYz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,544.83)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($1,545.38)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -60,7 +60,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-03-15 |      1.000 | $680.00        | $680.00         |
-| 2026-02-15 |      0.865 | $1,000.00      | $864.83         |
+| 2026-02-15 |      0.865 | $1,000.00      | $865.38         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

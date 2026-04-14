@@ -6,13 +6,13 @@ Global Rank: [224](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [145]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  712.1<br />
+Final Rank Value:  712.0<br />
 <br />
-Final Rank Value (712.1) = Starting Rank Value (653.5) + Head To Head Adjustments (58.7)<br />
+Final Rank Value (712.0) = Starting Rank Value (653.4) + Head To Head Adjustments (58.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.307[<sup>1</sup>](#table2)
+- Bounty Offered: 0.306[<sup>1</sup>](#table2)
 - Bounty Collected: 0.204[<sup>2</sup>](#table1)
 - Opponent Network: 0.007[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.130<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 653.5
-- 400 + ( ( 0.130 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 653.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 653.4
+- 400 + ( ( 0.130 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 653.4
 
 
 #### Factors<br />
@@ -42,16 +42,16 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            5 |      423 | 2026-03-28 | QWENTRY              | L   | 1.000      | -            | -                | -                | -         |    -2.64 | Goofy, MICHU, rallen, ToM223, tudsoN |
 |            4 |      489 | 2026-03-27 | ENJOY (Russian team) | W   | 1.000      | 0.407        | 0.002 (0.001)    | 0.026 (0.011)    | 0 (0.000) |    14.42 | Goofy, MICHU, rallen, ToM223, tudsoN |
-|            3 |     1348 | 2026-03-09 | Donstu Esports       | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.151 (0.022)    | 0 (0.000) |    17.22 | Goofy, MICHU, rallen, ToM223, tudsoN |
-|            2 |     1438 | 2026-03-08 | Aurora Young Blud    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.225 (0.032)    | 0 (0.000) |    15.99 | Goofy, MICHU, rallen, ToM223, tudsoN |
-|            1 |     1578 | 2026-03-05 | Fire Flux Esports    | W   | 0.987      | 0.143        | 0.001 (0.000)    | 0.071 (0.010)    | 0 (0.000) |    13.67 | Goofy, MICHU, rallen, ToM223, tudsoN |
+|            3 |     1348 | 2026-03-09 | Donstu Esports       | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.150 (0.021)    | 0 (0.000) |    17.22 | Goofy, MICHU, rallen, ToM223, tudsoN |
+|            2 |     1438 | 2026-03-08 | Aurora Young Blud    | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.225 (0.032)    | 0 (0.000) |    16.00 | Goofy, MICHU, rallen, ToM223, tudsoN |
+|            1 |     1578 | 2026-03-05 | Fire Flux Esports    | W   | 0.988      | 0.143        | 0.001 (0.000)    | 0.071 (0.010)    | 0 (0.000) |    13.68 | Goofy, MICHU, rallen, ToM223, tudsoN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,500.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

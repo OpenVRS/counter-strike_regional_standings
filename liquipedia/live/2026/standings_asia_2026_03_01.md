@@ -50,4 +50,4 @@
 | 45       |    465 | KZG                              | dearlucid, dpr, Drox, Mingovi, vinhy            | [details](details/2026_03_01/0321--kzg--dearlucid-dpr-drox-mingovi-vinhy.md)                                  |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

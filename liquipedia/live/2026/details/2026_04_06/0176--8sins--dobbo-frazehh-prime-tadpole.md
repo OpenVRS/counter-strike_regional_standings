@@ -8,20 +8,20 @@ Regional Rank: [122]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  810.5<br />
 <br />
-Final Rank Value (810.5) = Starting Rank Value (794.5) + Head To Head Adjustments (16.0)<br />
+Final Rank Value (810.5) = Starting Rank Value (794.0) + Head To Head Adjustments (16.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.295[<sup>1</sup>](#table2)
 - Bounty Collected: 0.286[<sup>2</sup>](#table1)
-- Opponent Network: 0.044[<sup>2</sup>](#table1)
+- Opponent Network: 0.043[<sup>2</sup>](#table1)
 - LAN Wins: 0.182[<sup>2</sup>](#table1)
 
-The average of these factors is 0.202<br />
+The average of these factors is 0.201<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 794.5
-- 400 + ( ( 0.202 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 794.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 794.0
+- 400 + ( ( 0.201 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 794.0
 
 
 #### Factors<br />
@@ -40,39 +40,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |      490 | 2026-03-27 | Bebop           | L   | 1.000      | -            | -                | -                | -         |    -9.23 | Ariant0, dobbo, frazehh, Prime, Tadpole  |
-|           16 |      536 | 2026-03-26 | EC BANGA        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.183 (0.026)    | 0 (0.000) |    13.19 | Ariant0, dobbo, frazehh, Prime, Tadpole  |
-|           15 |      571 | 2026-03-25 | Bebop           | L   | 1.000      | -            | -                | -                | -         |    -7.23 | Ariant0, dobbo, frazehh, Prime, Tadpole  |
+|           17 |      490 | 2026-03-27 | Bebop           | L   | 1.000      | -            | -                | -                | -         |    -9.21 | Ariant0, dobbo, frazehh, Prime, Tadpole  |
+|           16 |      536 | 2026-03-26 | EC BANGA        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.153 (0.022)    | 0 (0.000) |    13.03 | Ariant0, dobbo, frazehh, Prime, Tadpole  |
+|           15 |      571 | 2026-03-25 | Bebop           | L   | 1.000      | -            | -                | -                | -         |    -7.22 | Ariant0, dobbo, frazehh, Prime, Tadpole  |
 |           14 |      795 | 2026-03-21 | CSDIILIT        | L   | 1.000      | -            | -                | -                | -         |   -13.91 | dobbo, frazehh, Prime, Tadpole, wfn      |
-|           13 |      877 | 2026-03-20 | FUZOS           | W   | 1.000      | 0.384        | 0.005 (0.002)    | 0.414 (0.159)    | 0 (0.000) |    17.52 | dobbo, frazehh, Prime, Tadpole, wfn      |
-|           12 |     1009 | 2026-03-17 | EC BANGA        | W   | 1.000      | 0.384        | 0.004 (0.001)    | 0.183 (0.070)    | 0 (0.000) |    16.28 | dobbo, frazehh, Prime, Tadpole, wfn      |
-|           11 |     1042 | 2026-03-16 | Bebop           | L   | 1.000      | -            | -                | -                | -         |    -7.80 | dobbo, frazehh, Prime, Tadpole, wfn      |
-|           10 |     1810 | 2026-02-28 | Oxuji Esports   | L   | 0.954      | -            | -                | -                | -         |    -4.44 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
-|            9 |     1854 | 2026-02-27 | Team Pigeons    | W   | 0.947      | 0.384        | 0.037 (0.014)    | 0.248 (0.090)    | 0 (0.000) |    14.18 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
-|            8 |     1915 | 2026-02-26 | Ursa            | L   | 0.940      | -            | -                | -                | -         |    -7.70 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
+|           13 |      877 | 2026-03-20 | FUZOS           | W   | 1.000      | 0.384        | 0.005 (0.002)    | 0.414 (0.159)    | 0 (0.000) |    17.55 | dobbo, frazehh, Prime, Tadpole, wfn      |
+|           12 |     1009 | 2026-03-17 | EC BANGA        | W   | 1.000      | 0.384        | 0.004 (0.001)    | 0.153 (0.059)    | 0 (0.000) |    16.07 | dobbo, frazehh, Prime, Tadpole, wfn      |
+|           11 |     1042 | 2026-03-16 | Bebop           | L   | 1.000      | -            | -                | -                | -         |    -7.79 | dobbo, frazehh, Prime, Tadpole, wfn      |
+|           10 |     1810 | 2026-02-28 | Oxuji Esports   | L   | 0.954      | -            | -                | -                | -         |    -4.45 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
+|            9 |     1854 | 2026-02-27 | Team Pigeons    | W   | 0.948      | 0.384        | 0.037 (0.014)    | 0.248 (0.090)    | 0 (0.000) |    14.18 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
+|            8 |     1915 | 2026-02-26 | Ursa            | L   | 0.941      | -            | -                | -                | -         |    -7.71 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
 |            7 |     1981 | 2026-02-25 | Team Pigeons    | W   | 0.933      | 0.384        | 0.037 (0.013)    | 0.248 (0.089)    | 0 (0.000) |    13.73 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
-|            6 |     2137 | 2026-02-22 | The Last Resort | L   | 0.913      | -            | -                | -                | -         |   -11.79 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
-|            5 |     2163 | 2026-02-22 | CTRL Esports    | W   | 0.911      | 0.319        | 0.002 (0.001)    | 0.030 (0.009)    | 1 (0.911) |     5.16 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
-|            4 |     2175 | 2026-02-21 | Nigel Mirage    | W   | 0.908      | 0.319        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.908) |     5.19 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
-|            3 |     4030 | 2025-12-06 | The Last Resort | L   | 0.393      | -            | -                | -                | -         |    -4.19 | Bigun, dobbo, frazehh, Prime, Tadpole    |
-|            2 |     4582 | 2025-11-13 | Coalesce        | W   | 0.241      | 0.265        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.77 | Bigun, dobbo, frazehh, Prime, Tadpole    |
-|            1 |     5037 | 2025-11-01 | Phantom Esports | L   | 0.160      | -            | -                | -                | -         |    -3.69 | dobbo, frazehh, JAUSTERE, Prime, Tadpole |
+|            6 |     2137 | 2026-02-22 | The Last Resort | L   | 0.913      | -            | -                | -                | -         |   -11.53 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
+|            5 |     2163 | 2026-02-22 | CTRL Esports    | W   | 0.912      | 0.319        | 0.004 (0.001)    | 0.030 (0.009)    | 1 (0.912) |     5.50 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
+|            4 |     2175 | 2026-02-21 | Nigel Mirage    | W   | 0.908      | 0.319        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.908) |     5.20 | dobbo, frazehh, Prime, Tadpole, TorNEX   |
+|            3 |     4031 | 2025-12-06 | The Last Resort | L   | 0.393      | -            | -                | -                | -         |    -4.05 | Bigun, dobbo, frazehh, Prime, Tadpole    |
+|            2 |     4583 | 2025-11-13 | Coalesce        | W   | 0.242      | 0.265        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.77 | Bigun, dobbo, frazehh, Prime, Tadpole    |
+|            1 |     5038 | 2025-11-01 | Phantom Esports | L   | 0.161      | -            | -                | -                | -         |    -3.70 | dobbo, frazehh, JAUSTERE, Prime, Tadpole |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,850.37)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($1,851.87)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-02-22 |      0.913 | $1,550.00      | $1,414.75       |
-| 2025-12-06 |      0.393 | $1,067.00      | $419.21         |
-| 2025-11-02 |      0.166 | $99.00         | $16.41          |
+| 2026-02-22 |      0.913 | $1,550.00      | $1,415.61       |
+| 2025-12-06 |      0.393 | $1,067.00      | $419.80         |
+| 2025-11-02 |      0.166 | $99.00         | $16.46          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

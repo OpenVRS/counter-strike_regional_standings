@@ -202,4 +202,4 @@
 | 197      |    400 | Ex-Inner Circle Esports                   | hades, Snax, TaZ                                     | [details](details/2026_03_15/0334--ex-inner_circle_esports--hades-snax-taz.md)                                          |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

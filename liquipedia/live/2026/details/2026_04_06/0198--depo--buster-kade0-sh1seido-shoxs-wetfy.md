@@ -6,9 +6,9 @@ Global Rank: [198](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [24]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  748.0<br />
+Final Rank Value:  747.9<br />
 <br />
-Final Rank Value (748.0) = Starting Rank Value (694.4) + Head To Head Adjustments (53.7)<br />
+Final Rank Value (747.9) = Starting Rank Value (694.3) + Head To Head Adjustments (53.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.150<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 694.4
-- 400 + ( ( 0.150 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 694.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 694.3
+- 400 + ( ( 0.150 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 694.3
 
 
 #### Factors<br />
@@ -41,13 +41,13 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           11 |      164 | 2026-04-02 | The Huns Esports        | L   | 1.000      | -            | -                | -                | -         |    -2.81 | buster, kade0, sh1seido, shoxs, wetfy    |
-|           10 |      171 | 2026-04-01 | Ground Zero Gaming      | W   | 1.000      | 0.143        | 0.013 (0.002)    | 0.213 (0.030)    | 0 (0.000) |    24.52 | buster, kade0, sh1seido, shoxs, wetfy    |
-|            9 |      201 | 2026-04-01 | Haunted House           | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.176 (0.025)    | 0 (0.000) |    18.05 | buster, kade0, sh1seido, shoxs, wetfy    |
+|           10 |      171 | 2026-04-01 | Ground Zero Gaming      | W   | 1.000      | 0.143        | 0.013 (0.002)    | 0.213 (0.030)    | 0 (0.000) |    24.49 | buster, kade0, sh1seido, shoxs, wetfy    |
+|            9 |      201 | 2026-04-01 | Haunted House           | W   | 1.000      | 0.143        | 0.001 (0.000)    | 0.175 (0.025)    | 0 (0.000) |    18.05 | buster, kade0, sh1seido, shoxs, wetfy    |
 |            8 |      214 | 2026-04-01 | Legion (Pakistani team) | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.241 (0.034)    | 0 (0.000) |    16.69 | buster, kade0, sh1seido, shoxs, wetfy    |
 |            7 |      262 | 2026-03-31 | THE UNIT                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.44 | buster, kade0, sh1seido, shoxs, wetfy    |
 |            6 |      287 | 2026-03-31 | Legion (Pakistani team) | L   | 1.000      | -            | -                | -                | -         |   -13.87 | buster, kade0, sh1seido, shoxs, wetfy    |
 |            5 |     1093 | 2026-03-15 | OMEGA                   | L   | 1.000      | -            | -                | -                | -         |    -2.94 | botirshoT, kade0, sh1seido, shoxs, wetfy |
-|            4 |     1105 | 2026-03-14 | Altay Esports           | W   | 1.000      | 0.295        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     8.17 | botirshoT, kade0, sh1seido, shoxs, wetfy |
+|            4 |     1105 | 2026-03-14 | Altay Esports           | W   | 1.000      | 0.295        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     8.18 | botirshoT, kade0, sh1seido, shoxs, wetfy |
 |            3 |     1288 | 2026-03-10 | Rare Atom               | L   | 1.000      | -            | -                | -                | -         |    -1.78 | buster, kade0, sh1seido, shoxs, wetfy    |
 |            2 |     1332 | 2026-03-09 | Blazing Beavers         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.00 | buster, kade0, sh1seido, shoxs, wetfy    |
 |            1 |     1398 | 2026-03-08 | NEXVOID                 | L   | 1.000      | -            | -                | -                | -         |    -1.80 | buster, kade0, sh1seido, shoxs, wetfy    |
@@ -57,7 +57,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,021.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

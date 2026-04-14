@@ -6,9 +6,9 @@ Global Rank: [275](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [176]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  610.9<br />
+Final Rank Value:  610.8<br />
 <br />
-Final Rank Value (610.9) = Starting Rank Value (623.5) + Head To Head Adjustments (-12.6)<br />
+Final Rank Value (610.8) = Starting Rank Value (623.5) + Head To Head Adjustments (-12.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,19 +44,19 @@ Note:<br />
 |            9 |      436 | 2026-03-28 | Benched gods            | L   | 1.000      | -            | -                | -                | -         |   -14.69 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
 |            8 |      517 | 2026-03-26 | Lombard                 | W   | 1.000      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.54 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
 |            7 |     1268 | 2026-03-11 | Megoshort               | L   | 1.000      | -            | -                | -                | -         |    -3.52 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            6 |     1380 | 2026-03-09 | Aimclub (Romanian team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.271 (0.039)    | 0 (0.000) |    25.87 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            5 |     1578 | 2026-03-05 | OLDBOYS                 | L   | 0.987      | -            | -                | -                | -         |   -13.67 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            4 |     2677 | 2026-02-12 | Magic (Russian team)    | L   | 0.846      | -            | -                | -                | -         |    -0.54 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            3 |     4289 | 2025-11-25 | BAKS Esports            | L   | 0.319      | -            | -                | -                | -         |    -4.81 | Cizzx, Quality, suisha, xEternaLxx, zemix  |
-|            2 |     4310 | 2025-11-24 | CYBERSHOKE Esports      | L   | 0.314      | -            | -                | -                | -         |    -0.32 | Cizzx, Quality, suisha, xEternaLxx, zemix  |
-|            1 |     4335 | 2025-11-24 | BC.Game Esports         | W   | 0.311      | 0.371        | 0.001 (0.000)    | 0.037 (0.004)    | 1 (0.311) |     5.92 | Cizzx, Quality, suisha, xEternaLxx, zemix  |
+|            6 |     1380 | 2026-03-09 | Aimclub (Romanian team) | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.271 (0.039)    | 0 (0.000) |    25.88 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            5 |     1578 | 2026-03-05 | OLDBOYS                 | L   | 0.988      | -            | -                | -                | -         |   -13.68 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            4 |     2678 | 2026-02-12 | Magic (Russian team)    | L   | 0.847      | -            | -                | -                | -         |    -0.54 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            3 |     4290 | 2025-11-25 | BAKS Esports            | L   | 0.320      | -            | -                | -                | -         |    -4.82 | Cizzx, Quality, suisha, xEternaLxx, zemix  |
+|            2 |     4311 | 2025-11-24 | CYBERSHOKE Esports      | L   | 0.314      | -            | -                | -                | -         |    -0.32 | Cizzx, Quality, suisha, xEternaLxx, zemix  |
+|            1 |     4336 | 2025-11-24 | BC.Game Esports         | W   | 0.312      | 0.371        | 0.001 (0.000)    | 0.037 (0.004)    | 1 (0.312) |     5.93 | Cizzx, Quality, suisha, xEternaLxx, zemix  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($500.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

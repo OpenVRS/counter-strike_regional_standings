@@ -6,9 +6,9 @@ Global Rank: [120](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [83]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  989.6<br />
+Final Rank Value:  989.5<br />
 <br />
-Final Rank Value (989.6) = Starting Rank Value (948.8) + Head To Head Adjustments (40.8)<br />
+Final Rank Value (989.5) = Starting Rank Value (948.6) + Head To Head Adjustments (40.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.083[<sup>2</sup>](#table1)
 - LAN Wins: 0.400[<sup>2</sup>](#table1)
 
-The average of these factors is 0.281<br />
+The average of these factors is 0.280<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 948.8
-- 400 + ( ( 0.281 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 948.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 948.6
+- 400 + ( ( 0.280 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 948.6
 
 
 #### Factors<br />
@@ -43,23 +43,23 @@ Note:<br />
 |           13 |        1 | 2026-04-05 | Julie&cie        | W   | 1.000      | 0.362        | 0.009 (0.003)    | 0.092 (0.033)    | 1 (1.000) |     9.61 | AsI0K, drac, Saax, SLIE9000, Tarkky       |
 |           12 |       24 | 2026-04-05 | Julie&cie        | W   | 1.000      | 0.362        | 0.009 (0.003)    | 0.092 (0.033)    | 1 (1.000) |     9.77 | AsI0K, drac, Saax, SLIE9000, Tarkky       |
 |           11 |       43 | 2026-04-04 | Subtop De France | W   | 1.000      | 0.362        | 0.006 (0.002)    | 0.092 (0.033)    | 1 (1.000) |     9.22 | AsI0K, drac, Saax, SLIE9000, Tarkky       |
-|           10 |       52 | 2026-04-04 | Prodigy (Agency) | W   | 1.000      | 0.362        | 0.004 (0.001)    | 0.061 (0.022)    | 1 (1.000) |     7.08 | AsI0K, drac, Saax, SLIE9000, Tarkky       |
+|           10 |       52 | 2026-04-04 | Prodigy (Agency) | W   | 1.000      | 0.362        | 0.004 (0.001)    | 0.061 (0.022)    | 1 (1.000) |     7.09 | AsI0K, drac, Saax, SLIE9000, Tarkky       |
 |            9 |      748 | 2026-03-22 | Sangal Esports   | L   | 1.000      | -            | -                | -                | -         |   -10.70 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            8 |      797 | 2026-03-21 | Ursa             | L   | 1.000      | -            | -                | -                | -         |   -11.27 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            7 |      893 | 2026-03-19 | Ex-MINLATE       | W   | 1.000      | 0.384        | 0.001 (0.000)    | 0.445 (0.171)    | 0 (0.000) |    17.83 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            6 |      986 | 2026-03-17 | SPARTA Esports   | W   | 1.000      | 0.384        | 0.063 (0.024)    | 0.732 (0.281)    | 0 (0.000) |    27.57 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            5 |     1033 | 2026-03-16 | Lilmix           | W   | 1.000      | 0.384        | 0.008 (0.003)    | 0.259 (0.100)    | 0 (0.000) |    13.69 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            4 |     1144 | 2026-03-14 | CSDIILIT         | L   | 1.000      | -            | -                | -                | -         |   -21.40 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            3 |     1177 | 2026-03-13 | FUZOS            | W   | 1.000      | 0.384        | 0.005 (0.002)    | 0.414 (0.159)    | 0 (0.000) |    13.05 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            2 |     1240 | 2026-03-12 | MANA eSports     | L   | 1.000      | -            | -                | -                | -         |   -15.03 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
-|            1 |     2312 | 2026-02-19 | Oxuji Esports    | L   | 0.891      | -            | -                | -                | -         |    -8.59 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            8 |      797 | 2026-03-21 | Ursa             | L   | 1.000      | -            | -                | -                | -         |   -11.26 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            7 |      893 | 2026-03-19 | Ex-MINLATE       | W   | 1.000      | 0.384        | 0.001 (0.000)    | 0.445 (0.171)    | 0 (0.000) |    17.84 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            6 |      986 | 2026-03-17 | SPARTA Esports   | W   | 1.000      | 0.384        | 0.063 (0.024)    | 0.732 (0.281)    | 0 (0.000) |    27.53 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            5 |     1033 | 2026-03-16 | Lilmix           | W   | 1.000      | 0.384        | 0.008 (0.003)    | 0.259 (0.100)    | 0 (0.000) |    13.70 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            4 |     1144 | 2026-03-14 | CSDIILIT         | L   | 1.000      | -            | -                | -                | -         |   -21.39 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            3 |     1177 | 2026-03-13 | FUZOS            | W   | 1.000      | 0.384        | 0.005 (0.002)    | 0.414 (0.159)    | 0 (0.000) |    13.09 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            2 |     1240 | 2026-03-12 | MANA eSports     | L   | 1.000      | -            | -                | -                | -         |   -15.02 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
+|            1 |     2312 | 2026-02-19 | Oxuji Esports    | L   | 0.892      | -            | -                | -                | -         |    -8.59 | AsI0K, devoduvek, SIXER, SLIE9000, Tarkky |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($5,760.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -8,7 +8,7 @@ Regional Rank: [91]( ../../standings_americas_2026_04_06.md)<br />
 <br />
 Final Rank Value:  507.1<br />
 <br />
-Final Rank Value (507.1) = Starting Rank Value (509.9) + Head To Head Adjustments (-2.8)<br />
+Final Rank Value (507.1) = Starting Rank Value (510.0) + Head To Head Adjustments (-2.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.056<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 509.9
-- 400 + ( ( 0.056 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 509.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 510.0
+- 400 + ( ( 0.056 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 510.0
 
 
 #### Factors<br />
@@ -40,28 +40,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     5259 | 2025-10-25 | Zomblers            | L   | 0.116      | -            | -                | -                | -         |    -0.99 | gadfly, Lambchoppington, Locke, tori, violet |
-|            7 |     5304 | 2025-10-24 | Marsborne           | L   | 0.109      | -            | -                | -                | -         |    -0.05 | gadfly, Lambchoppington, Locke, tori, violet |
-|            6 |     5313 | 2025-10-24 | Ghost Gaming        | L   | 0.109      | -            | -                | -                | -         |    -1.33 | gadfly, lunari, madss, tori, violet          |
-|            5 |     5369 | 2025-10-23 | NYX (American team) | W   | 0.102      | 0.363        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.14 | gadfly, Lambchoppington, Locke, tori, violet |
-|            4 |     5418 | 2025-10-22 | InControl           | L   | 0.096      | -            | -                | -                | -         |    -0.75 | gadfly, lunari, madss, tori, violet          |
-|            3 |     5565 | 2025-10-15 | Sakura Esports      | L   | 0.050      | -            | -                | -                | -         |    -0.32 | gadfly, lunari, madss, tori, violet          |
-|            2 |     5569 | 2025-10-15 | FlyQuest RED        | L   | 0.049      | -            | -                | -                | -         |    -0.44 | gadfly, lunari, madss, tori, violet          |
-|            1 |     5734 | 2025-10-09 | Sakura Esports      | L   | 0.009      | -            | -                | -                | -         |    -0.06 | gadfly, lunari, madss, tori, violet          |
+|            8 |     5260 | 2025-10-25 | Zomblers            | L   | 0.116      | -            | -                | -                | -         |    -1.00 | gadfly, Lambchoppington, Locke, tori, violet |
+|            7 |     5305 | 2025-10-24 | Marsborne           | L   | 0.110      | -            | -                | -                | -         |    -0.05 | gadfly, Lambchoppington, Locke, tori, violet |
+|            6 |     5314 | 2025-10-24 | Ghost Gaming        | L   | 0.109      | -            | -                | -                | -         |    -1.34 | gadfly, lunari, madss, tori, violet          |
+|            5 |     5370 | 2025-10-23 | NYX (American team) | W   | 0.103      | 0.363        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.14 | gadfly, Lambchoppington, Locke, tori, violet |
+|            4 |     5419 | 2025-10-22 | InControl           | L   | 0.096      | -            | -                | -                | -         |    -0.76 | gadfly, lunari, madss, tori, violet          |
+|            3 |     5566 | 2025-10-15 | Sakura Esports      | L   | 0.050      | -            | -                | -                | -         |    -0.32 | gadfly, lunari, madss, tori, violet          |
+|            2 |     5570 | 2025-10-15 | FlyQuest RED        | L   | 0.049      | -            | -                | -                | -         |    -0.44 | gadfly, lunari, madss, tori, violet          |
+|            1 |     5735 | 2025-10-09 | Sakura Esports      | L   | 0.009      | -            | -                | -                | -         |    -0.06 | gadfly, lunari, madss, tori, violet          |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($163.04)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($163.87)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-10-24 |      0.109 | $1,500.00      | $163.04         |
+| 2025-10-24 |      0.109 | $1,500.00      | $163.87         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

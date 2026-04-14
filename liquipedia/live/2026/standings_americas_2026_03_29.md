@@ -105,4 +105,4 @@
 | 100      |    405 | Zealous                   | borb, JAKEY, terrk1s, Yaboduulio              | [details](details/2026_03_29/0350--zealous--borb-jakey-terrk1s-yaboduulio.md)                        |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

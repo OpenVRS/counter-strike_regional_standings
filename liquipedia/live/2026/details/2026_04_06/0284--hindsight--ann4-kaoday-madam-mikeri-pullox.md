@@ -6,9 +6,9 @@ Global Rank: [284](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [179]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  595.9<br />
+Final Rank Value:  595.8<br />
 <br />
-Final Rank Value (595.9) = Starting Rank Value (616.6) + Head To Head Adjustments (-20.6)<br />
+Final Rank Value (595.8) = Starting Rank Value (616.5) + Head To Head Adjustments (-20.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.111<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 616.6
-- 400 + ( ( 0.111 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 616.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 616.5
+- 400 + ( ( 0.111 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 616.5
 
 
 #### Factors<br />
@@ -40,30 +40,30 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent            | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |      945 | 2026-03-18 | Rune Eaters Esports | L   | 1.000      | -            | -                | -                | -         |    -2.96 | Ann4, Kaoday, Madam, mikeri, pullox |
+|            9 |      945 | 2026-03-18 | Rune Eaters Esports | L   | 1.000      | -            | -                | -                | -         |    -3.04 | Ann4, Kaoday, Madam, mikeri, pullox |
 |            8 |     1038 | 2026-03-16 | MANA eSports        | L   | 1.000      | -            | -                | -                | -         |    -3.24 | Ann4, Kaoday, Madam, mikeri, pullox |
-|            7 |     2659 | 2026-02-12 | Let Her Cook        | L   | 0.848      | -            | -                | -                | -         |    -8.69 | Ann4, Kaoday, Madam, mikeri, pullox |
-|            6 |     2668 | 2026-02-12 | Confidence          | W   | 0.847      | 0.384        | 0.001 (0.000)    | 0.006 (0.002)    | 0 (0.000) |    13.07 | Ann4, Kaoday, Madam, mikeri, pullox |
-|            5 |     2734 | 2026-02-10 | Let Her Cook        | L   | 0.834      | -            | -                | -                | -         |    -8.37 | Ann4, Kaoday, Madam, mikeri, pullox |
-|            4 |     3443 | 2026-01-18 | Team Pigeons        | L   | 0.678      | -            | -                | -                | -         |    -5.76 | Ann4, Kaoday, Madam, mikeri, pullox |
-|            3 |     3594 | 2026-01-15 | TNC Esports         | L   | 0.658      | -            | -                | -                | -         |    -2.38 | Ann4, Kaoday, Madam, mikeri, pullox |
-|            2 |     5331 | 2025-10-24 | Flame Sharks Female | L   | 0.107      | -            | -                | -                | -         |    -1.79 | Ann4, jenkon, Madam, mikeri, pullox |
-|            1 |     5577 | 2025-10-15 | Let Her Cook        | L   | 0.047      | -            | -                | -                | -         |    -0.49 | Ann4, jenkon, Madam, mikeri, pullox |
+|            7 |     2660 | 2026-02-12 | Let Her Cook        | L   | 0.848      | -            | -                | -                | -         |    -8.70 | Ann4, Kaoday, Madam, mikeri, pullox |
+|            6 |     2669 | 2026-02-12 | Confidence          | W   | 0.847      | 0.384        | 0.001 (0.000)    | 0.006 (0.002)    | 0 (0.000) |    13.07 | Ann4, Kaoday, Madam, mikeri, pullox |
+|            5 |     2735 | 2026-02-10 | Let Her Cook        | L   | 0.835      | -            | -                | -                | -         |    -8.38 | Ann4, Kaoday, Madam, mikeri, pullox |
+|            4 |     3444 | 2026-01-18 | Team Pigeons        | L   | 0.678      | -            | -                | -                | -         |    -5.77 | Ann4, Kaoday, Madam, mikeri, pullox |
+|            3 |     3595 | 2026-01-15 | TNC Esports         | L   | 0.658      | -            | -                | -                | -         |    -2.37 | Ann4, Kaoday, Madam, mikeri, pullox |
+|            2 |     5332 | 2025-10-24 | Flame Sharks Female | L   | 0.108      | -            | -                | -                | -         |    -1.80 | Ann4, jenkon, Madam, mikeri, pullox |
+|            1 |     5578 | 2025-10-15 | Let Her Cook        | L   | 0.048      | -            | -                | -                | -         |    -0.50 | Ann4, jenkon, Madam, mikeri, pullox |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($608.14)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($609.23)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-02-15 |      0.867 | $500.00        | $433.39         |
-| 2025-10-26 |      0.121 | $1,450.00      | $174.76         |
+| 2026-02-15 |      0.867 | $500.00        | $433.66         |
+| 2025-10-26 |      0.121 | $1,450.00      | $175.56         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

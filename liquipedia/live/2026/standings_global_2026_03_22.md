@@ -342,4 +342,4 @@
 | 337      |    395 | Charrados FC                              | protado, s1lent, space                               | [details](details/2026_03_22/0337--charrados_fc--protado-s1lent-space.md)                                               |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

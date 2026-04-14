@@ -40,23 +40,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2311 | 2026-02-19 | BBBMBCBS                    | L   | 0.891      | -            | -                | -                | -         |   -15.99 | cheeseball, cookie, rekonz, SkulL, Winnieeeee |
-|            9 |     2430 | 2026-02-17 | Time Waves                  | L   | 0.878      | -            | -                | -                | -         |   -15.27 | cheeseball, cookie, rekonz, SkulL, Winnieeeee |
-|            8 |     4016 | 2025-12-06 | Rooster                     | L   | 0.398      | -            | -                | -                | -         |    -1.42 | cheeseball, cookie, rekonz, SkulL, versa      |
-|            7 |     4018 | 2025-12-06 | Ground Zero Gaming          | L   | 0.397      | -            | -                | -                | -         |    -0.68 | cheeseball, cookie, rahley, rekonz, SkulL     |
-|            6 |     4019 | 2025-12-06 | Animus Victoria             | W   | 0.396      | 0.303        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     6.00 | cheeseball, cookie, rahley, rekonz, SkulL     |
-|            5 |     4297 | 2025-11-25 | LITE Esports                | L   | 0.318      | -            | -                | -                | -         |    -3.50 | BRACE, cookie, rekonz, SkulL, versa           |
-|            4 |     4358 | 2025-11-23 | Rooster                     | W   | 0.304      | 0.312        | 0.006 (0.001)    | 0.229 (0.022)    | 0 (0.000) |     8.54 | BRACE, cookie, rekonz, SkulL, versa           |
-|            3 |     4382 | 2025-11-22 | Mindfreak (Australian team) | L   | 0.298      | -            | -                | -                | -         |    -0.61 | BRACE, cheeseball, cookie, rekonz, SkulL      |
-|            2 |     5365 | 2025-10-24 | Rooster                     | L   | 0.105      | -            | -                | -                | -         |    -1.07 | BRACE, cheeseball, cookie, rekonz, SkulL      |
-|            1 |     5411 | 2025-10-23 | Ground Zero Gaming          | L   | 0.098      | -            | -                | -                | -         |    -0.17 | BRACE, cheeseball, cookie, rekonz, SkulL      |
+|           10 |     2311 | 2026-02-19 | BBBMBCBS                    | L   | 0.892      | -            | -                | -                | -         |   -15.99 | cheeseball, cookie, rekonz, SkulL, Winnieeeee |
+|            9 |     2431 | 2026-02-17 | Time Waves                  | L   | 0.879      | -            | -                | -                | -         |   -15.27 | cheeseball, cookie, rekonz, SkulL, Winnieeeee |
+|            8 |     4017 | 2025-12-06 | Rooster                     | L   | 0.398      | -            | -                | -                | -         |    -1.43 | cheeseball, cookie, rekonz, SkulL, versa      |
+|            7 |     4019 | 2025-12-06 | Ground Zero Gaming          | L   | 0.397      | -            | -                | -                | -         |    -0.69 | cheeseball, cookie, rahley, rekonz, SkulL     |
+|            6 |     4020 | 2025-12-06 | Animus Victoria             | W   | 0.396      | 0.303        | 0.000 (0.000)    | 0.011 (0.001)    | 0 (0.000) |     6.00 | cheeseball, cookie, rahley, rekonz, SkulL     |
+|            5 |     4298 | 2025-11-25 | LITE Esports                | L   | 0.318      | -            | -                | -                | -         |    -3.50 | BRACE, cookie, rekonz, SkulL, versa           |
+|            4 |     4359 | 2025-11-23 | Rooster                     | W   | 0.305      | 0.312        | 0.006 (0.001)    | 0.229 (0.022)    | 0 (0.000) |     8.55 | BRACE, cookie, rekonz, SkulL, versa           |
+|            3 |     4383 | 2025-11-22 | Mindfreak (Australian team) | L   | 0.299      | -            | -                | -                | -         |    -0.61 | BRACE, cheeseball, cookie, rekonz, SkulL      |
+|            2 |     5366 | 2025-10-24 | Rooster                     | L   | 0.105      | -            | -                | -                | -         |    -1.07 | BRACE, cheeseball, cookie, rekonz, SkulL      |
+|            1 |     5412 | 2025-10-23 | Ground Zero Gaming          | L   | 0.098      | -            | -                | -                | -         |    -0.18 | BRACE, cheeseball, cookie, rekonz, SkulL      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

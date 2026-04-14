@@ -356,4 +356,4 @@
 | 351      |    402 | ALGO Esports                              | anber, Dengzoe, Griller, nukkye, Scr0b               | [details](details/2026_03_29/0351--algo_esports--anber-dengzoe-griller-nukkye-scr0b.md)                                 |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

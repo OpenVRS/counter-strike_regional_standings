@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     4249 | 2025-11-27 | Imperial Esports  | L   | 0.333      | -            | -                | -                | -         |    -0.23 | br0, daps, Jeorge, Sonic, XotiC |
-|            4 |     4259 | 2025-11-26 | Fnatic            | L   | 0.327      | -            | -                | -                | -         |    -0.32 | br0, daps, Jeorge, Sonic, XotiC |
-|            3 |     4275 | 2025-11-25 | M80               | L   | 0.320      | -            | -                | -                | -         |    -0.09 | br0, daps, Jeorge, Sonic, XotiC |
-|            2 |     4298 | 2025-11-24 | FaZe Clan         | W   | 0.315      | 0.624        | 0.375 (0.074)    | 0.350 (0.069)    | 1 (0.315) |     9.87 | br0, daps, Jeorge, Sonic, XotiC |
-|            1 |     4320 | 2025-11-24 | Ninjas in Pyjamas | W   | 0.313      | 0.624        | 0.127 (0.025)    | 0.454 (0.089)    | 1 (0.313) |     9.76 | br0, daps, Jeorge, Sonic, XotiC |
+|            5 |     4250 | 2025-11-27 | Imperial Esports  | L   | 0.334      | -            | -                | -                | -         |    -0.23 | br0, daps, Jeorge, Sonic, XotiC |
+|            4 |     4260 | 2025-11-26 | Fnatic            | L   | 0.327      | -            | -                | -                | -         |    -0.32 | br0, daps, Jeorge, Sonic, XotiC |
+|            3 |     4276 | 2025-11-25 | M80               | L   | 0.321      | -            | -                | -                | -         |    -0.09 | br0, daps, Jeorge, Sonic, XotiC |
+|            2 |     4299 | 2025-11-24 | FaZe Clan         | W   | 0.316      | 0.624        | 0.374 (0.074)    | 0.350 (0.069)    | 1 (0.316) |     9.89 | br0, daps, Jeorge, Sonic, XotiC |
+|            1 |     4321 | 2025-11-24 | Ninjas in Pyjamas | W   | 0.313      | 0.624        | 0.126 (0.025)    | 0.454 (0.089)    | 1 (0.313) |     9.78 | br0, daps, Jeorge, Sonic, XotiC |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

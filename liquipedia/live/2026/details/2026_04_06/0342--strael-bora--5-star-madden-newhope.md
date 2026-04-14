@@ -43,15 +43,15 @@ Note:<br />
 |            5 |      354 | 2026-03-29 | HAVU          | L   | 1.000      | -            | -                | -                | -         |    -1.65 | 5-Star, Cher1on, Heroic, maddeN, newhope |
 |            4 |      369 | 2026-03-29 | SINQU Esports | W   | 1.000      | 0.354        | 0.000 (0.000)    | 0.067 (0.024)    | 1 (1.000) |    21.48 | 5-Star, Cher1on, Heroic, maddeN, newhope |
 |            3 |      383 | 2026-03-29 | Sashi Esport  | L   | 1.000      | -            | -                | -                | -         |    -0.51 | 5-Star, Cher1on, Heroic, maddeN, newhope |
-|            2 |     4455 | 2025-11-20 | Illwill       | L   | 0.286      | -            | -                | -                | -         |    -0.04 | 5-Star, LUXBRUUU, maddeN, newhope, Spiri |
-|            1 |     4474 | 2025-11-20 | GenOne        | L   | 0.285      | -            | -                | -                | -         |    -0.57 | 5-Star, LUXBRUUU, maddeN, newhope, Spiri |
+|            2 |     4456 | 2025-11-20 | Illwill       | L   | 0.286      | -            | -                | -                | -         |    -0.04 | 5-Star, LUXBRUUU, maddeN, newhope, Spiri |
+|            1 |     4475 | 2025-11-20 | GenOne        | L   | 0.285      | -            | -                | -                | -         |    -0.57 | 5-Star, LUXBRUUU, maddeN, newhope, Spiri |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

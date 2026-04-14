@@ -6,9 +6,9 @@ Global Rank: [239](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [154]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  671.5<br />
+Final Rank Value:  671.3<br />
 <br />
-Final Rank Value (671.5) = Starting Rank Value (666.0) + Head To Head Adjustments (5.5)<br />
+Final Rank Value (671.3) = Starting Rank Value (665.9) + Head To Head Adjustments (5.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.136<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 666.0
-- 400 + ( ( 0.136 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 666.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 665.9
+- 400 + ( ( 0.136 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 665.9
 
 
 #### Factors<br />
@@ -52,7 +52,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,726.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

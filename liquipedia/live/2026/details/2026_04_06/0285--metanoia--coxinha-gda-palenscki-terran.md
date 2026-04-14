@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     1626 | 2026-03-04 | ShindeN          | L   | 0.980      | -            | -                | -                | -         |    -0.71 | coxinha, GdA, Kaiserzy, palenscki, terran |
-|            4 |     1645 | 2026-03-04 | Imperial Esports | L   | 0.979      | -            | -                | -                | -         |    -0.62 | coxinha, GdA, Kaiserzy, palenscki, terran |
-|            3 |     3274 | 2026-01-23 | Sharks Esports   | L   | 0.713      | -            | -                | -                | -         |    -0.33 | coxinha, GdA, palenscki, spy1337, terran  |
-|            2 |     3343 | 2026-01-21 | Game Hunters     | L   | 0.702      | -            | -                | -                | -         |    -4.51 | coxinha, GdA, palenscki, spy1337, terran  |
-|            1 |     3348 | 2026-01-21 | Sharks Esports   | W   | 0.701      | 0.384        | 0.108 (0.029)    | 0.532 (0.143)    | 1 (0.701) |    21.81 | coxinha, GdA, palenscki, spy1337, terran  |
+|            5 |     1626 | 2026-03-04 | ShindeN          | L   | 0.981      | -            | -                | -                | -         |    -0.71 | coxinha, GdA, Kaiserzy, palenscki, terran |
+|            4 |     1645 | 2026-03-04 | Imperial Esports | L   | 0.980      | -            | -                | -                | -         |    -0.62 | coxinha, GdA, Kaiserzy, palenscki, terran |
+|            3 |     3275 | 2026-01-23 | Sharks Esports   | L   | 0.713      | -            | -                | -                | -         |    -0.32 | coxinha, GdA, palenscki, spy1337, terran  |
+|            2 |     3344 | 2026-01-21 | Game Hunters     | L   | 0.702      | -            | -                | -                | -         |    -4.52 | coxinha, GdA, palenscki, spy1337, terran  |
+|            1 |     3349 | 2026-01-21 | Sharks Esports   | W   | 0.702      | 0.384        | 0.108 (0.029)    | 0.532 (0.144)    | 1 (0.702) |    21.83 | coxinha, GdA, palenscki, spy1337, terran  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

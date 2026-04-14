@@ -43,7 +43,7 @@ Note:<br />
 |            5 |       80 | 2026-04-03 | WW Team         | L   | 1.000      | -            | -                | -                | -         |    -0.45 | 7uckingSam, arun, eLa1z, hurtfrisk, Shed0Z |
 |            4 |       91 | 2026-04-03 | ARCRED          | L   | 1.000      | -            | -                | -                | -         |    -0.34 | 7uckingSam, arun, eLa1z, hurtfrisk, Shed0Z |
 |            3 |     1669 | 2026-03-03 | SPARTA Esports  | L   | 0.975      | -            | -                | -                | -         |    -0.27 | 7uckingSam, arun, eLa1z, SBolt, Shed0Z     |
-|            2 |     1675 | 2026-03-03 | 5Actors         | W   | 0.974      | 0.333        | 0.000 (0.000)    | 0.061 (0.020)    | 1 (0.974) |    16.79 | 7uckingSam, arun, eLa1z, SBolt, Shed0Z     |
+|            2 |     1675 | 2026-03-03 | 5Actors         | W   | 0.974      | 0.333        | 0.000 (0.000)    | 0.061 (0.020)    | 1 (0.974) |    16.80 | 7uckingSam, arun, eLa1z, SBolt, Shed0Z     |
 |            1 |     1713 | 2026-03-02 | Nuclear TigeRES | L   | 0.971      | -            | -                | -                | -         |    -0.26 | 7uckingSam, arun, eLa1z, SBolt, Shed0Z     |
 
 <br />
@@ -51,7 +51,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

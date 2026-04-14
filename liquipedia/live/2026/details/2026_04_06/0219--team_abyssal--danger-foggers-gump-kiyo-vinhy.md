@@ -6,22 +6,22 @@ Global Rank: [219](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [26]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  718.6<br />
+Final Rank Value:  718.5<br />
 <br />
-Final Rank Value (718.6) = Starting Rank Value (647.9) + Head To Head Adjustments (70.6)<br />
+Final Rank Value (718.5) = Starting Rank Value (647.7) + Head To Head Adjustments (70.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.242[<sup>1</sup>](#table2)
 - Bounty Collected: 0.239[<sup>2</sup>](#table1)
-- Opponent Network: 0.026[<sup>2</sup>](#table1)
+- Opponent Network: 0.025[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.127<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 647.9
-- 400 + ( ( 0.127 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 647.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 647.7
+- 400 + ( ( 0.127 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 647.7
 
 
 #### Factors<br />
@@ -40,38 +40,38 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      218 | 2026-04-01 | Ground Zero Gaming               | L   | 1.000      | -            | -                | -                | -         |    -6.25 | dangeR, foggers, gump, Kiyo, vinhy |
+|           18 |      218 | 2026-04-01 | Ground Zero Gaming               | L   | 1.000      | -            | -                | -                | -         |    -6.27 | dangeR, foggers, gump, Kiyo, vinhy |
 |           17 |      229 | 2026-03-31 | 11mins                           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.031 (0.004)    | 0 (0.000) |     8.00 | dangeR, foggers, gump, Kiyo, vinhy |
-|           16 |      301 | 2026-03-31 | Mindfreak (Australian team)      | W   | 1.000      | 0.143        | 0.014 (0.002)    | 0.355 (0.051)    | 0 (0.000) |    23.56 | dangeR, foggers, gump, Kiyo, vinhy |
-|           15 |      307 | 2026-03-30 | Ground Zero Gaming               | L   | 1.000      | -            | -                | -                | -         |    -5.79 | dangeR, foggers, gump, Kiyo, vinhy |
-|           14 |     1066 | 2026-03-15 | Arcade Esports (Australian team) | L   | 1.000      | -            | -                | -                | -         |   -10.22 | dangeR, foggers, gump, Kiyo, vinhy |
-|           13 |     1069 | 2026-03-15 | Mindfreak (Australian team)      | L   | 1.000      | -            | -                | -                | -         |    -5.30 | dangeR, foggers, gump, Kiyo, vinhy |
-|           12 |     1885 | 2026-02-27 | Mindfreak (Australian team)      | L   | 0.944      | -            | -                | -                | -         |    -5.96 | dangeR, foggers, gump, Kiyo, vinhy |
-|           11 |     1897 | 2026-02-26 | Mindfreak (Australian team)      | L   | 0.942      | -            | -                | -                | -         |    -6.18 | dangeR, foggers, gump, Kiyo, vinhy |
-|           10 |     1946 | 2026-02-26 | Arcade Esports (Australian team) | W   | 0.938      | 0.318        | 0.004 (0.001)    | 0.279 (0.083)    | 0 (0.000) |    20.30 | dangeR, foggers, gump, Kiyo, vinhy |
-|            9 |     1962 | 2026-02-25 | Ground Zero Gaming               | W   | 0.936      | 0.143        | 0.013 (0.002)    | 0.213 (0.028)    | 0 (0.000) |    25.53 | dangeR, foggers, gump, Kiyo, vinhy |
-|            8 |     1966 | 2026-02-25 | Mindfreak (Australian team)      | L   | 0.936      | -            | -                | -                | -         |    -5.22 | dangeR, foggers, gump, Kiyo, vinhy |
-|            7 |     2001 | 2026-02-25 | THUNDERdOWNUNDER                 | L   | 0.931      | -            | -                | -                | -         |    -0.83 | dangeR, foggers, gump, Kiyo, vinhy |
+|           16 |      301 | 2026-03-31 | Mindfreak (Australian team)      | W   | 1.000      | 0.143        | 0.014 (0.002)    | 0.327 (0.047)    | 0 (0.000) |    23.60 | dangeR, foggers, gump, Kiyo, vinhy |
+|           15 |      307 | 2026-03-30 | Ground Zero Gaming               | L   | 1.000      | -            | -                | -                | -         |    -5.81 | dangeR, foggers, gump, Kiyo, vinhy |
+|           14 |     1066 | 2026-03-15 | Arcade Esports (Australian team) | L   | 1.000      | -            | -                | -                | -         |   -10.24 | dangeR, foggers, gump, Kiyo, vinhy |
+|           13 |     1069 | 2026-03-15 | Mindfreak (Australian team)      | L   | 1.000      | -            | -                | -                | -         |    -5.27 | dangeR, foggers, gump, Kiyo, vinhy |
+|           12 |     1885 | 2026-02-27 | Mindfreak (Australian team)      | L   | 0.945      | -            | -                | -                | -         |    -5.90 | dangeR, foggers, gump, Kiyo, vinhy |
+|           11 |     1897 | 2026-02-26 | Mindfreak (Australian team)      | L   | 0.943      | -            | -                | -                | -         |    -6.12 | dangeR, foggers, gump, Kiyo, vinhy |
+|           10 |     1946 | 2026-02-26 | Arcade Esports (Australian team) | W   | 0.939      | 0.318        | 0.004 (0.001)    | 0.279 (0.083)    | 0 (0.000) |    20.30 | dangeR, foggers, gump, Kiyo, vinhy |
+|            9 |     1962 | 2026-02-25 | Ground Zero Gaming               | W   | 0.937      | 0.143        | 0.013 (0.002)    | 0.213 (0.029)    | 0 (0.000) |    25.52 | dangeR, foggers, gump, Kiyo, vinhy |
+|            8 |     1966 | 2026-02-25 | Mindfreak (Australian team)      | L   | 0.936      | -            | -                | -                | -         |    -5.19 | dangeR, foggers, gump, Kiyo, vinhy |
+|            7 |     2001 | 2026-02-25 | THUNDERdOWNUNDER                 | L   | 0.931      | -            | -                | -                | -         |    -0.84 | dangeR, foggers, gump, Kiyo, vinhy |
 |            6 |     2160 | 2026-02-22 | Rooster                          | W   | 0.912      | 0.318        | 0.006 (0.002)    | 0.229 (0.066)    | 0 (0.000) |    20.42 | dangeR, foggers, gump, Kiyo, vinhy |
-|            5 |     2307 | 2026-02-19 | Vantage Esports                  | W   | 0.892      | 0.318        | 0.000 (0.000)    | 0.031 (0.009)    | 0 (0.000) |     7.90 | dangeR, foggers, gump, Kiyo, vinhy |
-|            4 |     2362 | 2026-02-18 | LITE Esports                     | W   | 0.885      | 0.318        | 0.000 (0.000)    | 0.048 (0.013)    | 0 (0.000) |    12.05 | dangeR, foggers, gump, Kiyo, vinhy |
-|            3 |     3057 | 2026-01-31 | Rooster                          | L   | 0.764      | -            | -                | -                | -         |    -5.45 | dangeR, foggers, gump, Kiyo, vinhy |
-|            2 |     3060 | 2026-01-30 | The Gentlemans Kennel            | W   | 0.763      | 0.305        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.70 | dangeR, foggers, gump, Kiyo, vinhy |
-|            1 |     3063 | 2026-01-30 | THUNDERdOWNUNDER                 | L   | 0.762      | -            | -                | -                | -         |    -0.62 | dangeR, foggers, gump, Kiyo, vinhy |
+|            5 |     2307 | 2026-02-19 | Vantage Esports                  | W   | 0.892      | 0.318        | 0.000 (0.000)    | 0.031 (0.009)    | 0 (0.000) |     7.91 | dangeR, foggers, gump, Kiyo, vinhy |
+|            4 |     2362 | 2026-02-18 | LITE Esports                     | W   | 0.886      | 0.318        | 0.000 (0.000)    | 0.048 (0.013)    | 0 (0.000) |    12.07 | dangeR, foggers, gump, Kiyo, vinhy |
+|            3 |     3058 | 2026-01-31 | Rooster                          | L   | 0.765      | -            | -                | -                | -         |    -5.47 | dangeR, foggers, gump, Kiyo, vinhy |
+|            2 |     3061 | 2026-01-30 | The Gentlemans Kennel            | W   | 0.764      | 0.305        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.71 | dangeR, foggers, gump, Kiyo, vinhy |
+|            1 |     3064 | 2026-01-30 | THUNDERdOWNUNDER                 | L   | 0.763      | -            | -                | -                | -         |    -0.63 | dangeR, foggers, gump, Kiyo, vinhy |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($337.48)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($337.68)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-02-27 |      0.951 | $355.00        | $337.48         |
+| 2026-02-27 |      0.951 | $355.00        | $337.68         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -54,4 +54,4 @@
 | 49       |    427 | Unsettled Resentment             | 4ever, drace, gLong, yoi                         | [details](details/2026_03_29/0348--unsettled_resentment--4ever-drace-glong-yoi.md)                            |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

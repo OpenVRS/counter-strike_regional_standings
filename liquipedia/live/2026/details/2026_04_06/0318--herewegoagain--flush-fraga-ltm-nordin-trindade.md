@@ -8,7 +8,7 @@ Regional Rank: [87]( ../../standings_americas_2026_04_06.md)<br />
 <br />
 Final Rank Value:  514.9<br />
 <br />
-Final Rank Value (514.9) = Starting Rank Value (510.4) + Head To Head Adjustments (4.6)<br />
+Final Rank Value (514.9) = Starting Rank Value (510.3) + Head To Head Adjustments (4.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.056<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 510.4
-- 400 + ( ( 0.056 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 510.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 510.3
+- 400 + ( ( 0.056 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 510.3
 
 
 #### Factors<br />
@@ -40,22 +40,22 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                 | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |      908 | 2026-03-19 | R2 Esports Club          | L   | 1.000      | -            | -                | -                | -         |    -7.19 | flush, fraga, guizo, k9izer, Ltm    |
+|            9 |      908 | 2026-03-19 | R2 Esports Club          | L   | 1.000      | -            | -                | -                | -         |    -7.18 | flush, fraga, guizo, k9izer, Ltm    |
 |            8 |      979 | 2026-03-17 | UNO MILLE                | L   | 1.000      | -            | -                | -                | -         |    -5.76 | flush, fraga, guizo, k9izer, Ltm    |
 |            7 |     1083 | 2026-03-15 | FOLHA AMARELA            | W   | 1.000      | 0.371        | 0.005 (0.002)    | 0.356 (0.132)    | 0 (0.000) |    26.84 | flush, fraga, guizo, k9izer, Ltm    |
 |            6 |     1160 | 2026-03-13 | Players (Brazilian team) | L   | 1.000      | -            | -                | -                | -         |   -10.49 | flush, fraga, guizo, k9izer, Ltm    |
-|            5 |     3368 | 2026-01-21 | Game Hunters             | L   | 0.700      | -            | -                | -                | -         |    -3.33 | flush, fraga, Ltm, nordin, trindade |
-|            4 |     3406 | 2026-01-19 | Satriales                | W   | 0.686      | 0.371        | 0.000 (0.000)    | 0.020 (0.005)    | 0 (0.000) |     7.59 | flush, fraga, Ltm, nordin, trindade |
-|            3 |     3486 | 2026-01-17 | ELITES                   | W   | 0.672      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.22 | flush, fraga, Ltm, nordin, trindade |
-|            2 |     3573 | 2026-01-15 | PaiN Gaming Academy      | L   | 0.661      | -            | -                | -                | -         |    -5.85 | flush, fraga, Ltm, nordin, trindade |
-|            1 |     3602 | 2026-01-14 | Metanoia Wolves          | L   | 0.654      | -            | -                | -                | -         |    -4.50 | flush, fraga, Ltm, nordin, trindade |
+|            5 |     3369 | 2026-01-21 | Game Hunters             | L   | 0.700      | -            | -                | -                | -         |    -3.33 | flush, fraga, Ltm, nordin, trindade |
+|            4 |     3407 | 2026-01-19 | Satriales                | W   | 0.687      | 0.371        | 0.000 (0.000)    | 0.020 (0.005)    | 0 (0.000) |     7.60 | flush, fraga, Ltm, nordin, trindade |
+|            3 |     3487 | 2026-01-17 | ELITES                   | W   | 0.673      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.23 | flush, fraga, Ltm, nordin, trindade |
+|            2 |     3574 | 2026-01-15 | PaiN Gaming Academy      | L   | 0.661      | -            | -                | -                | -         |    -5.85 | flush, fraga, Ltm, nordin, trindade |
+|            1 |     3603 | 2026-01-14 | Metanoia Wolves          | L   | 0.655      | -            | -                | -                | -         |    -4.51 | flush, fraga, Ltm, nordin, trindade |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

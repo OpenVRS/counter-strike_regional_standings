@@ -6,9 +6,9 @@ Global Rank: [245](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [157]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  659.2<br />
+Final Rank Value:  659.3<br />
 <br />
-Final Rank Value (659.2) = Starting Rank Value (642.6) + Head To Head Adjustments (16.6)<br />
+Final Rank Value (659.3) = Starting Rank Value (642.6) + Head To Head Adjustments (16.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -40,46 +40,46 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                                  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |     4682 | 2025-11-10 | Nemiga Gaming                             | L   | 0.220      | -            | -                | -                | -         |    -0.07 | buster, demente, kumao, noni, weaveR |
-|           25 |     4685 | 2025-11-10 | Leo Team                                  | L   | 0.220      | -            | -                | -                | -         |    -1.46 | buster, demente, kumao, noni, weaveR |
-|           24 |     4704 | 2025-11-09 | OMEGA                                     | W   | 0.213      | 0.281        | 0.025 (0.002)    | 0.588 (0.035)    | 0 (0.000) |     6.50 | buster, demente, kumao, noni, weaveR |
-|           23 |     4722 | 2025-11-09 | FORZE Reload                              | W   | 0.211      | 0.384        | 0.001 (0.000)    | 0.472 (0.038)    | 0 (0.000) |     5.03 | buster, demente, kumao, noni, weaveR |
-|           22 |     4916 | 2025-11-06 | Phantom Esports                           | W   | 0.191      | 0.384        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     2.75 | buster, demente, kumao, noni, weaveR |
-|           21 |     4936 | 2025-11-05 | FORZE Reload                              | L   | 0.185      | -            | -                | -                | -         |    -1.38 | buster, demente, kumao, noni, weaveR |
-|           20 |     4990 | 2025-11-03 | ARCRED                                    | L   | 0.172      | -            | -                | -                | -         |    -0.11 | buster, demente, kumao, noni, weaveR |
-|           19 |     5028 | 2025-11-01 | Premdesant                                | L   | 0.161      | -            | -                | -                | -         |    -3.67 | buster, demente, kumao, noni, weaveR |
-|           18 |     5038 | 2025-11-01 | SIXSEVEN                                  | L   | 0.160      | -            | -                | -                | -         |    -1.84 | buster, demente, kumao, noni, weaveR |
-|           17 |     5060 | 2025-10-31 | Fire Flux Esports                         | L   | 0.154      | -            | -                | -                | -         |    -1.83 | buster, demente, kumao, noni, weaveR |
-|           16 |     5082 | 2025-10-30 | Copenhagen Wolves (American organization) | W   | 0.147      | 0.435        | 0.000 (0.000)    | 0.119 (0.008)    | 0 (0.000) |     1.81 | buster, demente, kumao, noni, weaveR |
-|           15 |     5087 | 2025-10-30 | Fire Flux Esports                         | L   | 0.146      | -            | -                | -                | -         |    -1.75 | buster, demente, kumao, noni, weaveR |
-|           14 |     5104 | 2025-10-29 | CYBERSHOKE Esports                        | L   | 0.140      | -            | -                | -                | -         |    -0.15 | buster, demente, kumao, noni, weaveR |
-|           13 |     5133 | 2025-10-28 | Nexus Gaming                              | W   | 0.134      | 0.384        | 0.001 (0.000)    | 0.450 (0.023)    | 0 (0.000) |     3.88 | buster, demente, kumao, noni, weaveR |
-|           12 |     5163 | 2025-10-27 | NOVAQ                                     | W   | 0.127      | 0.384        | 0.022 (0.001)    | 0.524 (0.026)    | 0 (0.000) |     3.71 | buster, demente, kumao, noni, weaveR |
-|           11 |     5174 | 2025-10-27 | The Glecs                                 | W   | 0.126      | 0.384        | 0.000 (0.000)    | -                | 0 (0.000) |     1.22 | buster, demente, kumao, noni, weaveR |
-|           10 |     5190 | 2025-10-27 | HubaBuba                                  | W   | 0.125      | 0.344        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.81 | buster, demente, kumao, noni, weaveR |
-|            9 |     5221 | 2025-10-26 | SINNERS Esports                           | L   | 0.120      | -            | -                | -                | -         |    -0.03 | buster, demente, kumao, noni, weaveR |
-|            8 |     5247 | 2025-10-26 | HubaBuba                                  | W   | 0.118      | 0.384        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.76 | buster, demente, kumao, noni, weaveR |
-|            7 |     5248 | 2025-10-26 | Lavked                                    | L   | 0.118      | -            | -                | -                | -         |    -0.92 | buster, demente, kumao, noni, weaveR |
-|            6 |     5274 | 2025-10-25 | HubaBuba                                  | W   | 0.113      | -            | -                | -                | 0 (0.000) |     0.73 | buster, demente, kumao, noni, weaveR |
-|            5 |     5346 | 2025-10-24 | Johnny Speeds                             | W   | 0.107      | 0.384        | 0.067 (0.003)    | 0.794 (0.033)    | -         |     3.31 | buster, demente, kumao, noni, weaveR |
-|            4 |     5396 | 2025-10-23 | UNiTY esports                             | L   | 0.099      | -            | -                | -                | -         |    -0.69 | buster, demente, kumao, noni, weaveR |
-|            3 |     5433 | 2025-10-22 | Dziuseppe                                 | W   | 0.091      | 0.384        | -                | 0.065 (0.002)    | -         |     0.96 | buster, demente, kumao, noni, weaveR |
-|            2 |     5554 | 2025-10-16 | TNC Esports                               | L   | 0.052      | -            | -                | -                | -         |    -0.20 | buster, demente, kumao, noni, weaveR |
-|            1 |     5580 | 2025-10-15 | RUBY                                      | L   | 0.047      | -            | -                | -                | -         |    -0.73 | buster, demente, kumao, noni, weaveR |
+|           26 |     4683 | 2025-11-10 | Nemiga Gaming                             | L   | 0.221      | -            | -                | -                | -         |    -0.07 | buster, demente, kumao, noni, weaveR |
+|           25 |     4686 | 2025-11-10 | Leo Team                                  | L   | 0.220      | -            | -                | -                | -         |    -1.46 | buster, demente, kumao, noni, weaveR |
+|           24 |     4705 | 2025-11-09 | OMEGA                                     | W   | 0.214      | 0.281        | 0.025 (0.002)    | 0.588 (0.035)    | 0 (0.000) |     6.51 | buster, demente, kumao, noni, weaveR |
+|           23 |     4723 | 2025-11-09 | FORZE Reload                              | W   | 0.212      | 0.384        | 0.001 (0.000)    | 0.472 (0.038)    | 0 (0.000) |     5.04 | buster, demente, kumao, noni, weaveR |
+|           22 |     4917 | 2025-11-06 | Phantom Esports                           | W   | 0.192      | 0.384        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     2.76 | buster, demente, kumao, noni, weaveR |
+|           21 |     4937 | 2025-11-05 | FORZE Reload                              | L   | 0.186      | -            | -                | -                | -         |    -1.39 | buster, demente, kumao, noni, weaveR |
+|           20 |     4991 | 2025-11-03 | ARCRED                                    | L   | 0.173      | -            | -                | -                | -         |    -0.11 | buster, demente, kumao, noni, weaveR |
+|           19 |     5029 | 2025-11-01 | Premdesant                                | L   | 0.161      | -            | -                | -                | -         |    -3.68 | buster, demente, kumao, noni, weaveR |
+|           18 |     5039 | 2025-11-01 | SIXSEVEN                                  | L   | 0.160      | -            | -                | -                | -         |    -1.85 | buster, demente, kumao, noni, weaveR |
+|           17 |     5061 | 2025-10-31 | Fire Flux Esports                         | L   | 0.154      | -            | -                | -                | -         |    -1.84 | buster, demente, kumao, noni, weaveR |
+|           16 |     5083 | 2025-10-30 | Copenhagen Wolves (American organization) | W   | 0.148      | 0.435        | 0.000 (0.000)    | 0.119 (0.008)    | 0 (0.000) |     1.82 | buster, demente, kumao, noni, weaveR |
+|           15 |     5088 | 2025-10-30 | Fire Flux Esports                         | L   | 0.147      | -            | -                | -                | -         |    -1.76 | buster, demente, kumao, noni, weaveR |
+|           14 |     5105 | 2025-10-29 | CYBERSHOKE Esports                        | L   | 0.140      | -            | -                | -                | -         |    -0.15 | buster, demente, kumao, noni, weaveR |
+|           13 |     5134 | 2025-10-28 | Nexus Gaming                              | W   | 0.134      | 0.384        | 0.001 (0.000)    | 0.450 (0.023)    | 0 (0.000) |     3.90 | buster, demente, kumao, noni, weaveR |
+|           12 |     5164 | 2025-10-27 | NOVAQ                                     | W   | 0.128      | 0.384        | 0.022 (0.001)    | 0.525 (0.026)    | 0 (0.000) |     3.72 | buster, demente, kumao, noni, weaveR |
+|           11 |     5175 | 2025-10-27 | The Glecs                                 | W   | 0.127      | 0.384        | 0.000 (0.000)    | -                | 0 (0.000) |     1.23 | buster, demente, kumao, noni, weaveR |
+|           10 |     5191 | 2025-10-27 | HubaBuba                                  | W   | 0.125      | 0.344        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.81 | buster, demente, kumao, noni, weaveR |
+|            9 |     5222 | 2025-10-26 | SINNERS Esports                           | L   | 0.121      | -            | -                | -                | -         |    -0.03 | buster, demente, kumao, noni, weaveR |
+|            8 |     5248 | 2025-10-26 | HubaBuba                                  | W   | 0.119      | 0.384        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.76 | buster, demente, kumao, noni, weaveR |
+|            7 |     5249 | 2025-10-26 | Lavked                                    | L   | 0.118      | -            | -                | -                | -         |    -0.92 | buster, demente, kumao, noni, weaveR |
+|            6 |     5275 | 2025-10-25 | HubaBuba                                  | W   | 0.114      | -            | -                | -                | 0 (0.000) |     0.74 | buster, demente, kumao, noni, weaveR |
+|            5 |     5347 | 2025-10-24 | Johnny Speeds                             | W   | 0.107      | 0.384        | 0.067 (0.003)    | 0.794 (0.033)    | -         |     3.33 | buster, demente, kumao, noni, weaveR |
+|            4 |     5397 | 2025-10-23 | UNiTY esports                             | L   | 0.100      | -            | -                | -                | -         |    -0.70 | buster, demente, kumao, noni, weaveR |
+|            3 |     5434 | 2025-10-22 | Dziuseppe                                 | W   | 0.092      | 0.384        | -                | 0.065 (0.002)    | -         |     0.97 | buster, demente, kumao, noni, weaveR |
+|            2 |     5555 | 2025-10-16 | TNC Esports                               | L   | 0.052      | -            | -                | -                | -         |    -0.20 | buster, demente, kumao, noni, weaveR |
+|            1 |     5581 | 2025-10-15 | RUBY                                      | L   | 0.047      | -            | -                | -                | -         |    -0.74 | buster, demente, kumao, noni, weaveR |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($373.15)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($374.12)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-09 |      0.213 | $1,750.00      | $373.15         |
+| 2025-11-09 |      0.214 | $1,750.00      | $374.12         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [240](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [155]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  670.1<br />
+Final Rank Value:  670.0<br />
 <br />
-Final Rank Value (670.1) = Starting Rank Value (651.5) + Head To Head Adjustments (18.6)<br />
+Final Rank Value (670.0) = Starting Rank Value (651.4) + Head To Head Adjustments (18.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.129<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 651.5
-- 400 + ( ( 0.129 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 651.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 651.4
+- 400 + ( ( 0.129 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 651.4
 
 
 #### Factors<br />
@@ -42,17 +42,17 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      489 | 2026-03-27 | OLDBOYS      | L   | 1.000      | -            | -                | -                | -         |   -14.42 | nbl, roxesz, sh1geo, spiker, zazzer |
 |            5 |     1159 | 2026-03-13 | Young Ninjas | L   | 1.000      | -            | -                | -                | -         |    -9.31 | kurosa, nbl, roxesz, sh1geo, zazzer |
-|            4 |     2551 | 2026-02-14 | TDK          | L   | 0.860      | -            | -                | -                | -         |    -1.46 | nbl, reyoz, roxesz, sh1geo, zazzer  |
-|            3 |     2647 | 2026-02-13 | VP.Prodigy   | W   | 0.851      | 0.384        | 0.003 (0.001)    | 0.441 (0.144)    | 0 (0.000) |    24.50 | nbl, reyoz, roxesz, sh1geo, zazzer  |
-|            2 |     2749 | 2026-02-10 | QWENTRY      | L   | 0.833      | -            | -                | -                | -         |    -4.59 | nbl, reyoz, roxesz, sh1geo, zazzer  |
-|            1 |     2779 | 2026-02-09 | VP.Prodigy   | W   | 0.825      | 0.384        | 0.003 (0.001)    | 0.441 (0.140)    | 0 (0.000) |    23.88 | nbl, reyoz, roxesz, sh1geo, zazzer  |
+|            4 |     2552 | 2026-02-14 | TDK          | L   | 0.861      | -            | -                | -                | -         |    -1.47 | nbl, reyoz, roxesz, sh1geo, zazzer  |
+|            3 |     2648 | 2026-02-13 | VP.Prodigy   | W   | 0.852      | 0.384        | 0.003 (0.001)    | 0.441 (0.144)    | 0 (0.000) |    24.52 | nbl, reyoz, roxesz, sh1geo, zazzer  |
+|            2 |     2750 | 2026-02-10 | QWENTRY      | L   | 0.833      | -            | -                | -                | -         |    -4.59 | nbl, reyoz, roxesz, sh1geo, zazzer  |
+|            1 |     2780 | 2026-02-09 | VP.Prodigy   | W   | 0.825      | 0.384        | 0.003 (0.001)    | 0.441 (0.140)    | 0 (0.000) |    23.90 | nbl, reyoz, roxesz, sh1geo, zazzer  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,000.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

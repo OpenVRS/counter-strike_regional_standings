@@ -6,9 +6,9 @@ Global Rank: [304](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [189]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  540.1<br />
+Final Rank Value:  540.2<br />
 <br />
-Final Rank Value (540.1) = Starting Rank Value (532.5) + Head To Head Adjustments (7.5)<br />
+Final Rank Value (540.2) = Starting Rank Value (532.6) + Head To Head Adjustments (7.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.068<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 532.5
-- 400 + ( ( 0.068 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 532.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 532.6
+- 400 + ( ( 0.068 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 532.6
 
 
 #### Factors<br />
@@ -40,21 +40,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     4806 | 2025-11-07 | Acend                | L   | 0.200      | -            | -                | -                | -         |    -0.09 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            7 |     4822 | 2025-11-07 | Johnny Speeds        | L   | 0.200      | -            | -                | -                | -         |    -0.06 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            6 |     4845 | 2025-11-07 | Inner Circle Esports | W   | 0.199      | 0.336        | 0.060 (0.004)    | 0.484 (0.032)    | 1 (0.199) |     6.12 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            5 |     4860 | 2025-11-07 | Minkens finest       | W   | 0.199      | 0.336        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.199) |     2.02 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            4 |     4869 | 2025-11-07 | Metizport            | L   | 0.198      | -            | -                | -                | -         |    -1.39 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            3 |     4981 | 2025-11-03 | Tung Tung Sahur      | L   | 0.174      | -            | -                | -                | -         |    -0.86 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            2 |     5005 | 2025-11-02 | Dziuseppe            | W   | 0.167      | 0.384        | 0.000 (0.000)    | 0.065 (0.004)    | 0 (0.000) |     2.52 | jocab, MahaR, MisteM, rud, sL1m3 |
-|            1 |     5061 | 2025-10-31 | FORZE Reload         | L   | 0.154      | -            | -                | -                | -         |    -0.71 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            8 |     4807 | 2025-11-07 | Acend                | L   | 0.201      | -            | -                | -                | -         |    -0.09 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            7 |     4823 | 2025-11-07 | Johnny Speeds        | L   | 0.200      | -            | -                | -                | -         |    -0.06 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            6 |     4846 | 2025-11-07 | Inner Circle Esports | W   | 0.200      | 0.336        | 0.060 (0.004)    | 0.484 (0.032)    | 1 (0.200) |     6.13 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            5 |     4861 | 2025-11-07 | Minkens finest       | W   | 0.199      | 0.336        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.199) |     2.02 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            4 |     4870 | 2025-11-07 | Metizport            | L   | 0.199      | -            | -                | -                | -         |    -1.40 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            3 |     4982 | 2025-11-03 | Tung Tung Sahur      | L   | 0.174      | -            | -                | -                | -         |    -0.86 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            2 |     5006 | 2025-11-02 | Dziuseppe            | W   | 0.168      | 0.384        | 0.000 (0.000)    | 0.065 (0.004)    | 0 (0.000) |     2.53 | jocab, MahaR, MisteM, rud, sL1m3 |
+|            1 |     5062 | 2025-10-31 | FORZE Reload         | L   | 0.154      | -            | -                | -                | -         |    -0.71 | jocab, MahaR, MisteM, rud, sL1m3 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

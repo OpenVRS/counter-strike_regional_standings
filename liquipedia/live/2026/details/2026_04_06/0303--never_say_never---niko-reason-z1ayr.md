@@ -43,16 +43,16 @@ Note:<br />
 |            6 |      758 | 2026-03-22 | Haunted House           | L   | 1.000      | -            | -                | -                | -         |    -6.89 | Niko, reason, Yuxz, z1ayr, zzi        |
 |            5 |      812 | 2026-03-21 | FengDa Gaming           | L   | 1.000      | -            | -                | -                | -         |    -6.41 | Niko, reason, Yuxz, z1ayr, zzi        |
 |            4 |      871 | 2026-03-20 | Chinggis Warriors       | W   | 1.000      | 0.333        | 0.017 (0.006)    | 0.384 (0.128)    | 0 (0.000) |    30.47 | Niko, reason, Yuxz, z1ayr, zzi        |
-|            3 |     5295 | 2025-10-25 | The QUBE Esports        | L   | 0.112      | -            | -                | -                | -         |    -0.52 | Melai, Niko, reason, Tw1nk1e17, z1ayr |
-|            2 |     5353 | 2025-10-24 | BMZ                     | L   | 0.106      | -            | -                | -                | -         |    -0.18 | Melai, Niko, reason, Tw1nk1e17, z1ayr |
-|            1 |     5401 | 2025-10-23 | Legion (Pakistani team) | W   | 0.099      | 0.333        | 0.003 (0.000)    | 0.241 (0.008)    | 0 (0.000) |     2.18 | Melai, Niko, reason, Tw1nk1e17, z1ayr |
+|            3 |     5296 | 2025-10-25 | The QUBE Esports        | L   | 0.113      | -            | -                | -                | -         |    -0.53 | Melai, Niko, reason, Tw1nk1e17, z1ayr |
+|            2 |     5354 | 2025-10-24 | BMZ                     | L   | 0.106      | -            | -                | -                | -         |    -0.18 | Melai, Niko, reason, Tw1nk1e17, z1ayr |
+|            1 |     5402 | 2025-10-23 | Legion (Pakistani team) | W   | 0.100      | 0.333        | 0.003 (0.000)    | 0.241 (0.008)    | 0 (0.000) |     2.19 | Melai, Niko, reason, Tw1nk1e17, z1ayr |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

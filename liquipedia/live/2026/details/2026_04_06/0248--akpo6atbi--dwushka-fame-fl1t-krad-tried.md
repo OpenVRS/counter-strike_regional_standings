@@ -8,7 +8,7 @@ Regional Rank: [160]( ../../standings_europe_2026_04_06.md)<br />
 <br />
 Final Rank Value:  652.4<br />
 <br />
-Final Rank Value (652.4) = Starting Rank Value (548.1) + Head To Head Adjustments (104.4)<br />
+Final Rank Value (652.4) = Starting Rank Value (548.0) + Head To Head Adjustments (104.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.076<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 548.1
-- 400 + ( ( 0.076 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 548.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 548.0
+- 400 + ( ( 0.076 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 548.0
 
 
 #### Factors<br />
@@ -41,7 +41,7 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            6 |      135 | 2026-04-02 | 100 Thieves          | L   | 1.000      | -            | -                | -                | -         |    -0.58 | dwushka, fame, FL1T, Krad, tried |
-|            5 |      155 | 2026-04-02 | WW Team              | W   | 1.000      | 0.143        | 0.034 (0.005)    | 0.865 (0.124)    | 0 (0.000) |    30.52 | dwushka, fame, FL1T, Krad, tried |
+|            5 |      155 | 2026-04-02 | WW Team              | W   | 1.000      | 0.143        | 0.034 (0.005)    | 0.865 (0.124)    | 0 (0.000) |    30.51 | dwushka, fame, FL1T, Krad, tried |
 |            4 |      192 | 2026-04-01 | Magic (Russian team) | L   | 1.000      | -            | -                | -                | -         |    -0.67 | dwushka, fame, FL1T, Krad, tried |
 |            3 |      252 | 2026-03-31 | HOTU                 | W   | 1.000      | 0.143        | 0.078 (0.011)    | 0.666 (0.095)    | 0 (0.000) |    31.00 | dwushka, fame, FL1T, Krad, tried |
 |            2 |      557 | 2026-03-25 | AM Gaming            | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.767 (0.110)    | 0 (0.000) |    30.91 | dwushka, fame, FL1T, Krad, tried |
@@ -52,7 +52,7 @@ Note:<br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

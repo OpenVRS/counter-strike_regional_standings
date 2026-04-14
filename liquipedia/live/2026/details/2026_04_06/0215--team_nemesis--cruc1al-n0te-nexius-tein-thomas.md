@@ -6,9 +6,9 @@ Global Rank: [215](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [141]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  727.0<br />
+Final Rank Value:  727.2<br />
 <br />
-Final Rank Value (727.0) = Starting Rank Value (706.3) + Head To Head Adjustments (20.8)<br />
+Final Rank Value (727.2) = Starting Rank Value (706.4) + Head To Head Adjustments (20.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.157<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 706.3
-- 400 + ( ( 0.157 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 706.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 706.4
+- 400 + ( ( 0.157 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 706.4
 
 
 #### Factors<br />
@@ -40,35 +40,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     2520 | 2026-02-15 | SIXSEVEN           | L   | 0.866      | -            | -                | -                | -         |   -10.38 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|           13 |     2631 | 2026-02-13 | VP.Prodigy         | L   | 0.853      | -            | -                | -                | -         |    -3.32 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|           12 |     3771 | 2025-12-23 | GenOne             | L   | 0.507      | -            | -                | -                | -         |    -3.36 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|           11 |     3772 | 2025-12-23 | FORZE Reload       | W   | 0.506      | 0.333        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.62 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|           10 |     3777 | 2025-12-22 | Sangal Esports     | W   | 0.498      | 0.333        | 0.009 (0.002)    | 0.263 (0.044)    | 0 (0.000) |    11.61 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            9 |     3816 | 2025-12-20 | UNiTY esports      | W   | 0.485      | 0.333        | 0.004 (0.001)    | 0.435 (0.070)    | 0 (0.000) |    10.78 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            8 |     4288 | 2025-11-25 | WW Team            | L   | 0.319      | -            | -                | -                | -         |    -0.16 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            7 |     4295 | 2025-11-25 | Infinite Gaming    | W   | 0.318      | 0.371        | 0.000 (0.000)    | 0.077 (0.009)    | 1 (0.318) |     3.61 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            6 |     4323 | 2025-11-24 | WW Team            | L   | 0.312      | -            | -                | -                | -         |    -0.15 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            5 |     5011 | 2025-11-02 | Ex-MINLATE         | W   | 0.166      | 0.305        | 0.001 (0.000)    | 0.445 (0.022)    | 1 (0.166) |     4.42 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            4 |     5019 | 2025-11-02 | Prestige Esport    | W   | 0.165      | 0.305        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.165) |     1.77 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            3 |     5025 | 2025-11-01 | Phantom Esports    | W   | 0.161      | 0.305        | 0.000 (0.000)    | 0.012 (0.001)    | 1 (0.161) |     1.92 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            2 |     5036 | 2025-11-01 | Glitchtech Esports | W   | 0.160      | 0.305        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.160) |     1.16 | CRUC1AL, n0te, Nexius, tein, Thomas |
-|            1 |     5045 | 2025-11-01 | Ex-MINLATE         | L   | 0.159      | -            | -                | -                | -         |    -0.75 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|           14 |     2521 | 2026-02-15 | SIXSEVEN           | L   | 0.866      | -            | -                | -                | -         |   -10.38 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|           13 |     2632 | 2026-02-13 | VP.Prodigy         | L   | 0.853      | -            | -                | -                | -         |    -3.33 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|           12 |     3772 | 2025-12-23 | GenOne             | L   | 0.508      | -            | -                | -                | -         |    -3.36 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|           11 |     3773 | 2025-12-23 | FORZE Reload       | W   | 0.507      | 0.333        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.62 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|           10 |     3778 | 2025-12-22 | Sangal Esports     | W   | 0.498      | 0.333        | 0.009 (0.002)    | 0.263 (0.044)    | 0 (0.000) |    11.62 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            9 |     3817 | 2025-12-20 | UNiTY esports      | W   | 0.486      | 0.333        | 0.004 (0.001)    | 0.435 (0.070)    | 0 (0.000) |    10.79 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            8 |     4289 | 2025-11-25 | WW Team            | L   | 0.320      | -            | -                | -                | -         |    -0.16 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            7 |     4296 | 2025-11-25 | Infinite Gaming    | W   | 0.318      | 0.371        | 0.000 (0.000)    | 0.077 (0.009)    | 1 (0.318) |     3.61 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            6 |     4324 | 2025-11-24 | WW Team            | L   | 0.313      | -            | -                | -                | -         |    -0.15 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            5 |     5012 | 2025-11-02 | Ex-MINLATE         | W   | 0.166      | 0.305        | 0.001 (0.000)    | 0.445 (0.023)    | 1 (0.166) |     4.44 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            4 |     5020 | 2025-11-02 | Prestige Esport    | W   | 0.165      | 0.305        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.165) |     1.78 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            3 |     5026 | 2025-11-01 | Phantom Esports    | W   | 0.162      | 0.305        | 0.000 (0.000)    | 0.012 (0.001)    | 1 (0.162) |     1.93 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            2 |     5037 | 2025-11-01 | Glitchtech Esports | W   | 0.161      | 0.305        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.161) |     1.16 | CRUC1AL, n0te, Nexius, tein, Thomas |
+|            1 |     5046 | 2025-11-01 | Ex-MINLATE         | L   | 0.160      | -            | -                | -                | -         |    -0.76 | CRUC1AL, n0te, Nexius, tein, Thomas |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,023.48)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($2,026.83)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-12-23 |      0.507 | $3,000.00      | $1,521.98       |
-| 2025-11-02 |      0.166 | $3,026.00      | $501.50         |
+| 2025-12-23 |      0.508 | $3,000.00      | $1,523.65       |
+| 2025-11-02 |      0.166 | $3,026.00      | $503.18         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

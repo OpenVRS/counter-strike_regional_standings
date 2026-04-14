@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.032[<sup>2</sup>](#table1)
 - LAN Wins: 0.200[<sup>2</sup>](#table1)
 
-The average of these factors is 0.173<br />
+The average of these factors is 0.174<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 739.4
-- 400 + ( ( 0.173 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 739.4
+- 400 + ( ( 0.174 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 739.4
 
 
 #### Factors<br />
@@ -42,19 +42,19 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |            8 |     1135 | 2026-03-14 | Sashi Esport            | L   | 1.000      | -            | -                | -                | -         |    -3.01 | Brillo, fejtZ, Few, Folke, niko |
 |            7 |     1142 | 2026-03-14 | ECSTATIC                | L   | 1.000      | -            | -                | -                | -         |    -1.24 | Brillo, fejtZ, Few, Folke, niko |
-|            6 |     3496 | 2026-01-17 | Megoshort               | L   | 0.671      | -            | -                | -                | -         |    -4.27 | fejtZ, Few, Folke, HS, Mizi     |
-|            5 |     3512 | 2026-01-16 | WOPA Esport             | W   | 0.667      | 0.337        | 0.002 (0.000)    | 0.429 (0.097)    | 1 (0.667) |    16.68 | fejtZ, Few, Folke, HS, Mizi     |
-|            4 |     3523 | 2026-01-16 | Infinite Gaming         | L   | 0.667      | -            | -                | -                | -         |   -15.14 | fejtZ, Few, Folke, HS, Mizi     |
-|            3 |     3530 | 2026-01-16 | AaB esport              | W   | 0.667      | 0.337        | 0.002 (0.000)    | 0.706 (0.159)    | 1 (0.667) |    19.80 | fejtZ, Few, Folke, HS, Mizi     |
-|            2 |     3538 | 2026-01-16 | Aimclub (Romanian team) | W   | 0.666      | 0.337        | 0.000 (0.000)    | 0.271 (0.061)    | 1 (0.666) |    15.75 | fejtZ, Few, Folke, HS, Mizi     |
-|            1 |     3554 | 2026-01-16 | Johnny Speeds           | L   | 0.665      | -            | -                | -                | -         |    -0.76 | fejtZ, Few, Folke, HS, Mizi     |
+|            6 |     3497 | 2026-01-17 | Megoshort               | L   | 0.672      | -            | -                | -                | -         |    -4.27 | fejtZ, Few, Folke, HS, Mizi     |
+|            5 |     3513 | 2026-01-16 | WOPA Esport             | W   | 0.668      | 0.337        | 0.002 (0.000)    | 0.429 (0.097)    | 1 (0.668) |    16.70 | fejtZ, Few, Folke, HS, Mizi     |
+|            4 |     3524 | 2026-01-16 | Infinite Gaming         | L   | 0.668      | -            | -                | -                | -         |   -15.15 | fejtZ, Few, Folke, HS, Mizi     |
+|            3 |     3531 | 2026-01-16 | AaB esport              | W   | 0.667      | 0.337        | 0.002 (0.000)    | 0.706 (0.159)    | 1 (0.667) |    19.82 | fejtZ, Few, Folke, HS, Mizi     |
+|            2 |     3539 | 2026-01-16 | Aimclub (Romanian team) | W   | 0.667      | 0.337        | 0.000 (0.000)    | 0.271 (0.061)    | 1 (0.667) |    15.76 | fejtZ, Few, Folke, HS, Mizi     |
+|            1 |     3555 | 2026-01-16 | Johnny Speeds           | L   | 0.666      | -            | -                | -                | -         |    -0.76 | fejtZ, Few, Folke, HS, Mizi     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($782.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

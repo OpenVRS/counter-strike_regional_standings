@@ -6,9 +6,9 @@ Global Rank: [189](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [38]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  763.5<br />
+Final Rank Value:  763.3<br />
 <br />
-Final Rank Value (763.5) = Starting Rank Value (711.8) + Head To Head Adjustments (51.6)<br />
+Final Rank Value (763.3) = Starting Rank Value (711.7) + Head To Head Adjustments (51.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.159<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 711.8
-- 400 + ( ( 0.159 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 711.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 711.7
+- 400 + ( ( 0.159 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 711.7
 
 
 #### Factors<br />
@@ -42,26 +42,26 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           15 |       79 | 2026-04-03 | Fisher College       | L   | 1.000      | -            | -                | -                | -         |    -7.85 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
 |           14 |      122 | 2026-04-02 | Life's A Game        | L   | 1.000      | -            | -                | -                | -         |    -7.72 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|           13 |      175 | 2026-04-01 | Fisher College       | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.385 (0.055)    | 0 (0.000) |    23.34 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|           13 |      175 | 2026-04-01 | Fisher College       | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.385 (0.055)    | 0 (0.000) |    23.33 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
 |           12 |      235 | 2026-03-31 | Regain               | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.237 (0.034)    | 0 (0.000) |    11.81 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|           11 |      477 | 2026-03-27 | Fisher College       | L   | 1.000      | -            | -                | -                | -         |    -7.91 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|           10 |     2094 | 2026-02-22 | Life's A Game        | L   | 0.915      | -            | -                | -                | -         |    -6.92 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            9 |     2171 | 2026-02-21 | Outfit 49            | W   | 0.909      | 0.333        | 0.008 (0.002)    | 0.311 (0.094)    | 0 (0.000) |    13.52 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            8 |     2436 | 2026-02-16 | Zomblers             | W   | 0.876      | 0.333        | 0.002 (0.001)    | 0.253 (0.074)    | 0 (0.000) |    13.62 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            7 |     2479 | 2026-02-15 | Chicken Coop Esports | W   | 0.869      | 0.333        | 0.017 (0.005)    | 0.186 (0.054)    | 0 (0.000) |    13.37 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            6 |     2490 | 2026-02-15 | Life's A Game        | L   | 0.867      | -            | -                | -                | -         |    -6.25 | BeaKie, cJ-dA-K1nG, HAMBOOGA, sava9e, Umar |
-|            5 |     2541 | 2026-02-14 | SkinRave Esports     | W   | 0.862      | 0.303        | 0.018 (0.005)    | 0.204 (0.053)    | 0 (0.000) |    18.06 | BeaKie, cJ-dA-K1nG, HAMBOOGA, sava9e, Umar |
-|            4 |     2653 | 2026-02-12 | Team Aether          | L   | 0.849      | -            | -                | -                | -         |   -11.86 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            3 |     2692 | 2026-02-11 | OverKnight           | W   | 0.843      | 0.333        | 0.000 (0.000)    | 0.075 (0.021)    | 0 (0.000) |     6.91 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            2 |     2882 | 2026-02-05 | Regain               | L   | 0.802      | -            | -                | -                | -         |   -13.76 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
-|            1 |     2906 | 2026-02-04 | Sakura Esports       | W   | 0.795      | 0.333        | 0.021 (0.006)    | 0.054 (0.014)    | 0 (0.000) |    13.28 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|           11 |      477 | 2026-03-27 | Fisher College       | L   | 1.000      | -            | -                | -                | -         |    -7.92 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|           10 |     2094 | 2026-02-22 | Life's A Game        | L   | 0.916      | -            | -                | -                | -         |    -6.93 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            9 |     2171 | 2026-02-21 | Outfit 49            | W   | 0.909      | 0.333        | 0.008 (0.002)    | 0.311 (0.094)    | 0 (0.000) |    13.50 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            8 |     2437 | 2026-02-16 | Zomblers             | W   | 0.877      | 0.333        | 0.002 (0.001)    | 0.253 (0.074)    | 0 (0.000) |    13.63 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            7 |     2480 | 2026-02-15 | Chicken Coop Esports | W   | 0.870      | 0.333        | 0.017 (0.005)    | 0.186 (0.054)    | 0 (0.000) |    13.37 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            6 |     2491 | 2026-02-15 | Life's A Game        | L   | 0.868      | -            | -                | -                | -         |    -6.26 | BeaKie, cJ-dA-K1nG, HAMBOOGA, sava9e, Umar |
+|            5 |     2542 | 2026-02-14 | SkinRave Esports     | W   | 0.862      | 0.303        | 0.018 (0.005)    | 0.205 (0.053)    | 0 (0.000) |    18.08 | BeaKie, cJ-dA-K1nG, HAMBOOGA, sava9e, Umar |
+|            4 |     2654 | 2026-02-12 | Team Aether          | L   | 0.850      | -            | -                | -                | -         |   -11.88 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            3 |     2693 | 2026-02-11 | OverKnight           | W   | 0.843      | 0.333        | 0.000 (0.000)    | 0.075 (0.021)    | 0 (0.000) |     6.92 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            2 |     2883 | 2026-02-05 | Regain               | L   | 0.803      | -            | -                | -                | -         |   -13.77 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
+|            1 |     2907 | 2026-02-04 | Sakura Esports       | W   | 0.796      | 0.333        | 0.021 (0.006)    | 0.055 (0.014)    | 0 (0.000) |    13.29 | BeaKie, calamity, cJ-dA-K1nG, sava9e, Umar |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,745.45)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($3,747.12)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -69,7 +69,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-03-29 |      1.000 | $1,000.00      | $1,000.00       |
-| 2026-02-22 |      0.915 | $3,000.00      | $2,745.45       |
+| 2026-02-22 |      0.916 | $3,000.00      | $2,747.12       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

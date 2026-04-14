@@ -6,9 +6,9 @@ Global Rank: [327](../../standings_global_2026_04_06.md)<br />
 Region: [Asia]( ../../standings_asia_2026_04_06.md)<br />
 Regional Rank: [38]( ../../standings_asia_2026_04_06.md)<br />
 <br />
-Final Rank Value:  497.9<br />
+Final Rank Value:  497.8<br />
 <br />
-Final Rank Value (497.9) = Starting Rank Value (501.5) + Head To Head Adjustments (-3.5)<br />
+Final Rank Value (497.8) = Starting Rank Value (501.4) + Head To Head Adjustments (-3.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.052<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 501.5
-- 400 + ( ( 0.052 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 501.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 501.4
+- 400 + ( ( 0.052 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 501.4
 
 
 #### Factors<br />
@@ -40,18 +40,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |      544 | 2026-03-25 | Regain       | L   | 1.000      | -            | -                | -                | -         |    -9.22 | laxiee, Marro, mason, N2o, obi   |
-|            4 |     2276 | 2026-02-19 | FlyQuest RED | L   | 0.896      | -            | -                | -                | -         |    -9.15 | Marro, N2o, obi, Oczarka, Zamgaa |
-|            3 |     2324 | 2026-02-18 | Regain       | W   | 0.889      | 0.363        | 0.003 (0.001)    | 0.237 (0.077)    | 0 (0.000) |    20.25 | Marro, N2o, obi, Oczarka, Zamgaa |
+|            5 |      544 | 2026-03-25 | Regain       | L   | 1.000      | -            | -                | -                | -         |    -9.23 | laxiee, Marro, mason, N2o, obi   |
+|            4 |     2276 | 2026-02-19 | FlyQuest RED | L   | 0.896      | -            | -                | -                | -         |    -9.24 | Marro, N2o, obi, Oczarka, Zamgaa |
+|            3 |     2324 | 2026-02-18 | Regain       | W   | 0.890      | 0.363        | 0.003 (0.001)    | 0.237 (0.077)    | 0 (0.000) |    20.26 | Marro, N2o, obi, Oczarka, Zamgaa |
 |            2 |     2383 | 2026-02-17 | M80          | L   | 0.883      | -            | -                | -                | -         |    -0.14 | Marro, N2o, obi, Oczarka, Zamgaa |
-|            1 |     2544 | 2026-02-14 | BOSS         | L   | 0.861      | -            | -                | -                | -         |    -5.28 | AJ, Marro, N2o, obi, Oczarka     |
+|            1 |     2545 | 2026-02-14 | BOSS         | L   | 0.861      | -            | -                | -                | -         |    -5.29 | AJ, Marro, N2o, obi, Oczarka     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

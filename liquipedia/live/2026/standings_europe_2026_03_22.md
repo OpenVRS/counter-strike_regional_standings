@@ -202,4 +202,4 @@
 | 197      |    399 | GLORE                                     | DEPRESHN, HENU, M1key, neptun                        | [details](details/2026_03_22/0336--glore--depreshn-henu-m1key-neptun.md)                                                |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

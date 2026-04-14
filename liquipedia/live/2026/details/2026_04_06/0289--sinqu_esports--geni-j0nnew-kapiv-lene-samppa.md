@@ -45,24 +45,24 @@ Note:<br />
 |           14 |      913 | 2026-03-19 | Ex-Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |    -3.49 | Geni, J0nneW, KapiV, Lene, Samppa   |
 |           13 |      946 | 2026-03-18 | GenOne           | W   | 1.000      | 0.384        | 0.017 (0.006)    | 0.540 (0.207)    | 0 (0.000) |    28.42 | Geni, J0nneW, KapiV, Lene, Samppa   |
 |           12 |     1039 | 2026-03-16 | Leo Team         | L   | 1.000      | -            | -                | -                | -         |    -2.07 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|           11 |     3246 | 2026-01-23 | WOPA Esport      | L   | 0.715      | -            | -                | -                | -         |    -2.06 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|           10 |     3249 | 2026-01-23 | Alliance         | L   | 0.715      | -            | -                | -                | -         |    -0.14 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|            9 |     3251 | 2026-01-23 | Sidequest        | W   | 0.715      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.715) |     5.85 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|            8 |     3710 | 2026-01-04 | Fingers Crossed  | L   | 0.586      | -            | -                | -                | -         |   -12.39 | Genii, J0nneW, KapiV, Lene, nibzeri |
-|            7 |     3715 | 2026-01-04 | AaB esport       | L   | 0.585      | -            | -                | -                | -         |    -0.43 | Genii, J0nneW, KapiV, Lene, nibzeri |
-|            6 |     3719 | 2026-01-04 | ESC Gaming       | L   | 0.585      | -            | -                | -                | -         |    -0.74 | Genii, J0nneW, KapiV, Lene, nibzeri |
-|            5 |     3720 | 2026-01-04 | ASTRAL Esports   | L   | 0.585      | -            | -                | -                | -         |    -1.19 | Genii, J0nneW, KapiV, Lene, nibzeri |
-|            4 |     3723 | 2026-01-04 | Ex-MINLATE       | L   | 0.584      | -            | -                | -                | -         |    -1.67 | Genii, J0nneW, KapiV, Lene, nibzeri |
-|            3 |     3870 | 2025-12-17 | Nexus Gaming     | L   | 0.466      | -            | -                | -                | -         |    -1.20 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|            2 |     3874 | 2025-12-17 | Lazer Cats       | L   | 0.466      | -            | -                | -                | -         |    -1.30 | Geni, J0nneW, KapiV, Lene, Samppa   |
-|            1 |     3879 | 2025-12-17 | Nexus Gaming     | W   | 0.465      | 0.339        | 0.001 (0.000)    | 0.450 (0.071)    | 1 (0.465) |    13.57 | Geni, J0nneW, KapiV, Lene, Samppa   |
+|           11 |     3247 | 2026-01-23 | WOPA Esport      | L   | 0.716      | -            | -                | -                | -         |    -2.06 | Geni, J0nneW, KapiV, Lene, Samppa   |
+|           10 |     3250 | 2026-01-23 | Alliance         | L   | 0.715      | -            | -                | -                | -         |    -0.14 | Geni, J0nneW, KapiV, Lene, Samppa   |
+|            9 |     3252 | 2026-01-23 | Sidequest        | W   | 0.715      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.715) |     5.85 | Geni, J0nneW, KapiV, Lene, Samppa   |
+|            8 |     3711 | 2026-01-04 | Fingers Crossed  | L   | 0.586      | -            | -                | -                | -         |   -12.41 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            7 |     3716 | 2026-01-04 | AaB esport       | L   | 0.586      | -            | -                | -                | -         |    -0.43 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            6 |     3720 | 2026-01-04 | ESC Gaming       | L   | 0.585      | -            | -                | -                | -         |    -0.74 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            5 |     3721 | 2026-01-04 | ASTRAL Esports   | L   | 0.585      | -            | -                | -                | -         |    -1.20 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            4 |     3724 | 2026-01-04 | Ex-MINLATE       | L   | 0.585      | -            | -                | -                | -         |    -1.67 | Genii, J0nneW, KapiV, Lene, nibzeri |
+|            3 |     3871 | 2025-12-17 | Nexus Gaming     | L   | 0.467      | -            | -                | -                | -         |    -1.20 | Geni, J0nneW, KapiV, Lene, Samppa   |
+|            2 |     3875 | 2025-12-17 | Lazer Cats       | L   | 0.466      | -            | -                | -                | -         |    -1.30 | Geni, J0nneW, KapiV, Lene, Samppa   |
+|            1 |     3880 | 2025-12-17 | Nexus Gaming     | W   | 0.466      | 0.339        | 0.001 (0.000)    | 0.450 (0.071)    | 1 (0.466) |    13.59 | Geni, J0nneW, KapiV, Lene, Samppa   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

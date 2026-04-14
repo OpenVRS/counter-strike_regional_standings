@@ -43,15 +43,15 @@ Note:<br />
 |            5 |      416 | 2026-03-28 | Memeories    | L   | 1.000      | -            | -                | -                | -         |   -12.29 | Beastman, denz, doltn, flixxy, Pr0mise     |
 |            4 |      427 | 2026-03-28 | Oatzu's Hips | W   | 1.000      | 0.354        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |    13.60 | Beastman, denz, doltn, flixxy, Pr0mise     |
 |            3 |      446 | 2026-03-28 | Memeories    | L   | 1.000      | -            | -                | -                | -         |   -12.76 | Beastman, denz, doltn, flixxy, Pr0mise     |
-|            2 |     3733 | 2026-01-03 | Wildcard     | L   | 0.582      | -            | -                | -                | -         |    -0.82 | Beastman, doltn, flixxy, HAMBOOGA, Pr0mise |
-|            1 |     3738 | 2026-01-03 | GamerLegion  | L   | 0.581      | -            | -                | -                | -         |    -0.04 | Beastman, doltn, flixxy, HAMBOOGA, Pr0mise |
+|            2 |     3734 | 2026-01-03 | Wildcard     | L   | 0.582      | -            | -                | -                | -         |    -0.82 | Beastman, doltn, flixxy, HAMBOOGA, Pr0mise |
+|            1 |     3739 | 2026-01-03 | GamerLegion  | L   | 0.582      | -            | -                | -                | -         |    -0.04 | Beastman, doltn, flixxy, HAMBOOGA, Pr0mise |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

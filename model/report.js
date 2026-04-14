@@ -28,6 +28,20 @@ function getSubregion(countryCode) {
     return entry ? entry.region : '';
 }
 
+function getTeamSubregion(roster) {
+    const subregionCounts = {};
+    roster.forEach(p => {
+        const sub = getSubregion(p.countryIso);
+        if (sub) subregionCounts[sub] = (subregionCounts[sub] || 0) + 1;
+    });
+    let maxSubregion = '';
+    let maxCount = 0;
+    for (const [sub, count] of Object.entries(subregionCounts)) {
+        if (count > maxCount) { maxSubregion = sub; maxCount = count; }
+    }
+    return maxCount > 2 ? maxSubregion : '';
+}
+
 
 function formatLine( line, newline = false ){ 
     let output = line + '<br />\n';
@@ -59,7 +73,7 @@ function teamsGen( teams ) {
     );
 }
 
-function generateOutput( teams, regions = [0,1,2], strDate, simOn ){
+function generateOutput( teams, regions = [0,1,2], strDate, simOn, matches, mischief ){
 
     let fileDate = strDate.replaceAll('-','_');
     let year = fileDate.slice(0,4);
@@ -90,6 +104,12 @@ function generateOutput( teams, regions = [0,1,2], strDate, simOn ){
             `${liveFolder}standings_${fileDate}${wikiFormat}`,
             wikiGlobal
         );
+    }
+
+    if (!simOn && matches && mischief) {
+        const { generateGEXF } = require('../tools/gephi.js');
+        teams.forEach(t => { t.subregion = getTeamSubregion(t.activeRoster); });
+        generateGEXF(matches, teams, `${liveFolder}network.gexf`);
     }
     
 

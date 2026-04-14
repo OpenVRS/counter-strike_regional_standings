@@ -194,4 +194,4 @@
 | 189      |    428 | Falcons Force                             | clockzi, grecu, Nucleonz, Olaie, VENO                | [details](details/2026_03_08/0323--falcons_force--clockzi-grecu-nucleonz-olaie-veno.md)                                 |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

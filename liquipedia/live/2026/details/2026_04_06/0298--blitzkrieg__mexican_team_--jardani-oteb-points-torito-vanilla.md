@@ -6,9 +6,9 @@ Global Rank: [298](../../standings_global_2026_04_06.md)<br />
 Region: [Americas]( ../../standings_americas_2026_04_06.md)<br />
 Regional Rank: [79]( ../../standings_americas_2026_04_06.md)<br />
 <br />
-Final Rank Value:  557.5<br />
+Final Rank Value:  557.4<br />
 <br />
-Final Rank Value (557.5) = Starting Rank Value (525.1) + Head To Head Adjustments (32.4)<br />
+Final Rank Value (557.4) = Starting Rank Value (525.0) + Head To Head Adjustments (32.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.064<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 525.1
-- 400 + ( ( 0.064 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 525.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 525.0
+- 400 + ( ( 0.064 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 525.0
 
 
 #### Factors<br />
@@ -40,19 +40,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     2325 | 2026-02-18 | Wildcard        | L   | 0.889      | -            | -                | -                | -         |    -1.49 | Jardani, otEB, points, TORITO, vanilla |
-|            5 |     2506 | 2026-02-15 | SportsBetExpert | W   | 0.867      | 0.333        | 0.011 (0.003)    | 0.255 (0.074)    | 0 (0.000) |    21.10 | Jardani, otEB, points, TORITO, vanilla |
-|            4 |     2650 | 2026-02-12 | OverKnight      | W   | 0.850      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.40 | Jardani, otEB, points, TORITO, vanilla |
-|            3 |     2721 | 2026-02-10 | Outfit 49       | L   | 0.836      | -            | -                | -                | -         |    -7.79 | Jardani, otEB, points, TORITO, vanilla |
-|            2 |     2841 | 2026-02-06 | Sakura Esports  | W   | 0.809      | 0.333        | 0.021 (0.006)    | 0.054 (0.015)    | 0 (0.000) |    19.15 | Jardani, otEB, points, TORITO, vanilla |
-|            1 |     2959 | 2026-02-02 | Regain          | L   | 0.783      | -            | -                | -                | -         |    -6.99 | Jardani, otEB, points, TORITO, vanilla |
+|            6 |     2325 | 2026-02-18 | Wildcard        | L   | 0.890      | -            | -                | -                | -         |    -1.49 | Jardani, otEB, points, TORITO, vanilla |
+|            5 |     2507 | 2026-02-15 | SportsBetExpert | W   | 0.867      | 0.333        | 0.011 (0.003)    | 0.255 (0.074)    | 0 (0.000) |    21.04 | Jardani, otEB, points, TORITO, vanilla |
+|            4 |     2651 | 2026-02-12 | OverKnight      | W   | 0.850      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     8.41 | Jardani, otEB, points, TORITO, vanilla |
+|            3 |     2722 | 2026-02-10 | Outfit 49       | L   | 0.836      | -            | -                | -                | -         |    -7.81 | Jardani, otEB, points, TORITO, vanilla |
+|            2 |     2842 | 2026-02-06 | Sakura Esports  | W   | 0.810      | 0.333        | 0.021 (0.006)    | 0.055 (0.015)    | 0 (0.000) |    19.16 | Jardani, otEB, points, TORITO, vanilla |
+|            1 |     2960 | 2026-02-02 | Regain          | L   | 0.783      | -            | -                | -                | -         |    -6.99 | Jardani, otEB, points, TORITO, vanilla |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

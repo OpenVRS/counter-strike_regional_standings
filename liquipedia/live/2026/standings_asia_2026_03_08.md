@@ -50,4 +50,4 @@
 | 45       |    391 | Ding Cuts                        | biebs, delkud, luffy, R3XY                      | [details](details/2026_03_08/0329--ding_cuts--biebs-delkud-luffy-r3xy.md)                                     |
 
 
-_Event data for Regional Standings provided by HLTV.org_<br />
+_Event data for Regional Standings provided by Liquipedia.net_<br />

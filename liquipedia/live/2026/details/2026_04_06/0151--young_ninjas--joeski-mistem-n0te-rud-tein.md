@@ -6,9 +6,9 @@ Global Rank: [151](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [106]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  878.9<br />
+Final Rank Value:  878.8<br />
 <br />
-Final Rank Value (878.9) = Starting Rank Value (824.0) + Head To Head Adjustments (54.9)<br />
+Final Rank Value (878.8) = Starting Rank Value (823.9) + Head To Head Adjustments (54.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.217<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 824.0
-- 400 + ( ( 0.217 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 824.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 823.9
+- 400 + ( ( 0.217 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 823.9
 
 
 #### Factors<br />
@@ -43,21 +43,21 @@ Note:<br />
 |           11 |      523 | 2026-03-26 | Alliance             | L   | 1.000      | -            | -                | -                | -         |    -1.58 | joeski, MisteM, n0te, rud, tein |
 |           10 |      528 | 2026-03-26 | ReThink              | W   | 1.000      | 0.396        | 0.000 (0.000)    | 0.022 (0.009)    | 1 (1.000) |     2.49 | joeski, MisteM, n0te, rud, tein |
 |            9 |      538 | 2026-03-26 | EYEBALLERS           | L   | 1.000      | -            | -                | -                | -         |    -2.17 | joeski, MisteM, n0te, rud, tein |
-|            8 |     1074 | 2026-03-15 | Donstu Esports       | W   | 1.000      | 0.278        | 0.002 (0.000)    | 0.151 (0.042)    | 0 (0.000) |    10.08 | joeski, MisteM, n0te, rud, tein |
+|            8 |     1074 | 2026-03-15 | Donstu Esports       | W   | 1.000      | 0.278        | 0.002 (0.000)    | 0.150 (0.042)    | 0 (0.000) |    10.08 | joeski, MisteM, n0te, rud, tein |
 |            7 |     1080 | 2026-03-15 | Endless Journey      | W   | 1.000      | 0.278        | 0.010 (0.003)    | 0.061 (0.017)    | 0 (0.000) |     7.93 | joeski, MisteM, n0te, rud, tein |
-|            6 |     1112 | 2026-03-14 | Misa Esports         | W   | 1.000      | 0.278        | 0.005 (0.002)    | 0.178 (0.049)    | 0 (0.000) |    13.24 | joeski, MisteM, n0te, rud, tein |
+|            6 |     1112 | 2026-03-14 | Misa Esports         | W   | 1.000      | 0.278        | 0.005 (0.002)    | 0.178 (0.049)    | 0 (0.000) |    13.25 | joeski, MisteM, n0te, rud, tein |
 |            5 |     1159 | 2026-03-13 | ENJOY (Russian team) | W   | 1.000      | 0.278        | 0.002 (0.001)    | 0.026 (0.007)    | 0 (0.000) |     9.31 | joeski, MisteM, n0te, rud, tein |
 |            4 |     1211 | 2026-03-12 | Endless Journey      | L   | 1.000      | -            | -                | -                | -         |   -22.88 | joeski, MisteM, n0te, rud, tein |
-|            3 |     2185 | 2026-02-21 | Phantom Esports      | W   | 0.907      | 0.323        | 0.008 (0.002)    | 0.634 (0.186)    | 1 (0.907) |    24.83 | joeski, MisteM, n0te, rud, tein |
-|            2 |     2201 | 2026-02-21 | Metizport            | L   | 0.906      | -            | -                | -                | -         |    -5.24 | joeski, MisteM, n0te, rud, tein |
-|            1 |     2213 | 2026-02-21 | Lilmix               | W   | 0.905      | 0.323        | 0.008 (0.002)    | 0.259 (0.076)    | 1 (0.905) |    18.87 | joeski, MisteM, n0te, rud, tein |
+|            3 |     2185 | 2026-02-21 | Phantom Esports      | W   | 0.907      | 0.323        | 0.008 (0.002)    | 0.634 (0.186)    | 1 (0.907) |    24.84 | joeski, MisteM, n0te, rud, tein |
+|            2 |     2201 | 2026-02-21 | Metizport            | L   | 0.906      | -            | -                | -                | -         |    -5.25 | joeski, MisteM, n0te, rud, tein |
+|            1 |     2213 | 2026-02-21 | Lilmix               | W   | 0.905      | 0.323        | 0.008 (0.002)    | 0.259 (0.076)    | 1 (0.905) |    18.89 | joeski, MisteM, n0te, rud, tein |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,975.42)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($1,975.86)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -65,7 +65,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-03-15 |      1.000 | $1,250.00      | $1,250.00       |
-| 2026-02-21 |      0.907 | $800.00        | $725.42         |
+| 2026-02-21 |      0.907 | $800.00        | $725.86         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

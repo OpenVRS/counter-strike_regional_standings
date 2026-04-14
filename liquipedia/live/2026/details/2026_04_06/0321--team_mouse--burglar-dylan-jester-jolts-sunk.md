@@ -8,7 +8,7 @@ Regional Rank: [89]( ../../standings_americas_2026_04_06.md)<br />
 <br />
 Final Rank Value:  509.5<br />
 <br />
-Final Rank Value (509.5) = Starting Rank Value (492.5) + Head To Head Adjustments (17.0)<br />
+Final Rank Value (509.5) = Starting Rank Value (492.4) + Head To Head Adjustments (17.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.047<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 492.5
-- 400 + ( ( 0.047 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 492.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 492.4
+- 400 + ( ( 0.047 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 492.4
 
 
 #### Factors<br />
@@ -40,20 +40,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |     2476 | 2026-02-15 | Life's A Game | L   | 0.870      | -            | -                | -                | -         |    -2.15 | Burglar, DYLAN, Jester, Jolts, Sunk |
-|            6 |     2730 | 2026-02-10 | BOSS          | L   | 0.835      | -            | -                | -                | -         |    -6.14 | Burglar, DYLAN, Jester, Jolts, Sunk |
-|            5 |     2739 | 2026-02-10 | Passion UA    | L   | 0.834      | -            | -                | -                | -         |    -0.22 | Burglar, DYLAN, Jester, Jolts, Sunk |
-|            4 |     2785 | 2026-02-08 | F5 Esports    | W   | 0.822      | 0.143        | 0.002 (0.000)    | 0.203 (0.024)    | 0 (0.000) |    20.89 | Burglar, DYLAN, Jester, Jolts, Sunk |
-|            3 |     2849 | 2026-02-06 | Regain        | L   | 0.808      | -            | -                | -                | -         |    -6.32 | Burglar, DYLAN, Jester, Jolts, Sunk |
-|            2 |     2884 | 2026-02-05 | Mythic        | W   | 0.802      | 0.333        | 0.001 (0.000)    | 0.044 (0.012)    | 0 (0.000) |    17.27 | Burglar, DYLAN, Jester, Jolts, Sunk |
-|            1 |     2963 | 2026-02-02 | Regain        | L   | 0.782      | -            | -                | -                | -         |    -6.28 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            7 |     2477 | 2026-02-15 | Life's A Game | L   | 0.871      | -            | -                | -                | -         |    -2.16 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            6 |     2731 | 2026-02-10 | BOSS          | L   | 0.835      | -            | -                | -                | -         |    -6.14 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            5 |     2740 | 2026-02-10 | Passion UA    | L   | 0.835      | -            | -                | -                | -         |    -0.22 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            4 |     2786 | 2026-02-08 | F5 Esports    | W   | 0.822      | 0.143        | 0.002 (0.000)    | 0.202 (0.024)    | 0 (0.000) |    20.90 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            3 |     2850 | 2026-02-06 | Regain        | L   | 0.809      | -            | -                | -                | -         |    -6.33 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            2 |     2885 | 2026-02-05 | Mythic        | W   | 0.802      | 0.333        | 0.001 (0.000)    | 0.044 (0.012)    | 0 (0.000) |    17.28 | Burglar, DYLAN, Jester, Jolts, Sunk |
+|            1 |     2964 | 2026-02-02 | Regain        | L   | 0.782      | -            | -                | -                | -         |    -6.28 | Burglar, DYLAN, Jester, Jolts, Sunk |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

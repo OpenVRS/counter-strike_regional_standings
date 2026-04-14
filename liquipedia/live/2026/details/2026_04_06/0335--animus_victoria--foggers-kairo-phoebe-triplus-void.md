@@ -40,21 +40,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |     4017 | 2025-12-06 | Rooster                          | L   | 0.397      | -            | -                | -                | -         |    -1.28 | foggers, kairo, phoebe, TRIPLUS, void |
-|            7 |     4019 | 2025-12-06 | FURY                             | L   | 0.396      | -            | -                | -                | -         |    -6.00 | foggers, kairo, phoebe, TRIPLUS, void |
-|            6 |     4477 | 2025-11-20 | LITE Esports                     | L   | 0.284      | -            | -                | -                | -         |    -3.12 | foggers, kairo, phoebe, TRIPLUS, void |
-|            5 |     4501 | 2025-11-18 | THUNDERdOWNUNDER                 | L   | 0.271      | -            | -                | -                | -         |    -0.09 | foggers, kairo, phoebe, TRIPLUS, void |
-|            4 |     4527 | 2025-11-16 | Time Waves                       | W   | 0.258      | 0.312        | 0.000 (0.000)    | 0.091 (0.007)    | 0 (0.000) |     3.48 | foggers, kairo, phoebe, TRIPLUS, void |
-|            3 |     5300 | 2025-10-25 | Mindfreak (Australian team)      | L   | 0.111      | -            | -                | -                | -         |    -0.22 | foggers, gump, kairo, phoebe, void    |
-|            2 |     5366 | 2025-10-24 | Arcade Esports (Australian team) | W   | 0.105      | 0.278        | 0.004 (0.000)    | 0.279 (0.008)    | 0 (0.000) |     3.04 | foggers, gump, kairo, phoebe, void    |
-|            1 |     5413 | 2025-10-23 | SemperFi Esports                 | L   | 0.098      | -            | -                | -                | -         |    -0.04 | foggers, gump, kairo, phoebe, void    |
+|            8 |     4018 | 2025-12-06 | Rooster                          | L   | 0.397      | -            | -                | -                | -         |    -1.28 | foggers, kairo, phoebe, TRIPLUS, void |
+|            7 |     4020 | 2025-12-06 | FURY                             | L   | 0.396      | -            | -                | -                | -         |    -6.00 | foggers, kairo, phoebe, TRIPLUS, void |
+|            6 |     4478 | 2025-11-20 | LITE Esports                     | L   | 0.285      | -            | -                | -                | -         |    -3.13 | foggers, kairo, phoebe, TRIPLUS, void |
+|            5 |     4502 | 2025-11-18 | THUNDERdOWNUNDER                 | L   | 0.271      | -            | -                | -                | -         |    -0.09 | foggers, kairo, phoebe, TRIPLUS, void |
+|            4 |     4528 | 2025-11-16 | Time Waves                       | W   | 0.258      | 0.312        | 0.000 (0.000)    | 0.091 (0.007)    | 0 (0.000) |     3.49 | foggers, kairo, phoebe, TRIPLUS, void |
+|            3 |     5301 | 2025-10-25 | Mindfreak (Australian team)      | L   | 0.112      | -            | -                | -                | -         |    -0.22 | foggers, gump, kairo, phoebe, void    |
+|            2 |     5367 | 2025-10-24 | Arcade Esports (Australian team) | W   | 0.105      | 0.278        | 0.004 (0.000)    | 0.279 (0.008)    | 0 (0.000) |     3.06 | foggers, gump, kairo, phoebe, void    |
+|            1 |     5414 | 2025-10-23 | SemperFi Esports                 | L   | 0.098      | -            | -                | -                | -         |    -0.04 | foggers, gump, kairo, phoebe, void    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

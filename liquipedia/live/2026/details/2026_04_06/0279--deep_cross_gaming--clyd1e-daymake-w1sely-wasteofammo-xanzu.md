@@ -40,25 +40,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            5 |     2356 | 2026-02-18 | Team Arise                  | L   | 0.886      | -            | -                | -                | -         |   -12.58 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
-|            4 |     2418 | 2026-02-17 | BORING PLAYER               | L   | 0.879      | -            | -                | -                | -         |   -11.14 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
-|            3 |     4724 | 2025-11-08 | Team Unitronic              | W   | 0.211      | 0.433        | 0.000 (0.000)    | 0.006 (0.001)    | 1 (0.211) |     2.22 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
-|            2 |     4846 | 2025-11-07 | Wicked Gaming (Indian team) | W   | 0.199      | 0.433        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.199) |     2.11 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
-|            1 |     4885 | 2025-11-06 | Mousquetaires               | L   | 0.197      | -            | -                | -                | -         |    -2.39 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
+|            5 |     2356 | 2026-02-18 | Team Arise                  | L   | 0.887      | -            | -                | -                | -         |   -12.59 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
+|            4 |     2419 | 2026-02-17 | BORING PLAYER               | L   | 0.880      | -            | -                | -                | -         |   -11.15 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
+|            3 |     4725 | 2025-11-08 | Team Unitronic              | W   | 0.211      | 0.433        | 0.000 (0.000)    | 0.006 (0.001)    | 1 (0.211) |     2.22 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
+|            2 |     4847 | 2025-11-07 | Wicked Gaming (Indian team) | W   | 0.200      | 0.433        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.200) |     2.12 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
+|            1 |     4886 | 2025-11-06 | Mousquetaires               | L   | 0.198      | -            | -                | -                | -         |    -2.39 | clyd1e, DayMake, w1sely, WasteOfAmmo, xanzu |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($845.14)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- First, take the sum of their top 10 scaled winnings ($847.36)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2025-11-09 |      0.211 | $4,000.00      | $845.14         |
+| 2025-11-09 |      0.212 | $4,000.00      | $847.36         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

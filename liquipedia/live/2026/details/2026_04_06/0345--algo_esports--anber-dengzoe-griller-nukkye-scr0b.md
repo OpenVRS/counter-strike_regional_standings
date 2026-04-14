@@ -6,9 +6,9 @@ Global Rank: [345](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [204]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  463.9<br />
+Final Rank Value:  464.0<br />
 <br />
-Final Rank Value (463.9) = Starting Rank Value (463.6) + Head To Head Adjustments (0.4)<br />
+Final Rank Value (464.0) = Starting Rank Value (463.6) + Head To Head Adjustments (0.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.000[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.032<br />
+The average of these factors is 0.033<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 463.6
-- 400 + ( ( 0.032 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 463.6
+- 400 + ( ( 0.033 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 463.6
 
 
 #### Factors<br />
@@ -40,22 +40,22 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            9 |     4978 | 2025-11-03 | Nuclear TigeRES | L   | 0.174      | -            | -                | -                | -         |    -0.03 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            8 |     5177 | 2025-10-27 | MASONIC         | L   | 0.126      | -            | -                | -                | -         |    -0.08 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            7 |     5214 | 2025-10-26 | NOVAQ           | L   | 0.121      | -            | -                | -                | -         |    -0.11 | anber, Griller, nukkye, Scr0b, St0m4k  |
-|            6 |     5275 | 2025-10-25 | ENCE Academy    | L   | 0.113      | -            | -                | -                | -         |    -0.43 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            5 |     5296 | 2025-10-25 | Square Sausages | W   | 0.112      | 0.384        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.45 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            4 |     5338 | 2025-10-24 | The Glecs       | L   | 0.107      | -            | -                | -                | -         |    -1.53 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            3 |     5466 | 2025-10-19 | The Last Resort | L   | 0.074      | -            | -                | -                | -         |    -0.13 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            2 |     5494 | 2025-10-18 | M1X             | W   | 0.065      | 0.384        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.35 | anber, Dengzoe, Griller, nukkye, Scr0b |
-|            1 |     5514 | 2025-10-17 | The Last Resort | L   | 0.060      | -            | -                | -                | -         |    -0.11 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            9 |     4979 | 2025-11-03 | Nuclear TigeRES | L   | 0.174      | -            | -                | -                | -         |    -0.03 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            8 |     5178 | 2025-10-27 | MASONIC         | L   | 0.127      | -            | -                | -                | -         |    -0.08 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            7 |     5215 | 2025-10-26 | NOVAQ           | L   | 0.121      | -            | -                | -                | -         |    -0.11 | anber, Griller, nukkye, Scr0b, St0m4k  |
+|            6 |     5276 | 2025-10-25 | ENCE Academy    | L   | 0.114      | -            | -                | -                | -         |    -0.43 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            5 |     5297 | 2025-10-25 | Square Sausages | W   | 0.113      | 0.384        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.46 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            4 |     5339 | 2025-10-24 | The Glecs       | L   | 0.107      | -            | -                | -                | -         |    -1.54 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            3 |     5467 | 2025-10-19 | The Last Resort | L   | 0.074      | -            | -                | -                | -         |    -0.13 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            2 |     5495 | 2025-10-18 | M1X             | W   | 0.066      | 0.384        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.36 | anber, Dengzoe, Griller, nukkye, Scr0b |
+|            1 |     5515 | 2025-10-17 | The Last Resort | L   | 0.060      | -            | -                | -                | -         |    -0.10 | anber, Dengzoe, Griller, nukkye, Scr0b |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

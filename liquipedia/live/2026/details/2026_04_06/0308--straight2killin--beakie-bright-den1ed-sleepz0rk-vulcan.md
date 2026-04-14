@@ -40,19 +40,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     3907 | 2025-12-13 | Team Voca            | L   | 0.443      | -            | -                | -                | -         |    -0.14 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
-|            5 |     3919 | 2025-12-12 | Chicken Coop Esports | W   | 0.436      | 0.333        | 0.017 (0.003)    | 0.186 (0.027)    | 0 (0.000) |    10.28 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
-|            4 |     3956 | 2025-12-09 | Ghost Gaming         | W   | 0.416      | 0.333        | 0.000 (0.000)    | 0.019 (0.003)    | 0 (0.000) |     7.85 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
-|            3 |     3978 | 2025-12-08 | Lotus                | W   | 0.409      | 0.333        | 0.000 (0.000)    | 0.005 (0.001)    | 0 (0.000) |     7.61 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
-|            2 |     4068 | 2025-12-04 | SkinRave Esports     | L   | 0.383      | -            | -                | -                | -         |    -1.81 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
-|            1 |     4127 | 2025-12-01 | Team Voca            | L   | 0.362      | -            | -                | -                | -         |    -0.10 | BeaKie, den1ed, sleepz0rk, starfade, VulcaN |
+|            6 |     3908 | 2025-12-13 | Team Voca            | L   | 0.443      | -            | -                | -                | -         |    -0.14 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
+|            5 |     3920 | 2025-12-12 | Chicken Coop Esports | W   | 0.436      | 0.333        | 0.017 (0.003)    | 0.186 (0.027)    | 0 (0.000) |    10.29 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
+|            4 |     3957 | 2025-12-09 | Ghost Gaming         | W   | 0.417      | 0.333        | 0.000 (0.000)    | 0.019 (0.003)    | 0 (0.000) |     7.86 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
+|            3 |     3979 | 2025-12-08 | Lotus                | W   | 0.410      | 0.333        | 0.000 (0.000)    | 0.005 (0.001)    | 0 (0.000) |     7.62 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
+|            2 |     4069 | 2025-12-04 | SkinRave Esports     | L   | 0.383      | -            | -                | -                | -         |    -1.81 | BeaKie, bright, den1ed, sleepz0rk, VulcaN   |
+|            1 |     4128 | 2025-12-01 | Team Voca            | L   | 0.363      | -            | -                | -                | -         |    -0.10 | BeaKie, den1ed, sleepz0rk, starfade, VulcaN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,22 +6,22 @@ Global Rank: [246](../../standings_global_2026_04_06.md)<br />
 Region: [Europe]( ../../standings_europe_2026_04_06.md)<br />
 Regional Rank: [158]( ../../standings_europe_2026_04_06.md)<br />
 <br />
-Final Rank Value:  657.9<br />
+Final Rank Value:  656.4<br />
 <br />
-Final Rank Value (657.9) = Starting Rank Value (674.2) + Head To Head Adjustments (-16.3)<br />
+Final Rank Value (656.4) = Starting Rank Value (673.7) + Head To Head Adjustments (-17.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.252[<sup>1</sup>](#table2)
 - Bounty Collected: 0.000[<sup>2</sup>](#table1)
-- Opponent Network: 0.008[<sup>2</sup>](#table1)
+- Opponent Network: 0.007[<sup>2</sup>](#table1)
 - LAN Wins: 0.300[<sup>2</sup>](#table1)
 
 The average of these factors is 0.140<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 674.2
-- 400 + ( ( 0.140 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 674.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 673.7
+- 400 + ( ( 0.140 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 673.7
 
 
 #### Factors<br />
@@ -40,21 +40,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent                | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |      678 | 2026-03-23 | Hypewrld                | L   | 1.000      | -            | -                | -                | -         |    -6.02 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            7 |      688 | 2026-03-23 | Matrix (Ukrainian team) | L   | 1.000      | -            | -                | -                | -         |   -21.26 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            6 |      692 | 2026-03-23 | ASTRAL Esports          | L   | 1.000      | -            | -                | -                | -         |    -5.88 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            5 |     1448 | 2026-03-08 | Lilmix                  | L   | 1.000      | -            | -                | -                | -         |    -8.60 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            4 |     1464 | 2026-03-08 | BIG Academy             | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.246 (0.074)    | 1 (1.000) |    18.02 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            3 |     1472 | 2026-03-08 | LEO                     | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     5.30 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            2 |     1499 | 2026-03-07 | Megoshort               | L   | 1.000      | -            | -                | -                | -         |    -4.55 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
-|            1 |     1515 | 2026-03-07 | Z7 Esports              | W   | 0.998      | 0.303        | 0.000 (0.000)    | 0.031 (0.009)    | 1 (0.998) |     6.74 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            8 |      678 | 2026-03-23 | Hypewrld                | L   | 1.000      | -            | -                | -                | -         |    -5.98 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            7 |      688 | 2026-03-23 | Matrix (Ukrainian team) | L   | 1.000      | -            | -                | -                | -         |   -21.20 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            6 |      692 | 2026-03-23 | ASTRAL Esports          | L   | 1.000      | -            | -                | -                | -         |    -5.84 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            5 |     1448 | 2026-03-08 | Lilmix                  | L   | 1.000      | -            | -                | -                | -         |    -8.55 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            4 |     1464 | 2026-03-08 | BIG Academy             | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.246 (0.074)    | 1 (1.000) |    18.04 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            3 |     1472 | 2026-03-08 | LEO                     | W   | 1.000      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (1.000) |     5.34 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            2 |     1499 | 2026-03-07 | Megoshort               | L   | 1.000      | -            | -                | -                | -         |    -4.51 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
+|            1 |     1515 | 2026-03-07 | Z7 Esports              | W   | 0.999      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.999) |     5.45 | B3LOF, hayanh, Katalic, miksozzz, sheezy |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($500.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

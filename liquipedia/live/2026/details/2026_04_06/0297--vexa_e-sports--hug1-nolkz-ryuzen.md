@@ -8,7 +8,7 @@ Regional Rank: [78]( ../../standings_americas_2026_04_06.md)<br />
 <br />
 Final Rank Value:  563.2<br />
 <br />
-Final Rank Value (563.2) = Starting Rank Value (541.0) + Head To Head Adjustments (22.2)<br />
+Final Rank Value (563.2) = Starting Rank Value (540.9) + Head To Head Adjustments (22.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.072<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 541.0
-- 400 + ( ( 0.072 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 541.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 540.9
+- 400 + ( ( 0.072 - 0.000 ) / ( 0.818 - 0.000 ) ) * 1600 = 540.9
 
 
 #### Factors<br />
@@ -43,16 +43,16 @@ Note:<br />
 |            6 |      738 | 2026-03-22 | Game Hunters           | L   | 1.000      | -            | -                | -                | -         |    -4.16 | hug1, nolkz, rainny, ryuzen, zock9 |
 |            5 |      785 | 2026-03-21 | Isurus                 | W   | 1.000      | 0.363        | 0.056 (0.020)    | 0.475 (0.172)    | 0 (0.000) |    27.98 | hug1, nolkz, rainny, ryuzen, zock9 |
 |            4 |      841 | 2026-03-20 | DashSkins              | L   | 1.000      | -            | -                | -                | -         |    -1.47 | hug1, nolkz, rainny, ryuzen, zock9 |
-|            3 |     5657 | 2025-10-12 | Crashers               | L   | 0.026      | -            | -                | -                | -         |    -0.38 | hug1, KLR, nolkz, ryuzen, souz4h   |
-|            2 |     5719 | 2025-10-10 | R2 Esports Club        | W   | 0.012      | 0.371        | 0.004 (0.000)    | 0.360 (0.002)    | 0 (0.000) |     0.28 | hug1, KLR, nolkz, ryuzen, souz4h   |
-|            1 |     5786 | 2025-10-08 | Bounty Hunters Esports | L   | 0.001      | -            | -                | -                | -         |    -0.00 | hug1, KLR, nolkz, ryuzen, souz4h   |
+|            3 |     5658 | 2025-10-12 | Crashers               | L   | 0.027      | -            | -                | -                | -         |    -0.39 | hug1, KLR, nolkz, ryuzen, souz4h   |
+|            2 |     5720 | 2025-10-10 | R2 Esports Club        | W   | 0.013      | 0.371        | 0.004 (0.000)    | 0.360 (0.002)    | 0 (0.000) |     0.29 | hug1, KLR, nolkz, ryuzen, souz4h   |
+|            1 |     5787 | 2025-10-08 | Bounty Hunters Esports | L   | 0.002      | -            | -                | -                | -         |    -0.00 | hug1, KLR, nolkz, ryuzen, souz4h   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($457,592.01)
+- Divide that value by the 5th highest value among all rosters ($458,955.91)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
