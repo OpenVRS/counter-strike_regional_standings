@@ -11,6 +11,7 @@ class TeamEvent {
 
         let prizeEntry = event.prizeDistributionByTeamId[teamId];
         this.winnings = ( prizeEntry === undefined ) ? 0 : prizeEntry.prize;
+        this.placement = ( prizeEntry === undefined ) ? 0 : prizeEntry.placement;
     }
 
     getTeamWinnings() {
@@ -162,7 +163,7 @@ class Team {
     }
 
 
-    static initializeSeedingModifiers( teams, context )
+    static initializeSeedingModifiers( teams, context, constants, globalMatches )
     {
         function curveFunction( x ) { return Math.pow( 1 / ( 1 + Math.abs(Math.log10(x)) ), 1 ); }
         function powerFunction( x ) { return Math.pow( x, 1 ) };
@@ -235,10 +236,19 @@ class Team {
         // Phase 2 relies on the data from *all* teams in phase 1 being calculated.
         // we want to know relative data -- such as whether this team's winnings are representative
         // of the top teams in the world, or if a team has beaten a typical number of opponents.
-        let referenceWinnings     = nthHighest( teams.map( t => t.scaledWinnings ), context.getOutlierCount() );
-        let referenceOpponentCount = nthHighest( teams.map( t => t.distinctTeamsDefeated ), context.getOutlierCount() );
-        let referenceLanWins       = nthHighest( teams.map( t => t.scaledLanWins ), context.getOutlierCount() );
-
+        let referenceWinnings;
+        let referenceOpponentCount;
+        let referenceLanWins;
+        if(constants) {
+            referenceWinnings     = constants.referenceWinnings;
+            referenceOpponentCount = constants.referenceOpponentCount
+            referenceLanWins       = constants.referenceLanWins;
+        } else {
+            referenceWinnings     = nthHighest( teams.map( t => t.scaledWinnings ), context.getOutlierCount() );
+            referenceOpponentCount = nthHighest( teams.map( t => t.distinctTeamsDefeated ), context.getOutlierCount() );
+            referenceLanWins       = nthHighest( teams.map( t => t.scaledLanWins ), context.getOutlierCount() );
+        }
+        
         teams.forEach( team => {
             team.bountyOffered = Math.min( team.scaledWinnings / referenceWinnings, 1 );
             team.ownNetwork = Math.min( team.distinctTeamsDefeated / referenceOpponentCount, 1 );
@@ -256,16 +266,42 @@ class Team {
 
             team.wonMatches.forEach( teamMatch => {
                 let id = teamMatch.match.umid;
+                let relevantMatch;
+                let internalId;
+                if(globalMatches) {
+                    internalId = teamMatch.match.matchId;
+                    relevantMatch = globalMatches.find(m => m.matchId === internalId);
+                }
                 let timestampModifier = context.getTimestampModifier( teamMatch.match.matchStartTime );
                 let cappedPrizePool = getCappedPrizePool( teamMatch );
                 let stakesModifier = curveFunction( cappedPrizePool / 1000000 ); //cappedPrizePool of the event is curved the same as a bounty, and is limited to $1,000,000.
                 let matchContext = timestampModifier * stakesModifier;
+                let baseBounty;
+                let baseNetwork;
+                let scaledBounty;
+                let scaledNetwork;
+                if (constants) {
 
-                let scaledBounty = teamMatch.opponent.bountyOffered * matchContext;
-                let scaledNetwork = teamMatch.opponent.ownNetwork * matchContext;
+                    if(relevantMatch.winningTeam == 1) {
+                        baseBounty = relevantMatch.team2.bountyOffered;
+                        baseNetwork = relevantMatch.team2.ownNetwork;
+                    } else {
+                        baseBounty = relevantMatch.team1.bountyOffered;
+                        baseNetwork = relevantMatch.team1.ownNetwork;
+                    }
 
-                bounties.push( { id: id, context: stakesModifier, base: teamMatch.opponent.bountyOffered, val: scaledBounty } );
-                network.push(  { id: id, context: stakesModifier, base: teamMatch.opponent.ownNetwork   , val: scaledNetwork } );
+                    scaledBounty = baseBounty * matchContext;
+                    scaledNetwork = baseNetwork * matchContext;
+                } else {
+                    baseBounty = teamMatch.opponent.bountyOffered;
+                    baseNetwork = teamMatch.opponent.ownNetwork;
+                    scaledBounty = teamMatch.opponent.bountyOffered * matchContext;
+                    scaledNetwork = teamMatch.opponent.ownNetwork * matchContext;
+                }
+                
+
+                bounties.push( { id: id, context: stakesModifier, base: baseBounty, val: scaledBounty } );
+                network.push(  { id: id, context: stakesModifier, base: baseNetwork  , val: scaledNetwork } );
             } );
     
             bounties.sort( (a,b) => b.val - a.val );
@@ -285,6 +321,13 @@ class Team {
             team.modifiers.opponentNetwork  = powerFunction( team.opponentNetwork );
             team.modifiers.ownNetwork       = powerFunction( team.ownNetwork );
             team.modifiers.lanFactor        = powerFunction( team.lanParticipation );
+
+            team.referenceWinnings = powerFunction ( referenceWinnings );
+            team.referenceOpponentCount = powerFunction ( referenceOpponentCount );
+            team.referenceLanWins = powerFunction ( referenceLanWins );
+
+
+
         } );        
     }
 }

@@ -69,35 +69,68 @@ function filterUnrankedMatches( matches ) {
 }
 
 class EventTeam {
-    constructor( prizeJson ) {
+    constructor( prizeJson, partial, teamUsed, teamTotal, lowestCompletedPrize ) {
         this.placement = prizeJson.placement;
-        this.prize = prizeJson.prize + prizeJson.clubShare;
+        if ( partial !== true ) {
+            this.prize = prizeJson.prize + prizeJson.clubShare;
+        } else if ( teamUsed === teamTotal ) {
+            this.prize = prizeJson.prize + prizeJson.clubShare;
+        } else if ((prizeJson.prize + prizeJson.clubShare) == 0) {
+            this.prize = prizeJson.prize + prizeJson.clubShare;
+        } else {
+            //actual partial       
+            this.prize = lowestCompletedPrize;
+        }
         this.shared = prizeJson.shared;
     }
 }
 
 class Event {
-    constructor( eventJson ) {
+    constructor( eventJson, partial, endTime, teamUsageMap, maxLimit ) {
         this.eventId = eventJson.eventId;
         this.name = eventJson.eventName;
         this.prizePool = parsePrizePool( eventJson.prizePool );
         this.prizeDistributionByTeamId = {};
         this.lan = eventJson.lan;
         this.lastMatchTime = -1;
-        this.finished = eventJson.finished;
+        this.lmt = eventJson.lmt;
+        if (endTime >= 0 && eventJson.lmt > endTime) {
+            this.finished = false; //mNote, check this further
+        }
+        else if (maxLimit && eventJson.lmt > maxLimit) {
+            this.finished = false;
+        } else {
+            this.finished = eventJson.finished;
+        }
 
         // connect qualified events
         let qualifiedEvents = [];
 
+        // If partial evet, find the highest non-zero prize among teams whose matches have completed
+        let lowestCompletedPrize = 0;
+        if ( partial && teamUsageMap ) {
+            const completedPrizes = eventJson.prizeDistribution
+                .filter( teamJson => {
+                    const { used, total } = teamUsageMap[teamJson.teamId] || { used: 0, total: 0 };
+                    return used !== total && (teamJson.prize + teamJson.clubShare) > 0;
+                })
+                .map( teamJson => teamJson.prize + teamJson.clubShare );
+
+            if ( completedPrizes.length > 0 )
+                lowestCompletedPrize = Math.min( ...completedPrizes );
+        }
 
         eventJson.prizeDistribution.forEach( teamJson => {
-            this.prizeDistributionByTeamId[teamJson.teamId] = new EventTeam( teamJson );
+            const { used = 0, total = 0 } = teamUsageMap ? (teamUsageMap[teamJson.teamId] || {}) : {};
+            this.prizeDistributionByTeamId[teamJson.teamId] = new EventTeam(
+                teamJson, partial, used, total, lowestCompletedPrize
+            );
 
             if ( teamJson.qualifiedEvents.length > 0 )
                 qualifiedEvents.push( teamJson.qualifiedEvents );
         } );
 
-        this.qualifiedEvents = qualifiedEvents.length > 0 ?  qualifiedEvents[qualifiedEvents.length - 1 ] : -1;
+        this.qualifiedEvents = qualifiedEvents.length > 0 ? qualifiedEvents[qualifiedEvents.length - 1] : -1;
     }
 
     accumulateMatch( match )
@@ -106,7 +139,7 @@ class Event {
     }
 }
 
-function initTeams( matches, events, rankingContext ) {
+function initTeams( matches, events, rankingContext, constants, globalMatches ) {
     let teams = [];
 
     function insertTeam( name, players, isForfeitMatch, teamId, teamImage ) {
@@ -156,7 +189,7 @@ function initTeams( matches, events, rankingContext ) {
 
     // Calculate seeding data for each team based on professional performance
     // (quantity/quality of professional teams defeated and prizes won)
-    Team.initializeSeedingModifiers( teams, rankingContext );
+    Team.initializeSeedingModifiers( teams, rankingContext, constants, globalMatches );
 
     return teams;
 }
@@ -214,13 +247,14 @@ class DataLoader
     // with the nth most prize winnings.
     setNthHighest( nth ) { this.rankingContext.setOutlierCount( nth ); }
 
-    loadData( versionTimestamp = -1, filename = '../data/matchdata.json' )
+    loadData( versionTimestamp = -1, filename = '../data/matchdata.json', constants, matchItem, globalMatches, partialEvents, maxLimit )
     {
         const data = fs.readFileSync( filename );
         const dataJson = JSON.parse( data );
 
         // initialize match list
         let matches = dataJson.matches;
+        let earlyMatches = matches;
 
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
@@ -234,10 +268,81 @@ class DataLoader
         let graceperiod = 30 * 24 * 3600; // 1 month
         this.rankingContext.setTimeWindow( startTime, endTime - graceperiod );
         matches = filterMatchesByTime( matches, startTime, endTime );
-        
-        // initialize event list
         let events = {};
-        dataJson.events.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson ) );
+        if(partialEvents) {
+
+            sortMatches( matches, 'asc' );
+            // If matchItem is provided, filter matches according to its value:
+            // Used for anchor calcs
+            if(matchItem) {
+                if ( matchItem !== undefined && matchItem !== null ) {
+                    const mi = Number(matchItem);
+                    if (!Number.isFinite(mi)) {
+                        // ignore non-numeric values
+                    } else if (mi === -1) {
+                        // no-op: keep all matches
+                    } else if (mi < 0) {
+                        const keep = Math.max(0, Math.abs(Math.trunc(mi)));
+                        matches = matches.slice(0, Math.min(keep, matches.length));
+                    } else { // mi >= 0 → keep first match index matches
+                        const keep = Math.max(0, Math.trunc(mi));
+                        matches = matches.slice(0, Math.min(keep, matches.length));
+                    }
+                }
+            }
+            
+            // count total matches per event in the original data and how many are kept after filtering
+            let totalMatchesByEvent = {};
+            let totalMatchesByEventTeam = {}; 
+            (earlyMatches || []).forEach(m => {
+                if (m.eventId === undefined) return;
+                totalMatchesByEvent[m.eventId] = (totalMatchesByEvent[m.eventId] || 0) + 1;
+                if (!totalMatchesByEventTeam[m.eventId]) totalMatchesByEventTeam[m.eventId] = {};
+                const et = totalMatchesByEventTeam[m.eventId];
+                if (m.team1Id) et[m.team1Id] = (et[m.team1Id] || 0) + 1;
+                if (m.team2Id) et[m.team2Id] = (et[m.team2Id] || 0) + 1;
+            });
+
+            let usedMatchesByEvent = {};
+            let usedMatchesByEventTeam = {}; 
+            (matches || []).forEach(m => {
+                if (m.eventId === undefined) return;
+                usedMatchesByEvent[m.eventId] = (usedMatchesByEvent[m.eventId] || 0) + 1;
+                if (!usedMatchesByEventTeam[m.eventId]) usedMatchesByEventTeam[m.eventId] = {};
+                const et = usedMatchesByEventTeam[m.eventId];
+                if (m.team1Id) et[m.team1Id] = (et[m.team1Id] || 0) + 1;
+                if (m.team2Id) et[m.team2Id] = (et[m.team2Id] || 0) + 1;
+            });
+
+            // initialize event list
+            dataJson.events.forEach( eventJson => {
+                const total = totalMatchesByEvent[eventJson.eventId] || 0;
+                const used = usedMatchesByEvent[eventJson.eventId] || 0;
+                const partial = (total > 0 && used !== total);
+
+                // Build per-team usage map: { teamId: { used, total } }
+                const teamUsageMap = {};
+                const totalTeams = totalMatchesByEventTeam[eventJson.eventId] || {};
+                const usedTeams  = usedMatchesByEventTeam[eventJson.eventId]  || {};
+                const allTeamIds = new Set([
+                    ...Object.keys(totalTeams),
+                    ...eventJson.prizeDistribution.map(t => t.teamId)
+                ]);
+                allTeamIds.forEach(teamId => {
+                    teamUsageMap[teamId] = {
+                        used:  usedTeams[teamId]  || 0,
+                        total: totalTeams[teamId] || 0
+                    };
+                });
+
+                const ev = new Event( eventJson, partial, -1, teamUsageMap, maxLimit );
+                events[eventJson.eventId] = ev;
+            } );
+        } else {
+            // init event list
+            dataJson.events.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson, false, endTime ) );
+        }
+        
 
         // link the prize pool of events that are connected (e.g., winning in event A qualifies a roster to participate in event B)        
         let getLinkedPrizePool = function( id, counter = 0, prizePool = 0 ) {
@@ -289,7 +394,7 @@ class DataLoader
         // most recent match for a particular roster as the 'base' roster for that team.
         sortMatches( matches, 'desc' );
 
-        let teams = initTeams( matches, events, this.rankingContext );
+        let teams = initTeams( matches, events, this.rankingContext, constants, globalMatches );
 
         // For processing the games and calculating ratings, we will go in forward order in time.  This
         // also has the effect of making sure that recent data is considered the most strongly, and also

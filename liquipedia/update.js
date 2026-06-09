@@ -110,6 +110,7 @@ function formatMatch(match) {
     forfeited: match.walkover == "ff",
     valveRanked: true,
     lan: match.type == "Offline",
+    hltvLink: extractHltvLink(match.links),
   };
 }
 
@@ -142,6 +143,19 @@ function groupMatchesByEventLan(matches) {
     groups[key].push(match);
   }
   return groups;
+}
+
+function extractHltvLink(links) {
+  if (!links?.hltv) return null;
+
+  for (const entry of Object.values(links.hltv)) {
+    for (const val of Object.values(entry)) {
+      if (typeof val === "string" && val.toLowerCase().includes("hltv")) {
+        return val;
+      }
+    }
+  }
+  return null;
 }
 
 function extractEventsFromMatches(matches) {
@@ -454,6 +468,21 @@ async function updateData() {
   const filteredEvents = finalEvents.filter(
     (e) => !blockedEvents.has(e.eventId) && e.finished
   );
+
+  // Sort by matchStartTime, then matchId 
+  filteredMatches.sort((a, b) => {
+    if (a.matchStartTime !== b.matchStartTime) return a.matchStartTime - b.matchStartTime;
+    return a.matchId.localeCompare(b.matchId);
+  });
+
+  // Ensure startTimes are unique
+  const seenTimestamps = new Set();
+  for (const match of filteredMatches) {
+    let ts = match.matchStartTime;
+    while (seenTimestamps.has(ts)) ts++;
+    seenTimestamps.add(ts);
+    match.matchStartTime = ts;
+  }
 
   fs.writeFileSync(
     MATCHDATA_PATH,

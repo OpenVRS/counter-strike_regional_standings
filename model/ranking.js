@@ -20,14 +20,14 @@ const SEED_MODIFIER_FACTORS = {
 const MIN_SEEDED_RANK = 400;
 const MAX_SEEDED_RANK = 2000;
 
-function generateRanking( versionTimestamp = -1, filename )
+function generateRanking( versionTimestamp = -1, filename, mischiefDb, constants, matchItem, globalMatches, partialEvents, maxLimit )
 {
     // Parameters
     const rankingContext = new RankingContext;
     rankingContext.setHveMod(1).setOutlierCount(5);
 
     const dataLoader = new DataLoader( rankingContext );
-    dataLoader.loadData( versionTimestamp, filename );
+    dataLoader.loadData( versionTimestamp, filename, constants, matchItem, globalMatches, partialEvents, maxLimit );
 
     let teams = dataLoader.teams;
     let matches = dataLoader.matches;
@@ -36,32 +36,54 @@ function generateRanking( versionTimestamp = -1, filename )
     glicko.setFixedRD( 75 );        // glicko -> elo
 
     // Apply seeding
-    seedTeams( glicko, teams );
+    const seedVals = seedTeams( glicko, teams, constants );
 
     // Adjust rankings based on games played
     runMatches( glicko, matches );
     teams.forEach( team => { team.rankValue = team.glickoTeam.rank(); } );
 
     // Remove rosters with no wins from the standings
-    teams = teams.filter( t => t.distinctTeamsDefeated > 0 );
+    if(!mischiefDb) {
+        teams = teams.filter( t => t.distinctTeamsDefeated > 0 );
+    }
 
     // Determine global and regional rank for each roster
     applyRanking( teams );
 
-    return [matches,teams];
+    const vals = {
+        seedVals: {
+            minSeedValue: seedVals.minSeedValue,
+            maxSeedValue: seedVals.maxSeedValue
+        },
+        referenceVals: {
+            referenceWinnings: teams[0]?.referenceWinnings ?? null,
+            referenceOpponentCount: teams[0]?.referenceOpponentCount ?? null,
+            referenceLanWins: teams[0]?.referenceLanWins ?? null
+        }
+    };
+
+    return [matches,teams,vals, dataLoader.events];
 }
 
 //--------------------------------------------------------------------------------------------------
 //--------------------------------------------------------------------------------------------------
 // Seeding Teams
-function seedTeams( glicko, teams ) {
+function seedTeams( glicko, teams, constants ) {
     teams.forEach(team => {
         team.seedValue = calculateSeedModifierValue( team.modifiers );
     } );
 
-	// remap teams from current range to minRankValue..maxRankValue
-    let minSeedValue = Math.min( ...teams.map(t => t.seedValue ) );
-    let maxSeedValue = Math.max( ...teams.map(t => t.seedValue ) );
+    let minSeedValue;
+    let maxSeedValue;
+    if(constants) {
+        minSeedValue = constants.minSeedValue;
+        maxSeedValue = constants.maxSeedValue;
+    } else {
+        // remap teams from current range to minRankValue..maxRankValue
+        minSeedValue = Math.min( ...teams.map(t => t.seedValue ) );
+        maxSeedValue = Math.max( ...teams.map(t => t.seedValue ) );
+    }
+	
 
     teams.forEach( team => {
         team.rankValue = remapValueClamped( team.seedValue, minSeedValue, maxSeedValue, MIN_SEEDED_RANK, MAX_SEEDED_RANK );
@@ -72,6 +94,8 @@ function seedTeams( glicko, teams ) {
         // create glicko data
         team.glickoTeam = glicko.newTeam( team.rankValue );
     } );
+
+    return { minSeedValue, maxSeedValue }; 
 }
 
 function calculateSeedModifierValue( modifiers )
