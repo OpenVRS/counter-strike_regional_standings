@@ -8,7 +8,7 @@ const mischiefDb = false; //these should always be set to false
 // unless you are me, these will be of no use to you and will fail.
 // i could have a better way to forceset these to false and instead use an environment variable
 // but i dont want to mandate the package for usage.
-//node main.js "" "" "" 1777308316
+//node main.js "" "" "" 1780935041
 async function run()
 {
     let regions = [0,1,2];
