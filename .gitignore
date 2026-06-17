@@ -32,3 +32,4 @@ liquipedia13/
 liquipedia14/
 *.gexf
 liquipedia_old/
+!/liquipedia/page_template.wiki

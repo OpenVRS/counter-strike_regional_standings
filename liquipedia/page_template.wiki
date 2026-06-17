@@ -1,0 +1,42 @@
+{{{{DISPLAYTITLE:Valve Regional Standings - {date}}}}}
+{{{{VRS Navbox}}}}<br>
+===Valve's Regional Standings===
+:''For more info on [https://github.com/ValveSoftware/counter-strike_regional_standings/tree/main Valve's Regional Standings].''
+In 2023, [[Valve]] announced their own version of a team ranking which effectively acts as the seeding method (and later on direct invites) for teams at both the RMRs and Major from [[PGL/2024/Copenhagen|PGL Copenhagen 2024]] onwards.
+
+The Legend/Challenger/Contender team status was not directly used with this change, however, the top 8 teams from the RMRs in accordance to the previous Major result and Valve's Regional Standings still received a bye to the second stage of the Major while the remaining teams would start from the first stage.
+
+Following the expansion to a 32-team Major from [[BLAST/Major/2025/Austin|BLAST.tv Austin 2025]] onwards, the top 16 teams in accordance to the previous Major result and Valve's Regional Standings are directly invited to the next Major with the top 8 teams starting from Stage 3 while the next 8 would begin from Stage 2.
+
+Following the 9th of June 2025 update to the [https://github.com/ValveSoftware/counter-strike_rules_and_regs/commit/2c85d431cb4788ca7cc57854759bf4fe01c8cae3 Major Supplemental Rulebook] where MRQ's were removed, all slots at the major are now filled directly by VRS invites according to the regional assignment as determined at the previous major.
+
+Below are '''unofficial''' rankings generated using the [https://github.com/ValveSoftware/counter-strike_regional_standings VRS Model], using Liquipedia as a data source. Data collection and formatting of the below table can be accessed and modified [https://github.com/OpenVRS/counter-strike_regional_standings/blob/liquipedia/page_template.wiki here].
+
+{{{{Tabs dynamic|name1=Global|name2=Europe|name3=Americas|name4=Asia|This=1|hide-showall=true}}}}
+{{{{Tabs dynamic/tab|1}}}}
+{{{{VRSStandings
+|shouldFetch=true
+|updated={date}
+}}}}
+{{{{Tabs dynamic/tab|2}}}}
+{{{{VRSStandings
+|shouldFetch=true
+|updated={date}
+|fetchType=region
+|filterRegion=EU
+}}}}
+{{{{Tabs dynamic/tab|3}}}}
+{{{{VRSStandings
+|shouldFetch=true
+|updated={date}
+|fetchType=region
+|filterRegion=AM
+}}}}
+{{{{Tabs dynamic/tab|4}}}}
+{{{{VRSStandings
+|shouldFetch=true
+|updated={date}
+|fetchType=region
+|filterRegion=AS
+}}}}
+{{{{Tabs dynamic/end}}}}
