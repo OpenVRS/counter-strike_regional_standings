@@ -3,24 +3,35 @@
 const Ranking = require('./ranking');
 const Report = require('./report');
 const RegionList = ['Europe', 'Americas', 'Asia'];
-const mischief = false; //these should always be set to false
-const mischiefDb = false; //these should always be set to false
-// unless you are me, these will be of no use to you and will fail.
-// i could have a better way to forceset these to false and instead use an environment variable
-// but i dont want to mandate the package for usage.
-//node main.js "" "" "" 1780935041
-async function run()
-{
+async function run({
+    versionTimestampImp,
+    filenameImp = '../data/matchdata.json',
+} = {}) {
+
+    const imported = require.main !== module;
+    //const imported = true;
+    const mischief = imported ?? false; //these should always be set to false
+    const mischiefDb = imported ?? false; //these should always be set to false
+    // unless you are me, these will be of no use to you and will fail.
+    // i could have a better way to forceset these to false and instead use an environment variable
+    // but i dont want to mandate the package for usage.
+    //node main.js "" "" "" 1780935041
     let regions = [0,1,2];
     if ( process.argv[2] )
         regions = JSON.parse(process.argv[2]);
 
     let filename = '../data/matchdata.json';
+    if (filenameImp) {
+        filename = filenameImp;
+    }
     if ( process.argv[3] )
         filename = process.argv[3];
 
     // Parse matches and generate standings
     let versionTimestamp = -1;
+    if (versionTimestampImp) {
+        versionTimestamp = versionTimestampImp;
+    }
     if (process.argv[5])
         versionTimestamp = parseInt(process.argv[5], 10);
 
@@ -82,9 +93,11 @@ async function run()
     // again, if youre not me you can ignore the below.
     // if future me is reading this and has forgotten how it works, tough luck.
     if(mischiefDb) {
-        require('dotenv').config({
-            path: '../../.env'
-        });
+        if (require.main === module) {
+            require('dotenv').config({
+                path: '../../.env'
+            });
+        }
         const DB = require('../tools/db');
         const { anchorRun } = require('../tools/anchor_run');
         const { matchesRun } = require('../tools/matches_run');
@@ -107,9 +120,16 @@ async function run()
             throw err;
         }
         
-
+        return { runId };
     }
 }
 
-run();
+module.exports = { run };
+
+if (require.main === module) {
+    run().catch(err => {
+        console.error(err);
+        process.exit(1);
+    });
+}
 
