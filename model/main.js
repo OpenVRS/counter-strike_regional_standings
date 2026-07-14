@@ -15,7 +15,7 @@ async function run({
     // unless you are me, these will be of no use to you and will fail.
     // i could have a better way to forceset these to false and instead use an environment variable
     // but i dont want to mandate the package for usage.
-    //node main.js "" "" "" 1780935041
+    //node main.js "" "" "" 1783354931
     let regions = [0,1,2];
     if ( process.argv[2] )
         regions = JSON.parse(process.argv[2]);

@@ -22,21 +22,21 @@ Below are '''unofficial''' rankings generated using the [https://github.com/Valv
 {{{{VRSStandings
 |shouldFetch=true
 |updated={date}
-|fetchType=region
+|filterType=region
 |filterRegion=EU
 }}}}
 {{{{Tabs dynamic/tab|3}}}}
 {{{{VRSStandings
 |shouldFetch=true
 |updated={date}
-|fetchType=region
+|filterType=region
 |filterRegion=AM
 }}}}
 {{{{Tabs dynamic/tab|4}}}}
 {{{{VRSStandings
 |shouldFetch=true
 |updated={date}
-|fetchType=region
+|filterType=region
 |filterRegion=AS
 }}}}
 {{{{Tabs dynamic/end}}}}
