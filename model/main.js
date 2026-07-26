@@ -3,10 +3,30 @@
 const Ranking = require('./ranking');
 const Report = require('./report');
 const RegionList = ['Europe', 'Americas', 'Asia'];
+
+const RUN_TYPES = Object.freeze({
+  MAIN: "main",
+  LIVE: "live",
+  SIM: "sim",
+  USER: "user",
+  SIM_USER: "sim_user",
+  SIM_EVENT_CHOICE: "sim_event_choice",
+  LEGACY: "legacy",
+});
+
+const VALID_TYPES = Object.values(RUN_TYPES);
+
+
 async function run({
     versionTimestampImp,
     filenameImp = '../data/matchdata.json',
+    type = RUN_TYPES.LIVE,
+    chPool
 } = {}) {
+
+    if (!VALID_TYPES.includes(type)) {
+        throw new Error(`Invalid run type: ${type}. Must be one of: ${VALID_TYPES.join(', ')}`);
+    }
 
     const imported = require.main !== module;
     //const imported = true;
@@ -92,23 +112,28 @@ async function run({
     }
     // again, if youre not me you can ignore the below.
     // if future me is reading this and has forgotten how it works, tough luck.
-    if(mischiefDb) {
+     if (mischiefDb) {
         if (require.main === module) {
-            require('dotenv').config({
-                path: '../../.env'
-            });
+            require('dotenv').config({ path: '../../.env' });
         }
-        const DB = require('../tools/db');
-        const { anchorRun } = require('../tools/anchor_run');
-        const { matchesRun } = require('../tools/matches_run');
-        const { basicAnchorRun } = require('../tools/anchor_basic_worker');
 
-        const runId = await DB.saveRankingRun(teams, 'live', {
+        const createDB = require('../tools/db');
+        const createAnchorRun = require('../tools/anchor_run');
+        const createMatchesRun = require('../tools/matches_run');
+        const createBasicAnchorRun = require('../tools/anchor_basic_worker');
+
+        const DB = createDB(chPool);
+        const { anchorRun } = createAnchorRun(chPool);
+        const { matchesRun } = createMatchesRun(chPool);
+        const { basicAnchorRun } = createBasicAnchorRun(chPool);
+
+        const runId = await DB.saveRankingRun(teams, type, {
             rankingDate: strDate,
-            runName:     standings,
-            maxSeedVal:  vals.seedVals.maxSeedValue
+            runName: standings,
+            maxSeedVal: vals.seedVals.maxSeedValue
         });
         console.log('Saved run:', runId);
+
         try {
             await matchesRun(matches, versionTimestamp, filename, runId, 0);
             await anchorRun(vals, runId, 0, filename, mostRecentMatch, versionTimestamp);
@@ -116,15 +141,15 @@ async function run({
             await DB.setRunStage(runId, 1);
         } catch (err) {
             console.error("DB operation failed:", err);
-            await DB.setRunStage(runId, 3); // failed
+            await DB.setRunStage(runId, 3);
             throw err;
         }
-        
-        return { runId };
+
+        return { runId, DB };
     }
 }
 
-module.exports = { run };
+module.exports = { run, VALID_TYPES, RUN_TYPES };
 
 if (require.main === module) {
     run().catch(err => {

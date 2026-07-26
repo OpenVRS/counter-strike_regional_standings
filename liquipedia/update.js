@@ -1,4 +1,3 @@
-require("dotenv").config({ path: "../.env" });
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
@@ -75,6 +74,42 @@ function formatPlayers(players) {
       steamIds: [],
     };
   });
+}
+
+function buildRosterMap(matches) {
+  const rosterMap = new Map();
+  // Sort ascending by time so the last write for each team is the most recent full roster
+  const sorted = [...matches].sort((a, b) => a.matchStartTime - b.matchStartTime);
+
+  for (const match of sorted) {
+    if (match.team1Id && match.team1Players?.length === 5) {
+      rosterMap.set(match.team1Id, match.team1Players);
+    }
+    if (match.team2Id && match.team2Players?.length === 5) {
+      rosterMap.set(match.team2Id, match.team2Players);
+    }
+  }
+
+  return rosterMap;
+}
+
+function backfillIncompleteRosters(matchesToFill, rosterMap) {
+  for (const match of matchesToFill) {
+    if (match.team1Id && match.team1Players.length !== 5) {
+      const roster = rosterMap.get(match.team1Id);
+      if (roster) {
+        match.team1Players = roster;
+        match.team1PlayersFilled = true;
+      }
+    }
+    if (match.team2Id && match.team2Players.length !== 5) {
+      const roster = rosterMap.get(match.team2Id);
+      if (roster) {
+        match.team2Players = roster;
+        match.team2PlayersFilled = true;
+      }
+    }
+  }
 }
 
 function formatMaps(match2games) {
@@ -354,7 +389,7 @@ function applyPlacements(events, placements) {
   }
 }
 
-async function updateData() {
+async function updateData({ backfillRosters = false } = {}) {
   const oldData = JSON.parse(fs.readFileSync(MATCHDATA_PATH, "utf-8"));
   const oldMatches = oldData.matches;
   const oldEvents = oldData.events;
@@ -367,6 +402,15 @@ async function updateData() {
 
   const allNewMatches = await fetchMatches();
   const newMatches = allNewMatches.filter((m) => !oldMatchIds.has(m.matchId));
+  
+
+  // Build roster lookup from full match knwoledge,
+  // backfill any incomplete rosters on the matches being newly inserted this run
+  if (backfillRosters) {
+    const rosterMap = buildRosterMap([...oldMatches, ...newMatches]);
+    backfillIncompleteRosters(newMatches, rosterMap);
+  }
+
   const updatedMatches = [...oldMatches, ...newMatches];
 
   // Update eventId with online marker, split events in accordance to HLTV. accurate most of the time. May require some manual tinkerring
@@ -496,11 +540,38 @@ async function updateData() {
     ),
   );
 
+  if (backfillRosters) {
+    const PUBLISH_DIR = path.join(DATA_DIR, "publish");
+    const PUBLISH_PATH = path.join(PUBLISH_DIR, "matchdata.json");
+
+    fs.mkdirSync(PUBLISH_DIR, { recursive: true });
+
+    fs.writeFileSync(
+      PUBLISH_PATH,
+      JSON.stringify(
+        {
+          matches: filteredMatches,
+          events: filteredEvents,
+        },
+        null,
+        2,
+      ),
+    );
+
+    console.log(`Matchdata published for usage`);
+  }
+
   console.log(
     `Updated matchdata.json: ${newMatches.length} new matches, ${newOrUpdatedEvents.length} new/updated events`,
   );
 }
 
-updateData().catch((err) => {
-  console.error("Update failed:", err.message);
-});
+module.exports = { updateData };
+
+if (require.main === module) {
+  require("dotenv").config({ path: path.join(__dirname, "..", ".env") });
+  const backfillRosters = process.argv.includes("--backfill-rosters");
+  updateData({ backfillRosters }).catch((err) => {
+    console.error("Update failed:", err.message);
+  });
+}
