@@ -491,6 +491,7 @@ async function updateData({ backfillRosters = false } = {}) {
   const filteredSlim = slimUpdate.filter((e) => !blockedEvents.has(e.eventId));
 
   fs.writeFileSync(EVENTS_REPORT_PATH, JSON.stringify(filteredSlim, null, 2));
+  fs.chmodSync(EVENTS_REPORT_PATH, 0o664); 
 
   console.log("Updated events report saved");
 
@@ -530,15 +531,9 @@ async function updateData({ backfillRosters = false } = {}) {
 
   fs.writeFileSync(
     MATCHDATA_PATH,
-    JSON.stringify(
-      {
-        matches: filteredMatches,
-        events: filteredEvents,
-      },
-      null,
-      2,
-    ),
+    JSON.stringify({ matches: filteredMatches, events: filteredEvents }, null, 2),
   );
+  fs.chmodSync(MATCHDATA_PATH, 0o664); 
 
   if (backfillRosters) {
     const PUBLISH_DIR = path.join(DATA_DIR, "publish");
@@ -557,6 +552,7 @@ async function updateData({ backfillRosters = false } = {}) {
         2,
       ),
     );
+    fs.chmodSync(PUBLISH_PATH, 0o664); 
 
     console.log(`Matchdata published for usage`);
   }

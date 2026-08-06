@@ -8,7 +8,7 @@ const execFileAsync = promisify(execFile);
 const { run } = require("./main");
 
 async function runPython(runId) {
-    const scriptPath = path.join(__dirname, "..", "pywikibot", "bot.py");
+    const scriptPath = path.join(__dirname, "..","..", "pywikibot", "bot.py");
 
     try {
         const { stdout, stderr } = await execFileAsync("python3", [scriptPath, runId]);

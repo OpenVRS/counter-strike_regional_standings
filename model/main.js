@@ -1,5 +1,6 @@
 "use strict";
 
+const path = require("path");
 const Ranking = require('./ranking');
 const Report = require('./report');
 const RegionList = ['Europe', 'Americas', 'Asia'];
@@ -16,10 +17,12 @@ const RUN_TYPES = Object.freeze({
 
 const VALID_TYPES = Object.values(RUN_TYPES);
 
+// Anchoring for container
+const DEFAULT_MATCHDATA_PATH = path.join(__dirname, "..", "data", "matchdata.json");
 
 async function run({
     versionTimestampImp,
-    filenameImp = '../data/matchdata.json',
+    filenameImp = DEFAULT_MATCHDATA_PATH,
     type = RUN_TYPES.LIVE,
     chPool
 } = {}) {
@@ -35,7 +38,7 @@ async function run({
     // unless you are me, these will be of no use to you and will fail.
     // i could have a better way to forceset these to false and instead use an environment variable
     // but i dont want to mandate the package for usage.
-    //node main.js "" "" "" 1783354931
+    //node main.js "" "" "" 1785774864
     let regions = [0,1,2];
     if ( process.argv[2] )
         regions = JSON.parse(process.argv[2]);
