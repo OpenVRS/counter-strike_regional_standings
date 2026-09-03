@@ -149,7 +149,8 @@ function initTeams( matches, events, rankingContext ) {
 
     teams.forEach( team => { 
             team.setActiveRoster();
-            team.setPluralityRegion();
+            if ( !team.setEligibleRegion() )
+                team.setPluralityRegion();
         } );
 
     // Calculate seeding data for each team based on professional performance
