@@ -119,7 +119,7 @@ function applyRanking( teams ){
     let regions = [0,1,2];
 
     teams.forEach( t => {
-        t.satisfiesRankingCriteria = ( t.matchesPlayed >= 5 );
+        t.satisfiesRankingCriteria = ( t.matchesPlayed >= 5 && t.activeRoster.length >= 3 );
     });
 
     teams.forEach( t => {
