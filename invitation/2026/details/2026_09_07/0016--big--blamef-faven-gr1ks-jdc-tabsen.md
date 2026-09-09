@@ -6,22 +6,22 @@ Global Rank: [16](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [13]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1479.3<br />
+Final Rank Value:  1479.7<br />
 <br />
-Final Rank Value (1479.3) = Starting Rank Value (1582.2) + Head To Head Adjustments (-102.9)<br />
+Final Rank Value (1479.7) = Starting Rank Value (1582.7) + Head To Head Adjustments (-103.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.549[<sup>1</sup>](#table2)
-- Bounty Collected: 0.533[<sup>2</sup>](#table1)
-- Opponent Network: 0.407[<sup>2</sup>](#table1)
-- LAN Wins: 0.994[<sup>2</sup>](#table1)
+- Bounty Collected: 0.534[<sup>2</sup>](#table1)
+- Opponent Network: 0.410[<sup>2</sup>](#table1)
+- LAN Wins: 0.993[<sup>2</sup>](#table1)
 
-The average of these factors is 0.621<br />
+The average of these factors is 0.622<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1582.2
-- 400 + ( ( 0.621 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1582.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1582.7
+- 400 + ( ( 0.622 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1582.7
 
 
 #### Factors<br />
@@ -37,67 +37,67 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           54 |      132 | 2026-09-03 | magic             | L   | 1.000      | -            | -                | -                | -         |   -19.24 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           53 |      148 | 2026-09-02 | paiN              | W   | 1.000      | 0.143        | 0.300 (0.043)    | -                | -         |     6.93 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           52 |      164 | 2026-09-02 | Nemiga            | L   | 1.000      | -            | -                | -                | -         |   -29.14 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           51 |      786 | 2026-08-15 | Spirit            | L   | 1.000      | -            | -                | -                | -         |    -2.42 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           50 |      865 | 2026-08-13 | G2                | L   | 1.000      | -            | -                | -                | -         |    -8.24 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           49 |      898 | 2026-08-12 | Aurora            | W   | 1.000      | 1.000        | 0.413 (0.413)    | 0.425 (0.425)    | 1 (1.000) |    17.32 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           48 |      915 | 2026-08-09 | Sashi             | W   | 1.000      | 0.818        | 0.055 (0.045)    | 0.621 (0.508)    | 1 (1.000) |     6.22 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           47 |      925 | 2026-08-09 | GenOne            | W   | 0.999      | 0.818        | 0.055 (0.045)    | 1.000 (0.817)    | 1 (0.999) |     3.07 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           46 |      942 | 2026-08-09 | Eternal Fire      | W   | 0.998      | 0.818        | -                | 0.704 (0.575)    | 1 (0.998) |     1.54 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           45 |     1030 | 2026-08-07 | Fluxo             | W   | 0.985      | 0.818        | 0.065 (0.053)    | 0.485 (0.391)    | 1 (0.985) |     2.95 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           44 |     1048 | 2026-08-07 | z to forward      | W   | 0.984      | -            | -                | -                | 1 (0.984) |     0.07 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           43 |     1804 | 2026-07-10 | PARIVISION        | L   | 0.798      | -            | -                | -                | -         |   -14.73 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           42 |     1867 | 2026-07-05 | B8                | W   | 0.765      | 1.000        | 0.262 (0.200)    | 0.567 (0.434)    | 1 (0.765) |    10.60 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           41 |     1883 | 2026-07-04 | Ninjas in Pyjamas | W   | 0.758      | 1.000        | 0.196 (0.148)    | 0.424 (0.321)    | 1 (0.758) |     6.67 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           40 |     1899 | 2026-07-03 | MIBR              | L   | 0.751      | -            | -                | -                | -         |   -13.92 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           39 |     1915 | 2026-07-02 | BETBOOM           | L   | 0.745      | -            | -                | -                | -         |   -11.25 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           38 |     1930 | 2026-07-01 | Lynn Vision       | W   | 0.739      | 1.000        | 0.205 (0.152)    | 0.328 (0.242)    | 1 (0.739) |     5.22 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           37 |     2345 | 2026-06-09 | B8                | L   | 0.593      | -            | -                | -                | -         |   -10.08 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           36 |     2367 | 2026-06-08 | G2                | L   | 0.587      | -            | -                | -                | -         |    -4.86 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           35 |     2397 | 2026-06-07 | MIBR              | W   | 0.579      | 0.809        | 0.207 (0.097)    | 0.456 (0.214)    | 1 (0.579) |     7.03 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           34 |     2417 | 2026-06-06 | paiN              | W   | 0.573      | 0.809        | 0.300 (0.139)    | 0.318 (0.147)    | -         |     4.31 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           33 |     2427 | 2026-06-06 | Luminosity        | L   | 0.572      | -            | -                | -                | -         |   -15.20 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           32 |     2445 | 2026-06-05 | NRG               | W   | 0.567      | -            | -                | -                | -         |     1.82 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           31 |     2472 | 2026-06-04 | GamerLegion       | L   | 0.559      | -            | -                | -                | -         |   -11.72 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           30 |     2500 | 2026-06-03 | THUNDER dOWNUNDER | W   | 0.552      | -            | -                | -                | -         |     0.90 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           29 |     2513 | 2026-06-02 | Gaimin Gladiators | W   | 0.547      | -            | -                | -                | -         |     0.18 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           28 |     2524 | 2026-06-02 | Liquid            | L   | 0.545      | -            | -                | -                | -         |   -10.80 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           27 |     3765 | 2026-04-27 | Nemiga            | L   | 0.305      | -            | -                | -                | -         |    -9.21 | blameF, faveN, gr1ks, prosus, tabseN |
-|           26 |     3838 | 2026-04-26 | SPARTA            | W   | 0.297      | -            | -                | -                | -         |     0.21 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           25 |     3854 | 2026-04-25 | Ninjas in Pyjamas | L   | 0.294      | -            | -                | -                | -         |    -7.39 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           24 |     3910 | 2026-04-25 | DENDELE           | W   | 0.291      | -            | -                | -                | -         |     2.04 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           23 |     3950 | 2026-04-24 | HEROIC            | L   | 0.286      | -            | -                | -                | -         |    -6.83 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           22 |     3959 | 2026-04-24 | Acend             | W   | 0.284      | -            | -                | -                | -         |     1.96 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           21 |     3979 | 2026-04-23 | 100 Thieves       | W   | 0.280      | -            | -                | -                | -         |     2.63 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           20 |     4243 | 2026-04-10 | Nemesis           | L   | 0.193      | -            | -                | -                | -         |    -5.62 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           19 |     4251 | 2026-04-10 | PsychoFace        | W   | 0.191      | -            | -                | -                | -         |     0.17 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           18 |     4271 | 2026-04-09 | Black Phoenix     | W   | 0.186      | -            | -                | -                | -         |     0.12 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           17 |     4291 | 2026-04-08 | Bebop             | W   | 0.180      | -            | -                | -                | -         |     0.06 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           16 |     4392 | 2026-04-05 | FaZe              | W   | 0.160      | -            | -                | -                | -         |     2.67 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           15 |     4403 | 2026-04-05 | magic             | W   | 0.159      | -            | -                | -                | -         |     1.18 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           14 |     4417 | 2026-04-05 | ex-Zero Tenacity  | W   | 0.158      | -            | -                | -                | -         |     0.12 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           13 |     4461 | 2026-04-04 | Betclic           | W   | 0.154      | -            | -                | -                | -         |     0.07 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           12 |     4473 | 2026-04-04 | Luminous          | W   | 0.153      | -            | -                | -                | -         |     0.01 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           11 |     5017 | 2026-03-29 | OG                | L   | 0.112      | -            | -                | -                | -         |    -3.38 | blameF, faveN, gr1ks, JDC, tabseN    |
-|           10 |     5023 | 2026-03-29 | SINNERS           | W   | 0.111      | -            | -                | -                | -         |     0.22 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            9 |     5032 | 2026-03-29 | JiJieHao          | L   | 0.111      | -            | -                | -                | -         |    -2.40 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            8 |     5176 | 2026-03-26 | SINNERS           | L   | 0.094      | -            | -                | -                | -         |    -2.78 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            7 |     5193 | 2026-03-26 | HOTU              | W   | 0.092      | -            | -                | -                | -         |     0.93 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            6 |     5216 | 2026-03-25 | Iberian Soul      | W   | 0.087      | -            | -                | -                | -         |     0.21 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            5 |     5231 | 2026-03-25 | MOUZ NXT          | W   | 0.086      | -            | -                | -                | -         |     0.01 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            4 |     5525 | 2026-03-20 | K27               | L   | 0.053      | -            | -                | -                | -         |    -1.15 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            3 |     5550 | 2026-03-20 | FAVBET            | W   | 0.051      | -            | -                | -                | -         |     0.01 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            2 |     5574 | 2026-03-19 | CYBERSHOKE        | W   | 0.047      | -            | -                | -                | -         |     0.02 | blameF, faveN, gr1ks, JDC, tabseN    |
-|            1 |     5612 | 2026-03-18 | ex-Zero Tenacity  | W   | 0.040      | -            | -                | -                | -         |     0.03 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           54 |      104 | 2026-09-03 | magic             | L   | 1.000      | -            | -                | -                | -         |   -19.16 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           53 |      120 | 2026-09-02 | paiN              | W   | 1.000      | 0.143        | 0.300 (0.043)    | -                | -         |     6.99 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           52 |      136 | 2026-09-02 | Nemiga            | L   | 1.000      | -            | -                | -                | -         |   -29.13 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           51 |      758 | 2026-08-15 | Spirit            | L   | 1.000      | -            | -                | -                | -         |    -2.43 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           50 |      837 | 2026-08-13 | G2                | L   | 1.000      | -            | -                | -                | -         |    -8.25 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           49 |      870 | 2026-08-12 | Aurora            | W   | 1.000      | 1.000        | 0.415 (0.415)    | 0.427 (0.427)    | 1 (1.000) |    17.39 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           48 |      887 | 2026-08-09 | Sashi             | W   | 1.000      | 0.818        | 0.055 (0.045)    | 0.623 (0.510)    | 1 (1.000) |     6.24 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           47 |      897 | 2026-08-09 | GenOne            | W   | 1.000      | 0.818        | 0.055 (0.045)    | 1.000 (0.818)    | 1 (1.000) |     3.09 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           46 |      914 | 2026-08-09 | Eternal Fire      | W   | 1.000      | 0.818        | -                | 0.705 (0.577)    | 1 (1.000) |     1.55 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           45 |     1002 | 2026-08-07 | Fluxo             | W   | 0.990      | 0.818        | 0.065 (0.053)    | 0.486 (0.394)    | 1 (0.990) |     2.97 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           44 |     1020 | 2026-08-07 | z to forward      | W   | 0.990      | -            | -                | -                | 1 (0.990) |     0.07 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           43 |     1776 | 2026-07-10 | PARIVISION        | L   | 0.803      | -            | -                | -                | -         |   -14.73 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           42 |     1839 | 2026-07-05 | B8                | W   | 0.770      | 1.000        | 0.263 (0.202)    | 0.570 (0.439)    | 1 (0.770) |    10.71 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           41 |     1855 | 2026-07-04 | Ninjas in Pyjamas | W   | 0.763      | 1.000        | 0.196 (0.149)    | 0.424 (0.324)    | 1 (0.763) |     6.77 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           40 |     1871 | 2026-07-03 | MIBR              | L   | 0.757      | -            | -                | -                | -         |   -13.93 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           39 |     1887 | 2026-07-02 | BETBOOM           | L   | 0.751      | -            | -                | -                | -         |   -11.21 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           38 |     1902 | 2026-07-01 | Lynn Vision       | W   | 0.745      | 1.000        | 0.205 (0.153)    | 0.330 (0.246)    | 1 (0.745) |     5.31 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           37 |     2317 | 2026-06-09 | B8                | L   | 0.599      | -            | -                | -                | -         |   -10.13 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           36 |     2339 | 2026-06-08 | G2                | L   | 0.592      | -            | -                | -                | -         |    -4.90 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           35 |     2369 | 2026-06-07 | MIBR              | W   | 0.584      | 0.809        | 0.208 (0.098)    | 0.457 (0.216)    | 1 (0.584) |     7.17 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           34 |     2389 | 2026-06-06 | paiN              | W   | 0.578      | 0.809        | 0.300 (0.140)    | 0.320 (0.150)    | -         |     4.41 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           33 |     2399 | 2026-06-06 | Luminosity        | L   | 0.577      | -            | -                | -                | -         |   -15.30 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           32 |     2417 | 2026-06-05 | NRG               | W   | 0.572      | -            | -                | -                | -         |     1.86 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           31 |     2444 | 2026-06-04 | GamerLegion       | L   | 0.565      | -            | -                | -                | -         |   -11.77 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           30 |     2472 | 2026-06-03 | THUNDER dOWNUNDER | W   | 0.557      | -            | -                | -                | -         |     0.92 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           29 |     2485 | 2026-06-02 | Gaimin Gladiators | W   | 0.552      | -            | -                | -                | -         |     0.19 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           28 |     2496 | 2026-06-02 | Liquid            | L   | 0.551      | -            | -                | -                | -         |   -10.87 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           27 |     3737 | 2026-04-27 | Nemiga            | L   | 0.310      | -            | -                | -                | -         |    -9.37 | blameF, faveN, gr1ks, prosus, tabseN |
+|           26 |     3810 | 2026-04-26 | SPARTA            | W   | 0.303      | -            | -                | -                | -         |     0.21 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           25 |     3826 | 2026-04-25 | Ninjas in Pyjamas | L   | 0.300      | -            | -                | -                | -         |    -7.52 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           24 |     3882 | 2026-04-25 | DENDELE           | W   | 0.296      | -            | -                | -                | -         |     2.10 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           23 |     3922 | 2026-04-24 | HEROIC            | L   | 0.291      | -            | -                | -                | -         |    -6.95 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           22 |     3931 | 2026-04-24 | Acend             | W   | 0.289      | -            | -                | -                | -         |     2.01 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           21 |     3951 | 2026-04-23 | 100 Thieves       | W   | 0.285      | -            | -                | -                | -         |     2.68 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           20 |     4215 | 2026-04-10 | Nemesis           | L   | 0.198      | -            | -                | -                | -         |    -5.78 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           19 |     4223 | 2026-04-10 | PsychoFace        | W   | 0.197      | -            | -                | -                | -         |     0.17 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           18 |     4243 | 2026-04-09 | Black Phoenix     | W   | 0.191      | -            | -                | -                | -         |     0.12 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           17 |     4263 | 2026-04-08 | Bebop             | W   | 0.186      | -            | -                | -                | -         |     0.06 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           16 |     4364 | 2026-04-05 | FaZe              | W   | 0.166      | -            | -                | -                | -         |     2.76 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           15 |     4375 | 2026-04-05 | magic             | W   | 0.165      | -            | -                | -                | -         |     1.23 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           14 |     4389 | 2026-04-05 | ex-Zero Tenacity  | W   | 0.164      | -            | -                | -                | -         |     0.12 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           13 |     4433 | 2026-04-04 | Betclic           | W   | 0.159      | -            | -                | -                | -         |     0.07 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           12 |     4445 | 2026-04-04 | Luminous          | W   | 0.158      | -            | -                | -                | -         |     0.01 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           11 |     4989 | 2026-03-29 | OG                | L   | 0.117      | -            | -                | -                | -         |    -3.54 | blameF, faveN, gr1ks, JDC, tabseN    |
+|           10 |     4995 | 2026-03-29 | SINNERS           | W   | 0.117      | -            | -                | -                | -         |     0.24 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            9 |     5004 | 2026-03-29 | JiJieHao          | L   | 0.116      | -            | -                | -                | -         |    -2.53 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            8 |     5148 | 2026-03-26 | SINNERS           | L   | 0.099      | -            | -                | -                | -         |    -2.94 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            7 |     5165 | 2026-03-26 | HOTU              | W   | 0.097      | -            | -                | -                | -         |     0.98 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            6 |     5188 | 2026-03-25 | Iberian Soul      | W   | 0.093      | -            | -                | -                | -         |     0.23 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            5 |     5203 | 2026-03-25 | MOUZ NXT          | W   | 0.092      | -            | -                | -                | -         |     0.02 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            4 |     5497 | 2026-03-20 | K27               | L   | 0.059      | -            | -                | -                | -         |    -1.26 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            3 |     5522 | 2026-03-20 | FAVBET            | W   | 0.057      | -            | -                | -                | -         |     0.01 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            2 |     5546 | 2026-03-19 | CYBERSHOKE        | W   | 0.052      | -            | -                | -                | -         |     0.03 | blameF, faveN, gr1ks, JDC, tabseN    |
+|            1 |     5584 | 2026-03-18 | ex-Zero Tenacity  | W   | 0.046      | -            | -                | -                | -         |     0.03 | blameF, faveN, gr1ks, JDC, tabseN    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($75,591.27)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($76,217.06)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.15) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -105,14 +105,14 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-08-23 |      1.000 | $20,000.00     | $20,000.00      |
-| 2026-07-12 |      0.811 | $50,000.00     | $40,553.14      |
-| 2026-06-09 |      0.593 | $10,000.00     | $5,933.16       |
-| 2026-04-27 |      0.306 | $5,000.00      | $1,529.66       |
-| 2026-04-26 |      0.300 | $7,500.00      | $2,250.87       |
-| 2026-04-10 |      0.193 | $10,000.00     | $1,928.14       |
-| 2026-04-05 |      0.160 | $12,000.00     | $1,923.88       |
-| 2026-03-26 |      0.094 | $10,000.00     | $937.84         |
-| 2026-03-20 |      0.053 | $10,000.00     | $534.59         |
+| 2026-07-12 |      0.817 | $50,000.00     | $40,826.42      |
+| 2026-06-09 |      0.599 | $10,000.00     | $5,987.81       |
+| 2026-04-27 |      0.311 | $5,000.00      | $1,556.99       |
+| 2026-04-26 |      0.306 | $7,500.00      | $2,291.86       |
+| 2026-04-10 |      0.198 | $10,000.00     | $1,982.79       |
+| 2026-04-05 |      0.166 | $12,000.00     | $1,989.46       |
+| 2026-03-26 |      0.099 | $10,000.00     | $992.49         |
+| 2026-03-20 |      0.059 | $10,000.00     | $589.24         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

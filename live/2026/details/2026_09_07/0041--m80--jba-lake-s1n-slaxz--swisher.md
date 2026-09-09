@@ -6,22 +6,22 @@ Global Rank: [41](../../standings_global_2026_09_07.md)<br />
 Region: [Americas]( ../../standings_americas_2026_09_07.md)<br />
 Regional Rank: [7]( ../../standings_americas_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1267.3<br />
+Final Rank Value:  1269.5<br />
 <br />
-Final Rank Value (1267.3) = Starting Rank Value (1213.4) + Head To Head Adjustments (53.9)<br />
+Final Rank Value (1269.5) = Starting Rank Value (1215.3) + Head To Head Adjustments (54.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.531[<sup>1</sup>](#table2)
-- Bounty Collected: 0.509[<sup>2</sup>](#table1)
-- Opponent Network: 0.156[<sup>2</sup>](#table1)
-- LAN Wins: 0.513[<sup>2</sup>](#table1)
+- Bounty Collected: 0.510[<sup>2</sup>](#table1)
+- Opponent Network: 0.157[<sup>2</sup>](#table1)
+- LAN Wins: 0.516[<sup>2</sup>](#table1)
 
-The average of these factors is 0.427<br />
+The average of these factors is 0.428<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1213.4
-- 400 + ( ( 0.427 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1213.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1215.3
+- 400 + ( ( 0.428 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1215.3
 
 
 #### Factors<br />
@@ -37,51 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |      299 | 2026-08-30 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -5.26 | JBa, Lake, s1n, slaxz-, Swisher |
-|           37 |      384 | 2026-08-28 | FURIA             | L   | 1.000      | -            | -                | -                | -         |    -1.83 | JBa, Lake, s1n, slaxz-, Swisher |
-|           36 |      481 | 2026-08-26 | Natus Vincere     | W   | 1.000      | 1.000        | 0.637 (0.637)    | 0.255 (0.255)    | 1 (1.000) |    27.31 | JBa, Lake, s1n, slaxz-, Swisher |
-|           35 |      866 | 2026-08-13 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -4.89 | JBa, Lake, s1n, slaxz-, Swisher |
-|           34 |      892 | 2026-08-12 | G2                | L   | 1.000      | -            | -                | -                | -         |    -2.29 | JBa, Lake, s1n, slaxz-, Swisher |
-|           33 |     1556 | 2026-07-21 | Ninjas in Pyjamas | L   | 0.871      | -            | -                | -                | -         |   -11.59 | JBa, Lake, s1n, slaxz-, Swisher |
-|           32 |     1775 | 2026-07-11 | Voca              | W   | 0.808      | 0.769        | 0.030 (0.018)    | 0.375 (0.233)    | -         |     2.57 | JBa, Lake, s1n, slaxz-, Swisher |
-|           31 |     1792 | 2026-07-10 | LAG               | W   | 0.801      | 0.769        | -                | 0.357 (0.220)    | -         |     4.01 | JBa, Lake, s1n, slaxz-, Swisher |
-|           30 |     1821 | 2026-07-09 | WINNERS           | W   | 0.793      | -            | -                | -                | -         |     0.20 | JBa, Lake, s1n, slaxz-, Swisher |
-|           29 |     2364 | 2026-06-08 | Legacy            | L   | 0.587      | -            | -                | -                | -         |    -0.87 | JBa, Lake, s1n, slaxz-, Swisher |
-|           28 |     2395 | 2026-06-07 | BETBOOM           | L   | 0.579      | -            | -                | -                | -         |    -3.93 | JBa, Lake, s1n, slaxz-, Swisher |
-|           27 |     2410 | 2026-06-06 | B8                | W   | 0.573      | 0.809        | 0.262 (0.121)    | 0.567 (0.263)    | 1 (0.573) |    14.24 | JBa, Lake, s1n, slaxz-, Swisher |
-|           26 |     2428 | 2026-06-06 | G2                | L   | 0.572      | -            | -                | -                | -         |    -1.23 | JBa, Lake, s1n, slaxz-, Swisher |
-|           25 |     2468 | 2026-06-04 | NRG               | W   | 0.560      | 0.624        | 0.028 (0.010)    | 0.356 (0.125)    | 1 (0.560) |     6.53 | JBa, Lake, s1n, slaxz-, Swisher |
-|           24 |     2488 | 2026-06-03 | B8                | L   | 0.553      | -            | -                | -                | -         |    -3.53 | JBa, Lake, s1n, slaxz-, Swisher |
-|           23 |     2515 | 2026-06-02 | DENDELE           | W   | 0.546      | 0.624        | 0.130 (0.044)    | 0.407 (0.139)    | 1 (0.546) |    11.30 | JBa, Lake, s1n, slaxz-, Swisher |
-|           22 |     2532 | 2026-06-02 | Lynn Vision       | W   | 0.544      | 0.624        | 0.205 (0.070)    | 0.328 (0.111)    | 1 (0.544) |    10.31 | JBa, Lake, s1n, slaxz-, Swisher |
-|           21 |     2667 | 2026-05-28 | Voca              | W   | 0.516      | -            | -                | -                | -         |     1.83 | JBa, Lake, s1n, slaxz-, Swisher |
-|           20 |     2754 | 2026-05-26 | Iowa Stormboar    | W   | 0.502      | -            | -                | -                | -         |     0.15 | JBa, Lake, s1n, slaxz-, Swisher |
-|           19 |     3000 | 2026-05-21 | MOUZ              | L   | 0.465      | -            | -                | -                | -         |    -0.31 | JBa, Lake, s1n, slaxz-, Swisher |
-|           18 |     3040 | 2026-05-20 | Falcons           | L   | 0.458      | -            | -                | -                | -         |    -0.32 | JBa, Lake, s1n, slaxz-, Swisher |
-|           17 |     3046 | 2026-05-20 | paiN              | W   | 0.457      | 1.000        | 0.300 (0.137)    | 0.318 (0.145)    | 1 (0.457) |     9.19 | JBa, Lake, s1n, slaxz-, Swisher |
-|           16 |     3237 | 2026-05-12 | Liquid            | L   | 0.409      | -            | -                | -                | -         |    -2.57 | JBa, Lake, s1n, slaxz-, Swisher |
-|           15 |     3279 | 2026-05-11 | Legacy            | L   | 0.402      | -            | -                | -                | -         |    -0.41 | JBa, Lake, s1n, slaxz-, Swisher |
-|           14 |     3470 | 2026-05-03 | Wildcard          | W   | 0.349      | 0.354        | 0.138 (0.017)    | 0.234 (0.029)    | -         |     3.79 | JBa, Lake, s1n, slaxz-, Swisher |
-|           13 |     3475 | 2026-05-03 | Zomblers          | W   | 0.348      | -            | -                | -                | -         |     0.55 | JBa, Lake, s1n, slaxz-, Swisher |
-|           12 |     3514 | 2026-05-02 | Incognito         | W   | 0.340      | -            | -                | -                | -         |     0.20 | JBa, Lake, s1n, slaxz-, Swisher |
-|           11 |     3846 | 2026-04-25 | Marsborne         | L   | 0.296      | -            | -                | -                | -         |    -8.18 | JBa, Lake, s1n, slaxz-, Swisher |
-|           10 |     3863 | 2026-04-25 | Iowa Stormboar    | W   | 0.294      | -            | -                | -                | 1 (0.294) |     0.48 | JBa, Lake, s1n, slaxz-, Swisher |
-|            9 |     3882 | 2026-04-25 | It's a Secret     | W   | 0.293      | -            | -                | -                | 1 (0.293) |     0.09 | JBa, Lake, s1n, slaxz-, Swisher |
-|            8 |     4642 | 2026-04-02 | Luminosity        | W   | 0.140      | -            | -                | -                | 1 (0.140) |     2.10 | JBa, Lake, s1n, slaxz-, Swisher |
-|            7 |     4669 | 2026-04-02 | Alliance          | W   | 0.139      | 0.354        | 0.209 (0.010)    | -                | 1 (0.139) |     3.30 | JBa, Lake, s1n, slaxz-, Swisher |
-|            6 |     4741 | 2026-04-01 | Luminosity        | L   | 0.133      | -            | -                | -                | -         |    -2.20 | JBa, Lake, s1n, slaxz-, Swisher |
-|            5 |     4809 | 2026-03-31 | Aurora            | W   | 0.127      | 0.354        | 0.413 (0.019)    | -                | -         |     3.45 | JBa, Lake, s1n, slaxz-, Swisher |
-|            4 |     4868 | 2026-03-31 | Liquid            | W   | 0.125      | -            | -                | -                | -         |     3.22 | JBa, Lake, s1n, slaxz-, Swisher |
-|            3 |     4922 | 2026-03-30 | BASEMENT BOYS     | W   | 0.119      | 0.354        | -                | 0.847 (0.036)    | -         |     1.20 | JBa, Lake, s1n, slaxz-, Swisher |
-|            2 |     5143 | 2026-03-27 | HEROIC Academy    | L   | 0.100      | -            | -                | -                | -         |    -3.00 | JBa, Lake, s1n, slaxz-, Swisher |
-|            1 |     5288 | 2026-03-24 | Johnny Speeds     | W   | 0.079      | -            | -                | -                | -         |     0.29 | JBa, Lake, s1n, slaxz-, Swisher |
+|           42 |      271 | 2026-08-30 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -5.27 | JBa, Lake, s1n, slaxz-, Swisher |
+|           41 |      356 | 2026-08-28 | FURIA             | L   | 1.000      | -            | -                | -                | -         |    -1.85 | JBa, Lake, s1n, slaxz-, Swisher |
+|           40 |      453 | 2026-08-26 | Natus Vincere     | W   | 1.000      | 1.000        | 0.644 (0.644)    | 0.256 (0.256)    | 1 (1.000) |    27.34 | JBa, Lake, s1n, slaxz-, Swisher |
+|           39 |      838 | 2026-08-13 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -4.90 | JBa, Lake, s1n, slaxz-, Swisher |
+|           38 |      864 | 2026-08-12 | G2                | L   | 1.000      | -            | -                | -                | -         |    -2.32 | JBa, Lake, s1n, slaxz-, Swisher |
+|           37 |     1528 | 2026-07-21 | Ninjas in Pyjamas | L   | 0.877      | -            | -                | -                | -         |   -11.69 | JBa, Lake, s1n, slaxz-, Swisher |
+|           36 |     1747 | 2026-07-11 | Voca              | W   | 0.814      | 0.769        | 0.030 (0.019)    | 0.377 (0.236)    | -         |     2.60 | JBa, Lake, s1n, slaxz-, Swisher |
+|           35 |     1764 | 2026-07-10 | LAG               | W   | 0.807      | 0.769        | -                | 0.360 (0.223)    | -         |     3.96 | JBa, Lake, s1n, slaxz-, Swisher |
+|           34 |     1793 | 2026-07-09 | WINNERS           | W   | 0.799      | -            | -                | -                | -         |     0.20 | JBa, Lake, s1n, slaxz-, Swisher |
+|           33 |     2336 | 2026-06-08 | Legacy            | L   | 0.592      | -            | -                | -                | -         |    -0.90 | JBa, Lake, s1n, slaxz-, Swisher |
+|           32 |     2367 | 2026-06-07 | BETBOOM           | L   | 0.584      | -            | -                | -                | -         |    -3.95 | JBa, Lake, s1n, slaxz-, Swisher |
+|           31 |     2382 | 2026-06-06 | B8                | W   | 0.579      | 0.809        | 0.263 (0.123)    | 0.570 (0.267)    | 1 (0.579) |    14.36 | JBa, Lake, s1n, slaxz-, Swisher |
+|           30 |     2400 | 2026-06-06 | G2                | L   | 0.577      | -            | -                | -                | -         |    -1.26 | JBa, Lake, s1n, slaxz-, Swisher |
+|           29 |     2440 | 2026-06-04 | NRG               | W   | 0.565      | 0.624        | 0.028 (0.010)    | 0.358 (0.126)    | 1 (0.565) |     6.60 | JBa, Lake, s1n, slaxz-, Swisher |
+|           28 |     2460 | 2026-06-03 | B8                | L   | 0.559      | -            | -                | -                | -         |    -3.57 | JBa, Lake, s1n, slaxz-, Swisher |
+|           27 |     2487 | 2026-06-02 | DENDELE           | W   | 0.552      | 0.624        | 0.130 (0.045)    | 0.409 (0.141)    | 1 (0.552) |    11.41 | JBa, Lake, s1n, slaxz-, Swisher |
+|           26 |     2504 | 2026-06-02 | Lynn Vision       | W   | 0.550      | 0.624        | 0.205 (0.070)    | 0.330 (0.113)    | 1 (0.550) |    10.42 | JBa, Lake, s1n, slaxz-, Swisher |
+|           25 |     2639 | 2026-05-28 | Voca              | W   | 0.521      | -            | -                | -                | -         |     1.87 | JBa, Lake, s1n, slaxz-, Swisher |
+|           24 |     2726 | 2026-05-26 | Iowa Stormboar    | W   | 0.507      | -            | -                | -                | -         |     0.15 | JBa, Lake, s1n, slaxz-, Swisher |
+|           23 |     2972 | 2026-05-21 | MOUZ              | L   | 0.470      | -            | -                | -                | -         |    -0.31 | JBa, Lake, s1n, slaxz-, Swisher |
+|           22 |     3012 | 2026-05-20 | Falcons           | L   | 0.464      | -            | -                | -                | -         |    -0.33 | JBa, Lake, s1n, slaxz-, Swisher |
+|           21 |     3018 | 2026-05-20 | paiN              | W   | 0.462      | 1.000        | 0.300 (0.139)    | 0.320 (0.148)    | 1 (0.462) |     9.32 | JBa, Lake, s1n, slaxz-, Swisher |
+|           20 |     3209 | 2026-05-12 | Liquid            | L   | 0.414      | -            | -                | -                | -         |    -2.61 | JBa, Lake, s1n, slaxz-, Swisher |
+|           19 |     3251 | 2026-05-11 | Legacy            | L   | 0.407      | -            | -                | -                | -         |    -0.42 | JBa, Lake, s1n, slaxz-, Swisher |
+|           18 |     3442 | 2026-05-03 | Wildcard          | W   | 0.355      | 0.354        | 0.138 (0.017)    | 0.237 (0.030)    | -         |     3.87 | JBa, Lake, s1n, slaxz-, Swisher |
+|           17 |     3447 | 2026-05-03 | Zomblers          | W   | 0.353      | -            | -                | -                | -         |     0.55 | JBa, Lake, s1n, slaxz-, Swisher |
+|           16 |     3486 | 2026-05-02 | Incognito         | W   | 0.346      | -            | -                | -                | -         |     0.20 | JBa, Lake, s1n, slaxz-, Swisher |
+|           15 |     3818 | 2026-04-25 | Marsborne         | L   | 0.302      | -            | -                | -                | -         |    -8.34 | JBa, Lake, s1n, slaxz-, Swisher |
+|           14 |     3835 | 2026-04-25 | Iowa Stormboar    | W   | 0.299      | -            | -                | -                | 1 (0.299) |     0.48 | JBa, Lake, s1n, slaxz-, Swisher |
+|           13 |     3854 | 2026-04-25 | It's a Secret     | W   | 0.299      | -            | -                | -                | 1 (0.299) |     0.09 | JBa, Lake, s1n, slaxz-, Swisher |
+|           12 |     4614 | 2026-04-02 | Luminosity        | W   | 0.146      | -            | -                | -                | 1 (0.146) |     2.19 | JBa, Lake, s1n, slaxz-, Swisher |
+|           11 |     4641 | 2026-04-02 | Alliance          | W   | 0.144      | 0.354        | 0.209 (0.011)    | -                | 1 (0.144) |     3.42 | JBa, Lake, s1n, slaxz-, Swisher |
+|           10 |     4713 | 2026-04-01 | Luminosity        | L   | 0.139      | -            | -                | -                | -         |    -2.28 | JBa, Lake, s1n, slaxz-, Swisher |
+|            9 |     4781 | 2026-03-31 | Aurora            | W   | 0.133      | 0.354        | 0.415 (0.019)    | -                | -         |     3.60 | JBa, Lake, s1n, slaxz-, Swisher |
+|            8 |     4840 | 2026-03-31 | Liquid            | W   | 0.130      | -            | -                | -                | -         |     3.37 | JBa, Lake, s1n, slaxz-, Swisher |
+|            7 |     4894 | 2026-03-30 | BASEMENT BOYS     | W   | 0.125      | 0.354        | -                | 0.653 (0.029)    | -         |     1.15 | JBa, Lake, s1n, slaxz-, Swisher |
+|            6 |     5115 | 2026-03-27 | HEROIC Academy    | L   | 0.105      | -            | -                | -                | -         |    -3.16 | JBa, Lake, s1n, slaxz-, Swisher |
+|            5 |     5260 | 2026-03-24 | Johnny Speeds     | W   | 0.084      | -            | -                | -                | -         |     0.32 | JBa, Lake, s1n, slaxz-, Swisher |
+|            4 |     5874 | 2026-03-12 | RBLS              | L   | 0.005      | -            | -                | -                | -         |    -0.13 | JBa, Lake, s1n, slaxz-, Swisher |
+|            3 |     5879 | 2026-03-12 | JiJieHao          | L   | 0.004      | -            | -                | -                | -         |    -0.03 | JBa, Lake, s1n, slaxz-, Swisher |
+|            2 |     5889 | 2026-03-12 | 9INE              | W   | 0.003      | -            | -                | -                | -         |     0.03 | JBa, Lake, s1n, slaxz-, Swisher |
+|            1 |     5895 | 2026-03-12 | NIC               | W   | 0.003      | -            | -                | -                | -         |     0.00 | JBa, Lake, s1n, slaxz-, Swisher |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($65,773.33)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($66,041.13)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.13) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -90,13 +94,13 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2026-09-06 |      1.000 | $32,500.00     | $32,500.00      |
 | 2026-08-23 |      1.000 | $10,000.00     | $10,000.00      |
-| 2026-07-26 |      0.907 | $7,500.00      | $6,799.39       |
-| 2026-06-09 |      0.593 | $10,000.00     | $5,933.16       |
-| 2026-05-24 |      0.484 | $10,000.00     | $4,840.70       |
-| 2026-05-17 |      0.441 | $4,000.00      | $1,762.13       |
-| 2026-05-03 |      0.349 | $7,500.00      | $2,620.88       |
-| 2026-04-02 |      0.140 | $7,500.00      | $1,050.80       |
-| 2026-03-28 |      0.107 | $2,500.00      | $266.26         |
+| 2026-07-26 |      0.912 | $7,500.00      | $6,840.38       |
+| 2026-06-09 |      0.599 | $10,000.00     | $5,987.81       |
+| 2026-05-24 |      0.490 | $10,000.00     | $4,895.36       |
+| 2026-05-17 |      0.446 | $4,000.00      | $1,783.99       |
+| 2026-05-03 |      0.355 | $7,500.00      | $2,661.88       |
+| 2026-04-02 |      0.146 | $7,500.00      | $1,091.79       |
+| 2026-03-28 |      0.112 | $2,500.00      | $279.92         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

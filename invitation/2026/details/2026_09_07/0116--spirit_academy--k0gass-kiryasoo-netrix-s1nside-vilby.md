@@ -6,22 +6,22 @@ Global Rank: [116](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [89]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  875.1<br />
+Final Rank Value:  874.2<br />
 <br />
-Final Rank Value (875.1) = Starting Rank Value (857.1) + Head To Head Adjustments (18.0)<br />
+Final Rank Value (874.2) = Starting Rank Value (856.0) + Head To Head Adjustments (18.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.306[<sup>1</sup>](#table2)
 - Bounty Collected: 0.261[<sup>2</sup>](#table1)
 - Opponent Network: 0.072[<sup>2</sup>](#table1)
-- LAN Wins: 0.321[<sup>2</sup>](#table1)
+- LAN Wins: 0.320[<sup>2</sup>](#table1)
 
 The average of these factors is 0.240<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 857.1
-- 400 + ( ( 0.240 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 857.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 856.0
+- 400 + ( ( 0.240 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 856.0
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      296 | 2026-08-30 | ex-RUSTEC       | L   | 1.000      | -            | -                | -                | -         |   -11.59 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|           13 |      331 | 2026-08-29 | DONSTU          | W   | 1.000      | 0.337        | 0.004 (0.001)    | 0.449 (0.151)    | 1 (1.000) |     8.99 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|           12 |      355 | 2026-08-29 | Just Players    | W   | 1.000      | 0.337        | 0.011 (0.004)    | 0.772 (0.260)    | 1 (1.000) |    17.15 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|           11 |      562 | 2026-08-24 | Nuclear TigeRES | L   | 1.000      | -            | -                | -                | -         |    -5.61 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|           10 |     1147 | 2026-08-02 | aimclub         | W   | 0.954      | 0.278        | 0.002 (0.001)    | 0.122 (0.032)    | 0 (0.000) |    10.06 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            9 |     1157 | 2026-08-02 | Young TigeRES   | W   | 0.953      | 0.278        | 0.001 (0.000)    | 0.037 (0.010)    | 0 (0.000) |     3.96 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            8 |     1187 | 2026-08-01 | mellren         | W   | 0.947      | 0.278        | 0.008 (0.002)    | 0.328 (0.086)    | 0 (0.000) |    11.59 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            7 |     1226 | 2026-07-31 | sleepers        | W   | 0.940      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.32 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            6 |     1258 | 2026-07-30 | aimclub         | L   | 0.934      | -            | -                | -                | -         |   -19.58 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            5 |     1638 | 2026-07-17 | Just Players    | L   | 0.848      | -            | -                | -                | -         |   -10.22 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            4 |     1641 | 2026-07-17 | PsychoFace      | L   | 0.847      | -            | -                | -                | -         |   -13.88 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            3 |     1650 | 2026-07-17 | QUAZAR          | W   | 0.846      | 0.303        | 0.023 (0.006)    | 0.562 (0.144)    | 1 (0.846) |    17.21 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
-|            2 |     2147 | 2026-06-18 | Inner Circle    | L   | 0.653      | -            | -                | -                | -         |    -0.62 | kidofpain, Kiryasoo, mazay, s1nside, VILBy |
-|            1 |     2389 | 2026-06-07 | Betclic         | W   | 0.579      | 0.384        | 0.004 (0.001)    | 0.175 (0.039)    | 0 (0.000) |     8.17 | kidofpain, Kiryasoo, mazay, s1nside, VILBy |
+|           14 |      268 | 2026-08-30 | ex-RUSTEC       | L   | 1.000      | -            | -                | -                | -         |   -11.55 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|           13 |      303 | 2026-08-29 | DONSTU          | W   | 1.000      | 0.337        | 0.004 (0.001)    | 0.451 (0.152)    | 1 (1.000) |     8.89 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|           12 |      327 | 2026-08-29 | Just Players    | W   | 1.000      | 0.337        | 0.011 (0.004)    | 0.773 (0.261)    | 1 (1.000) |    17.32 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|           11 |      534 | 2026-08-24 | Nuclear TigeRES | L   | 1.000      | -            | -                | -                | -         |    -5.50 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|           10 |     1119 | 2026-08-02 | aimclub         | W   | 0.959      | 0.278        | 0.002 (0.001)    | 0.122 (0.033)    | 0 (0.000) |    10.16 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            9 |     1129 | 2026-08-02 | Young TigeRES   | W   | 0.958      | 0.278        | 0.001 (0.000)    | 0.037 (0.010)    | 0 (0.000) |     3.99 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            8 |     1159 | 2026-08-01 | mellren         | W   | 0.952      | 0.278        | 0.008 (0.002)    | 0.288 (0.076)    | 0 (0.000) |    11.29 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            7 |     1198 | 2026-07-31 | sleepers        | W   | 0.946      | 0.278        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.34 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            6 |     1230 | 2026-07-30 | aimclub         | L   | 0.939      | -            | -                | -                | -         |   -19.65 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            5 |     1610 | 2026-07-17 | Just Players    | L   | 0.853      | -            | -                | -                | -         |   -10.21 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            4 |     1613 | 2026-07-17 | PsychoFace      | L   | 0.852      | -            | -                | -                | -         |   -13.88 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            3 |     1622 | 2026-07-17 | QUAZAR          | W   | 0.851      | 0.303        | 0.023 (0.006)    | 0.563 (0.145)    | 1 (0.851) |    17.32 | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy   |
+|            2 |     2119 | 2026-06-18 | Inner Circle    | L   | 0.659      | -            | -                | -                | -         |    -0.62 | kidofpain, Kiryasoo, mazay, s1nside, VILBy |
+|            1 |     2361 | 2026-06-07 | Betclic         | W   | 0.585      | 0.384        | 0.004 (0.001)    | 0.177 (0.040)    | 0 (0.000) |     8.32 | kidofpain, Kiryasoo, mazay, s1nside, VILBy |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,700.94)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($2,707.77)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -65,7 +65,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-08-30 |      1.000 | $1,509.00      | $1,509.00       |
-| 2026-08-02 |      0.954 | $1,250.00      | $1,191.94       |
+| 2026-08-02 |      0.959 | $1,250.00      | $1,198.77       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

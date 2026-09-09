@@ -6,22 +6,22 @@ Global Rank: [62](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [47]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1101.2<br />
+Final Rank Value:  1101.8<br />
 <br />
-Final Rank Value (1101.2) = Starting Rank Value (1074.4) + Head To Head Adjustments (26.9)<br />
+Final Rank Value (1101.8) = Starting Rank Value (1075.8) + Head To Head Adjustments (26.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.372[<sup>1</sup>](#table2)
 - Bounty Collected: 0.318[<sup>2</sup>](#table1)
-- Opponent Network: 0.159[<sup>2</sup>](#table1)
-- LAN Wins: 0.568[<sup>2</sup>](#table1)
+- Opponent Network: 0.160[<sup>2</sup>](#table1)
+- LAN Wins: 0.571[<sup>2</sup>](#table1)
 
-The average of these factors is 0.354<br />
+The average of these factors is 0.355<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1074.4
-- 400 + ( ( 0.354 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1074.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1075.8
+- 400 + ( ( 0.355 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1075.8
 
 
 #### Factors<br />
@@ -37,52 +37,52 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           39 |       62 | 2026-09-05 | 9INE             | W   | 1.000      | 0.143        | 0.018 (0.003)    | -                | 0 (0.000) |    14.99 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           38 |       95 | 2026-09-04 | Sashi            | W   | 1.000      | 0.143        | 0.055 (0.008)    | 0.621 (0.089)    | -         |    21.49 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           37 |      162 | 2026-09-02 | Walczaki         | W   | 1.000      | 0.143        | 0.063 (0.009)    | 0.774 (0.111)    | -         |    12.53 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           36 |      188 | 2026-09-01 | PCIFIC           | W   | 1.000      | -            | -                | -                | -         |     7.32 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           35 |      221 | 2026-08-31 | ASTRAL           | L   | 1.000      | -            | -                | -                | -         |   -16.53 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           34 |      240 | 2026-08-31 | PCIFIC           | W   | 1.000      | -            | -                | -                | -         |     6.50 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           33 |      406 | 2026-08-28 | Bushido Wildcats | L   | 1.000      | -            | -                | -                | -         |   -20.08 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           32 |      654 | 2026-08-20 | OG               | W   | 1.000      | 0.317        | 0.024 (0.008)    | 0.441 (0.140)    | -         |    13.66 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           31 |      664 | 2026-08-20 | Color            | W   | 1.000      | 0.317        | 0.052 (0.016)    | 0.824 (0.261)    | -         |    14.81 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           30 |      687 | 2026-08-19 | Fire Flux        | W   | 1.000      | 0.317        | 0.010 (0.003)    | 0.354 (0.112)    | -         |     5.92 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           29 |      708 | 2026-08-18 | SPARTA           | W   | 1.000      | 0.317        | 0.010 (0.003)    | 0.904 (0.287)    | -         |    10.36 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           28 |      726 | 2026-08-18 | DONSTU           | W   | 1.000      | 0.317        | -                | 0.449 (0.142)    | -         |     5.15 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           27 |      967 | 2026-08-08 | Prestige         | L   | 0.992      | -            | -                | -                | -         |   -27.73 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           26 |      981 | 2026-08-08 | Liquid           | L   | 0.991      | -            | -                | -                | -         |    -2.55 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           25 |     1001 | 2026-08-07 | Prestige         | W   | 0.986      | 0.818        | -                | 0.078 (0.063)    | 1 (0.986) |     2.98 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           24 |     1127 | 2026-08-03 | Johnny Speeds    | L   | 0.960      | -            | -                | -                | -         |   -22.18 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           23 |     1134 | 2026-08-03 | fnatic           | L   | 0.959      | -            | -                | -                | -         |    -6.18 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           22 |     1140 | 2026-08-03 | Johnny Speeds    | W   | 0.958      | 0.450        | 0.012 (0.005)    | -                | 1 (0.958) |     7.19 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
-|           21 |     2200 | 2026-06-14 | Alliance         | L   | 0.627      | -            | -                | -                | -         |    -2.90 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           20 |     2216 | 2026-06-14 | fnatic           | W   | 0.625      | 0.373        | 0.045 (0.011)    | 0.893 (0.208)    | 1 (0.625) |    15.56 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           19 |     2240 | 2026-06-13 | Nexus            | W   | 0.619      | -            | -                | -                | 1 (0.619) |     8.26 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           18 |     2247 | 2026-06-13 | EAC              | W   | 0.619      | 0.373        | 0.024 (0.006)    | 0.772 (0.178)    | 1 (0.619) |    11.09 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           17 |     2264 | 2026-06-13 | atputies         | W   | 0.617      | -            | -                | -                | 1 (0.617) |     1.14 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           16 |     2976 | 2026-05-21 | Betclic          | L   | 0.467      | -            | -                | -                | -         |   -11.77 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           15 |     2978 | 2026-05-21 | RBLS             | L   | 0.466      | -            | -                | -                | -         |   -11.42 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           14 |     2985 | 2026-05-21 | OG               | L   | 0.466      | -            | -                | -                | -         |    -8.70 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           13 |     3015 | 2026-05-21 | Passion UA       | W   | 0.463      | -            | -                | -                | 1 (0.463) |     2.94 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           12 |     4121 | 2026-04-16 | ARCRED           | W   | 0.231      | -            | -                | -                | -         |     1.64 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           11 |     4158 | 2026-04-14 | Phantom          | W   | 0.218      | -            | -                | -                | -         |     1.15 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|           10 |     4176 | 2026-04-13 | ex-RUBY          | W   | 0.212      | -            | -                | -                | -         |     0.58 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|            9 |     4218 | 2026-04-11 | Basement Bobs    | W   | 0.198      | -            | -                | -                | -         |     0.28 | F1KU, forsyy, isak, Plopski, stanislaw   |
-|            8 |     4476 | 2026-04-04 | Bebop            | L   | 0.153      | -            | -                | -                | -         |    -4.10 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            7 |     4649 | 2026-04-02 | PsychoFace       | L   | 0.140      | -            | -                | -                | -         |    -3.00 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            6 |     4787 | 2026-04-01 | ENCE             | W   | 0.131      | -            | -                | -                | -         |     1.37 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            5 |     5028 | 2026-03-29 | ex-RUSTEC        | L   | 0.111      | -            | -                | -                | -         |    -2.17 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            4 |     5132 | 2026-03-27 | EYEBALLERS       | L   | 0.101      | -            | -                | -                | -         |    -0.73 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            3 |     5353 | 2026-03-23 | UNiTY            | W   | 0.073      | -            | -                | -                | 1 (0.073) |     0.17 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            2 |     5366 | 2026-03-23 | GamerLegion      | L   | 0.073      | -            | -                | -                | -         |    -0.35 | Dragon, forsyy, isak, Plopski, stanislaw |
-|            1 |     5376 | 2026-03-23 | UNiTY            | W   | 0.072      | -            | -                | -                | 1 (0.072) |     0.16 | Dragon, forsyy, isak, Plopski, stanislaw |
+|           39 |       34 | 2026-09-05 | 9INE             | W   | 1.000      | 0.143        | 0.018 (0.003)    | -                | 0 (0.000) |    15.01 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           38 |       67 | 2026-09-04 | Sashi            | W   | 1.000      | 0.143        | 0.055 (0.008)    | 0.623 (0.089)    | -         |    21.50 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           37 |      134 | 2026-09-02 | Walczaki         | W   | 1.000      | 0.143        | 0.064 (0.009)    | 0.780 (0.111)    | -         |    12.60 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           36 |      160 | 2026-09-01 | PCIFIC           | W   | 1.000      | -            | -                | -                | -         |     7.14 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           35 |      193 | 2026-08-31 | ASTRAL           | L   | 1.000      | -            | -                | -                | -         |   -16.59 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           34 |      212 | 2026-08-31 | PCIFIC           | W   | 1.000      | -            | -                | -                | -         |     6.33 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           33 |      378 | 2026-08-28 | Bushido Wildcats | L   | 1.000      | -            | -                | -                | -         |   -20.23 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           32 |      626 | 2026-08-20 | OG               | W   | 1.000      | 0.317        | 0.024 (0.008)    | 0.442 (0.140)    | -         |    13.66 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           31 |      636 | 2026-08-20 | Color            | W   | 1.000      | 0.317        | 0.052 (0.017)    | 0.825 (0.262)    | -         |    14.94 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           30 |      659 | 2026-08-19 | Fire Flux        | W   | 1.000      | 0.317        | 0.010 (0.003)    | 0.354 (0.112)    | -         |     5.77 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           29 |      680 | 2026-08-18 | SPARTA           | W   | 1.000      | 0.317        | 0.011 (0.003)    | 0.906 (0.287)    | -         |    10.14 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           28 |      698 | 2026-08-18 | DONSTU           | W   | 1.000      | 0.317        | -                | 0.451 (0.143)    | -         |     5.11 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           27 |      939 | 2026-08-08 | Prestige         | L   | 0.997      | -            | -                | -                | -         |   -27.91 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           26 |      953 | 2026-08-08 | Liquid           | L   | 0.996      | -            | -                | -                | -         |    -2.57 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           25 |      973 | 2026-08-07 | Prestige         | W   | 0.992      | 0.818        | -                | 0.078 (0.063)    | 1 (0.992) |     2.98 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           24 |     1099 | 2026-08-03 | Johnny Speeds    | L   | 0.965      | -            | -                | -                | -         |   -22.34 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           23 |     1106 | 2026-08-03 | fnatic           | L   | 0.964      | -            | -                | -                | -         |    -6.32 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           22 |     1112 | 2026-08-03 | Johnny Speeds    | W   | 0.963      | 0.450        | 0.012 (0.005)    | -                | 1 (0.963) |     7.18 | F1KU, forsyy, MaiL09, Plopski, stanislaw |
+|           21 |     2172 | 2026-06-14 | Alliance         | L   | 0.632      | -            | -                | -                | -         |    -2.95 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           20 |     2188 | 2026-06-14 | fnatic           | W   | 0.630      | 0.373        | 0.045 (0.011)    | 0.895 (0.211)    | 1 (0.630) |    15.62 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           19 |     2212 | 2026-06-13 | Nexus            | W   | 0.625      | -            | -                | -                | 1 (0.625) |     8.29 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           18 |     2219 | 2026-06-13 | EAC              | W   | 0.624      | 0.373        | 0.024 (0.006)    | 0.775 (0.181)    | 1 (0.624) |    11.08 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           17 |     2236 | 2026-06-13 | atputies         | W   | 0.623      | -            | -                | -                | 1 (0.623) |     1.14 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           16 |     2948 | 2026-05-21 | Betclic          | L   | 0.472      | -            | -                | -                | -         |   -11.91 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           15 |     2950 | 2026-05-21 | RBLS             | L   | 0.472      | -            | -                | -                | -         |   -11.55 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           14 |     2957 | 2026-05-21 | OG               | L   | 0.471      | -            | -                | -                | -         |    -8.79 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           13 |     2987 | 2026-05-21 | Passion UA       | W   | 0.469      | -            | -                | -                | 1 (0.469) |     3.00 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           12 |     4093 | 2026-04-16 | ARCRED           | W   | 0.237      | -            | -                | -                | -         |     2.64 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           11 |     4130 | 2026-04-14 | Phantom          | W   | 0.223      | -            | -                | -                | -         |     1.19 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|           10 |     4148 | 2026-04-13 | ex-RUBY          | W   | 0.217      | -            | -                | -                | -         |     0.63 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|            9 |     4190 | 2026-04-11 | Basement Bobs    | W   | 0.204      | -            | -                | -                | -         |     0.29 | F1KU, forsyy, isak, Plopski, stanislaw   |
+|            8 |     4448 | 2026-04-04 | Bebop            | L   | 0.158      | -            | -                | -                | -         |    -4.24 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            7 |     4621 | 2026-04-02 | PsychoFace       | L   | 0.145      | -            | -                | -                | -         |    -3.10 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            6 |     4759 | 2026-04-01 | ENCE             | W   | 0.136      | -            | -                | -                | -         |     1.42 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            5 |     5000 | 2026-03-29 | ex-RUSTEC        | L   | 0.116      | -            | -                | -                | -         |    -2.28 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            4 |     5104 | 2026-03-27 | EYEBALLERS       | L   | 0.106      | -            | -                | -                | -         |    -0.77 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            3 |     5325 | 2026-03-23 | UNiTY            | W   | 0.079      | -            | -                | -                | 1 (0.079) |     0.18 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            2 |     5338 | 2026-03-23 | GamerLegion      | L   | 0.078      | -            | -                | -                | -         |    -0.37 | Dragon, forsyy, isak, Plopski, stanislaw |
+|            1 |     5348 | 2026-03-23 | UNiTY            | W   | 0.077      | -            | -                | -                | 1 (0.077) |     0.17 | Dragon, forsyy, isak, Plopski, stanislaw |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($10,289.64)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($10,390.75)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -90,10 +90,10 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-08-20 |      1.000 | $4,000.00      | $4,000.00       |
-| 2026-08-05 |      0.973 | $1,000.00      | $973.37         |
-| 2026-06-14 |      0.627 | $4,000.00      | $2,507.67       |
-| 2026-04-16 |      0.231 | $11,000.00     | $2,542.33       |
-| 2026-03-28 |      0.107 | $2,500.00      | $266.26         |
+| 2026-08-05 |      0.979 | $1,000.00      | $978.84         |
+| 2026-06-14 |      0.632 | $4,000.00      | $2,529.54       |
+| 2026-04-16 |      0.237 | $11,000.00     | $2,602.45       |
+| 2026-03-28 |      0.112 | $2,500.00      | $279.92         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

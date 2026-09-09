@@ -6,22 +6,22 @@ Global Rank: [234](../../standings_global_2026_09_07.md)<br />
 Region: [Americas]( ../../standings_americas_2026_09_07.md)<br />
 Regional Rank: [50]( ../../standings_americas_2026_09_07.md)<br />
 <br />
-Final Rank Value:  664.3<br />
+Final Rank Value:  664.2<br />
 <br />
-Final Rank Value (664.3) = Starting Rank Value (645.0) + Head To Head Adjustments (19.3)<br />
+Final Rank Value (664.2) = Starting Rank Value (644.9) + Head To Head Adjustments (19.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.270[<sup>1</sup>](#table2)
-- Bounty Collected: 0.227[<sup>2</sup>](#table1)
+- Bounty Collected: 0.228[<sup>2</sup>](#table1)
 - Opponent Network: 0.017[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.129<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 645.0
-- 400 + ( ( 0.129 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 645.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 644.9
+- 400 + ( ( 0.129 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 644.9
 
 
 #### Factors<br />
@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            7 |       69 | 2026-09-04 | Without a Roof   | L   | 1.000      | -            | -                | -                | -         |   -10.68 | ayaneuu, BAGEL, C0C0, FRIZZY, Walco |
-|            6 |       72 | 2026-09-04 | Unreal Nightmare | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.025 (0.004)    | 0 (0.000) |     6.37 | ayaneuu, BAGEL, C0C0, FRIZZY, Walco |
-|            5 |      320 | 2026-08-29 | Overtake Sector  | L   | 1.000      | -            | -                | -                | -         |   -14.06 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
-|            4 |      368 | 2026-08-28 | Iowa Stormboar   | W   | 1.000      | 0.363        | 0.005 (0.002)    | 0.203 (0.073)    | 0 (0.000) |    17.17 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
-|            3 |      416 | 2026-08-27 | New Legends      | W   | 1.000      | 0.363        | 0.000 (0.000)    | 0.051 (0.018)    | 0 (0.000) |    10.16 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
-|            2 |      462 | 2026-08-26 | Chicken Coop     | L   | 1.000      | -            | -                | -                | -         |    -6.61 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
-|            1 |      509 | 2026-08-25 | Zomblers         | W   | 1.000      | 0.363        | 0.006 (0.002)    | 0.208 (0.075)    | 0 (0.000) |    16.92 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
+|            7 |       41 | 2026-09-04 | Without a Roof   | L   | 1.000      | -            | -                | -                | -         |   -10.71 | ayaneuu, BAGEL, C0C0, FRIZZY, Walco |
+|            6 |       44 | 2026-09-04 | Unreal Nightmare | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.025 (0.004)    | 0 (0.000) |     6.38 | ayaneuu, BAGEL, C0C0, FRIZZY, Walco |
+|            5 |      292 | 2026-08-29 | Overtake Sector  | L   | 1.000      | -            | -                | -                | -         |   -14.06 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
+|            4 |      340 | 2026-08-28 | Iowa Stormboar   | W   | 1.000      | 0.363        | 0.005 (0.002)    | 0.204 (0.074)    | 0 (0.000) |    17.21 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
+|            3 |      388 | 2026-08-27 | New Legends      | W   | 1.000      | 0.363        | 0.000 (0.000)    | 0.051 (0.019)    | 0 (0.000) |    10.17 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
+|            2 |      434 | 2026-08-26 | Chicken Coop     | L   | 1.000      | -            | -                | -                | -         |    -6.58 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
+|            1 |      481 | 2026-08-25 | Zomblers         | W   | 1.000      | 0.363        | 0.006 (0.002)    | 0.209 (0.076)    | 0 (0.000) |    16.96 | ayaneuu, BAGEL, C0C0, twigs, Walco  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($1,000.00)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

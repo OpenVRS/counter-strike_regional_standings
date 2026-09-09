@@ -6,9 +6,9 @@ Global Rank: [326](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [208]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  539.3<br />
+Final Rank Value:  538.9<br />
 <br />
-Final Rank Value (539.3) = Starting Rank Value (544.3) + Head To Head Adjustments (-5.1)<br />
+Final Rank Value (538.9) = Starting Rank Value (544.3) + Head To Head Adjustments (-5.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -21,7 +21,7 @@ The average of these factors is 0.076<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 544.3
-- 400 + ( ( 0.076 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 544.3
+- 400 + ( ( 0.076 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 544.3
 
 
 #### Factors<br />
@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |      973 | 2026-08-08 | LPH         | L   | 0.991      | -            | -                | -                | -         |    -6.92 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
-|            5 |     1037 | 2026-08-07 | Nexus       | L   | 0.985      | -            | -                | -                | -         |    -2.27 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
-|            4 |     1064 | 2026-08-06 | MAYBE       | W   | 0.979      | 0.345        | 0.001 (0.001)    | 0.116 (0.039)    | 1 (0.979) |    21.26 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
-|            3 |     1078 | 2026-08-05 | Jam         | L   | 0.974      | -            | -                | -                | -         |    -1.27 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
-|            2 |     1082 | 2026-08-05 | NAVI Junior | L   | 0.973      | -            | -                | -                | -         |    -3.50 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
-|            1 |     1088 | 2026-08-05 | eSuba       | L   | 0.972      | -            | -                | -                | -         |   -12.35 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
+|            6 |      945 | 2026-08-08 | LPH         | L   | 0.997      | -            | -                | -                | -         |    -7.04 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
+|            5 |     1009 | 2026-08-07 | Nexus       | L   | 0.990      | -            | -                | -                | -         |    -2.28 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
+|            4 |     1036 | 2026-08-06 | MAYBE       | W   | 0.985      | 0.345        | 0.001 (0.001)    | 0.116 (0.039)    | 1 (0.985) |    21.36 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
+|            3 |     1050 | 2026-08-05 | Jam         | L   | 0.979      | -            | -                | -                | -         |    -1.29 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
+|            2 |     1054 | 2026-08-05 | NAVI Junior | L   | 0.978      | -            | -                | -                | -         |    -3.68 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
+|            1 |     1060 | 2026-08-05 | eSuba       | L   | 0.977      | -            | -                | -                | -         |   -12.40 | LEFI, MAXX, rayqu4za, Tusi, wap0 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,22 +6,22 @@ Global Rank: [24](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [18]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1377.6<br />
+Final Rank Value:  1378.7<br />
 <br />
-Final Rank Value (1377.6) = Starting Rank Value (1374.8) + Head To Head Adjustments (2.8)<br />
+Final Rank Value (1378.7) = Starting Rank Value (1376.3) + Head To Head Adjustments (2.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.515[<sup>1</sup>](#table2)
-- Bounty Collected: 0.447[<sup>2</sup>](#table1)
-- Opponent Network: 0.232[<sup>2</sup>](#table1)
-- LAN Wins: 0.854[<sup>2</sup>](#table1)
+- Bounty Collected: 0.448[<sup>2</sup>](#table1)
+- Opponent Network: 0.234[<sup>2</sup>](#table1)
+- LAN Wins: 0.856[<sup>2</sup>](#table1)
 
-The average of these factors is 0.512<br />
+The average of these factors is 0.513<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1374.8
-- 400 + ( ( 0.512 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1374.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1376.3
+- 400 + ( ( 0.513 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1376.3
 
 
 #### Factors<br />
@@ -37,73 +37,73 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |       21 | 2026-09-06 | 1win              | L   | 1.000      | -            | -                | -                | -         |   -19.24 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           46 |       34 | 2026-09-06 | Drama             | W   | 1.000      | -            | -                | -                | -         |     0.35 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           45 |       51 | 2026-09-06 | EAC               | W   | 1.000      | -            | -                | -                | -         |     3.43 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           44 |       84 | 2026-09-04 | Nuclear TigeRES   | W   | 1.000      | 0.143        | -                | 0.858 (0.123)    | -         |    10.13 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           43 |       90 | 2026-09-04 | Eternal Fire      | W   | 1.000      | -            | -                | -                | -         |     5.02 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           42 |      122 | 2026-09-03 | HOTU              | W   | 1.000      | 0.143        | 0.144 (0.021)    | 1.000 (0.143)    | -         |    17.92 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           41 |      124 | 2026-09-03 | magic             | W   | 1.000      | 0.143        | 0.200 (0.029)    | -                | -         |    18.31 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           40 |      133 | 2026-09-03 | Color             | W   | 1.000      | 0.143        | -                | 0.824 (0.118)    | -         |     6.80 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           39 |      155 | 2026-09-02 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |   -26.26 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           38 |      172 | 2026-09-02 | 3DMAX             | W   | 1.000      | 0.143        | 0.301 (0.043)    | -                | -         |    12.15 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           37 |      929 | 2026-08-09 | fnatic            | L   | 0.998      | -            | -                | -                | -         |   -16.59 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           36 |      946 | 2026-08-09 | ASTRAL            | W   | 0.998      | 0.818        | -                | 0.765 (0.625)    | 1 (0.998) |     3.81 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           35 |     1017 | 2026-08-07 | 9INE              | W   | 0.985      | 0.818        | -                | 0.315 (0.254)    | 1 (0.985) |     4.68 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           34 |     1053 | 2026-08-07 | REM               | W   | 0.984      | -            | -                | -                | 1 (0.984) |     0.14 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           33 |     1421 | 2026-07-25 | Ninjas in Pyjamas | L   | 0.900      | -            | -                | -                | -         |   -14.65 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           32 |     1467 | 2026-07-24 | Astralis          | W   | 0.893      | 0.143        | 0.375 (0.048)    | -                | -         |    15.88 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           31 |     1474 | 2026-07-24 | The MongolZ       | L   | 0.892      | -            | -                | -                | -         |   -10.75 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           30 |     1493 | 2026-07-23 | FOKUS             | W   | 0.886      | -            | -                | -                | -         |     7.70 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           29 |     1550 | 2026-07-21 | HOTU              | L   | 0.872      | -            | -                | -                | -         |   -12.24 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           28 |     1610 | 2026-07-18 | K27               | W   | 0.853      | 0.500        | 0.078 (0.033)    | 0.805 (0.343)    | 1 (0.853) |    13.68 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           27 |     1649 | 2026-07-17 | Ninjas in Pyjamas | W   | 0.846      | 0.500        | 0.196 (0.083)    | 0.424 (0.179)    | 1 (0.846) |    12.59 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           26 |     1677 | 2026-07-16 | Phantom           | W   | 0.840      | 0.500        | -                | 0.502 (0.211)    | 1 (0.840) |     5.49 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           25 |     1705 | 2026-07-15 | 3DMAX             | W   | 0.832      | 0.500        | 0.301 (0.125)    | 0.387 (0.161)    | 1 (0.832) |    10.84 | Brollan, Chr1zN, MartinezSa, nilo, susp |
-|           24 |     2466 | 2026-06-04 | Liquid            | L   | 0.560      | -            | -                | -                | -         |    -6.01 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           23 |     2492 | 2026-06-03 | Gaimin Gladiators | W   | 0.553      | -            | -                | -                | 1 (0.553) |     0.59 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           22 |     2521 | 2026-06-02 | Lynn Vision       | L   | 0.546      | -            | -                | -                | -         |    -9.63 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           21 |     2527 | 2026-06-02 | DENDELE           | L   | 0.545      | -            | -                | -                | -         |    -8.52 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           20 |     2684 | 2026-05-28 | 9z                | L   | 0.513      | -            | -                | -                | -         |    -2.45 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           19 |     2738 | 2026-05-27 | Ninjas in Pyjamas | L   | 0.505      | -            | -                | -                | -         |    -8.94 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           18 |     3274 | 2026-05-12 | magic             | L   | 0.403      | -            | -                | -                | -         |    -6.67 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           17 |     3316 | 2026-05-10 | Iberian Soul      | L   | 0.396      | -            | -                | -                | -         |    -9.76 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           16 |     3340 | 2026-05-10 | FURIA             | L   | 0.391      | -            | -                | -                | -         |    -1.25 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           15 |     3379 | 2026-05-08 | Aurora            | W   | 0.383      | 1.000        | 0.413 (0.158)    | 0.425 (0.163)    | 1 (0.383) |     8.58 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           14 |     3800 | 2026-04-26 | Luminosity        | L   | 0.300      | -            | -                | -                | -         |    -6.78 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           13 |     3887 | 2026-04-25 | Luminosity        | W   | 0.293      | 0.471        | 0.145 (0.020)    | -                | 1 (0.293) |     2.57 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           12 |     3950 | 2026-04-24 | BIG               | W   | 0.286      | 0.471        | 0.150 (0.020)    | -                | -         |     6.83 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           11 |     4119 | 2026-04-16 | illwill           | W   | 0.232      | -            | -                | -                | -         |     0.23 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|           10 |     4552 | 2026-04-03 | BETBOOM           | L   | 0.147      | -            | -                | -                | -         |    -1.75 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            9 |     4574 | 2026-04-03 | Ninjas in Pyjamas | W   | 0.145      | -            | -                | -                | -         |     0.10 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            8 |     4690 | 2026-04-02 | Nemesis           | W   | 0.138      | -            | -                | -                | -         |     0.84 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            7 |     4762 | 2026-04-01 | BETBOOM           | L   | 0.132      | -            | -                | -                | -         |    -1.58 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            6 |     4925 | 2026-03-30 | Acend             | L   | 0.119      | -            | -                | -                | -         |    -1.93 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            5 |     5048 | 2026-03-28 | Fluxo             | W   | 0.108      | -            | -                | -                | -         |     0.96 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            4 |     5052 | 2026-03-28 | SAW Youngsters    | W   | 0.107      | -            | -                | -                | -         |     0.10 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            3 |     5070 | 2026-03-28 | CYBERSHOKE        | W   | 0.107      | -            | -                | -                | -         |     0.15 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            2 |     5086 | 2026-03-28 | Ascend            | W   | 0.106      | -            | -                | -                | -         |     0.01 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
-|            1 |     5236 | 2026-03-25 | BBL               | L   | 0.086      | -            | -                | -                | -         |    -2.11 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           47 |        9 | 2026-09-06 | 1win              | L   | 1.000      | -            | -                | -                | -         |   -19.38 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           46 |       14 | 2026-09-06 | Drama             | W   | 1.000      | -            | -                | -                | -         |     0.34 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           45 |       25 | 2026-09-06 | EAC               | W   | 1.000      | -            | -                | -                | -         |     3.39 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           44 |       56 | 2026-09-04 | Nuclear TigeRES   | W   | 1.000      | 0.143        | -                | 0.859 (0.123)    | -         |    10.17 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           43 |       62 | 2026-09-04 | Eternal Fire      | W   | 1.000      | -            | -                | -                | -         |     5.01 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           42 |       94 | 2026-09-03 | HOTU              | W   | 1.000      | 0.143        | 0.144 (0.021)    | 1.000 (0.143)    | -         |    17.89 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           41 |       96 | 2026-09-03 | magic             | W   | 1.000      | 0.143        | 0.201 (0.029)    | -                | -         |    18.34 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           40 |      105 | 2026-09-03 | Color             | W   | 1.000      | 0.143        | -                | 0.825 (0.118)    | -         |     6.83 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           39 |      127 | 2026-09-02 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |   -26.27 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           38 |      144 | 2026-09-02 | 3DMAX             | W   | 1.000      | 0.143        | 0.301 (0.043)    | -                | -         |    12.21 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           37 |      901 | 2026-08-09 | fnatic            | L   | 1.000      | -            | -                | -                | -         |   -16.74 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           36 |      918 | 2026-08-09 | ASTRAL            | W   | 1.000      | 0.818        | -                | 0.769 (0.630)    | 1 (1.000) |     3.79 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           35 |      989 | 2026-08-07 | 9INE              | W   | 0.991      | 0.818        | -                | 0.316 (0.256)    | 1 (0.991) |     4.70 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           34 |     1025 | 2026-08-07 | REM               | W   | 0.990      | -            | -                | -                | 1 (0.990) |     0.14 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           33 |     1393 | 2026-07-25 | Ninjas in Pyjamas | L   | 0.905      | -            | -                | -                | -         |   -14.72 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           32 |     1439 | 2026-07-24 | Astralis          | W   | 0.898      | 0.143        | 0.378 (0.049)    | -                | -         |    16.04 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           31 |     1446 | 2026-07-24 | The MongolZ       | L   | 0.898      | -            | -                | -                | -         |   -10.74 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           30 |     1465 | 2026-07-23 | FOKUS             | W   | 0.892      | -            | -                | -                | -         |     7.78 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           29 |     1522 | 2026-07-21 | HOTU              | L   | 0.878      | -            | -                | -                | -         |   -12.36 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           28 |     1582 | 2026-07-18 | K27               | W   | 0.859      | 0.500        | 0.079 (0.034)    | 0.807 (0.347)    | 1 (0.859) |    13.73 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           27 |     1621 | 2026-07-17 | Ninjas in Pyjamas | W   | 0.851      | 0.500        | 0.196 (0.083)    | 0.424 (0.181)    | 1 (0.851) |    12.69 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           26 |     1649 | 2026-07-16 | Phantom           | W   | 0.846      | 0.500        | -                | 0.503 (0.213)    | 1 (0.846) |     5.50 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           25 |     1677 | 2026-07-15 | 3DMAX             | W   | 0.838      | 0.500        | 0.301 (0.126)    | 0.389 (0.163)    | 1 (0.838) |    10.95 | Brollan, Chr1zN, MartinezSa, nilo, susp |
+|           24 |     2438 | 2026-06-04 | Liquid            | L   | 0.565      | -            | -                | -                | -         |    -6.06 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           23 |     2464 | 2026-06-03 | Gaimin Gladiators | W   | 0.559      | -            | -                | -                | 1 (0.559) |     0.61 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           22 |     2493 | 2026-06-02 | Lynn Vision       | L   | 0.551      | -            | -                | -                | -         |    -9.70 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           21 |     2499 | 2026-06-02 | DENDELE           | L   | 0.550      | -            | -                | -                | -         |    -8.58 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           20 |     2656 | 2026-05-28 | 9z                | L   | 0.518      | -            | -                | -                | -         |    -2.46 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           19 |     2710 | 2026-05-27 | Ninjas in Pyjamas | L   | 0.511      | -            | -                | -                | -         |    -9.03 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           18 |     3246 | 2026-05-12 | magic             | L   | 0.409      | -            | -                | -                | -         |    -6.75 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           17 |     3288 | 2026-05-10 | Iberian Soul      | L   | 0.402      | -            | -                | -                | -         |    -9.88 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           16 |     3312 | 2026-05-10 | FURIA             | L   | 0.397      | -            | -                | -                | -         |    -1.28 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           15 |     3351 | 2026-05-08 | Aurora            | W   | 0.389      | 1.000        | 0.415 (0.161)    | 0.427 (0.166)    | 1 (0.389) |     8.71 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           14 |     3772 | 2026-04-26 | Luminosity        | L   | 0.306      | -            | -                | -                | -         |    -6.88 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           13 |     3859 | 2026-04-25 | Luminosity        | W   | 0.299      | 0.471        | 0.145 (0.020)    | -                | 1 (0.299) |     2.64 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           12 |     3922 | 2026-04-24 | BIG               | W   | 0.291      | 0.471        | 0.151 (0.021)    | -                | -         |     6.95 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           11 |     4091 | 2026-04-16 | illwill           | W   | 0.237      | -            | -                | -                | -         |     0.24 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|           10 |     4524 | 2026-04-03 | BETBOOM           | L   | 0.152      | -            | -                | -                | -         |    -1.80 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            9 |     4546 | 2026-04-03 | Ninjas in Pyjamas | W   | 0.151      | -            | -                | -                | -         |     0.10 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            8 |     4662 | 2026-04-02 | Nemesis           | W   | 0.143      | -            | -                | -                | -         |     0.87 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            7 |     4734 | 2026-04-01 | BETBOOM           | L   | 0.138      | -            | -                | -                | -         |    -1.64 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            6 |     4897 | 2026-03-30 | Acend             | L   | 0.125      | -            | -                | -                | -         |    -2.02 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            5 |     5020 | 2026-03-28 | Fluxo             | W   | 0.113      | -            | -                | -                | -         |     1.01 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            4 |     5024 | 2026-03-28 | SAW Youngsters    | W   | 0.113      | -            | -                | -                | -         |     0.10 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            3 |     5042 | 2026-03-28 | CYBERSHOKE        | W   | 0.112      | -            | -                | -                | -         |     0.16 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            2 |     5058 | 2026-03-28 | Ascend            | W   | 0.112      | -            | -                | -                | -         |     0.01 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
+|            1 |     5208 | 2026-03-25 | BBL               | L   | 0.092      | -            | -                | -                | -         |    -2.24 | Chr1zN, nilo, susp, xfl0ud, yxngstxr    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($57,287.03)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($57,793.75)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.11) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-08-09 |      1.000 | $7,750.00      | $7,748.83       |
-| 2026-07-26 |      0.907 | $7,500.00      | $6,799.39       |
-| 2026-07-18 |      0.853 | $25,000.00     | $21,329.61      |
-| 2026-05-30 |      0.526 | $7,500.00      | $3,948.20       |
-| 2026-05-17 |      0.439 | $24,000.00     | $10,524.13      |
-| 2026-04-26 |      0.300 | $17,500.00     | $5,252.02       |
-| 2026-04-04 |      0.153 | $11,000.00     | $1,684.85       |
+| 2026-08-09 |      1.000 | $7,750.00      | $7,750.00       |
+| 2026-07-26 |      0.912 | $7,500.00      | $6,840.38       |
+| 2026-07-18 |      0.859 | $25,000.00     | $21,466.25      |
+| 2026-05-30 |      0.532 | $7,500.00      | $3,989.19       |
+| 2026-05-17 |      0.444 | $24,000.00     | $10,655.30      |
+| 2026-04-26 |      0.306 | $17,500.00     | $5,347.66       |
+| 2026-04-04 |      0.159 | $11,000.00     | $1,744.96       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [219](../../standings_global_2026_09_07.md)<br />
 Region: [Asia]( ../../standings_asia_2026_09_07.md)<br />
 Regional Rank: [22]( ../../standings_asia_2026_09_07.md)<br />
 <br />
-Final Rank Value:  682.0<br />
+Final Rank Value:  682.5<br />
 <br />
-Final Rank Value (682.0) = Starting Rank Value (636.9) + Head To Head Adjustments (45.1)<br />
+Final Rank Value (682.5) = Starting Rank Value (636.8) + Head To Head Adjustments (45.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.124<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 636.9
-- 400 + ( ( 0.124 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 636.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 636.8
+- 400 + ( ( 0.124 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 636.8
 
 
 #### Factors<br />
@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      128 | 2026-09-03 | 5star         | L   | 1.000      | -            | -                | -                | -         |    -8.60 | cool4st, fury5k, ROUX, sk0R, yAmi      |
-|           14 |      138 | 2026-09-03 | Rare Atom     | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.338 (0.048)    | 0 (0.000) |    22.00 | cool4st, fury5k, ROUX, sk0R, yAmi      |
-|           13 |      144 | 2026-09-03 | NEXVOID       | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.359 (0.051)    | 0 (0.000) |    23.26 | cool4st, fury5k, ROUX, sk0R, yAmi      |
-|           12 |      165 | 2026-09-02 | The Huns      | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.359 (0.051)    | 0 (0.000) |    21.54 | cool4st, fury5k, ROUX, sk0R, yAmi      |
-|           11 |      200 | 2026-09-01 | Just Swing    | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.266 (0.038)    | 0 (0.000) |    20.31 | cool4st, fury5k, ROUX, sk0R, yAmi      |
-|           10 |      233 | 2026-08-31 | 5star         | L   | 1.000      | -            | -                | -                | -         |    -7.26 | cool4st, fury5k, ROUX, sk0R, yAmi      |
-|            9 |      348 | 2026-08-29 | Just Swing    | L   | 1.000      | -            | -                | -                | -         |   -10.87 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            8 |      394 | 2026-08-28 | NEXVOID       | L   | 1.000      | -            | -                | -                | -         |    -7.79 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            7 |      492 | 2026-08-26 | XDM           | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.048 (0.016)    | 0 (0.000) |    11.80 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            6 |      535 | 2026-08-25 | Haunted House | W   | 1.000      | 0.333        | 0.003 (0.001)    | 0.044 (0.015)    | 0 (0.000) |    18.96 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            5 |      579 | 2026-08-24 | NEXVOID       | L   | 1.000      | -            | -                | -                | -         |    -7.96 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            4 |      608 | 2026-08-22 | The Huns      | L   | 1.000      | -            | -                | -                | -         |    -6.69 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            3 |      631 | 2026-08-22 | Vitalem Aerem | L   | 1.000      | -            | -                | -                | -         |   -12.27 | Aceari, hasteka, ROUX, sk0R, yAmi      |
-|            2 |     1482 | 2026-07-24 | 5star         | L   | 0.891      | -            | -                | -                | -         |    -5.63 | hasteka, ROUX, sergelen19k, sk0R, yAmi |
-|            1 |     1509 | 2026-07-23 | The Huns      | L   | 0.885      | -            | -                | -                | -         |    -5.69 | hasteka, ROUX, sergelen19k, sk0R, yAmi |
+|           15 |      100 | 2026-09-03 | 5star         | L   | 1.000      | -            | -                | -                | -         |    -8.55 | cool4st, fury5k, ROUX, sk0R, yAmi      |
+|           14 |      110 | 2026-09-03 | Rare Atom     | W   | 1.000      | 0.143        | 0.005 (0.001)    | 0.337 (0.048)    | 0 (0.000) |    22.01 | cool4st, fury5k, ROUX, sk0R, yAmi      |
+|           13 |      116 | 2026-09-03 | NEXVOID       | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.360 (0.051)    | 0 (0.000) |    23.32 | cool4st, fury5k, ROUX, sk0R, yAmi      |
+|           12 |      137 | 2026-09-02 | The Huns      | W   | 1.000      | 0.143        | 0.025 (0.004)    | 0.361 (0.052)    | 0 (0.000) |    21.58 | cool4st, fury5k, ROUX, sk0R, yAmi      |
+|           11 |      172 | 2026-09-01 | Just Swing    | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.267 (0.038)    | 0 (0.000) |    20.32 | cool4st, fury5k, ROUX, sk0R, yAmi      |
+|           10 |      205 | 2026-08-31 | 5star         | L   | 1.000      | -            | -                | -                | -         |    -7.21 | cool4st, fury5k, ROUX, sk0R, yAmi      |
+|            9 |      320 | 2026-08-29 | Just Swing    | L   | 1.000      | -            | -                | -                | -         |   -10.87 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            8 |      366 | 2026-08-28 | NEXVOID       | L   | 1.000      | -            | -                | -                | -         |    -7.72 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            7 |      464 | 2026-08-26 | XDM           | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.048 (0.016)    | 0 (0.000) |    11.81 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            6 |      507 | 2026-08-25 | Haunted House | W   | 1.000      | 0.333        | 0.003 (0.001)    | 0.045 (0.015)    | 0 (0.000) |    18.99 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            5 |      551 | 2026-08-24 | NEXVOID       | L   | 1.000      | -            | -                | -                | -         |    -7.87 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            4 |      580 | 2026-08-22 | The Huns      | L   | 1.000      | -            | -                | -                | -         |    -6.63 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            3 |      603 | 2026-08-22 | Vitalem Aerem | L   | 1.000      | -            | -                | -                | -         |   -12.22 | Aceari, hasteka, ROUX, sk0R, yAmi      |
+|            2 |     1454 | 2026-07-24 | 5star         | L   | 0.897      | -            | -                | -                | -         |    -5.60 | hasteka, ROUX, sergelen19k, sk0R, yAmi |
+|            1 |     1481 | 2026-07-23 | The Huns      | L   | 0.890      | -            | -                | -                | -         |    -5.67 | hasteka, ROUX, sergelen19k, sk0R, yAmi |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($250.41)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($251.94)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-07-25 |      0.898 | $279.00        | $250.41         |
+| 2026-07-25 |      0.903 | $279.00        | $251.94         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

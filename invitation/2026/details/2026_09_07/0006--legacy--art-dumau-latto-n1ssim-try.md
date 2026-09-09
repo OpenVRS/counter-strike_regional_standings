@@ -6,22 +6,22 @@ Global Rank: [6](../../standings_global_2026_09_07.md)<br />
 Region: [Americas]( ../../standings_americas_2026_09_07.md)<br />
 Regional Rank: [1]( ../../standings_americas_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1783.3<br />
+Final Rank Value:  1782.6<br />
 <br />
-Final Rank Value (1783.3) = Starting Rank Value (1846.7) + Head To Head Adjustments (-63.4)<br />
+Final Rank Value (1782.6) = Starting Rank Value (1846.1) + Head To Head Adjustments (-63.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 1.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.767[<sup>2</sup>](#table1)
-- Opponent Network: 0.327[<sup>2</sup>](#table1)
-- LAN Wins: 0.945[<sup>2</sup>](#table1)
+- Bounty Collected: 0.769[<sup>2</sup>](#table1)
+- Opponent Network: 0.329[<sup>2</sup>](#table1)
+- LAN Wins: 0.943[<sup>2</sup>](#table1)
 
 The average of these factors is 0.760<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1846.7
-- 400 + ( ( 0.760 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1846.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1846.1
+- 400 + ( ( 0.760 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1846.1
 
 
 #### Factors<br />
@@ -37,60 +37,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |      260 | 2026-08-30 | Vitality          | L   | 1.000      | -            | -                | -                | -         |   -14.53 | arT, dumau, latto, n1ssim, try     |
-|           46 |      337 | 2026-08-29 | Falcons           | L   | 1.000      | -            | -                | -                | -         |   -11.93 | arT, dumau, latto, n1ssim, try     |
-|           45 |      435 | 2026-08-27 | FUT               | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.354 (0.354)    | 1 (1.000) |    18.71 | arT, dumau, latto, n1ssim, try     |
-|           44 |      600 | 2026-08-23 | FURIA             | W   | 1.000      | 1.000        | 0.779 (0.779)    | 0.375 (0.375)    | 1 (1.000) |    15.43 | arT, dumau, latto, n1ssim, try     |
-|           43 |      613 | 2026-08-22 | Spirit            | L   | 1.000      | -            | -                | -                | -         |    -7.64 | arT, dumau, latto, n1ssim, try     |
-|           42 |      643 | 2026-08-21 | Falcons           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.446 (0.446)    | 1 (1.000) |    20.97 | arT, dumau, latto, n1ssim, try     |
-|           41 |      673 | 2026-08-20 | Natus Vincere     | W   | 1.000      | 1.000        | 0.637 (0.637)    | 0.255 (0.255)    | 1 (1.000) |     9.68 | arT, dumau, latto, n1ssim, try     |
-|           40 |      757 | 2026-08-16 | MIBR              | W   | 1.000      | 1.000        | 0.207 (0.207)    | 0.456 (0.456)    | 1 (1.000) |     4.64 | arT, dumau, latto, n1ssim, try     |
-|           39 |      860 | 2026-08-13 | FaZe              | L   | 1.000      | -            | -                | -                | -         |   -22.62 | arT, dumau, latto, n1ssim, try     |
-|           38 |      890 | 2026-08-12 | Ninjas in Pyjamas | W   | 1.000      | 1.000        | 0.196 (0.196)    | 0.424 (0.424)    | 1 (1.000) |     2.49 | arT, dumau, latto, n1ssim, try     |
-|           37 |     2203 | 2026-06-14 | G2                | L   | 0.626      | -            | -                | -                | -         |   -11.48 | arT, dumau, latto, n1ssim, saadzin |
-|           36 |     2235 | 2026-06-13 | PARIVISION        | W   | 0.620      | 1.000        | 0.393 (0.243)    | -                | 1 (0.620) |     2.39 | arT, dumau, latto, n1ssim, saadzin |
-|           35 |     2294 | 2026-06-12 | Natus Vincere     | L   | 0.612      | -            | -                | -                | -         |   -14.32 | arT, dumau, latto, n1ssim, saadzin |
-|           34 |     2318 | 2026-06-11 | MOUZ              | L   | 0.605      | -            | -                | -                | -         |    -6.62 | arT, dumau, latto, n1ssim, saadzin |
-|           33 |     2348 | 2026-06-09 | TYLOO             | W   | 0.592      | 0.809        | -                | 0.560 (0.268)    | 1 (0.592) |     1.36 | arT, dumau, latto, n1ssim, saadzin |
-|           32 |     2364 | 2026-06-08 | M80               | W   | 0.587      | -            | -                | -                | 1 (0.587) |     0.87 | arT, dumau, latto, n1ssim, saadzin |
-|           31 |     2398 | 2026-06-07 | Luminosity        | L   | 0.578      | -            | -                | -                | -         |   -17.48 | arT, dumau, latto, n1ssim, saadzin |
-|           30 |     2414 | 2026-06-06 | FlyQuest          | W   | 0.573      | -            | -                | -                | 1 (0.573) |     0.40 | arT, dumau, latto, n1ssim, saadzin |
-|           29 |     2423 | 2026-06-06 | MIBR              | L   | 0.572      | -            | -                | -                | -         |   -16.18 | arT, dumau, latto, n1ssim, saadzin |
-|           28 |     2862 | 2026-05-24 | Falcons           | W   | 0.484      | 1.000        | 1.000 (0.484)    | 0.446 (0.216)    | -         |     9.49 | arT, dumau, latto, n1ssim, saadzin |
-|           27 |     2914 | 2026-05-23 | MIBR              | W   | 0.478      | 1.000        | -                | 0.456 (0.218)    | -         |     1.51 | arT, dumau, latto, n1ssim, saadzin |
-|           26 |     2955 | 2026-05-22 | The MongolZ       | W   | 0.471      | 1.000        | 0.350 (0.165)    | -                | -         |     1.64 | arT, dumau, latto, n1ssim, saadzin |
-|           25 |     2968 | 2026-05-21 | Falcons           | L   | 0.469      | -            | -                | -                | -         |    -5.75 | arT, dumau, latto, n1ssim, saadzin |
-|           24 |     3038 | 2026-05-20 | TYLOO             | W   | 0.458      | 1.000        | -                | 0.560 (0.257)    | -         |     0.83 | arT, dumau, latto, n1ssim, saadzin |
-|           23 |     3048 | 2026-05-19 | NRG               | W   | 0.456      | -            | -                | -                | -         |     0.31 | arT, dumau, latto, n1ssim, saadzin |
-|           22 |     3105 | 2026-05-17 | BETBOOM           | W   | 0.439      | -            | -                | -                | -         |     1.72 | arT, dumau, latto, n1ssim, saadzin |
-|           21 |     3122 | 2026-05-16 | GamerLegion       | L   | 0.433      | -            | -                | -                | -         |   -12.45 | arT, dumau, latto, n1ssim, saadzin |
-|           20 |     3198 | 2026-05-13 | Natus Vincere     | W   | 0.415      | 1.000        | 0.637 (0.265)    | -                | -         |     2.56 | arT, dumau, latto, n1ssim, saadzin |
-|           19 |     3239 | 2026-05-12 | Astralis          | W   | 0.408      | -            | -                | -                | -         |     1.34 | arT, dumau, latto, n1ssim, saadzin |
-|           18 |     3279 | 2026-05-11 | M80               | W   | 0.402      | -            | -                | -                | -         |     0.41 | arT, dumau, latto, n1ssim, saadzin |
-|           17 |     3785 | 2026-04-26 | 9z                | W   | 0.301      | -            | -                | -                | -         |     2.75 | arT, dumau, latto, n1ssim, saadzin |
-|           16 |     3923 | 2026-04-24 | 9z                | W   | 0.287      | -            | -                | -                | -         |     2.68 | arT, dumau, latto, n1ssim, saadzin |
-|           15 |     3963 | 2026-04-23 | Keyd Stars        | W   | 0.282      | -            | -                | -                | -         |     0.03 | arT, dumau, latto, n1ssim, saadzin |
-|           14 |     4000 | 2026-04-22 | Grêmio            | W   | 0.276      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
-|           13 |     4144 | 2026-04-14 | HOTU              | L   | 0.221      | -            | -                | -                | -         |    -6.24 | arT, dumau, latto, n1ssim, saadzin |
-|           12 |     4166 | 2026-04-13 | MOUZ              | L   | 0.214      | -            | -                | -                | -         |    -2.37 | arT, dumau, latto, n1ssim, saadzin |
-|           11 |     4302 | 2026-04-08 | B8                | L   | 0.178      | -            | -                | -                | -         |    -4.93 | arT, dumau, latto, n1ssim, saadzin |
-|           10 |     4343 | 2026-04-07 | NRG               | W   | 0.170      | -            | -                | -                | -         |     0.11 | arT, dumau, latto, n1ssim, saadzin |
-|            9 |     4378 | 2026-04-06 | MIBR              | L   | 0.164      | -            | -                | -                | -         |    -4.75 | arT, dumau, latto, n1ssim, saadzin |
-|            8 |     4404 | 2026-04-05 | Inner Circle      | W   | 0.159      | -            | -                | -                | -         |     0.74 | arT, dumau, latto, n1ssim, saadzin |
-|            7 |     4474 | 2026-04-04 | PARIVISION        | L   | 0.153      | -            | -                | -                | -         |    -4.28 | arT, dumau, latto, n1ssim, saadzin |
-|            6 |     4901 | 2026-03-30 | 9z                | L   | 0.122      | -            | -                | -                | -         |    -2.81 | arT, dumau, latto, n1ssim, saadzin |
-|            5 |     4958 | 2026-03-29 | Gaimin Gladiators | W   | 0.115      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
-|            4 |     4975 | 2026-03-29 | Turma do Pagode   | W   | 0.113      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
-|            3 |     5145 | 2026-03-27 | Galorys           | W   | 0.100      | -            | -                | -                | -         |     0.02 | arT, dumau, latto, n1ssim, saadzin |
-|            2 |     5155 | 2026-03-27 | Yawara            | W   | 0.099      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
-|            1 |     5852 | 2026-03-13 | Aurora            | L   | 0.005      | -            | -                | -                | -         |    -0.14 | arT, dumau, latto, n1ssim, saadzin |
+|           47 |      232 | 2026-08-30 | Vitality          | L   | 1.000      | -            | -                | -                | -         |   -14.49 | arT, dumau, latto, n1ssim, try     |
+|           46 |      309 | 2026-08-29 | Falcons           | L   | 1.000      | -            | -                | -                | -         |   -11.89 | arT, dumau, latto, n1ssim, try     |
+|           45 |      407 | 2026-08-27 | FUT               | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.354 (0.354)    | 1 (1.000) |    18.68 | arT, dumau, latto, n1ssim, try     |
+|           44 |      572 | 2026-08-23 | FURIA             | W   | 1.000      | 1.000        | 0.779 (0.779)    | 0.375 (0.375)    | 1 (1.000) |    15.47 | arT, dumau, latto, n1ssim, try     |
+|           43 |      585 | 2026-08-22 | Spirit            | L   | 1.000      | -            | -                | -                | -         |    -7.62 | arT, dumau, latto, n1ssim, try     |
+|           42 |      615 | 2026-08-21 | Falcons           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.447 (0.447)    | 1 (1.000) |    21.01 | arT, dumau, latto, n1ssim, try     |
+|           41 |      645 | 2026-08-20 | Natus Vincere     | W   | 1.000      | 1.000        | 0.644 (0.644)    | 0.256 (0.256)    | 1 (1.000) |     9.85 | arT, dumau, latto, n1ssim, try     |
+|           40 |      729 | 2026-08-16 | MIBR              | W   | 1.000      | 1.000        | 0.208 (0.208)    | 0.457 (0.457)    | 1 (1.000) |     4.71 | arT, dumau, latto, n1ssim, try     |
+|           39 |      832 | 2026-08-13 | FaZe              | L   | 1.000      | -            | -                | -                | -         |   -22.54 | arT, dumau, latto, n1ssim, try     |
+|           38 |      862 | 2026-08-12 | Ninjas in Pyjamas | W   | 1.000      | 1.000        | 0.196 (0.196)    | 0.424 (0.424)    | 1 (1.000) |     2.53 | arT, dumau, latto, n1ssim, try     |
+|           37 |     2175 | 2026-06-14 | G2                | L   | 0.632      | -            | -                | -                | -         |   -11.56 | arT, dumau, latto, n1ssim, saadzin |
+|           36 |     2207 | 2026-06-13 | PARIVISION        | W   | 0.625      | 1.000        | 0.394 (0.246)    | -                | 1 (0.625) |     2.46 | arT, dumau, latto, n1ssim, saadzin |
+|           35 |     2266 | 2026-06-12 | Natus Vincere     | L   | 0.618      | -            | -                | -                | -         |   -14.34 | arT, dumau, latto, n1ssim, saadzin |
+|           34 |     2290 | 2026-06-11 | MOUZ              | L   | 0.611      | -            | -                | -                | -         |    -6.65 | arT, dumau, latto, n1ssim, saadzin |
+|           33 |     2320 | 2026-06-09 | TYLOO             | W   | 0.598      | 0.809        | -                | 0.562 (0.272)    | 1 (0.598) |     1.40 | arT, dumau, latto, n1ssim, saadzin |
+|           32 |     2336 | 2026-06-08 | M80               | W   | 0.592      | -            | -                | -                | 1 (0.592) |     0.90 | arT, dumau, latto, n1ssim, saadzin |
+|           31 |     2370 | 2026-06-07 | Luminosity        | L   | 0.584      | -            | -                | -                | -         |   -17.62 | arT, dumau, latto, n1ssim, saadzin |
+|           30 |     2386 | 2026-06-06 | FlyQuest          | W   | 0.579      | -            | -                | -                | 1 (0.579) |     0.41 | arT, dumau, latto, n1ssim, saadzin |
+|           29 |     2395 | 2026-06-06 | MIBR              | L   | 0.577      | -            | -                | -                | -         |   -16.30 | arT, dumau, latto, n1ssim, saadzin |
+|           28 |     2834 | 2026-05-24 | Falcons           | W   | 0.490      | 1.000        | 1.000 (0.490)    | 0.447 (0.219)    | -         |     9.62 | arT, dumau, latto, n1ssim, saadzin |
+|           27 |     2886 | 2026-05-23 | MIBR              | W   | 0.483      | 1.000        | -                | 0.457 (0.221)    | -         |     1.56 | arT, dumau, latto, n1ssim, saadzin |
+|           26 |     2927 | 2026-05-22 | The MongolZ       | W   | 0.477      | 1.000        | 0.352 (0.168)    | -                | -         |     1.70 | arT, dumau, latto, n1ssim, saadzin |
+|           25 |     2940 | 2026-05-21 | Falcons           | L   | 0.475      | -            | -                | -                | -         |    -5.79 | arT, dumau, latto, n1ssim, saadzin |
+|           24 |     3010 | 2026-05-20 | TYLOO             | W   | 0.464      | 1.000        | -                | 0.562 (0.261)    | -         |     0.86 | arT, dumau, latto, n1ssim, saadzin |
+|           23 |     3020 | 2026-05-19 | NRG               | W   | 0.462      | -            | -                | -                | -         |     0.32 | arT, dumau, latto, n1ssim, saadzin |
+|           22 |     3077 | 2026-05-17 | BETBOOM           | W   | 0.445      | -            | -                | -                | -         |     1.78 | arT, dumau, latto, n1ssim, saadzin |
+|           21 |     3094 | 2026-05-16 | GamerLegion       | L   | 0.439      | -            | -                | -                | -         |   -12.58 | arT, dumau, latto, n1ssim, saadzin |
+|           20 |     3170 | 2026-05-13 | Natus Vincere     | W   | 0.421      | 1.000        | 0.644 (0.271)    | -                | -         |     2.65 | arT, dumau, latto, n1ssim, saadzin |
+|           19 |     3211 | 2026-05-12 | Astralis          | W   | 0.414      | -            | -                | -                | -         |     1.39 | arT, dumau, latto, n1ssim, saadzin |
+|           18 |     3251 | 2026-05-11 | M80               | W   | 0.407      | -            | -                | -                | -         |     0.42 | arT, dumau, latto, n1ssim, saadzin |
+|           17 |     3757 | 2026-04-26 | 9z                | W   | 0.307      | -            | -                | -                | -         |     2.85 | arT, dumau, latto, n1ssim, saadzin |
+|           16 |     3895 | 2026-04-24 | 9z                | W   | 0.293      | -            | -                | -                | -         |     2.78 | arT, dumau, latto, n1ssim, saadzin |
+|           15 |     3935 | 2026-04-23 | Keyd Stars        | W   | 0.287      | -            | -                | -                | -         |     0.03 | arT, dumau, latto, n1ssim, saadzin |
+|           14 |     3972 | 2026-04-22 | Grêmio            | W   | 0.282      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
+|           13 |     4116 | 2026-04-14 | HOTU              | L   | 0.226      | -            | -                | -                | -         |    -6.38 | arT, dumau, latto, n1ssim, saadzin |
+|           12 |     4138 | 2026-04-13 | MOUZ              | L   | 0.219      | -            | -                | -                | -         |    -2.41 | arT, dumau, latto, n1ssim, saadzin |
+|           11 |     4274 | 2026-04-08 | B8                | L   | 0.183      | -            | -                | -                | -         |    -5.08 | arT, dumau, latto, n1ssim, saadzin |
+|           10 |     4315 | 2026-04-07 | NRG               | W   | 0.176      | -            | -                | -                | -         |     0.12 | arT, dumau, latto, n1ssim, saadzin |
+|            9 |     4350 | 2026-04-06 | MIBR              | L   | 0.169      | -            | -                | -                | -         |    -4.90 | arT, dumau, latto, n1ssim, saadzin |
+|            8 |     4376 | 2026-04-05 | Inner Circle      | W   | 0.165      | -            | -                | -                | -         |     0.77 | arT, dumau, latto, n1ssim, saadzin |
+|            7 |     4446 | 2026-04-04 | PARIVISION        | L   | 0.158      | -            | -                | -                | -         |    -4.42 | arT, dumau, latto, n1ssim, saadzin |
+|            6 |     4873 | 2026-03-30 | 9z                | L   | 0.127      | -            | -                | -                | -         |    -2.92 | arT, dumau, latto, n1ssim, saadzin |
+|            5 |     4930 | 2026-03-29 | Gaimin Gladiators | W   | 0.121      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
+|            4 |     4947 | 2026-03-29 | Turma do Pagode   | W   | 0.119      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
+|            3 |     5117 | 2026-03-27 | Galorys           | W   | 0.105      | -            | -                | -                | -         |     0.02 | arT, dumau, latto, n1ssim, saadzin |
+|            2 |     5127 | 2026-03-27 | Yawara            | W   | 0.104      | -            | -                | -                | -         |     0.01 | arT, dumau, latto, n1ssim, saadzin |
+|            1 |     5824 | 2026-03-13 | Aurora            | L   | 0.011      | -            | -                | -                | -         |    -0.29 | arT, dumau, latto, n1ssim, saadzin |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($502,597.17)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($506,225.55)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (1.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -99,14 +99,14 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2026-09-06 |      1.000 | $32,500.00     | $32,500.00      |
 | 2026-08-23 |      1.000 | $190,000.00    | $190,000.00     |
-| 2026-06-21 |      0.673 | $20,000.00     | $13,457.91      |
-| 2026-05-24 |      0.484 | $400,000.00    | $193,628.18     |
-| 2026-05-17 |      0.441 | $125,000.00    | $55,066.64      |
-| 2026-04-26 |      0.301 | $30,000.00     | $9,036.16       |
-| 2026-04-19 |      0.253 | $4,000.00      | $1,013.91       |
-| 2026-04-11 |      0.200 | $31,250.00     | $6,234.77       |
-| 2026-03-30 |      0.122 | $5,628.00      | $684.08         |
-| 2026-03-15 |      0.020 | $48,000.00     | $975.52         |
+| 2026-06-21 |      0.678 | $20,000.00     | $13,567.22      |
+| 2026-05-24 |      0.490 | $400,000.00    | $195,814.35     |
+| 2026-05-17 |      0.446 | $125,000.00    | $55,749.82      |
+| 2026-04-26 |      0.307 | $30,000.00     | $9,200.13       |
+| 2026-04-19 |      0.259 | $4,000.00      | $1,035.77       |
+| 2026-04-11 |      0.205 | $31,250.00     | $6,405.57       |
+| 2026-03-30 |      0.127 | $5,628.00      | $714.84         |
+| 2026-03-15 |      0.026 | $48,000.00     | $1,237.86       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

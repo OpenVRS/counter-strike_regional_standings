@@ -6,9 +6,9 @@ Global Rank: [177](../../standings_global_2026_09_07.md)<br />
 Region: [Asia]( ../../standings_asia_2026_09_07.md)<br />
 Regional Rank: [14]( ../../standings_asia_2026_09_07.md)<br />
 <br />
-Final Rank Value:  735.8<br />
+Final Rank Value:  735.6<br />
 <br />
-Final Rank Value (735.8) = Starting Rank Value (722.8) + Head To Head Adjustments (13.0)<br />
+Final Rank Value (735.6) = Starting Rank Value (722.7) + Head To Head Adjustments (12.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.170<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 722.8
-- 400 + ( ( 0.170 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 722.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 722.7
+- 400 + ( ( 0.170 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 722.7
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     1182 | 2026-08-02 | DEPO           | L   | 0.951      | -            | -                | -                | -         |    -2.94 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
-|            5 |     1199 | 2026-08-01 | Trouble makers | W   | 0.946      | 0.342        | 0.001 (0.000)    | 0.037 (0.012)    | 1 (0.946) |    11.65 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
-|            4 |     1210 | 2026-08-01 | Omega          | L   | 0.945      | -            | -                | -                | -         |    -2.26 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
-|            3 |     1217 | 2026-08-01 | Trouble makers | W   | 0.944      | 0.342        | 0.001 (0.000)    | 0.037 (0.012)    | 1 (0.944) |    12.11 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
-|            2 |     4093 | 2026-04-18 | DNK            | L   | 0.245      | -            | -                | -                | -         |    -5.07 | ad0rfin, imyGDx, kyrosawa, nesh, nursSSS    |
-|            1 |     4098 | 2026-04-18 | DEPO           | L   | 0.244      | -            | -                | -                | -         |    -0.48 | ad0rfin, imyGDx, kyrosawa, nesh, nursSSS    |
+|            6 |     1154 | 2026-08-02 | DEPO           | L   | 0.957      | -            | -                | -                | -         |    -3.00 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
+|            5 |     1171 | 2026-08-01 | Trouble makers | W   | 0.951      | 0.342        | 0.001 (0.000)    | 0.037 (0.012)    | 1 (0.951) |    11.71 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
+|            4 |     1182 | 2026-08-01 | Omega          | L   | 0.950      | -            | -                | -                | -         |    -2.29 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
+|            3 |     1189 | 2026-08-01 | Trouble makers | W   | 0.949      | 0.342        | 0.001 (0.000)    | 0.037 (0.012)    | 1 (0.949) |    12.18 | ad0rfin, enzero, kyrosawa, mareefishy, nesh |
+|            2 |     4065 | 2026-04-18 | DNK            | L   | 0.250      | -            | -                | -                | -         |    -5.18 | ad0rfin, imyGDx, kyrosawa, nesh, nursSSS    |
+|            1 |     4070 | 2026-04-18 | DEPO           | L   | 0.249      | -            | -                | -                | -         |    -0.50 | ad0rfin, imyGDx, kyrosawa, nesh, nursSSS    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,013.97)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($1,020.78)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-08-02 |      0.952 | $1,000.00      | $951.84         |
-| 2026-04-19 |      0.252 | $247.00        | $62.12          |
+| 2026-08-02 |      0.957 | $1,000.00      | $957.31         |
+| 2026-04-19 |      0.257 | $247.00        | $63.47          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

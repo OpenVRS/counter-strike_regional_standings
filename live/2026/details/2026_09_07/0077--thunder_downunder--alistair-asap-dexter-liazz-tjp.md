@@ -6,22 +6,22 @@ Global Rank: [77](../../standings_global_2026_09_07.md)<br />
 Region: [Asia]( ../../standings_asia_2026_09_07.md)<br />
 Regional Rank: [6]( ../../standings_asia_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1039.1<br />
+Final Rank Value:  1040.9<br />
 <br />
-Final Rank Value (1039.1) = Starting Rank Value (1020.1) + Head To Head Adjustments (19.0)<br />
+Final Rank Value (1040.9) = Starting Rank Value (1022.2) + Head To Head Adjustments (18.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.354[<sup>1</sup>](#table2)
+- Bounty Offered: 0.355[<sup>1</sup>](#table2)
 - Bounty Collected: 0.328[<sup>2</sup>](#table1)
-- Opponent Network: 0.081[<sup>2</sup>](#table1)
-- LAN Wins: 0.540[<sup>2</sup>](#table1)
+- Opponent Network: 0.082[<sup>2</sup>](#table1)
+- LAN Wins: 0.543[<sup>2</sup>](#table1)
 
-The average of these factors is 0.326<br />
+The average of these factors is 0.327<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1020.1
-- 400 + ( ( 0.326 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1020.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1022.2
+- 400 + ( ( 0.327 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1022.2
 
 
 #### Factors<br />
@@ -37,45 +37,47 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |      206 | 2026-09-01 | Ground Zero   | W   | 1.000      | 0.278        | 0.014 (0.004)    | 0.374 (0.104)    | -         |    11.05 | asap, Gratisfaction, Liazz, TjP, viridian |
-|           31 |      308 | 2026-08-30 | Ground Zero   | W   | 1.000      | 0.278        | 0.014 (0.004)    | 0.374 (0.104)    | -         |    11.75 | asap, Gratisfaction, Liazz, TjP, viridian |
-|           30 |      410 | 2026-08-28 | Mindfreak     | W   | 1.000      | 0.278        | 0.003 (0.001)    | 0.212 (0.059)    | -         |     5.68 | asap, Gratisfaction, Liazz, TjP, viridian |
-|           29 |     1627 | 2026-07-18 | Ground Zero   | L   | 0.851      | -            | -                | -                | -         |   -17.39 | aliStair, asap, dexter, Liazz, TjP        |
-|           28 |     1630 | 2026-07-17 | FlyQuest      | L   | 0.849      | -            | -                | -                | -         |    -9.33 | aliStair, asap, dexter, Liazz, TjP        |
-|           27 |     1631 | 2026-07-17 | Ground Zero   | W   | 0.848      | 0.316        | 0.014 (0.004)    | 0.374 (0.100)    | 1 (0.848) |     8.64 | aliStair, asap, dexter, Liazz, TjP        |
-|           26 |     1673 | 2026-07-16 | Rooster       | W   | 0.842      | 0.316        | 0.006 (0.002)    | 0.271 (0.072)    | 1 (0.842) |     5.27 | aliStair, asap, dexter, Liazz, TjP        |
-|           25 |     1674 | 2026-07-16 | Mindfreak     | W   | 0.842      | 0.316        | 0.003 (0.001)    | 0.212 (0.056)    | 1 (0.842) |     4.51 | aliStair, asap, dexter, Liazz, TjP        |
-|           24 |     2477 | 2026-06-04 | FlyQuest      | L   | 0.558      | -            | -                | -                | -         |    -6.54 | aliStair, asap, dexter, Liazz, TjP        |
-|           23 |     2500 | 2026-06-03 | BIG           | L   | 0.552      | -            | -                | -                | -         |    -0.90 | aliStair, asap, dexter, Liazz, TjP        |
-|           22 |     2520 | 2026-06-02 | B8            | L   | 0.546      | -            | -                | -                | -         |    -1.20 | aliStair, asap, dexter, Liazz, TjP        |
-|           21 |     2530 | 2026-06-02 | MIBR          | W   | 0.545      | 0.624        | 0.207 (0.071)    | 0.456 (0.155)    | 1 (0.545) |    15.54 | aliStair, asap, dexter, Liazz, TjP        |
-|           20 |     2736 | 2026-05-27 | SemperFi      | L   | 0.505      | -            | -                | -                | -         |   -13.87 | aliStair, asap, dexter, Liazz, TjP        |
-|           19 |     3135 | 2026-05-16 | Lynn Vision   | L   | 0.432      | -            | -                | -                | -         |    -2.48 | aliStair, asap, dexter, Liazz, TjP        |
-|           18 |     3190 | 2026-05-14 | Kaleido       | W   | 0.418      | 0.548        | 0.006 (0.001)    | 0.267 (0.061)    | 1 (0.418) |     2.13 | aliStair, asap, dexter, Liazz, TjP        |
-|           17 |     3219 | 2026-05-13 | Haunted House | W   | 0.412      | -            | -                | -                | 1 (0.412) |     1.75 | aliStair, asap, dexter, Liazz, TjP        |
-|           16 |     3231 | 2026-05-13 | SemperFi      | W   | 0.410      | -            | -                | -                | 1 (0.410) |     1.64 | aliStair, asap, dexter, Liazz, TjP        |
-|           15 |     3261 | 2026-05-12 | Alter Ego     | W   | 0.405      | 0.548        | -                | 0.279 (0.062)    | 1 (0.405) |     2.31 | aliStair, asap, dexter, Liazz, TjP        |
-|           14 |     3302 | 2026-05-11 | Haunted House | L   | 0.398      | -            | -                | -                | -         |   -11.00 | aliStair, asap, dexter, Liazz, TjP        |
-|           13 |     3501 | 2026-05-03 | Ground Zero   | W   | 0.344      | 0.278        | 0.014 (0.001)    | 0.374 (0.036)    | -         |     3.89 | aliStair, asap, dexter, Liazz, TjP        |
-|           12 |     3597 | 2026-05-01 | Ground Zero   | W   | 0.331      | 0.278        | 0.014 (0.001)    | -                | -         |     3.81 | aliStair, asap, dexter, Liazz, TjP        |
-|           11 |     3684 | 2026-04-29 | Abyssal       | W   | 0.318      | -            | -                | -                | -         |     1.34 | aliStair, asap, dexter, Liazz, TjP        |
-|           10 |     3770 | 2026-04-27 | Mindfreak     | W   | 0.304      | -            | -                | -                | -         |     1.70 | aliStair, asap, dexter, Liazz, TjP        |
-|            9 |     5688 | 2026-03-17 | SemperFi      | W   | 0.030      | -            | -                | -                | 1 (0.030) |     0.12 | aliStair, asap, dexter, Liazz, TjP        |
-|            8 |     5692 | 2026-03-16 | SemperFi      | W   | 0.029      | -            | -                | -                | 1 (0.029) |     0.11 | aliStair, asap, dexter, Liazz, TjP        |
-|            7 |     5699 | 2026-03-16 | Arcade        | W   | 0.028      | -            | -                | -                | -         |     0.10 | aliStair, asap, dexter, Liazz, TjP        |
-|            6 |     5732 | 2026-03-16 | Ground Zero   | W   | 0.024      | -            | -                | -                | -         |     0.28 | aliStair, asap, dexter, Liazz, TjP        |
-|            5 |     5736 | 2026-03-15 | Time Waves    | W   | 0.023      | -            | -                | -                | -         |     0.02 | aliStair, asap, dexter, Liazz, TjP        |
-|            4 |     5774 | 2026-03-15 | SemperFi      | W   | 0.017      | -            | -                | -                | -         |     0.07 | aliStair, asap, dexter, Liazz, TjP        |
-|            3 |     5777 | 2026-03-14 | Ground Zero   | W   | 0.016      | -            | -                | -                | -         |     0.18 | aliStair, asap, dexter, Liazz, TjP        |
-|            2 |     5818 | 2026-03-13 | SemperFi      | L   | 0.009      | -            | -                | -                | -         |    -0.26 | aliStair, asap, dexter, Liazz, TjP        |
-|            1 |     5819 | 2026-03-13 | Mindfreak     | W   | 0.008      | -            | -                | -                | -         |     0.02 | aliStair, asap, dexter, Liazz, TjP        |
+|           34 |      178 | 2026-09-01 | Ground Zero   | W   | 1.000      | 0.278        | 0.014 (0.004)    | 0.375 (0.104)    | -         |    11.02 | asap, Gratisfaction, Liazz, TjP, viridian |
+|           33 |      280 | 2026-08-30 | Ground Zero   | W   | 1.000      | 0.278        | 0.014 (0.004)    | 0.375 (0.104)    | -         |    11.71 | asap, Gratisfaction, Liazz, TjP, viridian |
+|           32 |      382 | 2026-08-28 | Mindfreak     | W   | 1.000      | 0.278        | 0.003 (0.001)    | 0.212 (0.059)    | -         |     5.64 | asap, Gratisfaction, Liazz, TjP, viridian |
+|           31 |     1599 | 2026-07-18 | Ground Zero   | L   | 0.856      | -            | -                | -                | -         |   -17.53 | aliStair, asap, dexter, Liazz, TjP        |
+|           30 |     1602 | 2026-07-17 | FlyQuest      | L   | 0.855      | -            | -                | -                | -         |    -9.40 | aliStair, asap, dexter, Liazz, TjP        |
+|           29 |     1603 | 2026-07-17 | Ground Zero   | W   | 0.854      | 0.316        | 0.014 (0.004)    | 0.375 (0.101)    | 1 (0.854) |     8.66 | aliStair, asap, dexter, Liazz, TjP        |
+|           28 |     1645 | 2026-07-16 | Rooster       | W   | 0.848      | 0.316        | 0.006 (0.002)    | 0.273 (0.073)    | 1 (0.848) |     5.28 | aliStair, asap, dexter, Liazz, TjP        |
+|           27 |     1646 | 2026-07-16 | Mindfreak     | W   | 0.847      | 0.316        | 0.003 (0.001)    | 0.212 (0.057)    | 1 (0.847) |     4.50 | aliStair, asap, dexter, Liazz, TjP        |
+|           26 |     2449 | 2026-06-04 | FlyQuest      | L   | 0.564      | -            | -                | -                | -         |    -6.62 | aliStair, asap, dexter, Liazz, TjP        |
+|           25 |     2472 | 2026-06-03 | BIG           | L   | 0.557      | -            | -                | -                | -         |    -0.92 | aliStair, asap, dexter, Liazz, TjP        |
+|           24 |     2492 | 2026-06-02 | B8            | L   | 0.551      | -            | -                | -                | -         |    -1.22 | aliStair, asap, dexter, Liazz, TjP        |
+|           23 |     2502 | 2026-06-02 | MIBR          | W   | 0.550      | 0.624        | 0.208 (0.071)    | 0.457 (0.157)    | 1 (0.550) |    15.70 | aliStair, asap, dexter, Liazz, TjP        |
+|           22 |     2708 | 2026-05-27 | SemperFi      | L   | 0.511      | -            | -                | -                | -         |   -13.98 | aliStair, asap, dexter, Liazz, TjP        |
+|           21 |     3107 | 2026-05-16 | Lynn Vision   | L   | 0.437      | -            | -                | -                | -         |    -2.51 | aliStair, asap, dexter, Liazz, TjP        |
+|           20 |     3162 | 2026-05-14 | Kaleido       | W   | 0.424      | 0.548        | 0.006 (0.001)    | 0.267 (0.062)    | 1 (0.424) |     2.15 | aliStair, asap, dexter, Liazz, TjP        |
+|           19 |     3191 | 2026-05-13 | Haunted House | W   | 0.417      | -            | -                | -                | 1 (0.417) |     1.76 | aliStair, asap, dexter, Liazz, TjP        |
+|           18 |     3203 | 2026-05-13 | SemperFi      | W   | 0.416      | -            | -                | -                | 1 (0.416) |     1.70 | aliStair, asap, dexter, Liazz, TjP        |
+|           17 |     3233 | 2026-05-12 | Alter Ego     | W   | 0.411      | 0.548        | -                | 0.279 (0.063)    | 1 (0.411) |     2.33 | aliStair, asap, dexter, Liazz, TjP        |
+|           16 |     3274 | 2026-05-11 | Haunted House | L   | 0.404      | -            | -                | -                | -         |   -11.17 | aliStair, asap, dexter, Liazz, TjP        |
+|           15 |     3473 | 2026-05-03 | Ground Zero   | W   | 0.350      | 0.278        | 0.014 (0.001)    | 0.375 (0.036)    | -         |     3.94 | aliStair, asap, dexter, Liazz, TjP        |
+|           14 |     3569 | 2026-05-01 | Ground Zero   | W   | 0.336      | 0.278        | 0.014 (0.001)    | -                | -         |     3.86 | aliStair, asap, dexter, Liazz, TjP        |
+|           13 |     3656 | 2026-04-29 | Abyssal       | W   | 0.323      | -            | -                | -                | -         |     1.35 | aliStair, asap, dexter, Liazz, TjP        |
+|           12 |     3742 | 2026-04-27 | Mindfreak     | W   | 0.310      | -            | -                | -                | -         |     1.71 | aliStair, asap, dexter, Liazz, TjP        |
+|           11 |     5660 | 2026-03-17 | SemperFi      | W   | 0.036      | -            | -                | -                | 1 (0.036) |     0.14 | aliStair, asap, dexter, Liazz, TjP        |
+|           10 |     5664 | 2026-03-16 | SemperFi      | W   | 0.034      | -            | -                | -                | 1 (0.034) |     0.14 | aliStair, asap, dexter, Liazz, TjP        |
+|            9 |     5671 | 2026-03-16 | Arcade        | W   | 0.034      | -            | -                | -                | -         |     0.12 | aliStair, asap, dexter, Liazz, TjP        |
+|            8 |     5704 | 2026-03-16 | Ground Zero   | W   | 0.029      | -            | -                | -                | -         |     0.34 | aliStair, asap, dexter, Liazz, TjP        |
+|            7 |     5708 | 2026-03-15 | Time Waves    | W   | 0.028      | -            | -                | -                | -         |     0.03 | aliStair, asap, dexter, Liazz, TjP        |
+|            6 |     5746 | 2026-03-15 | SemperFi      | W   | 0.022      | -            | -                | -                | -         |     0.09 | aliStair, asap, dexter, Liazz, TjP        |
+|            5 |     5749 | 2026-03-14 | Ground Zero   | W   | 0.021      | -            | -                | -                | -         |     0.25 | aliStair, asap, dexter, Liazz, TjP        |
+|            4 |     5790 | 2026-03-13 | SemperFi      | L   | 0.015      | -            | -                | -                | -         |    -0.41 | aliStair, asap, dexter, Liazz, TjP        |
+|            3 |     5791 | 2026-03-13 | Mindfreak     | W   | 0.014      | -            | -                | -                | -         |     0.03 | aliStair, asap, dexter, Liazz, TjP        |
+|            2 |     5896 | 2026-03-12 | Ground Zero   | W   | 0.002      | -            | -                | -                | -         |     0.03 | aliStair, asap, dexter, Liazz, TjP        |
+|            1 |     5902 | 2026-03-11 | Time Waves    | W   | 0.001      | -            | -                | -                | -         |     0.00 | aliStair, asap, dexter, Liazz, TjP        |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($7,555.74)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($7,691.84)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -83,11 +85,11 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2026-09-01 |      1.000 | $1,500.00      | $1,500.00       |
-| 2026-07-18 |      0.855 | $1,034.00      | $884.19         |
-| 2026-05-17 |      0.438 | $10,000.00     | $4,383.49       |
-| 2026-05-03 |      0.344 | $1,500.00      | $516.21         |
-| 2026-03-17 |      0.030 | $4,601.00      | $139.52         |
-| 2026-03-15 |      0.017 | $7,768.00      | $132.32         |
+| 2026-07-18 |      0.861 | $1,034.00      | $889.85         |
+| 2026-05-17 |      0.444 | $10,000.00     | $4,438.15       |
+| 2026-05-03 |      0.350 | $1,500.00      | $524.41         |
+| 2026-03-17 |      0.036 | $4,601.00      | $164.67         |
+| 2026-03-15 |      0.022 | $7,768.00      | $174.77         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

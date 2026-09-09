@@ -6,9 +6,9 @@ Global Rank: [346](../../standings_global_2026_09_07.md)<br />
 Region: [Americas]( ../../standings_americas_2026_09_07.md)<br />
 Regional Rank: [85]( ../../standings_americas_2026_09_07.md)<br />
 <br />
-Final Rank Value:  514.0<br />
+Final Rank Value:  514.3<br />
 <br />
-Final Rank Value (514.0) = Starting Rank Value (495.8) + Head To Head Adjustments (18.3)<br />
+Final Rank Value (514.3) = Starting Rank Value (495.9) + Head To Head Adjustments (18.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.050<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 495.8
-- 400 + ( ( 0.050 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 495.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 495.9
+- 400 + ( ( 0.050 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 495.9
 
 
 #### Factors<br />
@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            8 |       70 | 2026-09-04 | Marsborne      | L   | 1.000      | -            | -                | -                | -         |    -3.14 | Axed, micro, oSee, PwnAlone, viz   |
-|            7 |       71 | 2026-09-04 | Villainous     | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.195 (0.028)    | 0 (0.000) |    23.99 | Axed, micro, oSee, PwnAlone, viz   |
-|            6 |      459 | 2026-08-26 | Zomblers       | L   | 1.000      | -            | -                | -                | -         |    -8.47 | AbbyDog, Axed, micro, Sathsea, viz |
-|            5 |      522 | 2026-08-25 | Chicken Coop   | L   | 1.000      | -            | -                | -                | -         |    -3.24 | Axed, micro, Sathsea, Tender, viz  |
-|            4 |     3514 | 2026-05-02 | M80            | L   | 0.340      | -            | -                | -                | -         |    -0.20 | Axed, Juna, micro, Tender, viz     |
-|            3 |     3608 | 2026-04-30 | girl kissers   | W   | 0.328      | 0.354        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     5.00 | Axed, Juna, micro, Tender, viz     |
-|            2 |     3693 | 2026-04-28 | Iowa Stormboar | L   | 0.315      | -            | -                | -                | -         |    -2.44 | Axed, Juna, micro, Tender, viz     |
-|            1 |     3796 | 2026-04-26 | insane players | W   | 0.300      | 0.354        | 0.003 (0.000)    | 0.065 (0.007)    | 0 (0.000) |     6.77 | Axed, Juna, micro, Tender, viz     |
+|            8 |       42 | 2026-09-04 | Marsborne      | L   | 1.000      | -            | -                | -                | -         |    -3.13 | Axed, micro, oSee, PwnAlone, viz   |
+|            7 |       43 | 2026-09-04 | Villainous     | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.195 (0.028)    | 0 (0.000) |    23.98 | Axed, micro, oSee, PwnAlone, viz   |
+|            6 |      431 | 2026-08-26 | Zomblers       | L   | 1.000      | -            | -                | -                | -         |    -8.46 | AbbyDog, Axed, micro, Sathsea, viz |
+|            5 |      494 | 2026-08-25 | Chicken Coop   | L   | 1.000      | -            | -                | -                | -         |    -3.23 | Axed, micro, Sathsea, Tender, viz  |
+|            4 |     3486 | 2026-05-02 | M80            | L   | 0.346      | -            | -                | -                | -         |    -0.20 | Axed, Juna, micro, Tender, viz     |
+|            3 |     3580 | 2026-04-30 | girl kissers   | W   | 0.334      | 0.354        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     5.08 | Axed, Juna, micro, Tender, viz     |
+|            2 |     3665 | 2026-04-28 | Iowa Stormboar | L   | 0.321      | -            | -                | -                | -         |    -2.48 | Axed, Juna, micro, Tender, viz     |
+|            1 |     3768 | 2026-04-26 | insane players | W   | 0.306      | 0.354        | 0.004 (0.000)    | 0.068 (0.007)    | 0 (0.000) |     6.91 | Axed, Juna, micro, Tender, viz     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

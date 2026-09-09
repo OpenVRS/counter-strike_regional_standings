@@ -6,22 +6,22 @@ Global Rank: [153](../../standings_global_2026_09_07.md)<br />
 Region: [Americas]( ../../standings_americas_2026_09_07.md)<br />
 Regional Rank: [29]( ../../standings_americas_2026_09_07.md)<br />
 <br />
-Final Rank Value:  785.3<br />
+Final Rank Value:  785.7<br />
 <br />
-Final Rank Value (785.3) = Starting Rank Value (734.8) + Head To Head Adjustments (50.5)<br />
+Final Rank Value (785.7) = Starting Rank Value (734.7) + Head To Head Adjustments (51.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.316[<sup>1</sup>](#table2)
 - Bounty Collected: 0.255[<sup>2</sup>](#table1)
-- Opponent Network: 0.132[<sup>2</sup>](#table1)
+- Opponent Network: 0.133[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.176<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 734.8
-- 400 + ( ( 0.176 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 734.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 734.7
+- 400 + ( ( 0.176 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 734.7
 
 
 #### Factors<br />
@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           44 |       25 | 2026-09-06 | Galorys         | L   | 1.000      | -            | -                | -                | -         |    -7.72 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           43 |       60 | 2026-09-05 | Procyon         | W   | 1.000      | 0.354        | -                | 0.343 (0.121)    | 0 (0.000) |     9.00 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           42 |       80 | 2026-09-04 | Imperial        | L   | 1.000      | -            | -                | -                | -         |    -4.75 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           41 |       85 | 2026-09-04 | UNO MILLE       | W   | 1.000      | 0.354        | 0.014 (0.005)    | 0.328 (0.116)    | 0 (0.000) |    14.15 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           40 |      193 | 2026-09-01 | BORRACHEIROS    | W   | 1.000      | 0.354        | 0.001 (0.000)    | 0.433 (0.153)    | 0 (0.000) |    13.21 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           39 |      289 | 2026-08-30 | BESTIA Academy  | W   | 1.000      | 0.354        | -                | 0.417 (0.148)    | 0 (0.000) |    12.64 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           38 |      400 | 2026-08-28 | ODDIK           | L   | 1.000      | -            | -                | -                | -         |   -11.66 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           37 |      467 | 2026-08-26 | Turma do Pagode | L   | 1.000      | -            | -                | -                | -         |   -24.22 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           36 |      479 | 2026-08-26 | Pugdesonesto    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.60 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           35 |      516 | 2026-08-25 | ShindeN         | L   | 1.000      | -            | -                | -                | -         |    -9.75 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           34 |      753 | 2026-08-16 | QUINTESSÊNCIA   | W   | 1.000      | 0.278        | 0.001 (0.000)    | -                | 0 (0.000) |    10.31 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           33 |      785 | 2026-08-15 | paiN Academy    | W   | 1.000      | 0.278        | 0.001 (0.000)    | 0.474 (0.132)    | 0 (0.000) |    11.27 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           32 |      815 | 2026-08-14 | BESTIA          | L   | 1.000      | -            | -                | -                | -         |    -6.51 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           31 |      853 | 2026-08-13 | Pugdesonesto    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.81 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           30 |      919 | 2026-08-09 | BORRACHEIROS    | W   | 0.999      | 0.333        | 0.001 (0.000)    | 0.433 (0.144)    | 0 (0.000) |    15.28 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           29 |      948 | 2026-08-08 | paiN Academy    | W   | 0.994      | 0.333        | 0.001 (0.000)    | 0.474 (0.157)    | 0 (0.000) |    12.09 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           28 |     1075 | 2026-08-05 | Imperial        | L   | 0.974      | -            | -                | -                | -         |    -5.07 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           27 |     1100 | 2026-08-04 | UNO MILLE       | W   | 0.967      | 0.333        | 0.014 (0.005)    | -                | -         |    17.95 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           26 |     1461 | 2026-07-24 | Keyd Stars      | L   | 0.894      | -            | -                | -                | -         |    -9.83 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           25 |     1539 | 2026-07-21 | Procyon         | W   | 0.874      | 0.354        | -                | 0.343 (0.106)    | -         |    10.07 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           24 |     1582 | 2026-07-19 | Grêmio          | W   | 0.859      | -            | -                | -                | -         |     7.24 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           23 |     1651 | 2026-07-17 | MEIA NOITE      | L   | 0.846      | -            | -                | -                | -         |   -14.55 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           22 |     1696 | 2026-07-15 | BORRACHEIROS    | W   | 0.835      | 0.354        | -                | 0.433 (0.128)    | -         |    12.11 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           21 |     1854 | 2026-07-06 | Imperial        | L   | 0.772      | -            | -                | -                | -         |    -3.94 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           20 |     1857 | 2026-07-05 | your end        | W   | 0.768      | -            | -                | -                | -         |     6.29 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           19 |     1888 | 2026-07-03 | Blitzkrieg      | W   | 0.755      | -            | -                | -                | -         |     5.60 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           18 |     1908 | 2026-07-02 | MEIA NOITE      | L   | 0.746      | -            | -                | -                | -         |   -13.38 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           17 |     1951 | 2026-06-30 | Sementes do Mal | L   | 0.733      | -            | -                | -                | -         |   -17.07 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           16 |     2011 | 2026-06-27 | paiN Academy    | W   | 0.714      | 0.354        | 0.001 (0.000)    | 0.474 (0.120)    | -         |     9.77 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           15 |     2927 | 2026-05-22 | UNO MILLE       | L   | 0.474      | -            | -                | -                | -         |    -6.26 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           14 |     3097 | 2026-05-17 | MIBR Academy    | W   | 0.440      | 0.354        | 0.002 (0.000)    | -                | -         |     6.27 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           13 |     3166 | 2026-05-15 | paiN Academy    | W   | 0.425      | -            | -                | -                | -         |     5.82 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           12 |     3250 | 2026-05-12 | ex-KRÜ          | W   | 0.406      | 0.354        | 0.002 (0.000)    | -                | -         |     5.02 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
-|           11 |     3980 | 2026-04-23 | METANOIA Wolves | L   | 0.279      | -            | -                | -                | -         |    -4.87 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|           10 |     4008 | 2026-04-22 | 9z              | L   | 0.273      | -            | -                | -                | -         |    -0.04 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            9 |     4104 | 2026-04-17 | UNO MILLE       | L   | 0.242      | -            | -                | -                | -         |    -4.43 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            8 |     4354 | 2026-04-06 | UNO MILLE       | L   | 0.167      | -            | -                | -                | -         |    -3.05 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            7 |     4653 | 2026-04-02 | BESTIA Academy  | W   | 0.140      | -            | -                | -                | -         |     1.93 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            6 |     4720 | 2026-04-01 | Charrados       | W   | 0.135      | -            | -                | -                | -         |     0.80 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            5 |     4742 | 2026-04-01 | Marsborne       | L   | 0.133      | -            | -                | -                | -         |    -2.55 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            4 |     4764 | 2026-04-01 | paiN            | L   | 0.132      | -            | -                | -                | -         |    -0.16 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            3 |     4959 | 2026-03-29 | HereWeGoAgain   | W   | 0.115      | -            | -                | -                | -         |     0.48 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            2 |     4960 | 2026-03-29 | Keyd Stars      | L   | 0.115      | -            | -                | -                | -         |    -1.51 | badran, cerolzin, proSHOW, puni, vinaabEAST |
-|            1 |     5191 | 2026-03-26 | Crashers        | L   | 0.092      | -            | -                | -                | -         |    -1.92 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|           44 |       10 | 2026-09-06 | Galorys         | L   | 1.000      | -            | -                | -                | -         |    -7.70 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           43 |       32 | 2026-09-05 | Procyon         | W   | 1.000      | 0.354        | -                | 0.343 (0.122)    | 0 (0.000) |     8.98 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           42 |       52 | 2026-09-04 | Imperial        | L   | 1.000      | -            | -                | -                | -         |    -4.72 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           41 |       57 | 2026-09-04 | UNO MILLE       | W   | 1.000      | 0.354        | 0.014 (0.005)    | 0.330 (0.117)    | 0 (0.000) |    14.17 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           40 |      165 | 2026-09-01 | BORRACHEIROS    | W   | 1.000      | 0.354        | 0.001 (0.000)    | 0.433 (0.153)    | 0 (0.000) |    13.23 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           39 |      261 | 2026-08-30 | BESTIA Academy  | W   | 1.000      | 0.354        | -                | 0.419 (0.148)    | 0 (0.000) |    12.65 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           38 |      372 | 2026-08-28 | ODDIK           | L   | 1.000      | -            | -                | -                | -         |   -11.64 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           37 |      439 | 2026-08-26 | Turma do Pagode | L   | 1.000      | -            | -                | -                | -         |   -24.23 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           36 |      451 | 2026-08-26 | Pugdesonesto    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.61 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           35 |      488 | 2026-08-25 | ShindeN         | L   | 1.000      | -            | -                | -                | -         |    -9.67 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           34 |      725 | 2026-08-16 | QUINTESSÊNCIA   | W   | 1.000      | 0.278        | 0.001 (0.000)    | -                | 0 (0.000) |    10.30 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           33 |      757 | 2026-08-15 | paiN Academy    | W   | 1.000      | 0.278        | 0.001 (0.000)    | 0.475 (0.132)    | 0 (0.000) |    11.27 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           32 |      787 | 2026-08-14 | BESTIA          | L   | 1.000      | -            | -                | -                | -         |    -6.44 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           31 |      825 | 2026-08-13 | Pugdesonesto    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.84 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           30 |      891 | 2026-08-09 | BORRACHEIROS    | W   | 1.000      | 0.333        | 0.001 (0.000)    | 0.433 (0.144)    | 0 (0.000) |    15.32 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           29 |      920 | 2026-08-08 | paiN Academy    | W   | 1.000      | 0.333        | 0.001 (0.000)    | 0.475 (0.158)    | 0 (0.000) |    12.16 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           28 |     1047 | 2026-08-05 | Imperial        | L   | 0.980      | -            | -                | -                | -         |    -5.07 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           27 |     1072 | 2026-08-04 | UNO MILLE       | W   | 0.972      | 0.333        | 0.014 (0.005)    | -                | -         |    18.09 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           26 |     1433 | 2026-07-24 | Keyd Stars      | L   | 0.899      | -            | -                | -                | -         |    -9.84 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           25 |     1511 | 2026-07-21 | Procyon         | W   | 0.879      | 0.354        | -                | 0.343 (0.107)    | -         |    10.14 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           24 |     1554 | 2026-07-19 | Grêmio          | W   | 0.864      | -            | -                | -                | -         |     7.30 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           23 |     1623 | 2026-07-17 | MEIA NOITE      | L   | 0.851      | -            | -                | -                | -         |   -14.62 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           22 |     1668 | 2026-07-15 | BORRACHEIROS    | W   | 0.840      | 0.354        | -                | 0.433 (0.129)    | -         |    12.21 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           21 |     1826 | 2026-07-06 | Imperial        | L   | 0.778      | -            | -                | -                | -         |    -3.95 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           20 |     1829 | 2026-07-05 | your end        | W   | 0.773      | -            | -                | -                | -         |     6.35 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           19 |     1860 | 2026-07-03 | Blitzkrieg      | W   | 0.760      | -            | -                | -                | -         |     5.65 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           18 |     1880 | 2026-07-02 | MEIA NOITE      | L   | 0.752      | -            | -                | -                | -         |   -13.44 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           17 |     1923 | 2026-06-30 | Sementes do Mal | L   | 0.739      | -            | -                | -                | -         |   -17.18 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           16 |     1983 | 2026-06-27 | paiN Academy    | W   | 0.719      | 0.354        | 0.001 (0.000)    | 0.475 (0.121)    | -         |     9.87 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           15 |     2899 | 2026-05-22 | UNO MILLE       | L   | 0.480      | -            | -                | -                | -         |    -6.31 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           14 |     3069 | 2026-05-17 | MIBR Academy    | W   | 0.446      | 0.354        | 0.002 (0.000)    | -                | -         |     6.37 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           13 |     3138 | 2026-05-15 | paiN Academy    | W   | 0.431      | -            | -                | -                | -         |     5.91 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           12 |     3222 | 2026-05-12 | ex-KRÜ          | W   | 0.412      | 0.354        | 0.002 (0.000)    | -                | -         |     5.11 | bnc, cerolzin, proSHOW, puni, vinaabEAST    |
+|           11 |     3952 | 2026-04-23 | METANOIA Wolves | L   | 0.285      | -            | -                | -                | -         |    -4.95 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|           10 |     3980 | 2026-04-22 | 9z              | L   | 0.279      | -            | -                | -                | -         |    -0.04 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            9 |     4076 | 2026-04-17 | UNO MILLE       | L   | 0.247      | -            | -                | -                | -         |    -4.51 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            8 |     4326 | 2026-04-06 | UNO MILLE       | L   | 0.173      | -            | -                | -                | -         |    -3.13 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            7 |     4625 | 2026-04-02 | BESTIA Academy  | W   | 0.145      | -            | -                | -                | -         |     2.01 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            6 |     4692 | 2026-04-01 | Charrados       | W   | 0.140      | -            | -                | -                | -         |     0.83 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            5 |     4714 | 2026-04-01 | Marsborne       | L   | 0.139      | -            | -                | -                | -         |    -2.65 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            4 |     4736 | 2026-04-01 | paiN            | L   | 0.137      | -            | -                | -                | -         |    -0.17 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            3 |     4931 | 2026-03-29 | HereWeGoAgain   | W   | 0.120      | -            | -                | -                | -         |     0.51 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            2 |     4932 | 2026-03-29 | Keyd Stars      | L   | 0.120      | -            | -                | -                | -         |    -1.58 | badran, cerolzin, proSHOW, puni, vinaabEAST |
+|            1 |     5163 | 2026-03-26 | Crashers        | L   | 0.098      | -            | -                | -                | -         |    -2.03 | badran, cerolzin, proSHOW, puni, vinaabEAST |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,445.10)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($3,447.15)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -97,7 +97,7 @@ Top ten winnings for this roster:<br />
 | 2026-09-06 |      1.000 | $1,750.00      | $1,750.00       |
 | 2026-08-16 |      1.000 | $1,250.00      | $1,250.00       |
 | 2026-08-16 |      1.000 | $375.00        | $375.00         |
-| 2026-04-09 |      0.187 | $375.00        | $70.10          |
+| 2026-04-09 |      0.192 | $375.00        | $72.15          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

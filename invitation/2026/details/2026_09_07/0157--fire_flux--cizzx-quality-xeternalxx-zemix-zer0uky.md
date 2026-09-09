@@ -6,22 +6,22 @@ Global Rank: [157](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [116]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  780.9<br />
+Final Rank Value:  776.6<br />
 <br />
-Final Rank Value (780.9) = Starting Rank Value (737.5) + Head To Head Adjustments (43.4)<br />
+Final Rank Value (776.6) = Starting Rank Value (730.7) + Head To Head Adjustments (45.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.334[<sup>1</sup>](#table2)
-- Bounty Collected: 0.276[<sup>2</sup>](#table1)
-- Opponent Network: 0.099[<sup>2</sup>](#table1)
+- Bounty Collected: 0.272[<sup>2</sup>](#table1)
+- Opponent Network: 0.089[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.177<br />
+The average of these factors is 0.174<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 737.5
-- 400 + ( ( 0.177 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 737.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 730.7
+- 400 + ( ( 0.174 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 730.7
 
 
 #### Factors<br />
@@ -37,47 +37,47 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent             | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |      229 | 2026-08-31 | Inner Circle Academy | L   | 1.000      | -            | -                | -                | -         |   -11.08 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           25 |      271 | 2026-08-30 | Strael Bora          | W   | 1.000      | 0.317        | 0.004 (0.001)    | 0.138 (0.044)    | 0 (0.000) |    14.11 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           24 |      285 | 2026-08-30 | Virtus.pro           | L   | 1.000      | -            | -                | -                | -         |    -1.57 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           23 |      687 | 2026-08-19 | Metizport            | L   | 1.000      | -            | -                | -                | -         |    -5.92 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           22 |      693 | 2026-08-19 | Entropy              | W   | 1.000      | 0.317        | 0.008 (0.003)    | 0.572 (0.181)    | 0 (0.000) |    16.74 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           21 |      707 | 2026-08-18 | PCIFIC               | L   | 1.000      | -            | -                | -                | -         |   -10.24 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           20 |      725 | 2026-08-18 | Omega                | W   | 1.000      | 0.317        | 0.027 (0.009)    | 0.395 (0.125)    | 0 (0.000) |    28.67 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           19 |      743 | 2026-08-17 | Raccoons             | L   | 1.000      | -            | -                | -                | -         |   -22.26 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           18 |      766 | 2026-08-16 | GUESS                | W   | 1.000      | 0.333        | -                | 0.039 (0.013)    | 0 (0.000) |     5.75 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           17 |      800 | 2026-08-15 | OG                   | L   | 1.000      | -            | -                | -                | -         |    -7.07 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           16 |      813 | 2026-08-15 | NEW VISION           | L   | 1.000      | -            | -                | -                | -         |   -18.16 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           15 |      827 | 2026-08-14 | Privateer            | W   | 1.000      | 0.317        | 0.004 (0.001)    | 0.216 (0.068)    | 0 (0.000) |    11.70 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           14 |      838 | 2026-08-14 | BAKS                 | L   | 1.000      | -            | -                | -                | -         |    -7.88 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           13 |      850 | 2026-08-14 | GUESS                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.99 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           12 |     1133 | 2026-08-03 | BASEMENT BOYS        | L   | 0.959      | -            | -                | -                | -         |    -6.22 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           11 |     1149 | 2026-08-02 | Bushido Wildcats     | L   | 0.953      | -            | -                | -                | -         |   -11.15 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|           10 |     1170 | 2026-08-02 | BASEMENT BOYS        | W   | 0.952      | 0.317        | 0.023 (0.007)    | 0.847 (0.255)    | 0 (0.000) |    23.97 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            9 |     2099 | 2026-06-21 | QUAZAR               | L   | 0.674      | -            | -                | -                | -         |    -5.88 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            8 |     2116 | 2026-06-20 | WBT Academy          | W   | 0.667      | 0.400        | 0.010 (0.003)    | 0.696 (0.185)    | 0 (0.000) |    10.25 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            7 |     2134 | 2026-06-19 | NAVI Junior          | W   | 0.660      | 0.400        | 0.001 (0.000)    | 0.186 (0.049)    | 0 (0.000) |    14.14 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            6 |     2443 | 2026-06-05 | Arch                 | W   | 0.567      | 0.143        | 0.001 (0.000)    | -                | 0 (0.000) |     5.69 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            5 |     2487 | 2026-06-03 | NEW VISION           | W   | 0.554      | 0.143        | 0.002 (0.000)    | 0.360 (0.028)    | -         |     8.66 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            4 |     2512 | 2026-06-02 | DONSTU               | W   | 0.547      | 0.143        | 0.004 (0.000)    | 0.449 (0.035)    | -         |     9.92 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            3 |     4983 | 2026-03-29 | bankaPEPSI           | L   | 0.113      | -            | -                | -                | -         |    -2.41 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            2 |     5069 | 2026-03-28 | benched gods         | L   | 0.107      | -            | -                | -                | -         |    -1.73 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
-|            1 |     5175 | 2026-03-26 | Palace               | W   | 0.094      | -            | -                | -                | -         |     0.39 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           26 |      201 | 2026-08-31 | Inner Circle Academy | L   | 1.000      | -            | -                | -                | -         |   -11.07 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           25 |      243 | 2026-08-30 | Strael Bora          | W   | 1.000      | 0.317        | 0.004 (0.001)    | 0.139 (0.044)    | 0 (0.000) |    14.29 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           24 |      257 | 2026-08-30 | Virtus.pro           | L   | 1.000      | -            | -                | -                | -         |    -1.52 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           23 |      659 | 2026-08-19 | Metizport            | L   | 1.000      | -            | -                | -                | -         |    -5.77 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           22 |      665 | 2026-08-19 | Entropy              | W   | 1.000      | 0.317        | 0.008 (0.003)    | 0.571 (0.181)    | 0 (0.000) |    16.96 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           21 |      679 | 2026-08-18 | PCIFIC               | L   | 1.000      | -            | -                | -                | -         |   -10.29 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           20 |      697 | 2026-08-18 | Omega                | W   | 1.000      | 0.317        | 0.027 (0.009)    | 0.397 (0.126)    | 0 (0.000) |    28.72 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           19 |      715 | 2026-08-17 | Raccoons             | L   | 1.000      | -            | -                | -                | -         |   -22.10 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           18 |      738 | 2026-08-16 | GUESS                | W   | 1.000      | 0.333        | -                | 0.039 (0.013)    | 0 (0.000) |     5.88 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           17 |      772 | 2026-08-15 | OG                   | L   | 1.000      | -            | -                | -                | -         |    -6.86 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           16 |      785 | 2026-08-15 | NEW VISION           | L   | 1.000      | -            | -                | -                | -         |   -17.87 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           15 |      799 | 2026-08-14 | Privateer            | W   | 1.000      | 0.317        | 0.004 (0.001)    | 0.218 (0.069)    | 0 (0.000) |    11.94 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           14 |      810 | 2026-08-14 | BAKS                 | L   | 1.000      | -            | -                | -                | -         |    -7.75 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           13 |      822 | 2026-08-14 | GUESS                | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.13 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           12 |     1105 | 2026-08-03 | BASEMENT BOYS        | L   | 0.964      | -            | -                | -                | -         |    -6.51 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           11 |     1121 | 2026-08-02 | Bushido Wildcats     | L   | 0.959      | -            | -                | -                | -         |   -11.14 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|           10 |     1142 | 2026-08-02 | BASEMENT BOYS        | W   | 0.957      | 0.317        | 0.016 (0.005)    | 0.653 (0.198)    | 0 (0.000) |    23.84 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            9 |     2071 | 2026-06-21 | QUAZAR               | L   | 0.679      | -            | -                | -                | -         |    -5.81 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            8 |     2088 | 2026-06-20 | WBT                  | W   | 0.672      | 0.400        | 0.008 (0.002)    | 0.539 (0.145)    | 0 (0.000) |    10.33 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            7 |     2106 | 2026-06-19 | NAVI Junior          | W   | 0.665      | 0.400        | 0.001 (0.000)    | 0.187 (0.050)    | 0 (0.000) |    14.29 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            6 |     2415 | 2026-06-05 | Arch                 | W   | 0.572      | 0.143        | 0.001 (0.000)    | -                | 0 (0.000) |     5.89 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            5 |     2459 | 2026-06-03 | NEW VISION           | W   | 0.559      | 0.143        | 0.002 (0.000)    | 0.362 (0.029)    | -         |     8.94 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            4 |     2484 | 2026-06-02 | DONSTU               | W   | 0.552      | 0.143        | 0.004 (0.000)    | 0.451 (0.036)    | -         |    10.17 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            3 |     4955 | 2026-03-29 | bankaPEPSI           | L   | 0.119      | -            | -                | -                | -         |    -2.49 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            2 |     5041 | 2026-03-28 | benched gods         | L   | 0.112      | -            | -                | -                | -         |    -1.78 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
+|            1 |     5147 | 2026-03-26 | Palace               | W   | 0.099      | -            | -                | -                | -         |     0.42 | Cizzx, Quality, xEternaLxx, zemix, zer0UKY |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($5,108.86)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($5,152.58)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-06-21 |      0.674 | $7,500.00      | $5,051.86       |
-| 2026-03-29 |      0.114 | $500.00        | $57.00          |
+| 2026-06-21 |      0.679 | $7,500.00      | $5,092.85       |
+| 2026-03-29 |      0.119 | $500.00        | $59.73          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

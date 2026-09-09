@@ -6,22 +6,22 @@ Global Rank: [35](../../standings_global_2026_09_07.md)<br />
 Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
 Regional Rank: [27]( ../../standings_europe_2026_09_07.md)<br />
 <br />
-Final Rank Value:  1295.5<br />
+Final Rank Value:  1297.8<br />
 <br />
-Final Rank Value (1295.5) = Starting Rank Value (1297.8) + Head To Head Adjustments (-2.3)<br />
+Final Rank Value (1297.8) = Starting Rank Value (1300.7) + Head To Head Adjustments (-2.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.657[<sup>1</sup>](#table2)
-- Bounty Collected: 0.552[<sup>2</sup>](#table1)
-- Opponent Network: 0.273[<sup>2</sup>](#table1)
-- LAN Wins: 0.404[<sup>2</sup>](#table1)
+- Bounty Collected: 0.553[<sup>2</sup>](#table1)
+- Opponent Network: 0.274[<sup>2</sup>](#table1)
+- LAN Wins: 0.408[<sup>2</sup>](#table1)
 
-The average of these factors is 0.471<br />
+The average of these factors is 0.473<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1297.8
-- 400 + ( ( 0.471 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 1297.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1300.7
+- 400 + ( ( 0.473 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 1300.7
 
 
 #### Factors<br />
@@ -37,62 +37,62 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           49 |      114 | 2026-09-03 | HOTU              | W   | 1.000      | 0.435        | 0.144 (0.063)    | 1.000 (0.435)    | -         |    20.63 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           48 |      141 | 2026-09-03 | INFINITE          | W   | 1.000      | 0.435        | -                | 0.650 (0.283)    | -         |    12.95 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           47 |      152 | 2026-09-02 | Walczaki          | W   | 1.000      | 0.435        | -                | 0.774 (0.337)    | -         |     5.34 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           46 |      156 | 2026-09-02 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -9.51 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           45 |      172 | 2026-09-02 | HEROIC            | L   | 1.000      | -            | -                | -                | -         |   -12.15 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           44 |      239 | 2026-08-31 | Butterfly         | W   | 1.000      | 0.435        | -                | 0.839 (0.364)    | -         |     7.86 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           43 |      799 | 2026-08-15 | magic             | L   | 1.000      | -            | -                | -                | -         |   -11.11 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           42 |      882 | 2026-08-12 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |    -4.45 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           41 |     1263 | 2026-07-30 | MOUZ              | L   | 0.933      | -            | -                | -                | -         |    -1.01 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           40 |     1403 | 2026-07-26 | FUT               | W   | 0.905      | 0.903        | 1.000 (0.817)    | 0.354 (0.289)    | -         |    27.46 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           39 |     1481 | 2026-07-24 | magic             | W   | 0.891      | 0.903        | 0.200 (0.161)    | 0.394 (0.317)    | -         |    19.07 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           38 |     1505 | 2026-07-23 | Walczaki          | L   | 0.885      | -            | -                | -                | -         |   -18.58 | Ex3rcice, Graviti, Kursy, Maka, misutaaa |
-|           37 |     1551 | 2026-07-21 | Iberian Soul      | L   | 0.872      | -            | -                | -                | -         |   -17.51 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           36 |     1643 | 2026-07-17 | K27               | L   | 0.846      | -            | -                | -                | -         |   -10.56 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           35 |     1661 | 2026-07-17 | Iberian Soul      | W   | 0.844      | 0.500        | 0.093 (0.039)    | 0.383 (0.162)    | 1 (0.844) |     9.13 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           34 |     1686 | 2026-07-16 | paiN              | W   | 0.839      | 0.500        | 0.300 (0.126)    | 0.318 (0.133)    | 1 (0.839) |    13.74 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           33 |     1705 | 2026-07-15 | HEROIC            | L   | 0.832      | -            | -                | -                | -         |   -10.84 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           32 |     1879 | 2026-07-04 | FaZe              | L   | 0.759      | -            | -                | -                | -         |    -4.39 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           31 |     1900 | 2026-07-03 | 9z                | L   | 0.751      | -            | -                | -                | -         |    -2.77 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           30 |     1925 | 2026-07-02 | EYEBALLERS        | L   | 0.744      | -            | -                | -                | -         |   -10.81 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           29 |     1942 | 2026-07-01 | Ninjas in Pyjamas | W   | 0.738      | 1.000        | 0.196 (0.145)    | 0.424 (0.313)    | 1 (0.738) |    13.51 | Graviti, Kursy, Lucky, Maka, misutaaa    |
-|           28 |     2701 | 2026-05-28 | Alliance          | L   | 0.512      | -            | -                | -                | -         |    -5.61 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           27 |     2746 | 2026-05-27 | magic             | L   | 0.505      | -            | -                | -                | -         |    -6.17 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           26 |     3021 | 2026-05-20 | Liquid            | L   | 0.463      | -            | -                | -                | -         |    -4.12 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           25 |     3052 | 2026-05-19 | MIBR              | L   | 0.456      | -            | -                | -                | -         |    -5.09 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           24 |     4137 | 2026-04-15 | G2                | L   | 0.225      | -            | -                | -                | -         |    -0.56 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           23 |     4151 | 2026-04-14 | Liquid            | W   | 0.220      | 1.000        | 0.206 (0.045)    | -                | 1 (0.220) |     5.07 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           22 |     4169 | 2026-04-13 | Falcons           | L   | 0.213      | -            | -                | -                | -         |    -0.22 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           21 |     4219 | 2026-04-11 | The MongolZ       | L   | 0.198      | -            | -                | -                | -         |    -2.10 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           20 |     4246 | 2026-04-10 | Astralis          | L   | 0.192      | -            | -                | -                | -         |    -1.94 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           19 |     4282 | 2026-04-09 | MIBR              | W   | 0.184      | 1.000        | 0.207 (0.038)    | -                | 1 (0.184) |     3.78 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           18 |     4333 | 2026-04-07 | PARIVISION        | W   | 0.172      | 1.000        | 0.393 (0.067)    | -                | 1 (0.172) |     3.96 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           17 |     4370 | 2026-04-06 | B8                | W   | 0.165      | 1.000        | 0.262 (0.043)    | 0.567 (0.093)    | 1 (0.165) |     3.86 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           16 |     4432 | 2026-04-05 | Voca              | W   | 0.157      | -            | -                | -                | 1 (0.157) |     0.36 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           15 |     4511 | 2026-04-04 | FOKUS             | L   | 0.151      | -            | -                | -                | -         |    -2.91 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           14 |     4663 | 2026-04-02 | B8                | L   | 0.139      | -            | -                | -                | -         |    -1.13 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           13 |     4679 | 2026-04-02 | BESTIA            | L   | 0.138      | -            | -                | -                | -         |    -3.81 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           12 |     4748 | 2026-04-01 | B8                | W   | 0.133      | -            | -                | -                | 1 (0.133) |     3.10 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           11 |     4785 | 2026-04-01 | WAZABI            | W   | 0.131      | -            | -                | -                | 1 (0.131) |     0.14 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|           10 |     4823 | 2026-03-31 | EAC               | W   | 0.126      | -            | -                | -                | -         |     1.37 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            9 |     4848 | 2026-03-31 | BESTIA            | L   | 0.125      | -            | -                | -                | -         |    -3.48 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            8 |     4870 | 2026-03-31 | Falcons Force     | W   | 0.125      | -            | -                | -                | -         |     0.14 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            7 |     4878 | 2026-03-31 | Aimhaus           | W   | 0.124      | -            | -                | -                | -         |     0.03 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            6 |     4884 | 2026-03-31 | Sashi Academy     | W   | 0.124      | -            | -                | -                | -         |     0.03 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            5 |     5275 | 2026-03-24 | Phantom           | L   | 0.080      | -            | -                | -                | -         |    -2.40 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            4 |     5286 | 2026-03-24 | EAC               | W   | 0.079      | -            | -                | -                | -         |     0.84 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            3 |     5389 | 2026-03-23 | FOKUS             | L   | 0.071      | -            | -                | -                | -         |    -1.40 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            2 |     5393 | 2026-03-23 | GAMEHARMONY       | W   | 0.071      | -            | -                | -                | -         |     0.01 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
-|            1 |     5396 | 2026-03-23 | FOKUS REALITY     | W   | 0.070      | -            | -                | -                | -         |     0.01 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           49 |       86 | 2026-09-03 | HOTU              | W   | 1.000      | 0.435        | 0.144 (0.063)    | 1.000 (0.435)    | -         |    20.56 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           48 |      113 | 2026-09-03 | INFINITE          | W   | 1.000      | 0.435        | -                | 0.652 (0.283)    | -         |    12.90 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           47 |      124 | 2026-09-02 | Walczaki          | W   | 1.000      | 0.435        | -                | 0.780 (0.339)    | -         |     5.33 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           46 |      128 | 2026-09-02 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -9.52 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           45 |      144 | 2026-09-02 | HEROIC            | L   | 1.000      | -            | -                | -                | -         |   -12.21 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           44 |      211 | 2026-08-31 | Butterfly         | W   | 1.000      | 0.435        | -                | 0.841 (0.366)    | -         |     7.97 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           43 |      771 | 2026-08-15 | magic             | L   | 1.000      | -            | -                | -                | -         |   -11.11 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           42 |      854 | 2026-08-12 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |    -4.42 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           41 |     1235 | 2026-07-30 | MOUZ              | L   | 0.939      | -            | -                | -                | -         |    -1.03 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           40 |     1375 | 2026-07-26 | FUT               | W   | 0.911      | 0.903        | 1.000 (0.822)    | 0.354 (0.291)    | -         |    27.60 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           39 |     1453 | 2026-07-24 | magic             | W   | 0.897      | 0.903        | 0.201 (0.162)    | 0.396 (0.321)    | -         |    19.19 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           38 |     1477 | 2026-07-23 | Walczaki          | L   | 0.890      | -            | -                | -                | -         |   -18.64 | Ex3rcice, Graviti, Kursy, Maka, misutaaa |
+|           37 |     1523 | 2026-07-21 | Iberian Soul      | L   | 0.878      | -            | -                | -                | -         |   -17.61 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           36 |     1615 | 2026-07-17 | K27               | L   | 0.852      | -            | -                | -                | -         |   -10.71 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           35 |     1633 | 2026-07-17 | Iberian Soul      | W   | 0.850      | 0.500        | 0.094 (0.040)    | 0.385 (0.163)    | 1 (0.850) |     9.19 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           34 |     1658 | 2026-07-16 | paiN              | W   | 0.844      | 0.500        | 0.300 (0.127)    | 0.320 (0.135)    | 1 (0.844) |    13.83 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           33 |     1677 | 2026-07-15 | HEROIC            | L   | 0.838      | -            | -                | -                | -         |   -10.95 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           32 |     1851 | 2026-07-04 | FaZe              | L   | 0.764      | -            | -                | -                | -         |    -4.46 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           31 |     1872 | 2026-07-03 | 9z                | L   | 0.756      | -            | -                | -                | -         |    -2.79 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           30 |     1897 | 2026-07-02 | EYEBALLERS        | L   | 0.749      | -            | -                | -                | -         |   -10.89 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           29 |     1914 | 2026-07-01 | Ninjas in Pyjamas | W   | 0.743      | 1.000        | 0.196 (0.145)    | 0.424 (0.315)    | 1 (0.743) |    13.59 | Graviti, Kursy, Lucky, Maka, misutaaa    |
+|           28 |     2673 | 2026-05-28 | Alliance          | L   | 0.517      | -            | -                | -                | -         |    -5.72 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           27 |     2718 | 2026-05-27 | magic             | L   | 0.510      | -            | -                | -                | -         |    -6.25 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           26 |     2993 | 2026-05-20 | Liquid            | L   | 0.468      | -            | -                | -                | -         |    -4.19 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           25 |     3024 | 2026-05-19 | MIBR              | L   | 0.461      | -            | -                | -                | -         |    -5.16 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           24 |     4109 | 2026-04-15 | G2                | L   | 0.231      | -            | -                | -                | -         |    -0.59 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           23 |     4123 | 2026-04-14 | Liquid            | W   | 0.225      | 1.000        | 0.206 (0.046)    | -                | 1 (0.225) |     5.18 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           22 |     4141 | 2026-04-13 | Falcons           | L   | 0.218      | -            | -                | -                | -         |    -0.23 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           21 |     4191 | 2026-04-11 | The MongolZ       | L   | 0.204      | -            | -                | -                | -         |    -2.15 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           20 |     4218 | 2026-04-10 | Astralis          | L   | 0.198      | -            | -                | -                | -         |    -1.99 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           19 |     4254 | 2026-04-09 | MIBR              | W   | 0.189      | 1.000        | 0.208 (0.039)    | -                | 1 (0.189) |     3.89 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           18 |     4305 | 2026-04-07 | PARIVISION        | W   | 0.177      | 1.000        | 0.394 (0.070)    | -                | 1 (0.177) |     4.09 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           17 |     4342 | 2026-04-06 | B8                | W   | 0.170      | 1.000        | 0.263 (0.045)    | 0.570 (0.097)    | 1 (0.170) |     3.98 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           16 |     4404 | 2026-04-05 | Voca              | W   | 0.163      | -            | -                | -                | 1 (0.163) |     0.38 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           15 |     4483 | 2026-04-04 | FOKUS             | L   | 0.156      | -            | -                | -                | -         |    -3.01 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           14 |     4635 | 2026-04-02 | B8                | L   | 0.145      | -            | -                | -                | -         |    -1.18 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           13 |     4651 | 2026-04-02 | BESTIA            | L   | 0.144      | -            | -                | -                | -         |    -3.96 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           12 |     4720 | 2026-04-01 | B8                | W   | 0.138      | -            | -                | -                | 1 (0.138) |     3.23 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           11 |     4757 | 2026-04-01 | WAZABI            | W   | 0.136      | -            | -                | -                | 1 (0.136) |     0.15 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|           10 |     4795 | 2026-03-31 | EAC               | W   | 0.132      | -            | -                | -                | -         |     1.40 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            9 |     4820 | 2026-03-31 | BESTIA            | L   | 0.131      | -            | -                | -                | -         |    -3.63 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            8 |     4842 | 2026-03-31 | Falcons Force     | W   | 0.130      | -            | -                | -                | -         |     0.15 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            7 |     4850 | 2026-03-31 | Aimhaus           | W   | 0.130      | -            | -                | -                | -         |     0.03 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            6 |     4856 | 2026-03-31 | Sashi Academy     | W   | 0.130      | -            | -                | -                | -         |     0.03 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            5 |     5247 | 2026-03-24 | Phantom           | L   | 0.086      | -            | -                | -                | -         |    -2.56 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            4 |     5258 | 2026-03-24 | EAC               | W   | 0.085      | -            | -                | -                | -         |     0.89 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            3 |     5361 | 2026-03-23 | FOKUS             | L   | 0.076      | -            | -                | -                | -         |    -1.51 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            2 |     5365 | 2026-03-23 | GAMEHARMONY       | W   | 0.076      | -            | -                | -                | -         |     0.02 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
+|            1 |     5368 | 2026-03-23 | FOKUS REALITY     | W   | 0.076      | -            | -                | -                | -         |     0.01 | Ex3rcice, Graviti, Lucky, Maka, misutaaa |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($151,134.26)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($152,344.75)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.30) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -101,14 +101,14 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2026-09-03 |      1.000 | $22,000.00     | $22,000.00      |
 | 2026-08-23 |      1.000 | $10,000.00     | $10,000.00      |
-| 2026-08-02 |      0.952 | $61,250.00     | $58,307.01      |
-| 2026-07-18 |      0.853 | $11,000.00     | $9,385.03       |
-| 2026-07-12 |      0.811 | $27,500.00     | $22,304.23      |
-| 2026-05-30 |      0.526 | $7,500.00      | $3,948.20       |
-| 2026-05-24 |      0.484 | $5,000.00      | $2,420.35       |
-| 2026-04-19 |      0.253 | $20,000.00     | $5,069.53       |
-| 2026-04-11 |      0.200 | $87,500.00     | $17,457.36      |
-| 2026-04-02 |      0.140 | $1,731.00      | $242.55         |
+| 2026-08-02 |      0.957 | $61,250.00     | $58,641.77      |
+| 2026-07-18 |      0.859 | $11,000.00     | $9,445.15       |
+| 2026-07-12 |      0.817 | $27,500.00     | $22,454.53      |
+| 2026-05-30 |      0.532 | $7,500.00      | $3,989.19       |
+| 2026-05-24 |      0.490 | $5,000.00      | $2,447.68       |
+| 2026-04-19 |      0.259 | $20,000.00     | $5,178.84       |
+| 2026-04-11 |      0.205 | $87,500.00     | $17,935.59      |
+| 2026-04-02 |      0.146 | $1,731.00      | $252.01         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

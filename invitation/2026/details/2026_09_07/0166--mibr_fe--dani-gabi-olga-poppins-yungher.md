@@ -6,9 +6,9 @@ Global Rank: [166](../../standings_global_2026_09_07.md)<br />
 Region: [Americas]( ../../standings_americas_2026_09_07.md)<br />
 Regional Rank: [33]( ../../standings_americas_2026_09_07.md)<br />
 <br />
-Final Rank Value:  758.3<br />
+Final Rank Value:  758.2<br />
 <br />
-Final Rank Value (758.3) = Starting Rank Value (769.3) + Head To Head Adjustments (-11.0)<br />
+Final Rank Value (758.2) = Starting Rank Value (769.4) + Head To Head Adjustments (-11.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.194<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 769.3
-- 400 + ( ( 0.194 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 769.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 769.4
+- 400 + ( ( 0.194 - 0.000 ) / ( 0.841 - 0.000 ) ) * 1600 = 769.4
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|            6 |     2029 | 2026-06-26 | Shimmer        | W   | 0.707      | 0.396        | 0.009 (0.002)    | 0.042 (0.012)    | 1 (0.707) |     8.62 | Dani, GaBi, Olga, poppins, yungher |
-|            5 |     2043 | 2026-06-25 | Clutchain fe   | W   | 0.701      | 0.396        | 0.004 (0.001)    | 0.043 (0.012)    | 1 (0.701) |     7.92 | Dani, GaBi, Olga, poppins, yungher |
-|            4 |     3123 | 2026-05-16 | GUARA          | L   | 0.433      | -            | -                | -                | -         |   -10.71 | Dani, GaBi, Olga, poppins, yungher |
-|            3 |     3175 | 2026-05-14 | paiN Academy   | L   | 0.422      | -            | -                | -                | -         |    -8.20 | Dani, GaBi, Olga, poppins, yungher |
-|            2 |     3243 | 2026-05-12 | Bounty Hunters | L   | 0.408      | -            | -                | -                | -         |    -3.38 | Dani, GaBi, Olga, poppins, yungher |
-|            1 |     3385 | 2026-05-08 | Isurus         | L   | 0.380      | -            | -                | -                | -         |    -5.24 | Dani, GaBi, Olga, poppins, yungher |
+|            6 |     2001 | 2026-06-26 | Shimmer        | W   | 0.713      | 0.396        | 0.009 (0.002)    | 0.042 (0.012)    | 1 (0.713) |     8.67 | Dani, GaBi, Olga, poppins, yungher |
+|            5 |     2015 | 2026-06-25 | Clutchain fe   | W   | 0.707      | 0.396        | 0.004 (0.001)    | 0.044 (0.012)    | 1 (0.707) |     8.01 | Dani, GaBi, Olga, poppins, yungher |
+|            4 |     3095 | 2026-05-16 | GUARA          | L   | 0.439      | -            | -                | -                | -         |   -10.84 | Dani, GaBi, Olga, poppins, yungher |
+|            3 |     3147 | 2026-05-14 | paiN Academy   | L   | 0.427      | -            | -                | -                | -         |    -8.30 | Dani, GaBi, Olga, poppins, yungher |
+|            2 |     3215 | 2026-05-12 | Bounty Hunters | L   | 0.413      | -            | -                | -                | -         |    -3.41 | Dani, GaBi, Olga, poppins, yungher |
+|            1 |     3357 | 2026-05-08 | Isurus         | L   | 0.385      | -            | -                | -                | -         |    -5.30 | Dani, GaBi, Olga, poppins, yungher |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($13,763.95)
-- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- First, take the sum of their top 10 scaled winnings ($13,870.29)
+- Divide that value by the 5th highest value among all rosters ($506,225.55)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2026-06-26 |      0.707 | $19,457.00     | $13,763.95      |
+| 2026-06-26 |      0.713 | $19,457.00     | $13,870.29      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
