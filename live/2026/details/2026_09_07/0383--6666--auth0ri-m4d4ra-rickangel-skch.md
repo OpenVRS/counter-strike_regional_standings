@@ -1,0 +1,58 @@
+### Roster Details<br />
+Team Name: 6666<br />
+Roster: auth0ri, m4d4ra, rickangel, skcH<br />
+Global Rank: [383](../../standings_global_2026_09_07.md)<br />
+<br />
+Region: [Europe]( ../../standings_europe_2026_09_07.md)<br />
+Regional Rank: [242]( ../../standings_europe_2026_09_07.md)<br />
+<br />
+Final Rank Value:  432.6<br />
+<br />
+Final Rank Value (432.6) = Starting Rank Value (433.2) + Head To Head Adjustments (-0.6)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.000[<sup>1</sup>](#table2)
+- Bounty Collected: 0.000[<sup>2</sup>](#table1)
+- Opponent Network: 0.000[<sup>2</sup>](#table1)
+- LAN Wins: 0.070[<sup>2</sup>](#table1)
+
+The average of these factors is 0.017<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 433.2
+- 400 + ( ( 0.017 - 0.000 ) / ( 0.840 - 0.000 ) ) * 1600 = 433.2
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|            6 |     1988 | 2026-06-28 | BERG           | L   | 0.720      | -            | -                | -                | -         |    -2.53 | auth0ri, dENZY, m4d4ra, rickangel, skcH |
+|            5 |     1990 | 2026-06-28 | SINQU          | L   | 0.720      | -            | -                | -                | -         |    -2.48 | auth0ri, dENZY, m4d4ra, rickangel, skcH |
+|            4 |     1994 | 2026-06-28 | ASTRAL         | L   | 0.719      | -            | -                | -                | -         |    -0.86 | auth0ri, dENZY, m4d4ra, rickangel, skcH |
+|            3 |     2237 | 2026-06-13 | Alliance       | L   | 0.619      | -            | -                | -                | -         |    -0.10 | auth0ri, fix, m4d4ra, rickangel, skcH   |
+|            2 |     2255 | 2026-06-13 | Minkens finest | W   | 0.618      | 0.373        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.618) |     8.78 | auth0ri, fix, m4d4ra, rickangel, skcH   |
+|            1 |     2266 | 2026-06-13 | aimclub        | L   | 0.617      | -            | -                | -                | -         |    -3.45 | auth0ri, fix, m4d4ra, rickangel, skcH   |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($0.00)
+- Divide that value by the 5th highest value among all rosters ($502,597.17)
+- The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by HLTV.org_<br />
