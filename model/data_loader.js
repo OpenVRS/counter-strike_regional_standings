@@ -4,6 +4,7 @@ const fs = require('fs');
 const Region = require('./util/region');
 const Team = require('./team');
 const remapValueClamped = require('./util/remap_value_clamped');
+const path = require("path");
 
 const __highValueEvents = [6372,6711,6712,6713,6714,6586,6588]; //explicitly include RMR events, Majors
 
@@ -211,7 +212,7 @@ function findTimeWindow( matches, filterEnd, dataWindow )
 
     return [startTime, endTime];
 }
-
+const DEFAULT_MATCHDATA_PATH = path.join(__dirname, "..", "data", "matchdata.json");
 class DataLoader
 {
     constructor( rankingContext ) {
@@ -246,15 +247,20 @@ class DataLoader
     // e.g. the team with the most prize winnings is not treated differently than the team
     // with the nth most prize winnings.
     setNthHighest( nth ) { this.rankingContext.setOutlierCount( nth ); }
-
-    loadData( versionTimestamp = -1, filename = '../data/matchdata.json', constants, matchItem, globalMatches, partialEvents, maxLimit )
+    loadData( versionTimestamp = -1, filename = DEFAULT_MATCHDATA_PATH, constants, matchItem, globalMatches, partialEvents, maxLimit, addMatches, addEvents )
     {
         const data = fs.readFileSync( filename );
         const dataJson = JSON.parse( data );
 
         // initialize match list
-        let matches = dataJson.matches;
+        let matches = Array.isArray(addMatches) && addMatches.length > 0
+            ? [...dataJson.matches, ...addMatches]
+            : dataJson.matches;
         let earlyMatches = matches;
+
+        const mergedEvents = Array.isArray(addEvents) && addEvents.length > 0
+            ? [...dataJson.events, ...addEvents]
+            : dataJson.events;
 
         // Filter matches to only the data we are interested in.
         this.setTimeFilter( versionTimestamp );
@@ -315,7 +321,7 @@ class DataLoader
             });
 
             // initialize event list
-            dataJson.events.forEach( eventJson => {
+            mergedEvents.forEach( eventJson => {
                 const total = totalMatchesByEvent[eventJson.eventId] || 0;
                 const used = usedMatchesByEvent[eventJson.eventId] || 0;
                 const partial = (total > 0 && used !== total);
@@ -340,7 +346,7 @@ class DataLoader
             } );
         } else {
             // init event list
-            dataJson.events.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson, false, endTime ) );
+            mergedEvents.forEach( eventJson => events[eventJson.eventId] = new Event( eventJson, false, endTime ) );
         }
         
 

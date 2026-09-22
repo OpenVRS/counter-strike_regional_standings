@@ -8,6 +8,8 @@ const RUN_TYPES = Object.freeze({
   SIM_USER: "sim_user",
   SIM_EVENT_CHOICE: "sim_event_choice",
   LEGACY: "legacy",
+  PREDICTION_INIT_GLOBAL: "prediction_init_global",
+  PREDICTION_GLOBAL: "prediction_global",
 });
 
 const VALID_TYPES = Object.values(RUN_TYPES);

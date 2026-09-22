@@ -29,25 +29,13 @@ const API_PLACEMENT = "https://api.liquipedia.net/api/v3/placement";
 const API_TOURNAMENT = "https://api.liquipedia.net/api/v3/tournament";
 const DEFAULT_IMAGE = "https://liquipedia.net/commons/images/thumb/d/da/Counter-Strike_2_default_darkmode.png/373px-Counter-Strike_2_default_darkmode.png";
 
-const today = new Date();
-const lastYear = new Date(today);
-
-// Create end data limit
-const tomorrow = new Date(today);
-tomorrow.setDate(today.getDate() + 1); // can ommit the +1 to use today either, only really an issue if theres a marked finished event but theres a match result error / cache error.
-
-lastYear.setFullYear(today.getFullYear() - 1);
-const formatDate = (date) => date.toISOString().split("T")[0];
-
 const blocked = JSON.parse(fs.readFileSync(BLOCKED_PATH, "utf-8"));
 const blockedMatches = new Set(blocked.matches);
 const blockedEvents = new Set(blocked.events);
 
-const MATCH_CONDITIONS = [
-  `[[date::>${formatDate(lastYear)}]]`,
-  `[[date::<${formatDate(tomorrow)}]]`,
-  `([[publishertier::!]])`,
-].join(" AND ");
+const formatDate = (date) => date.toISOString().split("T")[0];
+
+
 
 const TOURNAMENT_CONDITIONS = `([[publishertier::!]])`;
 
@@ -276,7 +264,7 @@ function extractEventsFromMatches(matches) {
   return events;
 }
 
-async function fetchMatches() {
+async function fetchMatches(MATCH_CONDITIONS) {
   const LIMIT = 1000;
   let offset = 0;
   const all = [];
@@ -314,7 +302,7 @@ async function fetchMatches() {
   return all;
 }
 
-async function fetchPlacements() {
+async function fetchPlacements(MATCH_CONDITIONS) {
   const all = [];
   const LIMIT = 1000;
   let offset = 0;
@@ -389,8 +377,24 @@ function applyPlacements(events, placements) {
   }
 }
 
-async function updateData({ backfillRosters = false } = {}) {
-  const oldData = JSON.parse(fs.readFileSync(MATCHDATA_PATH, "utf-8"));
+async function updateData({ backfillRosters = false, sourcePath, outputPath } = {}) {
+  const today = new Date();
+  const lastYear = new Date(today);
+
+  // Create end data limit
+  const tomorrow = new Date(today);
+  tomorrow.setDate(today.getDate() + 1); // can ommit the +1 to use today either, only really an issue if theres a marked finished event but theres a match result error / cache error.
+
+  lastYear.setFullYear(today.getFullYear() - 1);
+
+  const MATCH_CONDITIONS = [
+    `[[date::>${formatDate(lastYear)}]]`,
+    `[[date::<${formatDate(tomorrow)}]]`,
+    `([[publishertier::!]])`,
+  ].join(" AND ");
+  const source = sourcePath || MATCHDATA_PATH;
+  const output = outputPath || MATCHDATA_PATH;
+  const oldData = JSON.parse(fs.readFileSync(source, "utf-8"));
   const oldMatches = oldData.matches;
   const oldEvents = oldData.events;
 
@@ -400,7 +404,7 @@ async function updateData({ backfillRosters = false } = {}) {
     oldEvents.filter((e) => e.finished === false).map((e) => e.eventId),
   );
 
-  const allNewMatches = await fetchMatches();
+  const allNewMatches = await fetchMatches(MATCH_CONDITIONS);
   const newMatches = allNewMatches.filter((m) => !oldMatchIds.has(m.matchId));
   
 
@@ -420,7 +424,7 @@ async function updateData({ backfillRosters = false } = {}) {
   }));
 
   const extractedEvents = extractEventsFromMatches(updatedWithEventId);
-  const placements = await fetchPlacements();
+  const placements = await fetchPlacements(MATCH_CONDITIONS);
   applyPlacements(extractedEvents, placements);
   const tournaments = await fetchTournaments();
 
@@ -466,7 +470,7 @@ async function updateData({ backfillRosters = false } = {}) {
   const snapshotName = `matchdata_sample_${dateStr}.json`;
   const SNAPSHOT_PATH = path.join(DATA_DIR, snapshotName);
 
-  fs.renameSync(MATCHDATA_PATH, SNAPSHOT_PATH);
+  if( source === output ) fs.renameSync(MATCHDATA_PATH, SNAPSHOT_PATH);
 
   console.log(`Previous sample snapshot created: ${snapshotName}`);
 
@@ -530,10 +534,10 @@ async function updateData({ backfillRosters = false } = {}) {
   }
 
   fs.writeFileSync(
-    MATCHDATA_PATH,
+    output,
     JSON.stringify({ matches: filteredMatches, events: filteredEvents }, null, 2),
   );
-  fs.chmodSync(MATCHDATA_PATH, 0o664); 
+  fs.chmodSync(output, 0o664); 
 
   if (backfillRosters) {
     const PUBLISH_DIR = path.join(DATA_DIR, "publish");

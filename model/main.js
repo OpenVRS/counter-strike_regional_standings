@@ -13,12 +13,14 @@ const RUN_TYPES = Object.freeze({
   SIM_USER: "sim_user",
   SIM_EVENT_CHOICE: "sim_event_choice",
   LEGACY: "legacy",
+  PREDICTION_INIT_GLOBAL: "prediction_init_global",
+  PREDICTION_GLOBAL: "prediction_global",
 });
 
 const VALID_TYPES = Object.values(RUN_TYPES);
 
 // Anchoring for container
-const DEFAULT_MATCHDATA_PATH = path.join(__dirname, "..", "data", "matchdata.json");
+const DEFAULT_MATCHDATA_PATH = path.join(__dirname, "..", "data", "matchdata_1788995715.json"); //change if using
 
 async function run({
     versionTimestampImp,
@@ -38,12 +40,12 @@ async function run({
     // unless you are me, these will be of no use to you and will fail.
     // i could have a better way to forceset these to false and instead use an environment variable
     // but i dont want to mandate the package for usage.
-    //node main.js "" "" "" 1785774864
+    //node main.js "" "" "" 1788850800
     let regions = [0,1,2];
     if ( process.argv[2] )
         regions = JSON.parse(process.argv[2]);
 
-    let filename = '../data/matchdata.json';
+    let filename = DEFAULT_MATCHDATA_PATH;
     if (filenameImp) {
         filename = filenameImp;
     }
