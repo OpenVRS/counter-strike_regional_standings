@@ -17,6 +17,7 @@ countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
 const DATA_DIR = path.join(__dirname, "..", "data");
 const MATCHDATA_PATH = path.join(DATA_DIR, "matchdata.json");
 const BLOCKED_PATH = path.join(__dirname, "blocked.json");
+const PUSHED_PATH = path.join(__dirname, "pushed.json");
 const API_KEY = process.env.LIQUIPEDIA_API_KEY;
 const WIKI = "counterstrike";
 const HEADERS = {
@@ -32,6 +33,10 @@ const DEFAULT_IMAGE = "https://liquipedia.net/commons/images/thumb/d/da/Counter-
 const blocked = JSON.parse(fs.readFileSync(BLOCKED_PATH, "utf-8"));
 const blockedMatches = new Set(blocked.matches);
 const blockedEvents = new Set(blocked.events);
+
+const pushed = JSON.parse(fs.readFileSync(PUSHED_PATH, "utf-8"));
+const pushedMatches = new Set(pushed.matches);
+const pushedEvents = new Set(pushed.events);
 
 const formatDate = (date) => date.toISOString().split("T")[0];
 
@@ -435,7 +440,7 @@ async function updateData({ backfillRosters = false, sourcePath, outputPath } = 
   for (const event of extractedEvents) {
     const tournament = tournamentMap[event.eventPage];
 
-    if (tournament?.enddate) {
+    if (tournament?.enddate && !pushedEvents.has(event.eventId)) {
       const end = new Date(tournament.enddate);
       const todayOnly = new Date(today.toISOString().split("T")[0]);
       if (todayOnly <= end) {
@@ -478,7 +483,10 @@ async function updateData({ backfillRosters = false, sourcePath, outputPath } = 
 
   // update log to track for changes, potential needed fixes &/ club share
   const newOrUpdatedEvents = extractedEvents.filter(
-    (e) => !oldEventIds.has(e.eventId) || unfinishedEventIds.has(e.eventId),
+    (e) =>
+      !oldEventIds.has(e.eventId) ||
+      unfinishedEventIds.has(e.eventId) ||
+      pushedEvents.has(e.eventId),
   );
 
   const slimUpdate = newOrUpdatedEvents.map((e) => ({

@@ -20,7 +20,7 @@ const RUN_TYPES = Object.freeze({
 const VALID_TYPES = Object.values(RUN_TYPES);
 
 // Anchoring for container
-const DEFAULT_MATCHDATA_PATH = path.join(__dirname, "..", "data", "matchdata_1788995715.json"); //change if using
+const DEFAULT_MATCHDATA_PATH = path.join(__dirname, "..", "data", "matchdata_1790632332.json"); //change if using
 
 async function run({
     versionTimestampImp,
@@ -40,7 +40,7 @@ async function run({
     // unless you are me, these will be of no use to you and will fail.
     // i could have a better way to forceset these to false and instead use an environment variable
     // but i dont want to mandate the package for usage.
-    //node main.js "" "" "" 1788850800
+    //node main.js "" "" "" 1788979921
     let regions = [0,1,2];
     if ( process.argv[2] )
         regions = JSON.parse(process.argv[2]);
