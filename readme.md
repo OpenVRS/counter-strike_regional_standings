@@ -10,6 +10,13 @@ These rankings are **unofficial**. While they attempt to be as close as possible
  
 Any observed errors with the dataset, please submit a pull request to the most recent match data sample.
 
+A website for prediction results and more is available [here](https://openvrs.uk/) with discord available at this [link](https://discord.openvrs.uk/)
+
+<img width="2539" height="1245" alt="image" src="https://github.com/user-attachments/assets/bcd1c002-7614-4200-9e25-69300c1a3230" />
+
+<img width="2484" height="868" alt="image" src="https://github.com/user-attachments/assets/71813f65-e175-46fc-99df-0f1b3662f9fb" />
+
+
 ## How to run
 
 ### Requirements
