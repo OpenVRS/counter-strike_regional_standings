@@ -12,7 +12,10 @@ Any observed errors with the dataset, please submit a pull request to the most r
 
 A website for prediction results and more is available [here](https://openvrs.uk/) with discord available at this [link](https://discord.openvrs.uk/)
 
-<img width="2549" height="1236" alt="image" src="https://github.com/user-attachments/assets/5b56b835-b147-475f-bbcc-b0f01dbcbbeb" />
+<img width="2539" height="1245" alt="image" src="https://github.com/user-attachments/assets/bcd1c002-7614-4200-9e25-69300c1a3230" />
+
+<img width="2484" height="868" alt="image" src="https://github.com/user-attachments/assets/71813f65-e175-46fc-99df-0f1b3662f9fb" />
+
 
 ## How to run
 
