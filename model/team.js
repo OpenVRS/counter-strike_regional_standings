@@ -159,12 +159,15 @@ class Team {
         return candidates[0];
     }
 
-    setEligibleRegion() {
+    setEligibleRegion( rankingWindowCutoffTime = -1 ) {
         if ( this.teamMatches.length === 0 )
             return false;
 
-        const regionWindowTime = Math.max( ...this.teamMatches.map(tm => tm.match.matchStartTime) );
-        const windowStart = regionWindowTime - Region.regionEligibilityWindow;
+        const regionElgibilityCutoffTime = Number ( rankingWindowCutoffTime );
+        if ( !Number.isFinite( regionElgibilityCutoffTime ) || regionElgibilityCutoffTime <= 0 )
+            throw new Error( "ranking was generated without a found time window" );
+
+        const windowStart = regionElgibilityCutoffTime - Region.regionEligibilityWindow;
 
         let matchRegionCounts = [0,0,0];
         this.teamMatches.forEach ( tm => {
