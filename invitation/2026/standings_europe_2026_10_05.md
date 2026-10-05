@@ -1,0 +1,253 @@
+### Regional Standings for Europe as of 2026_10_05<br />
+<br />
+
+| Standing | Points | Team Name            | Roster                                                |                                                                                                      |
+| :- | -: | :- | :- | :- |
+| 1        |   2046 | Spirit               | donk, magixx, sh1ro, tN1R, zont1x                     | [details](details/2026_10_05/0001--spirit--donk-magixx-sh1ro-tn1r-zont1x.md)                         |
+| 2        |   1911 | Vitality             | apEX, flameZ, mezii, ropz, ZywOo                      | [details](details/2026_10_05/0003--vitality--apex-flamez-mezii-ropz-zywoo.md)                        |
+| 3        |   1863 | MOUZ                 | PR, Spinx, torzsi, xelex, xertioN                     | [details](details/2026_10_05/0004--mouz--pr-spinx-torzsi-xelex-xertion.md)                           |
+| 4        |   1847 | G2                   | HeavyGod, huNter-, MATYS, NertZ, r1nkle               | [details](details/2026_10_05/0005--g2--heavygod-hunter--matys-nertz-r1nkle.md)                       |
+| 5        |   1843 | Falcons              | karrigan, kyousuke, m0NESY, NiKo, TeSeS               | [details](details/2026_10_05/0006--falcons--karrigan-kyousuke-m0nesy-niko-teses.md)                  |
+| 6        |   1799 | FUT                  | cmtry, dem0n, dziugss, Krabeni, xfl0ud                | [details](details/2026_10_05/0008--fut--cmtry-dem0n-dziugss-krabeni-xfl0ud.md)                       |
+| 7        |   1716 | Aurora               | Jimpphat, kyxsan, Wicadia, woxic, XANTARES            | [details](details/2026_10_05/0009--aurora--jimpphat-kyxsan-wicadia-woxic-xantares.md)                |
+| 8        |   1674 | Astralis             | HooXi, jabbi, phzy, ryu, Staehr                       | [details](details/2026_10_05/0010--astralis--hooxi-jabbi-phzy-ryu-staehr.md)                         |
+| 9        |   1596 | BETBOOM              | Boombl4, d1Ledez, Magnojez, S1ren, zorte              | [details](details/2026_10_05/0011--betboom--boombl4-d1ledez-magnojez-s1ren-zorte.md)                 |
+| 10       |   1555 | B8                   | alex666, esenthial, kensizor, npl, s1zzi              | [details](details/2026_10_05/0013--b8--alex666-esenthial-kensizor-npl-s1zzi.md)                      |
+| 11       |   1551 | Nemiga               | KaiR0N-, khaN, robo, syph0, Xant3r                    | [details](details/2026_10_05/0014--nemiga--kair0n--khan-robo-syph0-xant3r.md)                        |
+| 12       |   1550 | HEROIC               | Brollan, Chr1zN, MartinezSa, nilo, susp               | [details](details/2026_10_05/0015--heroic--brollan-chr1zn-martinezsa-nilo-susp.md)                   |
+| 13       |   1547 | Luminosity           | afro, AZUWU, lux, Rainwaker, yxngstxr                 | [details](details/2026_10_05/0016--luminosity--afro-azuwu-lux-rainwaker-yxngstxr.md)                 |
+| 14       |   1534 | Ninjas in Pyjamas    | adamb, Krimbo, sjuush, stavn, xKacpersky              | [details](details/2026_10_05/0018--ninjas_in_pyjamas--adamb-krimbo-sjuush-stavn-xkacpersky.md)       |
+| 15       |   1516 | Inner Circle         | cptkurtka023, Dawy, headtr1ck, onic, zeRRoFIX         | [details](details/2026_10_05/0020--inner_circle--cptkurtka023-dawy-headtr1ck-onic-zerrofix.md)       |
+| 16       |   1500 | 3DMAX                | Graviti, Kursy, Lucky, Maka, misutaaa                 | [details](details/2026_10_05/0021--3dmax--graviti-kursy-lucky-maka-misutaaa.md)                      |
+| 17       |   1489 | magic                | AW, MaSvAl, mo0N, sFade8, tenzy                       | [details](details/2026_10_05/0023--magic--aw-masval-mo0n-sfade8-tenzy.md)                            |
+| 18       |   1483 | Alliance             | avid, bobeksde, eraa, twist, upE                      | [details](details/2026_10_05/0024--alliance--avid-bobeksde-eraa-twist-upe.md)                        |
+| 19       |   1482 | BIG                  | blameF, faveN, gr1ks, JDC, tabseN                     | [details](details/2026_10_05/0025--big--blamef-faven-gr1ks-jdc-tabsen.md)                            |
+| 20       |   1482 | FaZe                 | frozen, JBOEN, jcobbb, Neityu, Twistzz                | [details](details/2026_10_05/0026--faze--frozen-jboen-jcobbb-neityu-twistzz.md)                      |
+| 21       |   1479 | GamerLegion          | FL4MUS, hypex, REZ, Snax, Tauson                      | [details](details/2026_10_05/0027--gamerlegion--fl4mus-hypex-rez-snax-tauson.md)                     |
+| 22       |   1478 | 100 Thieves          | device, Gizmy, poiii, rain, sirah                     | [details](details/2026_10_05/0028--100_thieves--device-gizmy-poiii-rain-sirah.md)                    |
+| 23       |   1455 | Nemesis              | mag1k3Y, r3salt, Sdaim, SELLTER, tex1y                | [details](details/2026_10_05/0029--nemesis--mag1k3y-r3salt-sdaim-sellter-tex1y.md)                   |
+| 24       |   1454 | JiJieHao             | 0SAMAS, Bibu, CacaNito, m1N1, sinnopsyy               | [details](details/2026_10_05/0030--jijiehao--0samas-bibu-cacanito-m1n1-sinnopsyy.md)                 |
+| 25       |   1437 | HOTU                 | dwushka, frontales, kade0, mizu, n0rb3r7              | [details](details/2026_10_05/0031--hotu--dwushka-frontales-kade0-mizu-n0rb3r7.md)                    |
+| 26       |   1435 | K27                  | clax, kashl1d, qw1nk1, X5G7V, xeedo                   | [details](details/2026_10_05/0032--k27--clax-kashl1d-qw1nk1-x5g7v-xeedo.md)                          |
+| 27       |   1429 | Eternal Fire         | jottAAA, Kvem, MisteM, regali, soulfly                | [details](details/2026_10_05/0033--eternal_fire--jottaaa-kvem-mistem-regali-soulfly.md)              |
+| 28       |   1427 | Natus Vincere        | Aleksib, b1t, iM, makazze, w0nderful                  | [details](details/2026_10_05/0034--natus_vincere--aleksib-b1t-im-makazze-w0nderful.md)               |
+| 29       |   1417 | fnatic               | cairne, fEAR, jackasmo, jambo, mazay                  | [details](details/2026_10_05/0035--fnatic--cairne-fear-jackasmo-jambo-mazay.md)                      |
+| 30       |   1411 | PARIVISION           | FL1T, Jame, slaxejezzz, xiELO, zweih                  | [details](details/2026_10_05/0036--parivision--fl1t-jame-slaxejezzz-xielo-zweih.md)                  |
+| 31       |   1386 | BBL                  | Boye, IceBerg, leakz, NickyB, salazar                 | [details](details/2026_10_05/0037--bbl--boye-iceberg-leakz-nickyb-salazar.md)                        |
+| 32       |   1383 | 1win                 | ArtFr0st, Ax1Le, BELCHONOKK, fame, nafany             | [details](details/2026_10_05/0038--1win--artfr0st-ax1le-belchonokk-fame-nafany.md)                   |
+| 33       |   1362 | Sangal               | adamS, bnox, Joey, puuha, R4DYX                       | [details](details/2026_10_05/0040--sangal--adams-bnox-joey-puuha-r4dyx.md)                           |
+| 34       |   1359 | SINNERS              | beastik, kisserek, MoDo, SHOCK, stressarN             | [details](details/2026_10_05/0041--sinners--beastik-kisserek-modo-shock-stressarn.md)                |
+| 35       |   1346 | SAW                  | ewjerkz, krazy, MUTiRiS, NOPEEj, story                | [details](details/2026_10_05/0042--saw--ewjerkz-krazy-mutiris-nopeej-story.md)                       |
+| 36       |   1343 | EYEBALLERS           | dex, JW, KRIMZ, maxster, Ro1f                         | [details](details/2026_10_05/0043--eyeballers--dex-jw-krimz-maxster-ro1f.md)                         |
+| 37       |   1333 | Betclic              | Demho, ex1st, Prism, Qlocuu, ultimate                 | [details](details/2026_10_05/0045--betclic--demho-ex1st-prism-qlocuu-ultimate.md)                    |
+| 38       |   1324 | Nuclear TigeRES      | ayuki, Djon8, flouzer, senka, tronic                  | [details](details/2026_10_05/0046--nuclear_tigeres--ayuki-djon8-flouzer-senka-tronic.md)             |
+| 39       |   1321 | FOKUS                | Banjo, jocab, Matheos, podi, ztr                      | [details](details/2026_10_05/0048--fokus--banjo-jocab-matheos-podi-ztr.md)                           |
+| 40       |   1309 | Virtus.pro           | AquaRS, b1st, F0R3VER, mir, tO0RO                     | [details](details/2026_10_05/0051--virtus_pro--aquars-b1st-f0r3ver-mir-to0ro.md)                     |
+| 41       |   1290 | Metizport            | F1KU, forsyy, MaiL09, Plopski, stanislaw              | [details](details/2026_10_05/0053--metizport--f1ku-forsyy-mail09-plopski-stanislaw.md)               |
+| 42       |   1259 | INFINITE             | Blytz, kreaz, kyuubii, sl3nd, volt                    | [details](details/2026_10_05/0056--infinite--blytz-kreaz-kyuubii-sl3nd-volt.md)                      |
+| 43       |   1249 | Color                | cronuss, lattykk, oz1k, Patsi, reyoz                  | [details](details/2026_10_05/0057--color--cronuss-lattykk-oz1k-patsi-reyoz.md)                       |
+| 44       |   1218 | Iberian Soul         | Ag1l, alex, dav1g, mopoz, sausol                      | [details](details/2026_10_05/0059--iberian_soul--ag1l-alex-dav1g-mopoz-sausol.md)                    |
+| 45       |   1201 | WBT                  | DemQQ, Psycho, s4ltovsk1yy, Smash, tyr1k              | [details](details/2026_10_05/0060--wbt--demqq-psycho-s4ltovsk1yy-smash-tyr1k.md)                     |
+| 46       |   1201 | CYBERSHOKE           | Alkaren, alpha, Mokuj1n, nota, yiksrezo               | [details](details/2026_10_05/0061--cybershoke--alkaren-alpha-mokuj1n-nota-yiksrezo.md)               |
+| 47       |   1197 | Acend                | h4rn, REDSTAR, SHiPZ, Skrimo, SPELLAN                 | [details](details/2026_10_05/0063--acend--h4rn-redstar-shipz-skrimo-spellan.md)                      |
+| 48       |   1185 | GenOne               | bL4SEZ, Brooxsy, Chucky, Djoko, Keoz                  | [details](details/2026_10_05/0066--genone--bl4sez-brooxsy-chucky-djoko-keoz.md)                      |
+| 49       |   1185 | UPGRADE              | DAN9ARMATURA, dezl3bio, pleynnn, SquEzxc, tw1sterzaza | [details](details/2026_10_05/0067--upgrade--dan9armatura-dezl3bio-pleynnn-squezxc-tw1sterzaza.md)    |
+| 50       |   1167 | UNiTY                | 2high, Dytor, KWERTZZ, M1key, Sn0w                    | [details](details/2026_10_05/0069--unity--2high-dytor-kwertzz-m1key-sn0w.md)                         |
+| 51       |   1155 | NT                   | fakerealityy, m4d4ra, Ryuzak1, ta9z, Woro2k           | [details](details/2026_10_05/0070--nt--fakerealityy-m4d4ra-ryuzak1-ta9z-woro2k.md)                   |
+| 52       |   1149 | BET-M                | bluewh1te, executor, Raijin, synyx, z1Nny             | [details](details/2026_10_05/0071--bet-m--bluewh1te-executor-raijin-synyx-z1nny.md)                  |
+| 53       |   1147 | Phantom              | KEi, Kunai, Kylar, nicoodoz, TMB                      | [details](details/2026_10_05/0072--phantom--kei-kunai-kylar-nicoodoz-tmb.md)                         |
+| 54       |   1131 | Sashi                | acoR, Anlelele, Cabbi, MistR, Zyphon                  | [details](details/2026_10_05/0073--sashi--acor-anlelele-cabbi-mistr-zyphon.md)                       |
+| 55       |   1116 | BRUTE                | aidKiT, hfah, nbqq, tAk, ZEDKO                        | [details](details/2026_10_05/0075--brute--aidkit-hfah-nbqq-tak-zedko.md)                             |
+| 56       |   1116 | Black Phoenix        | 4X1s, karnez, MRcreed, Salazar, topo                  | [details](details/2026_10_05/0076--black_phoenix--4x1s-karnez-mrcreed-salazar-topo.md)               |
+| 57       |   1113 | aimclub              | ERSIN, mhN1, ragga, waZz, zewts                       | [details](details/2026_10_05/0077--aimclub--ersin-mhn1-ragga-wazz-zewts.md)                          |
+| 58       |   1113 | Lazer Cats           | Kiy0o, Magic, n0rths, nikitea, tripex17               | [details](details/2026_10_05/0078--lazer_cats--kiy0o-magic-n0rths-nikitea-tripex17.md)               |
+| 59       |   1112 | 9INE                 | b1elany, flayy, kraghen, raalz, rigoN                 | [details](details/2026_10_05/0079--9ine--b1elany-flayy-kraghen-raalz-rigon.md)                       |
+| 60       |   1110 | Rune Eaters          | demente, dukefissura, forkyz, her1tage, noni          | [details](details/2026_10_05/0081--rune_eaters--demente-dukefissura-forkyz-her1tage-noni.md)         |
+| 61       |   1105 | INOX Division        | FenomeN, finW, gooddeph, k0s, k1slll                  | [details](details/2026_10_05/0082--inox_division--fenomen-finw-gooddeph-k0s-k1slll.md)               |
+| 62       |   1103 | Omega                | adai, Aldikon, Botpa1, dan4o, def1zer                 | [details](details/2026_10_05/0083--omega--adai-aldikon-botpa1-dan4o-def1zer.md)                      |
+| 63       |   1100 | FORZE Reload         | HeCkBNk, Kaide, KusMe, Lack1, YumsaN                  | [details](details/2026_10_05/0084--forze_reload--heckbnk-kaide-kusme-lack1-yumsan.md)                |
+| 64       |   1082 | Butterfly            | ayano, Forester, k1ssly, Kurama, nitzie               | [details](details/2026_10_05/0088--butterfly--ayano-forester-k1ssly-kurama-nitzie.md)                |
+| 65       |   1080 | QUAZAR               | gehji, kaiori, Ne1XXX, newt, Porya                    | [details](details/2026_10_05/0089--quazar--gehji-kaiori-ne1xxx-newt-porya.md)                        |
+| 66       |   1072 | ASTRAL               | gxx-, meowpop, Neqy, RaY5ive, swiz                    | [details](details/2026_10_05/0091--astral--gxx--meowpop-neqy-ray5ive-swiz.md)                        |
+| 67       |   1066 | ex-RUSTEC            | Brilliance, glowiing, shalfey, yiksrezo, youka        | [details](details/2026_10_05/0092--ex-rustec--brilliance-glowiing-shalfey-yiksrezo-youka.md)         |
+| 68       |   1066 | ex-Zero Tenacity     | brutmonster, Cjoffo, Dragon, Kind0, VLDN              | [details](details/2026_10_05/0093--ex-zero_tenacity--brutmonster-cjoffo-dragon-kind0-vldn.md)        |
+| 69       |   1064 | Inner Circle Academy | 3ippoch, Flierax, L1seYoung, NaYz, Tamefear           | [details](details/2026_10_05/0094--inner_circle_academy--3ippoch-flierax-l1seyoung-nayz-tamefear.md) |
+| 70       |   1064 | PRIVATE              | 1eeR, H4SAN4TOR, sh1nejezzz, sowalio, z1k4            | [details](details/2026_10_05/0095--private--1eer-h4san4tor-sh1nejezzz-sowalio-z1k4.md)               |
+| 71       |   1054 | SPARTA               | El1an, glowiing, interz, NickelBack, TRAVIS           | [details](details/2026_10_05/0097--sparta--el1an-glowiing-interz-nickelback-travis.md)               |
+| 72       |   1049 | Johnny Speeds        | bsover, draken, hampus, Rack, Svedjehed               | [details](details/2026_10_05/0099--johnny_speeds--bsover-draken-hampus-rack-svedjehed.md)            |
+| 73       |   1044 | BAKS                 | danistzz, Norwi, turbo, whisper, xdENiSZERA           | [details](details/2026_10_05/0100--baks--danistzz-norwi-turbo-whisper-xdeniszera.md)                 |
+| 74       |   1036 | BASEMENT BOYS        | kAlash, kr1vda, maggent, OWNER, Tr0ublE               | [details](details/2026_10_05/0102--basement_boys--kalash-kr1vda-maggent-owner-tr0uble.md)            |
+| 75       |   1035 | EAC                  | anber, bekker, Fessor, n1Xen, sSen                    | [details](details/2026_10_05/0103--eac--anber-bekker-fessor-n1xen-ssen.md)                           |
+| 76       |   1025 | ENCE                 | HENU, joeski, millert, Schwarz, teme                  | [details](details/2026_10_05/0105--ence--henu-joeski-millert-schwarz-teme.md)                        |
+| 77       |   1024 | RBLS                 | aragornN, arrozdoce, Icarus, Shr, stadodo             | [details](details/2026_10_05/0106--rbls--aragornn-arrozdoce-icarus-shr-stadodo.md)                   |
+| 78       |   1023 | OG                   | adamb, bodyy, cadiaN, pr1metapz, spooke               | [details](details/2026_10_05/0107--og--adamb-bodyy-cadian-pr1metapz-spooke.md)                       |
+| 79       |   1023 | WW                   | kelieN, m3wsu, Ryujin, StRoGo, tried                  | [details](details/2026_10_05/0108--ww--kelien-m3wsu-ryujin-strogo-tried.md)                          |
+| 80       |   1015 | 6yuBoJlbl            | AdreN, neaLaN, nyx, Pump, tasman                      | [details](details/2026_10_05/0110--6yubojlbl--adren-nealan-nyx-pump-tasman.md)                       |
+| 81       |   1008 | Nexus                | fNk, HOLY, Nexius, s0und, shield                      | [details](details/2026_10_05/0111--nexus--fnk-holy-nexius-s0und-shield.md)                           |
+| 82       |   1001 | Leo                  | aimy, drac, leen, next1me, Tarkky                     | [details](details/2026_10_05/0112--leo--aimy-drac-leen-next1me-tarkky.md)                            |
+| 83       |    982 | Bushido Wildcats     | cacan, cadnyx, Darendeli, Muk0s, Vej                  | [details](details/2026_10_05/0114--bushido_wildcats--cacan-cadnyx-darendeli-muk0s-vej.md)            |
+| 84       |    981 | Spirit Academy       | k0gaSs, Kiryasoo, Netrix, s1nside, VILBy              | [details](details/2026_10_05/0115--spirit_academy--k0gass-kiryasoo-netrix-s1nside-vilby.md)          |
+| 85       |    978 | Nordic Partners      | k1to, Marix, Maze, Muciek, myltsi                     | [details](details/2026_10_05/0117--nordic_partners--k1to-marix-maze-muciek-myltsi.md)                |
+| 86       |    974 | Just Players         | bl1x1, h1te, sm3t, sstiNiX, Temny Prince              | [details](details/2026_10_05/0118--just_players--bl1x1-h1te-sm3t-sstinix-temny_prince.md)            |
+| 87       |    962 | Walczaki             | bajmi, olimp, reiko, SaMey, sNx                       | [details](details/2026_10_05/0120--walczaki--bajmi-olimp-reiko-samey-snx.md)                         |
+| 88       |    946 | ex-RUBY              | H4SAN4TOR, relaxxie, robo, sh1nejezzz, YumsaN         | [details](details/2026_10_05/0121--ex-ruby--h4san4tor-relaxxie-robo-sh1nejezzz-yumsan.md)            |
+| 89       |    939 | STATE                | Altekz, kwezz, Queenix, sL1m3, Zanto                  | [details](details/2026_10_05/0123--state--altekz-kwezz-queenix-sl1m3-zanto.md)                       |
+| 90       |    937 | HAVU                 | 8Juho8, Alxc, ottob, p3kko, uli                       | [details](details/2026_10_05/0124--havu--8juho8-alxc-ottob-p3kko-uli.md)                             |
+| 91       |    932 | mellren              | lollipop21k, Maksilvl, mdl, menddel, shootic          | [details](details/2026_10_05/0125--mellren--lollipop21k-maksilvl-mdl-menddel-shootic.md)             |
+| 92       |    926 | The Last Resort      | arTisT, bevve, Extinct, Girafffe, Vacancy             | [details](details/2026_10_05/0126--the_last_resort--artist-bevve-extinct-girafffe-vacancy.md)        |
+| 93       |    923 | 6666                 | amster, dENZY, kL1o, rendysky, skcH                   | [details](details/2026_10_05/0127--6666--amster-denzy-kl1o-rendysky-skch.md)                         |
+| 94       |    920 | NAVI Junior          | FAZERY, kodak, MahaR, skizzyee, yoki                  | [details](details/2026_10_05/0128--navi_junior--fazery-kodak-mahar-skizzyee-yoki.md)                 |
+| 95       |    913 | G2 Ares              | hitori, Junyme, SHiNE, TMKj, yksjupe                  | [details](details/2026_10_05/0129--g2_ares--hitori-junyme-shine-tmkj-yksjupe.md)                     |
+| 96       |    911 | WBT Academy          | fl1peR, marat2k, NxStep, svemyy, tired73              | [details](details/2026_10_05/0130--wbt_academy--fl1per-marat2k-nxstep-svemyy-tired73.md)             |
+| 97       |    907 | Fire Flux            | Cizzx, Quality, xEternaLxx, zemix, zer0UKY            | [details](details/2026_10_05/0131--fire_flux--cizzx-quality-xeternalxx-zemix-zer0uky.md)             |
+| 98       |    906 | KOLESIE              | b1elany, ex1st, fr3nd, innocent, Qlocuu               | [details](details/2026_10_05/0132--kolesie--b1elany-ex1st-fr3nd-innocent-qlocuu.md)                  |
+| 99       |    883 | Misa                 | cyber, EMSTAR, h0kz, souv, Zuedsta                    | [details](details/2026_10_05/0134--misa--cyber-emstar-h0kz-souv-zuedsta.md)                          |
+| 100      |    880 | Vexar                | ADntZ, Bottega666, datet, KEEMBO, obsward             | [details](details/2026_10_05/0135--vexar--adntz-bottega666-datet-keembo-obsward.md)                  |
+| 101      |    877 | MOUZ NXT             | ay0k, deeN, eSx, mixer, Nikodeon                      | [details](details/2026_10_05/0137--mouz_nxt--ay0k-deen-esx-mixer-nikodeon.md)                        |
+| 102      |    871 | Enjoy                | kurosa, nbl, roxesz, sh1geo, zazzer                   | [details](details/2026_10_05/0138--enjoy--kurosa-nbl-roxesz-sh1geo-zazzer.md)                        |
+| 103      |    870 | PCIFIC               | jresy, l0gicman, lugseN, oyesil, scolleN              | [details](details/2026_10_05/0139--pcific--jresy-l0gicman-lugsen-oyesil-scollen.md)                  |
+| 104      |    863 | Azuolas              | MAGILA, maty, StreakN, Uzman, yakuza                  | [details](details/2026_10_05/0140--azuolas--magila-maty-streakn-uzman-yakuza.md)                     |
+| 105      |    862 | Illyrians            | ammar, BledarD, cerber, vAloN, xonn1k                 | [details](details/2026_10_05/0141--illyrians--ammar-bledard-cerber-valon-xonn1k.md)                  |
+| 106      |    862 | PAQT                 | raiNyyy, stratefly, TIKI1769, wEAVER                  | [details](details/2026_10_05/0142--paqt--rainyyy-stratefly-tiki1769-weaver.md)                       |
+| 107      |    862 | Lavked               | 1NVISIBLEE, azukay, k4nfuz, sol, xm1nd                | [details](details/2026_10_05/0143--lavked--1nvisiblee-azukay-k4nfuz-sol-xm1nd.md)                    |
+| 108      |    851 | LPH                  | d0mZ1k, Fajr, KAD1M, lojzo, N1KOLAJ                   | [details](details/2026_10_05/0145--lph--d0mz1k-fajr-kad1m-lojzo-n1kolaj.md)                          |
+| 109      |    845 | Drama                | andr1x, Chill, choiv7, DEPRESHN, Goody                | [details](details/2026_10_05/0148--drama--andr1x-chill-choiv7-depreshn-goody.md)                     |
+| 110      |    839 | SAW Youngsters       | Jayy2s, jERK0z, M1KA, snowiee, tuxa                   | [details](details/2026_10_05/0150--saw_youngsters--jayy2s-jerk0z-m1ka-snowiee-tuxa.md)               |
+| 111      |    825 | Noir Verse           | kirxttu, Naginat, Santuriano, wh1temink, xeNji        | [details](details/2026_10_05/0151--noir_verse--kirxttu-naginat-santuriano-wh1temink-xenji.md)        |
+| 112      |    824 | ex-RUSTEC            | Brilliance, jakekeS, Patsi, youka                     | [details](details/2026_10_05/0152--ex-rustec--brilliance-jakekes-patsi-youka.md)                     |
+| 113      |    821 | PsychoFace           | abiraju, eightz999, facecrack, lov1kus, PsychoDoctor  | [details](details/2026_10_05/0153--psychoface--abiraju-eightz999-facecrack-lov1kus-psychodoctor.md)  |
+| 114      |    821 | Prestige             | fejtZ, Jelo, N4XX1S, oopee, qx                        | [details](details/2026_10_05/0154--prestige--fejtz-jelo-n4xx1s-oopee-qx.md)                          |
+| 115      |    813 | Entropy              | dottie, flaw, Sapec, tevsii, Toshas                   | [details](details/2026_10_05/0156--entropy--dottie-flaw-sapec-tevsii-toshas.md)                      |
+| 116      |    811 | benched gods         | facer, K014NZ, norescue, Wign, yoyoS2                 | [details](details/2026_10_05/0157--benched_gods--facer-k014nz-norescue-wign-yoyos2.md)               |
+| 117      |    810 | Saint Sinners        | Caleyy, deb0, iRV1NG, pavlysha666, ves111             | [details](details/2026_10_05/0158--saint_sinners--caleyy-deb0-irv1ng-pavlysha666-ves111.md)          |
+| 118      |    806 | megoshort            | jayzaR, robiin, Siz, Twinkey, zen                     | [details](details/2026_10_05/0160--megoshort--jayzar-robiin-siz-twinkey-zen.md)                      |
+| 119      |    806 | Falcons Force        | clockzi, grecu, NucleonZ, Tapewaare, VENO             | [details](details/2026_10_05/0161--falcons_force--clockzi-grecu-nucleonz-tapewaare-veno.md)          |
+| 120      |    803 | HYPERSPIRIT          | Ciocardau, d1maje, Q-Q, Scr0b, starplajerz            | [details](details/2026_10_05/0162--hyperspirit--ciocardau-d1maje-q-q-scr0b-starplajerz.md)           |
+| 121      |    802 | Johnny Speeds        | HEAP, jocab, Lekr0, nawwk, titulus                    | [details](details/2026_10_05/0164--johnny_speeds--heap-jocab-lekr0-nawwk-titulus.md)                 |
+| 122      |    801 | Banda Chuya          | AdrieN, ezox, maaryy, Showk, tomiko                   | [details](details/2026_10_05/0165--banda_chuya--adrien-ezox-maaryy-showk-tomiko.md)                  |
+| 123      |    799 | ARCRED               | DSSj, Get_Jeka, Raijin, Ryujin, synyx                 | [details](details/2026_10_05/0166--arcred--dssj-get_jeka-raijin-ryujin-synyx.md)                     |
+| 124      |    794 | Lilmix               | chucker, macke, p1ke, Tqezo, Wonder                   | [details](details/2026_10_05/0167--lilmix--chucker-macke-p1ke-tqezo-wonder.md)                       |
+| 125      |    788 | Honvéd               | 1NSERT2, esor, fleav, iBALLY, noleN                   | [details](details/2026_10_05/0169--honv_d--1nsert2-esor-fleav-ibally-nolen.md)                       |
+| 126      |    786 | CYBERSHOKE           | alpha, bl1x1, fluffy, glowiing, Mokuj1n               | [details](details/2026_10_05/0171--cybershoke--alpha-bl1x1-fluffy-glowiing-mokuj1n.md)               |
+| 127      |    783 | Phantom Academy      | Ayteel, Brain47, Dr3nquu, kalyambys, stefienson       | [details](details/2026_10_05/0172--phantom_academy--ayteel-brain47-dr3nquu-kalyambys-stefienson.md)  |
+| 128      |    783 | PURE                 | aNdu, keen, Polbandana, POLO, tein                    | [details](details/2026_10_05/0174--pure--andu-keen-polbandana-polo-tein.md)                          |
+| 129      |    776 | INFURITY             | AwaykeN, CHANKY, oontoma, shyyne, sirius              | [details](details/2026_10_05/0175--infurity--awayken-chanky-oontoma-shyyne-sirius.md)                |
+| 130      |    773 | MASONIC              | b0RUP, Botman, Frøslev, kralle, Noruyp                | [details](details/2026_10_05/0178--masonic--b0rup-botman-fr_slev-kralle-noruyp.md)                   |
+| 131      |    772 | RBLS                 | Icarus, NOPEEj, snapy, stadodo, TMKj                  | [details](details/2026_10_05/0179--rbls--icarus-nopeej-snapy-stadodo-tmkj.md)                        |
+| 132      |    772 | MAYBE                | Awi4, edixenn, shallthing, thirtythird, zogeN         | [details](details/2026_10_05/0180--maybe--awi4-edixenn-shallthing-thirtythird-zogen.md)              |
+| 133      |    767 | Washed               | ANSG1, kiR, kroK, Lucky, suma                         | [details](details/2026_10_05/0182--washed--ansg1-kir-krok-lucky-suma.md)                             |
+| 134      |    765 | Betclic              | Demho, Dr3nquu, eskyy, hades, Prism                   | [details](details/2026_10_05/0183--betclic--demho-dr3nquu-eskyy-hades-prism.md)                      |
+| 135      |    759 | SINQU                | doivo, Eem3l1, Heke, imbaemba, MikOne                 | [details](details/2026_10_05/0184--sinqu--doivo-eem3l1-heke-imbaemba-mikone.md)                      |
+| 136      |    754 | BERG                 | Askan, kdaN, KiMaRR, nopzy, Rezst                     | [details](details/2026_10_05/0185--berg--askan-kdan-kimarr-nopzy-rezst.md)                           |
+| 137      |    746 | KUUSAMO              | epik, Keksimage, Matz, osku, rbm                      | [details](details/2026_10_05/0187--kuusamo--epik-keksimage-matz-osku-rbm.md)                         |
+| 138      |    743 | KAMUI                | 262, 9amaterasu9, Alpina, Kaname, Scr4pi              | [details](details/2026_10_05/0189--kamui--262-9amaterasu9-alpina-kaname-scr4pi.md)                   |
+| 139      |    743 | brazylijski luz      | aimy, chudy, elem, Nami, next1me                      | [details](details/2026_10_05/0190--brazylijski_luz--aimy-chudy-elem-nami-next1me.md)                 |
+| 140      |    737 | Spirit Academy Green | d3nks, flytex, hyp3else, maun, sae                    | [details](details/2026_10_05/0192--spirit_academy_green--d3nks-flytex-hyp3else-maun-sae.md)          |
+| 141      |    737 | Four Magic           | GeGo, REL, sensey, statikS, XADE                      | [details](details/2026_10_05/0193--four_magic--gego-rel-sensey-statiks-xade.md)                      |
+| 142      |    735 | Drip Too Hard        | aNdu, mASKED, rud, Sapec, tein                        | [details](details/2026_10_05/0194--drip_too_hard--andu-masked-rud-sapec-tein.md)                     |
+| 143      |    734 | DragonClaw           | Brylu, fanatyk, PeTeRoOo, przemeklovel, suonko        | [details](details/2026_10_05/0196--dragonclaw--brylu-fanatyk-peterooo-przemeklovel-suonko.md)        |
+| 144      |    732 | DONSTU               | Due1yant, gleb86rus, LAKSHERi, NeoLife, phorate       | [details](details/2026_10_05/0197--donstu--due1yant-gleb86rus-laksheri-neolife-phorate.md)           |
+| 145      |    728 | Young TigeRES        | Gashhhi4, motya, tronic, z3ndy                        | [details](details/2026_10_05/0199--young_tigeres--gashhhi4-motya-tronic-z3ndy.md)                    |
+| 146      |    723 | roamsfiest           | Realyummy, Sn0w, TiiREX                               | [details](details/2026_10_05/0202--roamsfiest--realyummy-sn0w-tiirex.md)                             |
+| 147      |    714 | Ryvex                | jeyN, N0R1, oskvr, swaggy, tvs                        | [details](details/2026_10_05/0207--ryvex--jeyn-n0r1-oskvr-swaggy-tvs.md)                             |
+| 148      |    707 | Fisher College       | AlekS, corn, CrePoW, ReFuZR, TH0R                     | [details](details/2026_10_05/0208--fisher_college--aleks-corn-crepow-refuzr-th0r.md)                 |
+| 149      |    705 | Gothic               | Get_Jeka, Raijin, Ryujin, shg, synyx                  | [details](details/2026_10_05/0211--gothic--get_jeka-raijin-ryujin-shg-synyx.md)                      |
+| 150      |    702 | Bebop                | faydett, iDISBALANCE, KENSI, Pipw, redzed             | [details](details/2026_10_05/0212--bebop--faydett-idisbalance-kensi-pipw-redzed.md)                  |
+| 151      |    699 | ex-Sashi Academy     | Lethj, Mizi, Mol011, noike, Thom                      | [details](details/2026_10_05/0214--ex-sashi_academy--lethj-mizi-mol011-noike-thom.md)                |
+| 152      |    692 | Glitch               | Brillo, rud, shaiK, smekk, szejn                      | [details](details/2026_10_05/0216--glitch--brillo-rud-shaik-smekk-szejn.md)                          |
+| 153      |    692 | Strael Bora          | AdaMmMm, levantino, maddeN, newhope, svn              | [details](details/2026_10_05/0217--strael_bora--adammmm-levantino-madden-newhope-svn.md)             |
+| 154      |    689 | BRUTE                | hfah, KAD1M, majky, nbqq, realzen                     | [details](details/2026_10_05/0218--brute--hfah-kad1m-majky-nbqq-realzen.md)                          |
+| 155      |    688 | Endless Journey      | Aliot, deb0, pavlysha666, swetsi, Temny Prince        | [details](details/2026_10_05/0219--endless_journey--aliot-deb0-pavlysha666-swetsi-temny_prince.md)   |
+| 156      |    675 | ALGO                 | adeX, aNdu, Bambosh, nukkye, szejn                    | [details](details/2026_10_05/0226--algo--adex-andu-bambosh-nukkye-szejn.md)                          |
+| 157      |    674 | Dark Moon            | d3j4vy, keiyon, Maison, modeSavage, ri0dayungog       | [details](details/2026_10_05/0228--dark_moon--d3j4vy-keiyon-maison-modesavage-ri0dayungog.md)        |
+| 158      |    665 | Famalicão            | P3R3IIRA, pr, rafaxF, seabraez, snapy                 | [details](details/2026_10_05/0230--famalic_o--p3r3iira-pr-rafaxf-seabraez-snapy.md)                  |
+| 159      |    664 | ABT                  | BeiranZz, blaze, hK, Ruy2k, ThozoR                    | [details](details/2026_10_05/0231--abt--beiranzz-blaze-hk-ruy2k-thozor.md)                           |
+| 160      |    663 | AM                   | Altekz, k1to, kyuubii, L00m1, myltsi                  | [details](details/2026_10_05/0232--am--altekz-k1to-kyuubii-l00m1-myltsi.md)                          |
+| 161      |    661 | TNC                  | maaryy, Markoś, Nami, yvro                            | [details](details/2026_10_05/0233--tnc--maaryy-marko_-nami-yvro.md)                                  |
+| 162      |    661 | Optibet              | cgk, ChipaaN, dod02k, OXFROG, whiplash1               | [details](details/2026_10_05/0234--optibet--cgk-chipaan-dod02k-oxfrog-whiplash1.md)                  |
+| 163      |    658 | Hashiras             | birdfromsky, Burmylov, c0llins, JACKZ, Queenix        | [details](details/2026_10_05/0238--hashiras--birdfromsky-burmylov-c0llins-jackz-queenix.md)          |
+| 164      |    657 | Fortress             | As K, BqreBedre, Brand, GrEnNiE, K1ngShield           | [details](details/2026_10_05/0239--fortress--as_k-bqrebedre-brand-grennie-k1ngshield.md)             |
+| 165      |    655 | Mai Tai              | aimy, chudy, Melavi, tomiko                           | [details](details/2026_10_05/0240--mai_tai--aimy-chudy-melavi-tomiko.md)                             |
+| 166      |    655 | NEW VISION           | fen2k, hahanz0, w0l33n, wonimo, x1nk1n                | [details](details/2026_10_05/0241--new_vision--fen2k-hahanz0-w0l33n-wonimo-x1nk1n.md)                |
+| 167      |    650 | Lilmix               | b0denmaster, dezt, Jackinho, quix, Wonder             | [details](details/2026_10_05/0244--lilmix--b0denmaster-dezt-jackinho-quix-wonder.md)                 |
+| 168      |    650 | Revise               | kanode, nikson, s1ssi, SuNFiX, WaSdyy                 | [details](details/2026_10_05/0245--revise--kanode-nikson-s1ssi-sunfix-wasdyy.md)                     |
+| 169      |    649 | Clutchain fe         | Kat, tory, twenty3, vicu, zAAz                        | [details](details/2026_10_05/0246--clutchain_fe--kat-tory-twenty3-vicu-zaaz.md)                      |
+| 170      |    647 | ALTAY                | ARSPOWER, Blackout, kiytsu, Plain7                    | [details](details/2026_10_05/0248--altay--arspower-blackout-kiytsu-plain7.md)                        |
+| 171      |    642 | Dripmen              | Ariant0, dobbo, Frazehh, Prime, robiin                | [details](details/2026_10_05/0252--dripmen--ariant0-dobbo-frazehh-prime-robiin.md)                   |
+| 172      |    639 | FaZe Up Next         | Cher1on, k0rdy, klyrO, rec1se, yoom                   | [details](details/2026_10_05/0253--faze_up_next--cher1on-k0rdy-klyro-rec1se-yoom.md)                 |
+| 173      |    638 | illwill              | 7Kick, hAdji, Maden, shalfey, VLDN                    | [details](details/2026_10_05/0255--illwill--7kick-hadji-maden-shalfey-vldn.md)                       |
+| 174      |    635 | train launcher       | bsover, Leon1das, Majkn, Siz, timothybtw              | [details](details/2026_10_05/0257--train_launcher--bsover-leon1das-majkn-siz-timothybtw.md)          |
+| 175      |    631 | OLDBOYS PL           | Goofy, MICHU, rallen, ToM223, tudsoN                  | [details](details/2026_10_05/0260--oldboys_pl--goofy-michu-rallen-tom223-tudson.md)                  |
+| 176      |    631 | B8 Academy           | k1n, r0se, segukawa, sherman                          | [details](details/2026_10_05/0261--b8_academy--k1n-r0se-segukawa-sherman.md)                         |
+| 177      |    628 | Teletubisie          | byali, dycha, mASKED, Sobol                           | [details](details/2026_10_05/0262--teletubisie--byali-dycha-masked-sobol.md)                         |
+| 178      |    624 | Raccoons             | CYPHER, Ex3rcice, hades, nexa, yxngstxr               | [details](details/2026_10_05/0265--raccoons--cypher-ex3rcice-hades-nexa-yxngstxr.md)                 |
+| 179      |    616 | SHISHKA              | danistzz, Krad, Norwi, shalfey, yiksrezo              | [details](details/2026_10_05/0268--shishka--danistzz-krad-norwi-shalfey-yiksrezo.md)                 |
+| 180      |    612 | cirahvi              | 8Juho8, allu, arvid, Myggis, oopee                    | [details](details/2026_10_05/0269--cirahvi--8juho8-allu-arvid-myggis-oopee.md)                       |
+| 181      |    610 | Invicta              | artie, Griller, SinK                                  | [details](details/2026_10_05/0270--invicta--artie-griller-sink.md)                                   |
+| 182      |    608 | Privateer            | Ariant0, Frazehh, JAUSTERE, M1n1maL, Prime            | [details](details/2026_10_05/0271--privateer--ariant0-frazehh-jaustere-m1n1mal-prime.md)             |
+| 183      |    607 | Banger Gang          | duggy, hatex, licaNy, Rip, Viresse                    | [details](details/2026_10_05/0274--banger_gang--duggy-hatex-licany-rip-viresse.md)                   |
+| 184      |    604 | ZOTIX                | byr9, EsD, kalyambys, xeNji                           | [details](details/2026_10_05/0275--zotix--byr9-esd-kalyambys-xenji.md)                               |
+| 185      |    604 | los kogutos          | AdrieN, maaryy, Markoś, Nami, yvro                    | [details](details/2026_10_05/0276--los_kogutos--adrien-maaryy-marko_-nami-yvro.md)                   |
+| 186      |    603 | eSuba                | Crazyy, Frigo, Rentlax, Shark, v4NO                   | [details](details/2026_10_05/0277--esuba--crazyy-frigo-rentlax-shark-v4no.md)                        |
+| 187      |    602 | BIG Academy          | aZe, doni, Hrdina, prosus, w1dow                      | [details](details/2026_10_05/0280--big_academy--aze-doni-hrdina-prosus-w1dow.md)                     |
+| 188      |    597 | Bebop                | danistzz, faydett, iDISBALANCE, lov1kus, Norwi        | [details](details/2026_10_05/0282--bebop--danistzz-faydett-idisbalance-lov1kus-norwi.md)             |
+| 189      |    595 | LFO 7                | neiter, s1an, SUNsET, w1deboy, wast3d                 | [details](details/2026_10_05/0285--lfo_7--neiter-s1an-sunset-w1deboy-wast3d.md)                      |
+| 190      |    592 | eternal premium      | dazzy, Innerpeace, P1kan0, saizius, skept1K           | [details](details/2026_10_05/0287--eternal_premium--dazzy-innerpeace-p1kan0-saizius-skept1k.md)      |
+| 191      |    591 | DNK                  | dethera, indoubt, Plain7, RamBLBi, tier0 s            | [details](details/2026_10_05/0288--dnk--dethera-indoubt-plain7-ramblbi-tier0_s.md)                   |
+| 192      |    587 | Misa                 | Ckanic, Mertowsk1, rim3, souv, Zuedsta                | [details](details/2026_10_05/0290--misa--ckanic-mertowsk1-rim3-souv-zuedsta.md)                      |
+| 193      |    585 | MTX                  | EgorMercedes, frakenzor, md262, sen1ar, yab0ku        | [details](details/2026_10_05/0291--mtx--egormercedes-frakenzor-md262-sen1ar-yab0ku.md)               |
+| 194      |    585 | Sashi Academy        | Bl4zE, Damsi, Mizi, Mol011, rosen                     | [details](details/2026_10_05/0293--sashi_academy--bl4ze-damsi-mizi-mol011-rosen.md)                  |
+| 195      |    582 | WAZABI               | BacH, BangBang, Laykinn, m0vski                       | [details](details/2026_10_05/0294--wazabi--bach-bangbang-laykinn-m0vski.md)                          |
+| 196      |    575 | Mai Tai              | chudy, darchevile, Nami, sEIS, yvro                   | [details](details/2026_10_05/0296--mai_tai--chudy-darchevile-nami-seis-yvro.md)                      |
+| 197      |    565 | Next Up              | DaciaBlue3, kickdown, Levi 3R, Lumanare, Zaha         | [details](details/2026_10_05/0299--next_up--daciablue3-kickdown-levi_3r-lumanare-zaha.md)            |
+| 198      |    558 | Olympus              | Bizarre666, k6rdon, relan                             | [details](details/2026_10_05/0302--olympus--bizarre666-k6rdon-relan.md)                              |
+| 199      |    555 | FAFO                 | nibito, whitezins, ynrii                              | [details](details/2026_10_05/0304--fafo--nibito-whitezins-ynrii.md)                                  |
+| 200      |    555 | ZOTIX                | byr9, certa1n, EsD, flee, shen                        | [details](details/2026_10_05/0305--zotix--byr9-certa1n-esd-flee-shen.md)                             |
+| 201      |    554 | A Great Chaos        | 7EMPORARY, Pleb0rs, seilysh, whitezins, ynrii         | [details](details/2026_10_05/0306--a_great_chaos--7emporary-pleb0rs-seilysh-whitezins-ynrii.md)      |
+| 202      |    553 | XI                   | Bakorino, Egelund, emili0, ETYYY, Jiace               | [details](details/2026_10_05/0308--xi--bakorino-egelund-emili0-etyyy-jiace.md)                       |
+| 203      |    548 | ROUNDS               | Kollo, Lapa, Monoxx, Tumppis, ykis                    | [details](details/2026_10_05/0310--rounds--kollo-lapa-monoxx-tumppis-ykis.md)                        |
+| 204      |    540 | BIG Academy          | doni, JBOEN, prosus, tripex17, w1dow                  | [details](details/2026_10_05/0311--big_academy--doni-jboen-prosus-tripex17-w1dow.md)                 |
+| 205      |    539 | Xcity                | ATLAS, gag, mda, qu1ck, tuzon                         | [details](details/2026_10_05/0312--xcity--atlas-gag-mda-qu1ck-tuzon.md)                              |
+| 206      |    538 | GamersLab            | LEFI, MAXX, rayqu4za, Tusi, wap0                      | [details](details/2026_10_05/0313--gamerslab--lefi-maxx-rayqu4za-tusi-wap0.md)                       |
+| 207      |    538 | aAa                  | AsI0K, Rain, Saax, SLIE9000, Tarkky                   | [details](details/2026_10_05/0314--aaa--asi0k-rain-saax-slie9000-tarkky.md)                          |
+| 208      |    536 | Wingman              | la3euka, Minor, MoWeL, xnkka, Z1W0W                   | [details](details/2026_10_05/0315--wingman--la3euka-minor-mowel-xnkka-z1w0w.md)                      |
+| 209      |    536 | Young Ninjas         | joeski, n0te, rud, tein, Vster                        | [details](details/2026_10_05/0317--young_ninjas--joeski-n0te-rud-tein-vster.md)                      |
+| 210      |    534 | FAVBET               | bondik, j3kie, Marix, s4ltovsk1yy, Smash              | [details](details/2026_10_05/0319--favbet--bondik-j3kie-marix-s4ltovsk1yy-smash.md)                  |
+| 211      |    534 | MOUZ NXT             | AiyvaN, ay0k, Flierax, Nikodeon, opdust               | [details](details/2026_10_05/0320--mouz_nxt--aiyvan-ay0k-flierax-nikodeon-opdust.md)                 |
+| 212      |    534 | overTIME             | adex, Arielek, Kizzzi, patrikinho                     | [details](details/2026_10_05/0321--overtime--adex-arielek-kizzzi-patrikinho.md)                      |
+| 213      |    533 | HAVENs               | Brens, FABEN, Pleb0rs, whitezins                      | [details](details/2026_10_05/0322--havens--brens-faben-pleb0rs-whitezins.md)                         |
+| 214      |    532 | Tricksters           | halfjix, iRV1NG, Rodos1k                              | [details](details/2026_10_05/0323--tricksters--halfjix-irv1ng-rodos1k.md)                            |
+| 215      |    529 | HEROIC Academy       | HOLY, Hrdina, Muciek, St0m4k, Yoghi                   | [details](details/2026_10_05/0324--heroic_academy--holy-hrdina-muciek-st0m4k-yoghi.md)               |
+| 216      |    529 | Younglings           | arun, cheerful, eLa1z, MoNaTy, Shed0Z                 | [details](details/2026_10_05/0325--younglings--arun-cheerful-ela1z-monaty-shed0z.md)                 |
+| 217      |    526 | Aurora Young Blud    | k1nco, kurosse, meetyoxanaji, r1pa4, redzed           | [details](details/2026_10_05/0326--aurora_young_blud--k1nco-kurosse-meetyoxanaji-r1pa4-redzed.md)    |
+| 218      |    517 | Arch                 | Dis1, f1R, ka1do, MaLLiC, web sun                     | [details](details/2026_10_05/0328--arch--dis1-f1r-ka1do-mallic-web_sun.md)                           |
+| 219      |    516 | benched gods         | BloodyK, f1chper, K014NZ, MisterHy, Wign              | [details](details/2026_10_05/0329--benched_gods--bloodyk-f1chper-k014nz-misterhy-wign.md)            |
+| 220      |    516 | PATSANVISION         | Aisu, krc, LAME, Sange, ZinGY                         | [details](details/2026_10_05/0330--patsanvision--aisu-krc-lame-sange-zingy.md)                       |
+| 221      |    515 | Honvéd               | esor, marTineZ                                        | [details](details/2026_10_05/0331--honv_d--esor-martinez.md)                                         |
+| 222      |    506 | REVENIX              | decaun, defleep, f0rtuna, petroWUR, sickaf            | [details](details/2026_10_05/0335--revenix--decaun-defleep-f0rtuna-petrowur-sickaf.md)               |
+| 223      |    504 | aimclub              | Ed1m, ERSIN, RoberttMP, XELLOW, zewts                 | [details](details/2026_10_05/0336--aimclub--ed1m-ersin-roberttmp-xellow-zewts.md)                    |
+| 224      |    503 | TrafficPills         | F1n3tw, GREATEST, KENHY, MoWeL                        | [details](details/2026_10_05/0337--trafficpills--f1n3tw-greatest-kenhy-mowel.md)                     |
+| 225      |    502 | Famalicão            | h0t, M1KA, P3R3IIRA, seabraez, Sprayy                 | [details](details/2026_10_05/0338--famalic_o--h0t-m1ka-p3r3iira-seabraez-sprayy.md)                  |
+| 226      |    499 | Leo                  | amster, kL1o, leen, Malkiss, OneUn1que                | [details](details/2026_10_05/0340--leo--amster-kl1o-leen-malkiss-oneun1que.md)                       |
+| 227      |    497 | playersclub          | azukay, heis999, riskyb0b, sad, z3ndeR                | [details](details/2026_10_05/0341--playersclub--azukay-heis999-riskyb0b-sad-z3nder.md)               |
+| 228      |    489 | ex-VP.Prodigy        | lasfas, rokilan, Stoynes, sun, TriBorgg1              | [details](details/2026_10_05/0345--ex-vp_prodigy--lasfas-rokilan-stoynes-sun-triborgg1.md)           |
+| 229      |    485 | Just Players         | em0k1d, rexxie, Something, spirit, sstiNiX            | [details](details/2026_10_05/0347--just_players--em0k1d-rexxie-something-spirit-sstinix.md)          |
+| 230      |    484 | Subtop De France     | Razzmo, Revol, sanjoCRAKITO, Supr3me, XiMaa           | [details](details/2026_10_05/0348--subtop_de_france--razzmo-revol-sanjocrakito-supr3me-ximaa.md)     |
+| 231      |    484 | M1X KS               | Dementor, gejmzilla, Lewis, v1w                       | [details](details/2026_10_05/0349--m1x_ks--dementor-gejmzilla-lewis-v1w.md)                          |
+| 232      |    483 | ECSTATIC             | Anlelele, Buzz, nicoodoz, nut nut, TMB                | [details](details/2026_10_05/0350--ecstatic--anlelele-buzz-nicoodoz-nut_nut-tmb.md)                  |
+| 233      |    481 | OlyBet               | cgk, ChipaaN, Frip, hexoq, imp                        | [details](details/2026_10_05/0352--olybet--cgk-chipaan-frip-hexoq-imp.md)                            |
+| 234      |    481 | Clutchain            | Kyojin, Nivera, Python, ScreaM, SHOGU                 | [details](details/2026_10_05/0353--clutchain--kyojin-nivera-python-scream-shogu.md)                  |
+| 235      |    480 | EC BANGA             | blazekiNho, keni, Labreenc, makaroff                  | [details](details/2026_10_05/0354--ec_banga--blazekinho-keni-labreenc-makaroff.md)                   |
+| 236      |    469 | EAC EXTRA            | ETYYY, Fallis, GA1De, stesso, Viggo                   | [details](details/2026_10_05/0359--eac_extra--etyyy-fallis-ga1de-stesso-viggo.md)                    |
+| 237      |    463 | BOJONG               | ArtwOo, BlNGB0NG, jkzin, stunt, Villeboe              | [details](details/2026_10_05/0363--bojong--artwoo-blngb0ng-jkzin-stunt-villeboe.md)                  |
+| 238      |    460 | Coalesce             | Flicky, onder, sen1ar                                 | [details](details/2026_10_05/0364--coalesce--flicky-onder-sen1ar.md)                                 |
+| 239      |    454 | Trainwrecks          | AhMa, Hattivatti, LapaSSS, melty                      | [details](details/2026_10_05/0365--trainwrecks--ahma-hattivatti-lapasss-melty.md)                    |
+| 240      |    437 | Spirit HU            | flasi, makszi, NONS3NS, strong3r, texmy               | [details](details/2026_10_05/0367--spirit_hu--flasi-makszi-nons3ns-strong3r-texmy.md)                |
+| 241      |    425 | 6666                 | auth0ri, m4d4ra, rickangel, skcH                      | [details](details/2026_10_05/0368--6666--auth0ri-m4d4ra-rickangel-skch.md)                           |
+| 242      |    421 | Aimhaus              | flairr, silrak, Yamero                                | [details](details/2026_10_05/0369--aimhaus--flairr-silrak-yamero.md)                                 |
+| 243      |    402 | Banda Chuya          | ezox, manio                                           | [details](details/2026_10_05/0373--banda_chuya--ezox-manio.md)                                       |
+| 244      |    400 | Julie&Cie            | amanek, Empera, Joker, KIRADODO, Monkey D Julie       | [details](details/2026_10_05/0375--julie_cie--amanek-empera-joker-kiradodo-monkey_d_julie.md)        |
+| 245      |    400 | bankaPEPSI           | HUckLer, lesswill, lUMiER, SEMSY, xsepower            | [details](details/2026_10_05/0376--bankapepsi--huckler-lesswill-lumier-semsy-xsepower.md)            |
+
+
+_Event data for Regional Standings provided by HLTV.org_<br />
